@@ -358,7 +358,7 @@
      "Whether the data center will buy rooftop solar for its own buildings",
      "Whether the utility's stock price would rise on the announcement"
     ],
-    "prompt": "A US utility client is asked to supply a new 1 GW data center campus. What should you look at first?",
+    "prompt": "A US utility is asked to supply a new 1 GW data center campus. What matters most to get right first?",
     "sector": "energy-materials",
     "storyId": "2026-10-20-02",
     "subindustry": "power-utilities"
