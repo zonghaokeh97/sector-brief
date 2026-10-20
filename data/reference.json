@@ -1,0 +1,534 @@
+{
+ "companies": {
+  "bank-of-america": {
+   "businessModel": "Earns net interest income on its huge low-cost deposit base, plus fees from wealth management (Merrill), investment banking and trading.",
+   "competitors": [
+    "JPMorgan Chase",
+    "Wells Fargo",
+    "Citigroup"
+   ],
+   "hq": "Charlotte, NC",
+   "name": "Bank of America",
+   "sector": "financial-services",
+   "size": "Second-largest US bank, with roughly $3.3T in assets and about $100B in annual revenue (approx.).",
+   "subindustry": "banking",
+   "ticker": "NYSE: BAC",
+   "updated": "2026-10-19"
+  },
+  "bumble": {
+   "businessModel": "Freemium dating apps (Bumble, Badoo): free to join, revenue from subscriptions and paid features that boost visibility or matching.",
+   "competitors": [
+    "Match Group (Tinder, Hinge)",
+    "Grindr",
+    "Feeld"
+   ],
+   "hq": "Austin, TX",
+   "name": "Bumble",
+   "sector": "tmt",
+   "size": "Take-private at $1.3B; Q2 2026 revenue $211M (~$850M annualized); about 3.2M paying users.",
+   "subindustry": "internet-platforms",
+   "ticker": "NASDAQ: BMBL (going private)",
+   "updated": "2026-10-19"
+  },
+  "cleveland-cliffs": {
+   "businessModel": "Vertically integrated: mines its own iron ore and makes steel in blast furnaces, selling flat-rolled sheet mainly to automakers, appliance makers and distributors.",
+   "competitors": [
+    "Nucor",
+    "Steel Dynamics",
+    "U.S. Steel (Nippon Steel)",
+    "Imports"
+   ],
+   "hq": "Cleveland, OH",
+   "name": "Cleveland-Cliffs",
+   "sector": "energy-materials",
+   "size": "Largest US flat-rolled steel producer; quarterly revenue about $5.6B; owns Canada's Stelco.",
+   "subindustry": "metals-mining",
+   "ticker": "NYSE: CLF",
+   "updated": "2026-10-19"
+  },
+  "coreweave": {
+   "businessModel": "Rents Nvidia GPU compute to AI labs and big tech under multi-year, largely take-or-pay contracts. Revenue is concentrated in a few customers such as Microsoft and OpenAI.",
+   "competitors": [
+    "AWS",
+    "Microsoft Azure",
+    "Google Cloud",
+    "Oracle Cloud",
+    "Nebius",
+    "Lambda"
+   ],
+   "hq": "Livingston, NJ",
+   "name": "CoreWeave",
+   "sector": "tmt",
+   "size": "AI cloud specialist; 2025 revenue around $5B (company guidance, approx.). Funded largely with debt secured on its GPU fleet.",
+   "subindustry": "software-cloud",
+   "ticker": "NASDAQ: CRWV",
+   "updated": "2026-10-19"
+  },
+  "johnson-johnson": {
+   "businessModel": "Two segments: Innovative Medicine (patented drugs in immunology, oncology, neuroscience; roughly two-thirds of sales) and MedTech (surgery, orthopedics, cardiovascular devices).",
+   "competitors": [
+    "Merck",
+    "AbbVie",
+    "Roche",
+    "Pfizer",
+    "Medtronic",
+    "Stryker"
+   ],
+   "hq": "New Brunswick, NJ",
+   "name": "Johnson & Johnson",
+   "sector": "healthcare",
+   "size": "World's largest healthcare company by revenue, with about $90B+ in annual sales (approx.).",
+   "subindustry": "pharma-biotech",
+   "ticker": "NYSE: JNJ",
+   "updated": "2026-10-19"
+  },
+  "proofpoint": {
+   "businessModel": "Subscription software that protects employees from email threats, phishing and data loss, sold to enterprise security teams. Grows by bolting on adjacent products.",
+   "competitors": [
+    "Microsoft Defender for Office 365",
+    "Mimecast",
+    "Abnormal Security",
+    "Cisco"
+   ],
+   "hq": "Sunnyvale, CA",
+   "name": "Proofpoint",
+   "sector": "tmt",
+   "size": "One of the largest email-security vendors; taken private by Thoma Bravo for about $12.3B in 2021.",
+   "subindustry": "software-cloud",
+   "ticker": "Private (Thoma Bravo)",
+   "updated": "2026-10-19"
+  },
+  "varonis": {
+   "businessModel": "Data-security software that finds sensitive data, shows who can access it and flags misuse. Moving customers from on-premises licenses to SaaS subscriptions.",
+   "competitors": [
+    "Microsoft Purview",
+    "Cyera",
+    "BigID",
+    "Netwrix",
+    "Forcepoint"
+   ],
+   "hq": "New York, NY",
+   "name": "Varonis Systems",
+   "sector": "tmt",
+   "size": "Mid-size security software company; acquisition values it at $6.3B.",
+   "subindustry": "software-cloud",
+   "ticker": "NASDAQ: VRNS",
+   "updated": "2026-10-19"
+  }
+ },
+ "sectors": {
+  "advanced-industries": {
+   "overview": "Advanced industries covers engineering-heavy manufacturers: carmakers and their suppliers, aircraft and defense companies, and makers of industrial machinery and equipment. Products take years to design and depend on long, global supply chains, so these companies are shaped by how full their factories are, trade policy and the cost of materials like steel. A large share of their profit often comes from servicing and spare parts after the original sale.",
+   "recap": "No stories filed yet. Related signals: US steel prices are up about 14% from a year ago, raising automakers' costs, and Stellantis fell about 2.5% Monday. GM, GE Aerospace, 3M and RTX report Tuesday; Tesla reports Wednesday.",
+   "recapUpdated": "2026-10-19"
+  },
+  "consumer-retail": {
+   "overview": "Consumer and retail covers the companies that make and sell what people buy day to day. That includes stores and online retailers, makers of food, drinks and household products, farm and food businesses, and travel and hospitality companies like airlines and hotels. Consumer spending is about two-thirds of the US economy, so these businesses rise and fall with how confident people feel and how much money they have left after essentials.",
+   "recap": "No consumer stories filed yet. The main pressure is fuel: diesel near $6.30 is adding freight surcharges and squeezing spending outside gas stations (see Transport & logistics). P&G reports Thursday.",
+   "recapUpdated": "2026-10-19"
+  },
+  "energy-materials": {
+   "overview": "Energy and materials covers the companies that pull resources out of the ground and turn them into fuel, power and raw materials. That includes oil and gas producers, the pipelines, ships and terminals that move their output, refineries and chemical plants, electric utilities and renewable developers, and miners and steelmakers. These are capital-heavy businesses that live with commodity prices they don't control, so returns depend on keeping costs low and investing at the right point in the cycle.",
+   "recap": "The sector is in a supply shock. Brent ended last week near $110 as Strait of Hormuz transits ran about 70% below pre-war levels, and IEA members coordinated a ~100M barrel stock release. Gas is just as tight: Asian LNG hit a near four-year high around $29/MMBtu and Europe enters winter with record-low 74% storage, while US gas sits near $3. In metals, tariff protection lifted Cleveland-Cliffs to its best quarter in three years. Key dates: EIA data Oct 21, OPEC+ meeting Nov 1.",
+   "recapUpdated": "2026-10-19"
+  },
+  "financial-services": {
+   "overview": "Financial services is the business of managing, lending, investing and moving money. Banks take deposits and make loans, insurers collect premiums to cover risks, asset managers invest on behalf of savers and pension funds, and payments companies handle the flow of money between people and businesses. It is one of the most heavily regulated industries, so how much capital firms must hold and how well they control risk shapes how profitable they can be.",
+   "recap": "Enforcement is the theme. Bank of America took over $1.2B in penalties for anti-money-laundering failures, including a record $750M OCC fine, a week after American Express paid $350M for similar issues. Expect more compliance spending across the industry. Ameriprise fell about 3% Monday on a BofA downgrade.",
+   "recapUpdated": "2026-10-19"
+  },
+  "healthcare": {
+   "overview": "Healthcare covers the companies that discover, make, pay for and deliver medical care. Drugmakers and biotech firms develop medicines, device makers build everything from surgical tools to heart implants, insurers pay for care, and hospitals and doctors provide it. In the US the system is large and complex, and prices are set through negotiation between manufacturers, insurers and the middlemen between them, so policy and regulation matter as much as science.",
+   "recap": "J&J beat profit expectations on ~8% drug sales growth, raised 2026 guidance and is leaning toward spinning off orthopedics, while warning that new drug acquisitions will weigh on 2027 earnings. The big-pharma pattern: focus on high-margin drugs, separate slower units, and buy pipeline to cover patent cliffs.",
+   "recapUpdated": "2026-10-19"
+  },
+  "infrastructure-logistics": {
+   "overview": "Infrastructure and logistics covers the physical networks the rest of the economy runs on. That includes the trucking, rail, shipping and air freight companies that move goods, the developers and builders behind homes, offices and data centers, and the public sector that funds and regulates much of it. These businesses are sensitive to fuel costs and interest rates, because moving goods burns diesel and most buildings are paid for with borrowed money.",
+   "recap": "Fuel and rates are the two pressures. Diesel near $6.30 a gallon has pushed freight surcharges across supply chains and left truckers on fixed contracts losing money. In real estate, homebuilder confidence fell to its lowest since 2012 with mortgages near 7.4% and 43% of builders cutting prices.",
+   "recapUpdated": "2026-10-19"
+  },
+  "macro": {
+   "overview": "The macro picture covers the forces that move every industry at once: how fast economies are growing, how quickly prices are rising, where central banks set interest rates, and how goods and money flow between countries. When energy costs climb or borrowing gets more expensive, the effects show up in nearly every company's results, so this is the backdrop for reading the rest of the news.",
+   "recap": "Energy is driving the macro story. Oil above $100 and $6+ diesel lifted US core CPI to 2.6% in September, the 10-year yield is near 5.1%, and markets price some chance of a Fed hike at the Oct 27–28 meeting. China grew 4.5% in Q3 on a 36% jump in September exports while domestic demand stayed soft. Q3 GDP and September PCE inflation arrive next week.",
+   "recapUpdated": "2026-10-19"
+  },
+  "tmt": {
+   "overview": "Tech, media and telecom covers the companies behind computing and communication: chipmakers, software and cloud providers, internet platforms like search and social media, entertainment and streaming companies, and the telecom networks that connect everything. Many of these businesses become more profitable as they grow, because serving one more customer costs very little, which is why a handful of very large companies dominate. Much of the sector's investment today is going into the data centers and chips that power AI.",
+   "recap": "Tech had its worst week in months: the Nasdaq fell about 4.5% and chip stocks about 10% as investors questioned debt-funded AI buildouts, and CoreWeave dropped 25%+ before a Goldman upgrade. Private equity is buying software: Thoma Bravo's Proofpoint is acquiring Varonis for $6.3B, and Bumble is going private at $1.3B. Netflix (Tue) and Meta (Wed) earnings will test the AI spending story.",
+   "recapUpdated": "2026-10-19"
+  }
+ },
+ "subindustries": {
+  "banking": {
+   "kpis": [
+    "Net interest margin: ~2.5–3% for large US banks",
+    "ROTCE: 15%+ is strong",
+    "CET1 ratio: ~11–13% at big banks",
+    "Efficiency ratio: ~55–65%"
+   ],
+   "marketSize": {
+    "global": "~$7T",
+    "globalNote": "Global banking revenues (McKinsey Global Banking Review, 2024 est.)",
+    "us": "~$24T assets",
+    "usNote": "Total assets of FDIC-insured banks (FDIC, 2025 approx.)"
+   },
+   "operatingModel": "Banks borrow cheaply (deposits) and lend higher; that spread is net interest income, the largest profit line. Fee businesses add steadier revenue. Returns are capped by the capital regulators require them to hold.",
+   "overview": "Retail and commercial banking (deposits, loans, cards) and investment banking (advisory, underwriting, trading). The largest part of financial services by revenue.",
+   "players": [
+    "US megabanks: JPMorgan Chase (largest), Bank of America, Citigroup, Wells Fargo",
+    "Investment banks: Goldman Sachs, Morgan Stanley",
+    "Global: HSBC, BNP Paribas, MUFG, ICBC (largest by assets)",
+    "The four largest US banks hold roughly 40% of US deposits"
+   ],
+   "profileUpdated": "2026-10-19",
+   "sector": "financial-services",
+   "threats": [
+    "Credit losses in commercial real estate and consumer loans",
+    "Deposit flight to money-market funds",
+    "Regulatory fines and compliance cost",
+    "Fintech and private credit disintermediation"
+   ],
+   "trends": [
+    "Higher rates support net interest income but raise credit and deposit costs",
+    "Private credit funds are taking lending share",
+    "AML and sanctions enforcement is stepping up, with record fines",
+    "US capital rules are being eased, freeing capital for buybacks",
+    "AI for fraud detection, operations and advice"
+   ]
+  },
+  "internet-platforms": {
+   "kpis": [
+    "DAU/MAU and time spent",
+    "ARPU (average revenue per user)",
+    "Payer conversion rate for freemium apps",
+    "Ad impressions and price per ad"
+   ],
+   "marketSize": {
+    "global": "~$700B+ digital ads",
+    "globalNote": "Global digital advertising spend (est., 2025)",
+    "us": "~$260B",
+    "usNote": "US internet advertising revenue (IAB, 2024)"
+   },
+   "operatingModel": "Platforms attract users for free and earn from ads (priced per impression or click) or from paid tiers. Network effects make the leader stronger as it grows. Key economics: user growth × engagement × monetization per user.",
+   "overview": "Consumer internet businesses that monetize users through ads, subscriptions or transaction fees: search, social, marketplaces, streaming apps and dating.",
+   "players": [
+    "Google (search, YouTube), Meta (Facebook, Instagram, WhatsApp), Amazon (retail ads), ByteDance (TikTok)",
+    "Marketplaces: Amazon, Uber, Airbnb, DoorDash",
+    "Dating: Match Group (Tinder, Hinge) leads; Bumble and Grindr follow",
+    "Structure: winner-take-most from network effects"
+   ],
+   "profileUpdated": "2026-10-19",
+   "sector": "tmt",
+   "threats": [
+    "Antitrust and privacy regulation",
+    "Platform dependence on Apple/Google app stores",
+    "User fatigue and shifts to new formats",
+    "AI changing how people find information"
+   ],
+   "trends": [
+    "AI search and assistants threaten traditional search ad formats",
+    "Short-form video dominates time spent (TikTok, Reels, Shorts)",
+    "Retail media (ads on Amazon, Walmart) is the fastest-growing ad channel",
+    "Subscription fatigue is hitting dating and other app categories",
+    "Regulators are pursuing antitrust cases against the largest platforms"
+   ]
+  },
+  "macro": {
+   "kpis": [
+    "Fed funds rate and 10-year Treasury yield",
+    "CPI and PCE inflation (Fed target: 2%)",
+    "Unemployment and weekly jobless claims",
+    "PMIs: above 50 means expansion",
+    "Brent oil and the US dollar index"
+   ],
+   "marketSize": {
+    "global": "~$115T+",
+    "globalNote": "World GDP, nominal (IMF est., 2025)",
+    "us": "~$30T",
+    "usNote": "US GDP, nominal (BEA, 2025)"
+   },
+   "operatingModel": "Not a business. Use it to frame cases: is the client's problem demand (growth), cost (inflation, energy), or capital (rates)?",
+   "overview": "The chain to remember: energy and commodity prices feed inflation, inflation sets central bank rates, rates set the cost of capital and valuations, and that drives corporate investment, hiring and M&A.",
+   "players": [
+    "Central banks: Federal Reserve, ECB, Bank of Japan, People's Bank of China",
+    "Fiscal and trade policy: US Treasury and Commerce, EU Commission, China's State Council",
+    "Multilaterals: IMF, World Bank, OECD, IEA"
+   ],
+   "profileUpdated": "2026-10-19",
+   "sector": "macro",
+   "threats": [
+    "Stagflation: slowing growth with rising inflation",
+    "A disorderly bond sell-off from high government debt",
+    "Shipping lanes closed for longer",
+    "A sharp correction in AI-linked stocks"
+   ],
+   "trends": [
+    "An oil and shipping shock from the Iran conflict is pushing inflation back up",
+    "Long-term rates near 5% are pressuring housing, small caps and leveraged companies",
+    "China is leaning on exports while domestic demand stays weak",
+    "Tariffs and industrial policy are reshaping trade flows",
+    "AI investment is a major driver of US capex and equity gains"
+   ]
+  },
+  "metals-mining": {
+   "kpis": [
+    "Hot-rolled coil price ($/ton)",
+    "Mill capacity utilization",
+    "Cost curve position (quartile)",
+    "LME copper and iron ore prices"
+   ],
+   "marketSize": {
+    "global": "~1.9B t steel/yr",
+    "globalNote": "Global crude steel output, over half from China (worldsteel, 2024)",
+    "us": "~80M t steel/yr",
+    "usNote": "US crude steel output (worldsteel, 2024 approx.)"
+   },
+   "operatingModel": "Profit is commodity price minus production cost, so low-cost producers survive downturns. Integrated steelmakers (ore to sheet) have high fixed costs; mini-mills melt scrap in electric furnaces and flex output more easily.",
+   "overview": "Mining of iron ore, copper, lithium, gold and other minerals, and production of steel and aluminum. Commodity businesses where cost position and trade policy decide winners.",
+   "players": [
+    "Steel: China Baowu (largest), ArcelorMittal, Nippon Steel (owns U.S. Steel), Nucor, Cleveland-Cliffs",
+    "Diversified miners: BHP, Rio Tinto, Glencore, Vale, Anglo American",
+    "Copper: Freeport-McMoRan, Codelco; Gold: Newmont"
+   ],
+   "profileUpdated": "2026-10-19",
+   "sector": "energy-materials",
+   "threats": [
+    "Chinese oversupply and price dumping",
+    "Tariff policy reversals",
+    "Energy cost spikes",
+    "Permitting delays for new mines"
+   ],
+   "trends": [
+    "US tariffs keep steel imports low and domestic prices high",
+    "China's steel exports flood other markets amid weak domestic demand",
+    "Copper is tight from electrification and data center demand (~$14,400/t on LME)",
+    "Critical minerals (lithium, rare earths) are now a national-security policy issue",
+    "Shift from blast furnaces to electric arc furnaces lowers emissions"
+   ]
+  },
+  "midstream-lng": {
+   "kpis": [
+    "JKM (Asia), TTF (Europe), Henry Hub (US) prices",
+    "European storage fill % before winter",
+    "Liquefaction capacity in Mtpa",
+    "Tolling fee per MMBtu"
+   ],
+   "marketSize": {
+    "global": "~410 Mt LNG/yr",
+    "globalNote": "Global LNG trade (GIIGNL, 2024 approx.)",
+    "us": "~90 Mt/yr",
+    "usNote": "US LNG exports, the world's largest exporter (EIA, 2024–25 approx.)"
+   },
+   "operatingModel": "Pipelines earn regulated or contracted tolls on volume, so cash flows are steady. LNG projects cost $10B+ and are financed against 20-year offtake contracts (often priced at Henry Hub × 115% plus a fixed fee). The spread between US gas and global prices drives spot cargo profits.",
+   "overview": "Moving and storing hydrocarbons: pipelines, storage, tankers, and LNG liquefaction, shipping and regasification. Mostly fee-based infrastructure, with LNG trading adding commodity exposure.",
+   "players": [
+    "LNG exporters: QatarEnergy, Cheniere, Venture Global, Woodside, PETRONAS",
+    "Portfolio traders: Shell (largest), TotalEnergies, BP",
+    "Buyers: JERA, KOGAS, CNOOC, European utilities",
+    "US pipelines: Enterprise Products, Kinder Morgan, Williams, Energy Transfer"
+   ],
+   "profileUpdated": "2026-10-19",
+   "sector": "energy-materials",
+   "threats": [
+    "Chokepoint disruption (Hormuz, Red Sea, Panama)",
+    "A future LNG supply glut as new capacity arrives late decade",
+    "Permitting delays for pipelines and terminals",
+    "Long-term gas demand decline in Europe"
+   ],
+   "trends": [
+    "Gulf LNG flows are at about 30% of normal, sending Asian and European prices near $29/MMBtu",
+    "A new wave of US and Qatari liquefaction capacity is under construction",
+    "Buyers are signing long-term contracts to secure supply after two crises in four years",
+    "Floating LNG (FLNG) speeds up development of smaller offshore gas fields",
+    "Pipeline buildout for data center gas demand in the US"
+   ]
+  },
+  "oil-gas-upstream": {
+   "kpis": [
+    "Brent and WTI prices; Brent–WTI spread",
+    "Breakeven for new US shale wells: ~$60–65/bbl",
+    "Reserve replacement ratio (>100% means reserves are growing)",
+    "OPEC+ spare capacity",
+    "US rig count (Baker Hughes, weekly)"
+   ],
+   "marketSize": {
+    "global": "~104 mb/d demand",
+    "globalNote": "Global oil demand; upstream investment roughly $550–600B a year (IEA, 2025 approx.)",
+    "us": "~13.5 mb/d",
+    "usNote": "US crude output, the world's largest (EIA, 2025 approx.)"
+   },
+   "operatingModel": "Profit is the oil price minus lifting, transport and finding costs. Shale wells are short-cycle (drill and produce within months, steep decline) so output responds to price quickly. Deepwater and LNG-linked gas fields are long-cycle bets lasting decades.",
+   "overview": "Finding and producing crude oil and natural gas, from onshore shale to deepwater. The most price-sensitive part of the oil and gas chain: profits rise and fall with the barrel.",
+   "players": [
+    "National oil companies hold most reserves: Saudi Aramco, ADNOC, NIOC, Petrobras, PETRONAS",
+    "Supermajors: ExxonMobil, Chevron, Shell, BP, TotalEnergies",
+    "US independents: ConocoPhillips, EOG, Diamondback, Occidental",
+    "Oilfield services: SLB, Halliburton, Baker Hughes",
+    "OPEC+ (led by Saudi Arabia and Russia) supplies about 40% of world oil"
+   ],
+   "profileUpdated": "2026-10-19",
+   "sector": "energy-materials",
+   "threats": [
+    "Demand destruction if prices stay high",
+    "OPEC+ price wars",
+    "Windfall taxes and export restrictions",
+    "Long-term demand decline from EVs and efficiency"
+   ],
+   "trends": [
+    "Hormuz disruption has cut Gulf exports, pushing Brent above $100 and widening physical premiums",
+    "US shale is disciplined: dividends and buybacks over volume growth",
+    "Consolidation built larger shale players (Exxon–Pioneer, Chevron–Hess, Diamondback–Endeavor)",
+    "Majors are refocusing capital on oil and gas and cutting low-return renewables",
+    "Long-lead deepwater projects (Guyana, Brazil, Namibia) drive non-OPEC supply growth"
+   ]
+  },
+  "pharma-biotech": {
+   "kpis": [
+    "R&D as % of sales",
+    "Loss of exclusivity (LOE) dates",
+    "Phase success rates (~10% of drugs entering trials reach approval)",
+    "Pipeline value per late-stage asset"
+   ],
+   "marketSize": {
+    "global": "~$1.6T",
+    "globalNote": "Global medicine spending (IQVIA, 2024 approx.)",
+    "us": "~$490B net",
+    "usNote": "US net spending on medicines after rebates (IQVIA, 2024 approx.)"
+   },
+   "operatingModel": "Companies spend 15–25% of revenue on R&D for a few patented drugs earning very high margins until patents expire, then sales drop sharply. They buy biotechs to refill pipelines.",
+   "overview": "Discovering, developing and selling prescription drugs, from small molecules to biologics, cell and gene therapies.",
+   "players": [
+    "Eli Lilly (most valuable), Johnson & Johnson, Novo Nordisk, Merck, AbbVie, Roche, AstraZeneca, Pfizer",
+    "Biotech: Amgen, Gilead, Vertex, Regeneron",
+    "Fragmented: the top 10 companies hold roughly 40% of sales"
+   ],
+   "profileUpdated": "2026-10-19",
+   "sector": "healthcare",
+   "threats": [
+    "Price controls and tariffs",
+    "Patent expirations and biosimilars",
+    "Clinical trial failures",
+    "FDA policy uncertainty"
+   ],
+   "trends": [
+    "GLP-1 obesity drugs (Lilly, Novo) are one of the largest drug markets ever",
+    "Patent cliff: many blockbusters lose exclusivity by 2030, driving biotech M&A",
+    "US pricing pressure: Medicare negotiation and most-favored-nation pricing deals",
+    "Tariffs push companies to build US manufacturing",
+    "Conglomerates splitting into focused businesses"
+   ]
+  },
+  "real-estate-construction": {
+   "kpis": [
+    "30-year mortgage rate",
+    "NAHB builder sentiment (50 = neutral)",
+    "Housing starts and permits",
+    "Cap rates and office vacancy rates"
+   ],
+   "marketSize": {
+    "global": "~$13T",
+    "globalNote": "Global construction output per year (est., 2025)",
+    "us": "~$2.2T",
+    "usNote": "US construction spending, annual rate (Census Bureau, 2025 approx.)"
+   },
+   "operatingModel": "Developers and builders earn margins on projects sold; REITs earn rent and pay out most income as dividends. Everything is rate-sensitive because buyers and owners rely on debt.",
+   "overview": "Homebuilding, commercial real estate (offices, logistics, data centers), REITs, and engineering and construction contractors.",
+   "players": [
+    "Homebuilders: D.R. Horton, Lennar, PulteGroup, NVR",
+    "REITs: Prologis (logistics), Equinix and Digital Realty (data centers), American Tower",
+    "Contractors: Bechtel, Fluor, Turner, AECOM",
+    "Investors: Blackstone (largest commercial real estate owner)"
+   ],
+   "profileUpdated": "2026-10-19",
+   "sector": "infrastructure-logistics",
+   "threats": [
+    "High interest rates",
+    "Commercial real estate loan defaults",
+    "Material and labor cost inflation",
+    "Local permitting and zoning limits"
+   ],
+   "trends": [
+    "Mortgage rates near 7.4% have frozen housing turnover and hurt builder confidence",
+    "Office values remain depressed by hybrid work",
+    "Data centers are the hottest asset class, constrained by power",
+    "Industrial and logistics construction is cooling after the e-commerce boom",
+    "Labor shortages and tariffs raise building costs"
+   ]
+  },
+  "software-cloud": {
+   "kpis": [
+    "Rule of 40: growth % + profit margin % ≥ 40",
+    "ARR and net revenue retention (>110% is strong)",
+    "Hyperscaler capex guidance",
+    "Cloud revenue growth by provider"
+   ],
+   "marketSize": {
+    "global": "~$720B cloud; ~$1T+ software",
+    "globalNote": "Public cloud spending (Gartner forecast, 2025) and enterprise software spending (approx.)",
+    "us": "~50% of global",
+    "usNote": "US share of software and cloud spending (est.)"
+   },
+   "operatingModel": "Software sells subscriptions with 75–85% gross margins and near-zero marginal cost, so profit grows with scale and retention. Cloud is capital-intensive: providers build data centers, then rent capacity on demand or under multi-year commitments.",
+   "overview": "Enterprise and infrastructure software (applications, security, data, developer tools) and cloud computing, including the new AI cloud providers that rent GPUs.",
+   "players": [
+    "Cloud: AWS (~30% share), Microsoft Azure (~20%+), Google Cloud (~12%), Oracle",
+    "Applications: Microsoft, Salesforce, SAP, ServiceNow, Workday",
+    "Security: Palo Alto Networks, CrowdStrike, Fortinet, Zscaler; PE-owned Proofpoint",
+    "PE specialists: Thoma Bravo, Vista, Silver Lake"
+   ],
+   "profileUpdated": "2026-10-19",
+   "sector": "tmt",
+   "threats": [
+    "An AI capex pullback if returns disappoint",
+    "AI tools commoditizing some software categories",
+    "Power and chip constraints on data center growth",
+    "Rising rates lowering valuations of growth companies"
+   ],
+   "trends": [
+    "Hyperscaler AI capex of several hundred billion dollars a year, increasingly funded with debt",
+    "AI agents are pushing pricing from per-seat to usage and outcome-based models",
+    "Cybersecurity is consolidating as buyers want fewer vendors",
+    "PE take-privates of slower-growth public software companies",
+    "AI cloud specialists (CoreWeave, Nebius) carry high leverage and customer concentration"
+   ]
+  },
+  "transport-logistics": {
+   "kpis": [
+    "Diesel price ($/gal)",
+    "Spot vs. contract truckload rates",
+    "Operating ratio (costs/revenue; lower is better)",
+    "Container freight index (e.g. Drewry WCI)"
+   ],
+   "marketSize": {
+    "global": "~$10T+",
+    "globalNote": "Global logistics market (est., 2025)",
+    "us": "~$2.3T",
+    "usNote": "US business logistics costs, about 8% of GDP (CSCMP State of Logistics, 2024 approx.)"
+   },
+   "operatingModel": "Asset-heavy carriers earn revenue per mile or per container and live on utilization. Contract rates are set annually while spot rates swing daily; fuel surcharges pass part of fuel cost to shippers with a lag. Brokers are asset-light and earn the spread between shipper and carrier rates.",
+   "overview": "Moving goods and people: trucking, rail, parcel, ocean shipping, air cargo, airlines and the freight brokers in between.",
+   "players": [
+    "Parcel: UPS, FedEx, Amazon Logistics",
+    "Rail: Union Pacific, BNSF, CSX, Norfolk Southern",
+    "Ocean: Maersk, MSC, CMA CGM, COSCO",
+    "Trucking and brokerage: J.B. Hunt, Knight-Swift, C.H. Robinson",
+    "Highly fragmented trucking: most US carriers run fewer than 10 trucks"
+   ],
+   "profileUpdated": "2026-10-19",
+   "sector": "infrastructure-logistics",
+   "threats": [
+    "Fuel price spikes",
+    "Freight recessions with overcapacity",
+    "Chokepoint disruptions",
+    "Labor disputes at ports and rail"
+   ],
+   "trends": [
+    "Diesel near $6.30 is pushing fuel surcharges through supply chains",
+    "Shipping rerouted away from Hormuz and the Red Sea, raising freight and insurance rates",
+    "Truckers on fixed contracts are losing money; capacity may exit",
+    "Nearshoring to Mexico is lifting cross-border freight",
+    "Automation in warehouses and autonomous trucking pilots"
+   ]
+  }
+ }
+}

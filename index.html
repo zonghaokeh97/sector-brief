@@ -1,0 +1,636 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Sector Brief · Daily business news by industry</title>
+<meta name="description" content="A daily business briefing organized by sector and industry, with industry profiles, company context and a daily quiz. Built by Zong Hao Keh.">
+<meta property="og:title" content="Sector Brief">
+<meta property="og:description" content="Daily business news organized by sector, with industry profiles and a daily quiz.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#FFFFFF" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="apple-mobile-web-app-title" content="Sector Brief">
+<style>
+html{height:100%}
+:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0}
+img{max-width:100%}
+[hidden]{display:none!important}
+</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Libre+Franklin:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,700;0,800;1,500;1,600&family=UnifrakturMaguntia&display=swap">
+<style>
+/* Layout: newspaper treatment. Centered masthead between rules, serif text, hairline dividers in place of boxes. */
+:root{
+  --ground:#FFFFFF; --ink:#121212; --muted:#5A5A5A; --rule:#DFDFDF; --rule-strong:#121212;
+  --accent:#326891; --soft:#F7F7F5; --deal:#A3271C; --hero:#F7F7F5; --hero-ink:#121212; --hero-label:#121212; --hero-rule:#E2E2E0; --good:#1E7B4A; --good-soft:#EAF5EE; --bad:#B3261E; --bad-soft:#FBEBEA;
+  --head:"Libre Caslon Text", Georgia, "Times New Roman", serif;
+  --body:Georgia, "Times New Roman", Times, serif;
+  --sans:"Libre Franklin", "Helvetica Neue", Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --ground:#121212; --ink:#E8E8E6; --muted:#A3A3A0; --rule:#333333; --rule-strong:#E8E8E6;
+  --accent:#8DB4D6; --soft:#1C1C1C; --deal:#E58A80; --hero:#1C1C1C; --hero-ink:#E8E8E6; --hero-label:#E8E8E6; --hero-rule:#333333; --good:#6CC796; --good-soft:#17281F; --bad:#F0948B; --bad-soft:#2E1A19; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --ground:#121212; --ink:#E8E8E6; --muted:#A3A3A0; --rule:#333333; --rule-strong:#E8E8E6;
+  --accent:#8DB4D6; --soft:#1C1C1C; --deal:#E58A80; --hero:#1C1C1C; --hero-ink:#E8E8E6; --hero-label:#E8E8E6; --hero-rule:#333333; --good:#6CC796; --good-soft:#17281F; --bad:#F0948B; --bad-soft:#2E1A19; color-scheme:dark}
+
+body{background:var(--ground);color:var(--ink);font-family:var(--body);font-size:18px;line-height:1.6}
+.wrap{max-width:760px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 80px;display:flex;flex-direction:column;gap:24px}
+a{color:var(--accent)}
+a:focus-visible,button:focus-visible,select:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+h1,h2,h3{font-family:var(--head);font-weight:700;text-wrap:balance;margin:0;line-height:1.18}
+button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:pointer;text-align:left}
+
+.mast{display:flex;flex-direction:column;gap:10px;border-bottom:3px double var(--rule-strong);padding-bottom:10px}
+.mast-top,.mast-bot{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:8px 16px;font-family:var(--sans);font-size:12.5px;color:var(--muted)}
+.mast-top{border-bottom:1px solid var(--rule);padding-bottom:10px}
+.mast-top #mastDate{font-weight:600;color:var(--ink)}
+.mast h1{font-size:clamp(32px,6.5vw,56px);text-align:center;letter-spacing:-.01em;line-height:1.05;padding:6px 0 4px}
+.mast-bot{border-top:1px solid var(--rule);padding-top:8px}
+.pills{display:flex;flex-wrap:wrap;gap:4px 18px}
+.pill{font-family:var(--sans);font-size:12.5px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);padding:2px 0;border-bottom:2px solid transparent}
+.pill[aria-current="true"]{color:var(--ink);border-bottom-color:var(--ink)}
+.pill:hover{color:var(--ink)}
+.label{font-family:var(--sans);font-size:11.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--ink)}
+.muted{color:var(--muted)}
+.mast-right{display:flex;flex-wrap:wrap;align-items:center;gap:6px 18px}
+.themebtn{font-family:var(--sans);font-size:12px;font-weight:600;color:var(--ink);border:1px solid var(--rule);padding:3px 10px}
+.themebtn:hover{border-color:var(--ink)}
+.searchbar{display:flex;align-items:center;gap:12px;margin-top:-8px}
+.searchbar input{flex:1;min-width:0;font-family:var(--sans);font-size:15px;color:var(--ink);background:var(--ground);border:1px solid var(--rule);border-radius:0;padding:10px 12px}
+.searchbar input:focus{outline:none;border-color:var(--ink)}
+.searchbar input::placeholder{color:var(--muted)}
+mark{background:var(--soft);color:inherit;box-shadow:inset 0 -2px 0 var(--accent)}
+
+.hero{background:var(--hero);color:var(--hero-ink);padding:18px 22px;display:flex;flex-direction:column;gap:4px;border-top:1px solid var(--rule-strong)}
+.hero .label{color:var(--hero-label)}
+.hero .head{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:10px;padding-bottom:6px;font-family:var(--sans)}
+.hero button{color:var(--hero-ink)}
+
+.row{display:flex;gap:14px;width:100%;padding:10px 0;border-top:1px solid var(--hero-rule);line-height:1.35}
+.row .k{font-family:var(--sans);font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);flex:0 0 120px;padding-top:4px}
+.row .t{font-family:var(--head);font-size:17.5px;font-weight:700}
+.row:hover .t{text-decoration:underline;text-underline-offset:3px}
+@media (max-width:520px){.row{flex-direction:column;gap:2px}.row .k{flex:none}}
+.inline{padding:4px 0 16px}
+.hero .inline .card{color:var(--ink);border-top:0;padding-top:4px}
+.hero .inline .card button{color:inherit}
+
+.card{display:flex;flex-direction:column;gap:12px;scroll-margin-top:16px;border-top:1px solid var(--rule);padding-top:22px}
+.card .tags{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center}
+.card .sub{font-family:var(--sans);font-size:12px;color:var(--muted)}
+.card h2{font-size:30px;line-height:1.18}
+.card p{margin:0}
+.deal{font-family:var(--sans);font-size:10.5px;font-weight:700;letter-spacing:.08em;color:var(--deal);border:1px solid var(--deal);padding:0 5px}
+.card ul{margin:0;padding-left:22px}
+.card .nums{font-variant-numeric:tabular-nums}
+.card b{font-family:var(--sans);font-size:.85em;font-weight:700;letter-spacing:.02em}
+.cos{display:flex;flex-wrap:wrap;gap:6px 14px}
+.co-link{font-family:var(--sans);font-size:13px;font-weight:600;color:var(--accent);text-decoration:underline;text-underline-offset:3px}
+.more{font-family:var(--sans);font-weight:600;font-size:14px}
+.src{font-family:var(--sans);font-size:12.5px;color:var(--muted)}
+.src a{margin-right:10px}
+.date{font-family:var(--sans);font-size:12px;color:var(--muted)}
+
+.dayline{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:10px;font-family:var(--sans)}
+select{font-family:var(--sans);font-size:13px;color:var(--ink);background:var(--ground);border:1px solid var(--rule);padding:4px 6px}
+
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 24px}
+@media (max-width:560px){.grid{grid-template-columns:minmax(0,1fr)}}
+.tile{border-top:1px solid var(--rule);padding:14px 0 16px;display:flex;flex-direction:column;gap:4px}
+.tile b{font-family:var(--head);font-size:21px;font-weight:700;line-height:1.2}
+.tile:hover b{text-decoration:underline;text-underline-offset:3px}
+.tile .n{font-family:var(--sans);font-size:12px;color:var(--muted)}
+.tile .hl{font-size:15.5px;color:var(--muted);line-height:1.4}
+
+.crumb{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-family:var(--sans);font-size:13px;font-weight:600}
+.size{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:14px 0}
+@media (max-width:560px){.size{grid-template-columns:minmax(0,1fr)}}
+.size b{display:block;font-family:var(--head);font-size:26px;font-weight:700;line-height:1.2;letter-spacing:0}
+.size span{font-family:var(--sans);font-size:12.5px;color:var(--muted)}
+.block h4{font-family:var(--sans);font-size:11.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;margin:8px 0 4px}
+.block ul{margin:0;padding-left:22px}
+.block li{margin-bottom:3px}
+.block p{margin:0}
+.recap{background:var(--soft);border-top:1px solid var(--rule-strong);padding:18px 22px;display:flex;flex-direction:column;gap:8px}
+.co-head{display:flex;flex-direction:column;gap:2px;padding-top:16px;border-top:2px solid var(--rule-strong)}
+.co-head h2{font-size:28px}
+.facts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;font-size:16px}
+@media (max-width:640px){.facts{grid-template-columns:minmax(0,1fr)}}
+.empty{border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:24px 0;color:var(--muted)}
+.empty h2{color:var(--ink);font-size:24px;margin-bottom:6px}
+footer{text-align:center;font-family:var(--sans);font-size:12.5px;color:var(--muted);border-top:1px solid var(--rule);padding-top:16px;display:flex;flex-direction:column;gap:10px;align-items:center}
+footer button{font-size:12.5px;color:var(--muted);text-decoration:underline}
+/* Shell: collapsible left sidebar + main column */
+.shell{--sidew:232px;display:grid;grid-template-columns:var(--sidew) minmax(0,1fr);min-height:100%}
+.shell.collapsed{--sidew:0px}
+.shell .wrap{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));margin:0 auto;max-width:792px;width:100%;min-width:0;box-sizing:border-box}
+.side{position:sticky;top:0;height:100vh;height:100dvh;overflow-y:auto;box-sizing:border-box;display:flex;flex-direction:column;gap:2px;padding:calc(env(safe-area-inset-top,0px) + 14px) 12px calc(env(safe-area-inset-bottom,0px) + 16px) max(12px,env(safe-area-inset-left,0px));background:var(--soft);border-right:1px solid var(--rule);min-width:0}
+.shell.collapsed .side{display:none}
+.shell .side{grid-column:1;grid-row:1}
+.shell .wrap{grid-column:2;grid-row:1}
+.side-head{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:0 0 14px 8px;margin-bottom:8px;border-bottom:1px solid var(--rule)}
+.side-head .brand{font-family:var(--head);font-size:20px;font-weight:700;line-height:1.1}
+.iconbtn{display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;color:var(--muted);border-radius:8px}
+.iconbtn:hover{color:var(--ink);background:var(--rule)}
+.navitem{display:flex;justify-content:space-between;align-items:center;gap:8px;width:100%;padding:9px 10px;font-family:var(--sans);font-size:14px;font-weight:600;color:var(--muted);border-radius:8px;min-height:40px;box-sizing:border-box}
+.navitem:hover{color:var(--ink);background:var(--rule)}
+.navitem[aria-current="true"]{color:var(--ink);background:var(--ground);box-shadow:inset 0 0 0 1px var(--rule)}
+.navitem.sub{padding-left:24px;font-weight:500}
+.navgroup{font-family:var(--sans);font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);padding:14px 10px 4px}
+.navitem .badge{font-size:11px;font-weight:700;color:var(--muted);font-variant-numeric:tabular-nums}
+.navitem .badge.done{color:var(--good)}
+.side-foot{margin-top:auto;padding:12px 10px 0;border-top:1px solid var(--rule)}
+.menubtn{position:fixed;top:calc(env(safe-area-inset-top,0px) + 10px);left:max(10px,env(safe-area-inset-left,0px));z-index:20;background:var(--ground);border:1px solid var(--rule)}
+.shell:not(.collapsed) .menubtn{display:none}
+.scrim{display:none}
+@media (max-width:860px){
+  .shell,.shell.collapsed{grid-template-columns:minmax(0,1fr)}
+  .shell .wrap{grid-column:1}
+  body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--ground)}
+  .shell .wrap{padding-top:64px}
+  .side,.shell.collapsed .side{display:flex;position:fixed;left:0;top:0;bottom:0;width:min(280px,84vw);z-index:40;transform:translateX(-105%);visibility:hidden;box-shadow:0 0 40px rgba(0,0,0,.18)}
+  .shell.open .side{transform:none;visibility:visible}
+  .shell .menubtn,.shell.collapsed .menubtn,.shell:not(.collapsed) .menubtn{display:inline-flex}
+  .shell.open .scrim{display:block;position:fixed;inset:0;z-index:30;background:rgba(0,0,0,.35)}
+}
+@media (prefers-reduced-motion:no-preference){@media (max-width:860px){.side{transition:transform .22s ease,visibility .22s}}}
+
+@media (min-width:861px){.shell.collapsed .wrap{padding-top:44px}}
+/* Quiz */
+.quizlink{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:10px;font-family:var(--sans);font-size:14px;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:10px 0}
+.qbar{height:6px;background:var(--rule);margin-top:6px}
+.qbar span{display:block;height:100%;background:var(--ink)}
+.qcard{display:flex;flex-direction:column;gap:12px;border-top:1px solid var(--rule);padding-top:20px;scroll-margin-top:72px}
+.qcard .tags{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center}
+.qcard .sub{font-family:var(--sans);font-size:12px;color:var(--muted)}
+.qcard h3{font-size:22px;line-height:1.3}
+.opts{display:flex;flex-direction:column;gap:8px}
+.opt{display:flex;gap:12px;align-items:flex-start;width:100%;border:1px solid var(--rule);padding:11px 14px;font-size:16.5px;line-height:1.4;background:var(--ground);min-height:44px}
+.opt:not([disabled]):hover{border-color:var(--ink)}
+.opt .letter{font-family:var(--sans);font-weight:700;font-size:13px;flex:0 0 22px;height:22px;display:inline-flex;align-items:center;justify-content:center;border:1px solid var(--rule);margin-top:1px}
+.opt .verdict{margin-left:auto;font-family:var(--sans);font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;white-space:nowrap;padding-top:3px}
+.opt[disabled]{cursor:default}
+.opt.right{border-color:var(--good);background:var(--good-soft)}
+.opt.right .letter{background:var(--good);border-color:var(--good);color:var(--ground)}
+.opt.right .verdict{color:var(--good)}
+.opt.wrong{border-color:var(--bad);background:var(--bad-soft)}
+.opt.wrong .letter{background:var(--bad);border-color:var(--bad);color:var(--ground)}
+.opt.wrong .verdict{color:var(--bad)}
+.explain{padding:12px 14px;background:var(--soft);border-left:3px solid var(--good)}
+.explain.is-wrong{border-left-color:var(--bad)}
+.explain b{font-family:var(--sans)}
+.result{border-top:2px solid var(--rule-strong);padding-top:18px;display:flex;flex-direction:column;gap:8px}
+.result .big{font-family:var(--head);font-size:56px;font-weight:700;line-height:1}
+.result .big span{font-size:28px;color:var(--muted)}
+.actions{display:flex;flex-wrap:wrap;gap:10px}
+.btn{font-family:var(--sans);font-size:14px;font-weight:700;padding:10px 16px;background:var(--ink);color:var(--ground);border:1px solid var(--ink);min-height:44px}
+.btn.ghost{background:none;color:var(--ink)}
+.btn:hover{opacity:.88}
+
+/* Dashboard */
+.kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0;border-top:2px solid var(--rule-strong);border-bottom:1px solid var(--rule)}
+@media (max-width:560px){.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.kpis div{padding:14px 12px;display:flex;flex-direction:column;gap:2px;border-left:1px solid var(--rule)}
+.kpis div:first-child{border-left:0;padding-left:0}
+.kpis b{font-family:var(--head);font-size:34px;font-weight:700;line-height:1.1;font-variant-numeric:tabular-nums}
+.kpis span{font-family:var(--sans);font-size:12px;color:var(--muted)}
+.panel{border-top:1px solid var(--rule);padding-top:16px;display:flex;flex-direction:column;gap:6px}
+.bars{display:flex;align-items:flex-end;gap:6px;height:110px;padding-top:8px;overflow-x:auto}
+.bar{flex:1 0 26px;height:100%;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;gap:4px;position:relative}
+.bar .fill{width:100%;background:var(--ink);display:block}
+.bar .fill.none{background:var(--rule)}
+.bar .v{font-family:var(--sans);font-size:11px;font-weight:700;font-variant-numeric:tabular-nums}
+.bar .d{font-family:var(--sans);font-size:10.5px;color:var(--muted);white-space:nowrap}
+.hbar{display:grid;grid-template-columns:minmax(0,180px) minmax(0,1fr) 72px;gap:12px;align-items:center;width:100%;padding:7px 0;font-family:var(--sans);font-size:14px}
+@media (max-width:520px){.hbar{grid-template-columns:minmax(0,1fr) 64px}.hbar .track{grid-column:1 / -1;grid-row:2}}
+.hbar .track{height:10px;background:var(--rule);display:block}
+.hbar .track span{display:block;height:100%;background:var(--accent)}
+.hbar .pc{text-align:right;font-weight:700;font-variant-numeric:tabular-nums}
+.hbar .pc small{font-weight:400;color:var(--muted)}
+.hbar:hover .nm{text-decoration:underline}
+@media (prefers-reduced-motion:no-preference){.qbar span,.hbar .track span{transition:width .3s ease}}
+
+/* Display type: editorial page titles, blackletter nameplate, newspaper section index */
+:root{--display:"Playfair Display", "Libre Caslon Text", Georgia, serif; --nameplate:"UnifrakturMaguntia", "Old English Text MT", "Libre Caslon Text", Georgia, serif}
+.mast h1{font-family:var(--display);font-weight:800;font-size:clamp(36px,7vw,62px);letter-spacing:-.015em;line-height:1.02}
+.side-head{justify-content:flex-end;padding:0 0 8px;margin-bottom:0;border-bottom:1px solid var(--rule)}
+.navitem{font-family:var(--sans);font-size:12.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--ink);border-radius:0;border-bottom:1px solid var(--rule);padding:11px 10px}
+.navitem:hover{background:none;text-decoration:underline;text-underline-offset:4px}
+.navitem[aria-current="true"]{background:var(--ground);box-shadow:inset 3px 0 0 var(--ink)}
+.navitem.sub{padding-left:24px;font-weight:600}
+.navitem.sub[aria-current="true"]{font-weight:700}
+.navgroup{font-family:var(--sans);font-size:12.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--ink);padding:11px 10px;border-bottom:1px solid var(--rule)}
+.recap h2,.result .big{font-family:var(--display)}
+</style>
+</head>
+<body>
+
+<div class="shell" id="shell">
+<button type="button" class="iconbtn menubtn" id="menuBtn" data-side-open aria-label="Open menu" aria-controls="side" aria-expanded="false"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"></rect><path d="M9 4v16"></path></svg></button>
+<div class="scrim" data-side-close></div>
+<aside class="side" id="side" aria-label="Menu"></aside>
+<div class="wrap">
+  <header class="mast">
+    <div class="mast-top"><span id="mastDate"></span><span id="lastRun">Loading the latest edition…</span></div>
+    <h1 id="viewTitle">Today's News</h1>
+    <div class="mast-bot"><span id="cadence">Updated daily at 7:00 am PT</span></div>
+  </header>
+  <div class="searchbar" role="search"><label for="q" class="label" style="color:var(--muted)">Search</label><input id="q" type="search" placeholder="Stories, companies or industries, e.g. LNG, Varonis, tariffs" autocomplete="off"></div>
+  <main id="main" style="display:flex;flex-direction:column;gap:20px"></main>
+  <footer>
+    <div style="max-width:56ch;line-height:1.5">Summaries are AI-generated from the linked sources and may contain errors. Check the original reporting before relying on a figure.</div>
+    <div>Built by <a href="https://zonghaokeh.com">Zong Hao Keh</a></div>
+  </footer>
+</div>
+</div>
+
+<script>
+const TAX=[
+ {id:"macro",name:"Macro & Markets",subs:[]},
+ {id:"energy-materials",name:"Energy & Materials",subs:[
+  ["oil-gas-upstream","Oil & gas upstream"],["midstream-lng","Midstream & LNG"],["refining-chemicals","Refining & chemicals"],
+  ["power-utilities","Power & utilities"],["renewables-transition","Renewables & energy transition"],["metals-mining","Metals & mining"]]},
+ {id:"financial-services",name:"Financial Services",subs:[
+  ["banking","Banking"],["insurance","Insurance"],["asset-wealth","Asset & wealth management"],["payments-fintech","Payments & fintech"]]},
+ {id:"tmt",name:"Tech, Media & Telecom",subs:[
+  ["semiconductors","Semiconductors"],["software-cloud","Software & cloud"],["internet-platforms","Internet platforms"],["media-entertainment","Media & entertainment"],["telecom","Telecom"]]},
+ {id:"healthcare",name:"Healthcare",subs:[
+  ["pharma-biotech","Pharma & biotech"],["medtech","Medtech"],["payers-providers","Payers & providers"]]},
+ {id:"consumer-retail",name:"Consumer & Retail",subs:[
+  ["retail-ecommerce","Retail & e-commerce"],["cpg","Consumer packaged goods"],["agriculture-food","Agriculture & food"],["travel-hospitality","Travel & hospitality"]]},
+ {id:"advanced-industries",name:"Advanced Industries",subs:[
+  ["automotive-mobility","Automotive & mobility"],["aerospace-defense","Aerospace & defense"],["industrial-machinery","Industrial machinery & equipment"]]},
+ {id:"infrastructure-logistics",name:"Infrastructure & Logistics",subs:[
+  ["transport-logistics","Transport & logistics"],["real-estate-construction","Real estate & construction"],["public-sector","Public sector"]]}
+];
+const SUB={}; TAX.forEach(t=>t.subs.forEach(([id,name])=>SUB[id]={id,name,sector:t.id}));
+SUB.macro={id:"macro",name:"Macro",sector:"macro"};
+const FEATURED=5;
+const S={stories:[],sectors:{},subs:{},companies:{},meta:null,got:{s:false,x:false,i:false,c:false},err:null,day:null,view:"today",open:new Set()};
+const $=s=>document.querySelector(s);
+const esc=t=>String(t??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const secName=id=>(TAX.find(t=>t.id===id)||{name:id}).name;
+const subName=id=>(SUB[id]||{name:id}).name;
+const secOf=st=>st.sector||(SUB[st.subindustry]||{}).sector;
+const isDeal=s=>(s.tags||[]).includes("deal");
+function fmtDate(d,o){ if(!d) return ""; const [y,m,dd]=d.split("-").map(Number); return new Date(Date.UTC(y,m-1,dd,12)).toLocaleDateString("en-US",Object.assign({timeZone:"UTC"},o)); }
+const longDate=d=>fmtDate(d,{weekday:"long",month:"long",day:"numeric"});
+const shortDate=d=>fmtDate(d,{month:"short",day:"numeric"});
+const days=()=>[...new Set(S.stories.map(s=>s.date))].sort().reverse();
+const byOrder=(a,b)=>(b.date||"").localeCompare(a.date||"")||(a.order??99)-(b.order??99);
+
+function readHash(){
+  const h=(location.hash||"").slice(1);
+  S.view=["deals","sectors","quiz","practice","progress"].includes(h)?h:h.startsWith("s-")?"s:"+h.slice(2):h.startsWith("i-")?"i:"+h.slice(2):"today";
+}
+function go(view){
+  SIDE.open=false;
+  if(S.q){ S.q=""; const qi=$("#q"); if(qi) qi.value=""; }
+  S.view=view;
+  const h={today:"today",deals:"deals",sectors:"sectors",quiz:"quiz",practice:"practice",progress:"progress"}[view]||(view.startsWith("s:")?"s-"+view.slice(2):"i-"+view.slice(2));
+  try{history.replaceState(null,"","#"+h);}catch(e){}
+  render(); window.scrollTo({top:0});
+}
+const subTarget=id=>id==="macro"?"s:macro":"i:"+id;
+
+const SIDE={open:false,collapsed:false};
+try{ SIDE.collapsed=localStorage.getItem("sb-side")==="collapsed"; }catch(e){}
+const isMobile=()=>window.matchMedia("(max-width:860px)").matches;
+function applySide(){ const sh=$("#shell"); sh.classList.toggle("collapsed",SIDE.collapsed); sh.classList.toggle("open",SIDE.open); const mb=$("#menuBtn"); if(mb) mb.setAttribute("aria-expanded",String(isMobile()?SIDE.open:!SIDE.collapsed)); }
+function openSide(){ if(isMobile()) SIDE.open=true; else { SIDE.collapsed=false; try{localStorage.setItem("sb-side","open");}catch(e){} } applySide(); }
+function closeSide(){ if(isMobile()) SIDE.open=false; else { SIDE.collapsed=true; try{localStorage.setItem("sb-side","collapsed");}catch(e){} } applySide(); }
+function nav(){
+  const v=S.view, inSec=v==="sectors"||v.startsWith("s:")||v.startsWith("i:");
+  const qd=currentQuizDate(); let badge="";
+  if(qd){ const set=dailySet(qd), ans=(Q.days[qd]&&Q.days[qd].answers)||{}; const n=set.filter(x=>ans[x.id]).length; badge=n===set.length&&n?`<span class="badge done">Done</span>`:`<span class="badge">${n}/${set.length}</span>`; }
+  const item=(g,l,c,extra="",cls="")=>`<button type="button" class="navitem ${cls}" data-go="${g}" aria-current="${c}"><span>${l}</span>${extra}</button>`;
+  $("#side").innerHTML=`<div class="side-head"><button type="button" class="iconbtn" data-side-close aria-label="Close menu"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"></rect><path d="M9 4v16"></path></svg></button></div>
+    <nav aria-label="Sections" style="display:contents">
+    ${item("today","Today's news",v==="today")}${item("sectors","Sectors",inSec)}${item("deals","Deals",v==="deals")}
+    <div class="navgroup">Quiz</div>
+    ${item("quiz","Daily quiz",v==="quiz"||v==="progress",badge,"sub")}${item("practice","More quizzes",v==="practice","","sub")}
+    </nav>
+    <div class="side-foot"><button type="button" class="themebtn" id="themeBtn" data-theme-toggle>Dark mode</button></div>`;
+  syncThemeBtn(); applySide();
+}
+
+function storyCard(s,opts={}){
+  const cos=(s.companies||[]).map(id=>S.companies[id]?`<button type="button" class="co-link" data-co="${esc(id)}">${esc(S.companies[id].name)}</button>`:"").join("");
+  const where=s.subindustry==="macro"?"Macro & Markets":secName(secOf(s));
+  return `<article class="card" id="story-${esc(s.id)}">
+    <div class="tags">${opts.hideSector?"":`<span class="label">${esc(where)}</span>`}${s.subindustry!=="macro"?`<span class="sub">${esc(subName(s.subindustry))}</span>`:""}${isDeal(s)?`<span class="deal">DEAL</span>`:""}${opts.showDate?`<span class="date">${esc(shortDate(s.date))}</span>`:""}</div>
+    <h2>${esc(s.headline)}</h2>
+    <p>${esc(s.summary)}</p>
+    ${s.soWhat?`<p><b>Why it matters:</b> ${esc(s.soWhat)}</p>`:""}
+    ${(s.numbers||[]).length?`<div><b>By the numbers:</b><ul class="nums">${s.numbers.map(n=>`<li>${esc(n)}</li>`).join("")}</ul></div>`:""}
+    ${cos?`<div class="cos">${cos}</div>`:""}
+    ${opts.hideMore?"":`<button type="button" class="more" data-go="${subTarget(s.subindustry)}" style="color:var(--accent)">Go deeper: ${esc(s.subindustry==="macro"?"Macro & Markets":subName(s.subindustry))} →</button>`}
+    ${(s.sources||[]).length?`<div class="src">Sources: ${s.sources.map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a>`).join("")}</div>`:""}
+  </article>`;
+}
+function shortKey(s){ return s.subindustry==="macro"?"Macro":subName(s.subindustry); }
+
+function today(){
+  const ds=days();
+  if(!ds.length) return `<div class="empty"><h2>No stories yet</h2>The first edition appears here after the next 7:00 am run, with 15–20 business stories filed by sector.</div>`;
+  if(!S.day||!ds.includes(S.day)) S.day=ds[0];
+  const list=S.stories.filter(s=>s.date===S.day).sort(byOrder);
+  const top=list.slice(0,3), feat=list.slice(0,FEATURED), rest=list.slice(FEATURED);
+  const opts=ds.map(d=>`<option value="${d}"${d===S.day?" selected":""}>${esc(fmtDate(d,{weekday:"short",month:"short",day:"numeric",year:"numeric"}))}</option>`).join("");
+  let h="";
+  if(ds.length>1) h+=`<div class="dayline"><span class="muted" style="font-size:14px">Reading the ${esc(longDate(S.day))} edition</span><label class="muted" style="font-size:14px">Edition <select id="daySel">${opts}</select></label></div>`;
+  const featIds=new Set(feat.map(s=>s.id));
+  h+=`<section class="hero"><div class="head"><span class="label">Today's headlines</span></div>
+    ${list.map(s=>featIds.has(s.id)
+      ?`<button type="button" class="row" data-jump="story-${esc(s.id)}"><span class="k">${esc(shortKey(s))}</span><span class="t">${esc(s.headline)}${isDeal(s)?` <span class="deal">DEAL</span>`:""}</span></button>`
+      :`<button type="button" class="row" data-toggle="${esc(s.id)}" aria-expanded="${S.open.has(s.id)}"><span class="k">${esc(shortKey(s))}</span><span class="t">${esc(s.headline)}${isDeal(s)?` <span class="deal">DEAL</span>`:""}</span></button>${S.open.has(s.id)?`<div class="inline">${storyCard(s)}</div>`:""}`).join("")}</section>`;
+  const hasQuiz=Q.docs[S.day];
+  if(hasQuiz) h=`<div class="quizlink"><span></span><button type="button" class="more" data-go="quiz" style="color:var(--accent)">Take today's quiz first →</button></div>`+h;
+  h+=feat.map(s=>storyCard(s)).join("");
+  if(hasQuiz) h+=`<section class="result"><span class="label">Test yourself</span><div class="actions"><button type="button" class="btn" data-go="quiz">Take today's quiz</button></div></section>`;
+  return h;
+}
+
+function deals(){
+  const list=S.stories.filter(isDeal).sort(byOrder);
+  return `${list.length?list.map(s=>storyCard(s,{showDate:true})).join(""):`<div class="empty">No deals filed yet.</div>`}`;
+}
+
+function sectorsIndex(){
+  return `<div class="grid">${TAX.map(t=>{ const ss=S.stories.filter(s=>secOf(s)===t.id).sort(byOrder);
+     return `<button type="button" class="tile" data-go="s:${t.id}"><b>${esc(t.name)}</b><span class="n">${ss.length} stor${ss.length===1?"y":"ies"}</span><span class="hl">${ss[0]?esc(ss[0].headline):"Nothing filed yet"}</span></button>`;}).join("")}</div>`;
+}
+
+function listBlock(title,arr){ return arr&&arr.length?`<div class="block"><h4>${esc(title)}</h4><ul>${arr.map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>`:""; }
+function profileCard(p,name,eyebrow){
+  return `<section class="card"><div class="tags"><span class="label">${esc(eyebrow)}</span>${p.profileUpdated?`<span class="date">Written ${esc(shortDate(p.profileUpdated))} · refreshed quarterly</span>`:""}</div>
+    <p>${esc(p.overview)}</p>
+    ${p.marketSize?`<div class="size"><div><span>Global</span><b>${esc(p.marketSize.global)}</b><span>${esc(p.marketSize.globalNote||"")}</span></div><div><span>United States</span><b>${esc(p.marketSize.us)}</b><span>${esc(p.marketSize.usNote||"")}</span></div></div>`:""}
+    ${p.operatingModel?`<div class="block"><h4>How money is made</h4><p>${esc(p.operatingModel)}</p></div>`:""}
+    ${listBlock("Trends",p.trends)}${listBlock("Major players and market structure",p.players)}${listBlock("Threats",p.threats)}${listBlock("Numbers to know",p.kpis)}
+  </section>`;
+}
+function recapCard(x){ return x&&x.recap?`<section class="recap"><span class="label">What happened lately${x.recapUpdated?` · as of ${esc(shortDate(x.recapUpdated))}`:""}</span><p style="margin:0">${esc(x.recap)}</p></section>`:""; }
+
+function companiesAndNews(stories){
+  const linked=[...new Set(stories.flatMap(s=>s.companies||[]))].filter(k=>S.companies[k]).map(k=>({id:k,...S.companies[k]}));
+  linked.forEach(c=>c.latest=stories.filter(s=>(s.companies||[]).includes(c.id)).map(s=>s.date).sort().pop()||"");
+  linked.sort((a,b)=>b.latest.localeCompare(a.latest)||a.name.localeCompare(b.name));
+  let h="";
+  linked.forEach(c=>{
+    h+=`<section class="co-head" id="co-${esc(c.id)}"><span class="label">Company${c.ticker?` · ${esc(c.ticker)}`:""}</span><h2>${esc(c.name)}</h2></section>
+      <section class="card"><div class="facts"><div><div class="label" style="color:var(--muted)">Size</div>${esc(c.size)}</div><div><div class="label" style="color:var(--muted)">Business model</div>${esc(c.businessModel)}</div><div><div class="label" style="color:var(--muted)">Competitors</div>${esc((c.competitors||[]).join(", "))}</div></div></section>
+      ${stories.filter(s=>(s.companies||[]).includes(c.id)).map(s=>storyCard(s,{hideSector:true,hideMore:true,showDate:true})).join("")}`;
+  });
+  const loose=stories.filter(s=>!(s.companies||[]).some(k=>S.companies[k]));
+  if(loose.length) h+=`<section class="co-head"><span class="label">Industry-wide</span><h2>Other news</h2></section>${loose.map(s=>storyCard(s,{hideSector:true,hideMore:true,showDate:true})).join("")}`;
+  return h;
+}
+
+function sectorView(id){
+  const t=TAX.find(x=>x.id===id); if(!t) return `<div class="empty">Unknown sector.</div>`;
+  const x=S.sectors[id]||{}; const stories=S.stories.filter(s=>secOf(s)===id).sort(byOrder);
+  let h=`<div class="crumb"><button type="button" data-go="sectors" style="color:var(--accent)">Sectors</button><span class="muted">›</span><span>${esc(t.name)}</span></div>
+    <section>${x.overview?`<p class="muted" style="margin:8px 0 0">${esc(x.overview)}</p>`:""}</section>`;
+  h+=recapCard(x);
+  if(id==="macro"){
+    const p=S.subs.macro; if(p) h+=profileCard(p,"The macro backdrop","Reference");
+    return h+(stories.length?stories.map(s=>storyCard(s,{hideSector:true,hideMore:true,showDate:true})).join(""):`<div class="empty">No macro stories yet.</div>`);
+  }
+  h+=`<div class="label" style="color:var(--muted)">Sub-industries</div><div class="grid">`+t.subs.map(([sid,name])=>{
+    const ss=stories.filter(s=>s.subindustry===sid);
+    return `<button type="button" class="tile" data-go="i:${sid}"><b>${esc(name)}</b><span class="n">${ss.length} stor${ss.length===1?"y":"ies"}${S.subs[sid]?" · profile ready":""}</span><span class="hl">${ss[0]?esc(ss[0].headline):"Nothing filed yet"}</span></button>`;
+  }).join("")+`</div>`;
+  return h;
+}
+
+function subView(id){
+  const sub=SUB[id]; if(!sub) return `<div class="empty">Unknown sub-industry.</div>`;
+  const p=S.subs[id]; const stories=S.stories.filter(s=>s.subindustry===id).sort(byOrder);
+  let h=`<div class="crumb"><button type="button" data-go="sectors" style="color:var(--accent)">Sectors</button><span class="muted">›</span><button type="button" data-go="s:${sub.sector}" style="color:var(--accent)">${esc(secName(sub.sector))}</button><span class="muted">›</span><span>${esc(sub.name)}</span></div>`;
+  h+=p?profileCard(p,sub.name,"Industry profile"):`<section class="card"><span class="label">Industry profile</span><p class="muted" style="margin:0">Profile coming with the first story filed here.</p></section>`;
+  if(!stories.length) return h+`<div class="empty">No stories filed in ${esc(sub.name)} yet.</div>`;
+  return h+companiesAndNews(stories);
+}
+
+function render(){
+  nav();
+  const m=$("#main");
+  if(S.err==="load"){ m.innerHTML=`<div class="empty"><h2>Couldn't load the briefing</h2>Check your connection and refresh the page.</div>`; $("#lastRun").textContent=""; return; }
+  if(!["quiz","practice","progress"].includes(S.view)&&!(S.got.s&&S.got.x&&S.got.i&&S.got.c)){ m.innerHTML=`<div class="empty"><h2>Loading the briefing…</h2>Stories, sector recaps and company profiles are on their way.</div>`; return; }
+  const ds=days(), d=S.day&&ds.includes(S.day)?S.day:ds[0];
+  const n=S.stories.filter(s=>s.date===d).length;
+  $("#lastRun").textContent=d?`${n} stories · ${Math.max(1,Math.round(n*0.8))} min read`:"No editions yet"; $("#mastDate").textContent=d?fmtDate(d,{weekday:"long",month:"long",day:"numeric",year:"numeric"}):"";
+  const v=S.view;
+  const T=v==="today"?["Today's News","Updated daily at 7:00 am PT"]:v==="sectors"?["Sectors","Recaps updated weekly"]:v==="deals"?["Deals","Updated daily"]:(v==="quiz"||v==="progress")?["Daily Quiz","New quiz daily at 7:00 am PT"]:v==="practice"?["More Quizzes","New questions daily"]:v==="search"?["Search",""]:v.startsWith("s:")?[secName(v.slice(2)),"Recap updated weekly · news daily"]:[subName(v.slice(2)),"Profile updated quarterly · news daily"];
+  $("#viewTitle").textContent=T[0]; $("#cadence").textContent=T[1];
+  m.innerHTML=v==="quiz"?quizView():v==="practice"?practiceView():v==="progress"?quizView():v==="search"?searchView():v==="today"?today():v==="deals"?deals():v==="sectors"?sectorsIndex():v.startsWith("s:")?sectorView(v.slice(2)):subView(v.slice(2));
+}
+
+document.addEventListener("click",e=>{
+  const g=e.target.closest("[data-go]"); if(g){ go(g.dataset.go); return; }
+  const t=e.target.closest("[data-toggle]"); if(t){ const id=t.dataset.toggle; S.open.has(id)?S.open.delete(id):S.open.add(id); render(); const el=document.querySelector(`[data-toggle="${CSS.escape(id)}"]`); el&&el.focus(); return; }
+  const c=e.target.closest("[data-co]"); if(c){
+    const st=S.stories.find(s=>(s.companies||[]).includes(c.dataset.co));
+    if(st&&S.view!==subTarget(st.subindustry)) go(subTarget(st.subindustry));
+    setTimeout(()=>{const el=document.getElementById("co-"+c.dataset.co); el&&el.scrollIntoView({behavior:"smooth"});},30); return; }
+  const j=e.target.closest("[data-jump]"); if(j){
+    const id=j.dataset.jump.replace("story-","");
+    if(!document.getElementById(j.dataset.jump)){ S.open.add(id); render(); }
+    const el=document.getElementById(j.dataset.jump); el&&el.scrollIntoView({behavior:"smooth"}); }
+});
+document.addEventListener("change",e=>{ if(e.target.id==="daySel"){ S.day=e.target.value; S.open.clear(); render(); } });
+window.addEventListener("hashchange",()=>{readHash();render();});
+
+/* ---------- Quiz, practice and progress ---------- */
+const Q={docs:{},got:false,uid:null,canSave:false,progress:null,days:{},gotP:false,gotD:false,practice:null,saving:Promise.resolve(),saveErr:false};
+const LETTERS=["A","B","C","D"];
+const KIND_LABEL={today:"Today's news",review:"Review",profile:"Industry profile"};
+function quizDates(){ return Object.keys(Q.docs).sort().reverse(); }
+function currentQuizDate(){ return quizDates()[0]||null; }
+function allQuestions(){ const m={}; Object.values(Q.docs).forEach(d=>{ (d.questions||[]).concat(d.extra||[]).forEach(q=>{ if(!m[q.id]) m[q.id]={...q,quizDate:d.date}; }); }); return m; }
+function daysBetween(a,b){ const t=x=>{const [y,m,d]=x.split("-").map(Number);return Date.UTC(y,m-1,d);}; return Math.round((t(b)-t(a))/86400000); }
+
+function dailySet(date){
+  const doc=Q.docs[date]; if(!doc) return [];
+  const all=allQuestions(); const day=Q.days[date];
+  if(day&&Array.isArray(day.qids)&&day.qids.length) return day.qids.map(id=>all[id]).filter(Boolean);
+  const base=doc.questions||[];
+  const fresh=base.filter(q=>q.kind!=="review");
+  const provided=base.filter(q=>q.kind==="review");
+  const taken=new Set(fresh.map(q=>q.id));
+  const missed=Object.entries((Q.progress&&Q.progress.missed)||{})
+    .filter(([id,m])=>all[id]&&!taken.has(id)&&m.last&&daysBetween(m.last,date)>=2)
+    .sort((a,b)=>a[1].last.localeCompare(b[1].last)).slice(0,3)
+    .map(([id])=>({...all[id],kind:"review",reviewOf:all[id].quizDate}));
+  missed.forEach(q=>taken.add(q.id));
+  const review=missed.concat(provided.filter(q=>!taken.has(q.id))).slice(0,Math.max(3,provided.length));
+  const todayQs=fresh.filter(q=>q.kind==="today"), profile=fresh.filter(q=>q.kind==="profile");
+  return todayQs.concat(review).concat(profile).slice(0,10);
+}
+
+function questionCard(q,i,ans,mode){
+  const answered=ans!==undefined&&ans!==null;
+  const tag=q.kind==="review"?`Review${q.reviewOf||q.quizDate?` · from ${esc(shortDate(q.reviewOf||q.quizDate))}`:""}`:(KIND_LABEL[q.kind]||"Question");
+  const where=q.subindustry==="macro"?"Macro":(q.subindustry?subName(q.subindustry):"");
+  const opts=(q.options||[]).map((o,k)=>{
+    let cls="opt";
+    if(answered){ if(k===q.answer) cls+=" right"; else if(k===ans) cls+=" wrong"; }
+    return `<button type="button" class="${cls}" data-answer="${esc(q.id)}" data-choice="${k}" data-mode="${mode}" ${answered?"disabled":""}><span class="letter">${LETTERS[k]}</span><span>${esc(o)}</span>${answered&&k===q.answer?`<span class="verdict">Correct answer</span>`:""}${answered&&k===ans&&k!==q.answer?`<span class="verdict">Your answer</span>`:""}</button>`;
+  }).join("");
+  const ok=answered&&ans===q.answer;
+  return `<article class="qcard" id="q-${esc(q.id)}">
+    <div class="tags"><span class="label">Question ${i+1}</span><span class="sub">${esc(tag)}${where?` · ${esc(where)}`:""}</span></div>
+    <h3>${esc(q.prompt)}</h3>
+    <div class="opts">${opts}</div>
+    ${answered?`<div class="explain ${ok?"is-right":"is-wrong"}"><b>${ok?"Correct.":"Not quite."}</b> ${esc(q.explanation)}${q.storyId&&S.stories.some(s=>s.id===q.storyId)?` <button type="button" class="more" data-story="${esc(q.storyId)}" style="color:var(--accent)">Read the story →</button>`:""}</div>`:""}
+  </article>`;
+}
+
+function quizView(){
+  if(!Q.got) return `<div class="empty"><h2>Loading today's quiz…</h2></div>`;
+  const date=currentQuizDate();
+  if(!date) return `<div class="empty"><h2>No quiz yet</h2>The daily quiz is written with each morning's edition.</div>`;
+  if(Q.canSave&&!(Q.gotP&&Q.gotD)) return `<div class="empty"><h2>Loading your progress…</h2></div>`;
+  const qs=dailySet(date); const day=Q.days[date]||{}; const answers=day.answers||{};
+  const done=qs.filter(q=>answers[q.id]).length; const score=qs.filter(q=>answers[q.id]&&answers[q.id].ok).length;
+  const complete=qs.length&&done===qs.length;
+  let h=`<section class="recap"><div class="dayline"><span class="label">${esc(fmtDate(date,{weekday:"long",month:"long",day:"numeric"}))}</span><span class="date">${done} of ${qs.length} answered${done?` · ${score} correct`:""}</span></div>
+    <div class="qbar" aria-label="${done} of ${qs.length} answered"><span style="width:${qs.length?Math.round(done/qs.length*100):0}%"></span></div>
+    ${Q.canSave?"":`<span class="date">Your browser isn\'t saving progress here (private browsing?), so answers won\'t count toward a record.</span>`}</section>`;
+  if(Q.saveErr) h+=`<div class="empty" style="padding:12px 0">Your browser stopped saving answers (private browsing or storage full), so they won't count toward a record.</div>`;
+  h+=qs.map((q,i)=>questionCard(q,i,answers[q.id]?answers[q.id].c:undefined,"daily")).join("");
+  if(complete) h+=`<section class="result"><span class="label">Today's score</span><div class="big">${score}<span>/${qs.length}</span></div>
+    <div class="actions"><button type="button" class="btn" data-go="practice">More quizzes</button></div></section>`;
+  h+=quizDash();
+  return h;
+}
+
+function newPractice(){
+  const date=currentQuizDate(); const tracked=new Set(date?dailySet(date).map(q=>q.id):[]);
+  const pool=Object.values(allQuestions()).filter(q=>!tracked.has(q.id));
+  for(let i=pool.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [pool[i],pool[j]]=[pool[j],pool[i]]; }
+  Q.practice={qs:pool.slice(0,10),answers:{}};
+}
+function practiceView(){
+  if(!Q.got) return `<div class="empty"><h2>Loading questions…</h2></div>`;
+  if(!Q.practice) newPractice();
+  const P=Q.practice;
+  let h=`<div class="dayline"><span class="label" style="color:var(--muted)">Not tracked</span><button type="button" class="more" data-newpractice style="color:var(--accent)">Shuffle a new set</button></div>`;
+  if(!P.qs.length) return h+`<div class="empty"><h2>No extra questions yet</h2>More arrive with tomorrow\'s edition.</div>`;
+  h+=P.qs.map((q,i)=>questionCard(q,i,P.answers[q.id],"practice")).join("");
+  const done=Object.keys(P.answers).length;
+  if(done===P.qs.length){ const sc=P.qs.filter(q=>P.answers[q.id]===q.answer).length;
+    h+=`<section class="result"><span class="label">Practice score</span><div class="big">${sc}<span>/${P.qs.length}</span></div><div class="actions"><button type="button" class="btn" data-newpractice>Another set</button></div></section>`; }
+  return h;
+}
+
+function stats(){
+  const dates=quizDates().slice().reverse(); // oldest first
+  const dayRows=Object.entries(Q.days).map(([d,v])=>({date:d,...v}));
+  let answered=0,correct=0; const bySec={};
+  dayRows.forEach(r=>Object.values(r.answers||{}).forEach(a=>{ answered++; if(a.ok) correct++; const k=a.sector||"other"; bySec[k]=bySec[k]||{n:0,ok:0}; bySec[k].n++; if(a.ok) bySec[k].ok++; }));
+  const completed=new Set(dayRows.filter(r=>r.done).map(r=>r.date));
+  let streak=0; for(let i=dates.length-1;i>=0;i--){ const d=dates[i]; if(completed.has(d)) streak++; else if(i===dates.length-1) continue; else break; }
+  let best=0,run=0; dates.forEach(d=>{ if(completed.has(d)){ run++; best=Math.max(best,run);} else run=0; });
+  const recent=dates.slice(-14).map(d=>({date:d,score:Q.days[d]&&Q.days[d].done?Q.days[d].score:null,partial:Q.days[d]&&!Q.days[d].done}));
+  const missed=Object.keys((Q.progress&&Q.progress.missed)||{}).length;
+  return {answered,correct,bySec,streak,best,recent,missed,daysDone:completed.size};
+}
+function quizDash(){
+  if(!Q.canSave||!(Q.gotP&&Q.gotD&&Q.got)) return "";
+  const st=stats(); if(!st.answered) return "";
+  const acc=Math.round(st.correct/st.answered*100);
+  const secs=Object.entries(st.bySec).map(([k,v])=>({k,name:k==="macro"?"Macro & Markets":secName(k),n:v.n,p:Math.round(v.ok/v.n*100)})).sort((a,b)=>a.p-b.p||b.n-a.n);
+  return `<section class="panel" id="record"><span class="label">My record</span>
+    <div class="kpis"><div><b>${st.streak}</b><span>Day streak</span></div><div><b>${st.best}</b><span>Best streak</span></div><div><b>${acc}%</b><span>Accuracy</span></div><div><b>${st.missed}</b><span>To review</span></div></div>
+    <div class="bars" aria-label="Recent scores">${st.recent.map(r=>`<div class="bar" title="${esc(shortDate(r.date))}: ${r.score===null?(r.partial?"started":"not taken"):r.score+"/10"}"><span class="v">${r.score===null?"":r.score}</span><span class="fill ${r.score===null?"none":""}" style="height:${r.score===null?4:Math.max(6,r.score*10)}%"></span><span class="d">${esc(fmtDate(r.date,{month:"numeric",day:"numeric"}))}</span></div>`).join("")}</div>
+    ${secs.slice(0,5).map(x=>`<button type="button" class="hbar" data-go="s:${esc(x.k)}"><span class="nm">${esc(x.name)}</span><span class="track"><span style="width:${x.p}%"></span></span><span class="pc">${x.p}% <small>(${x.n})</small></span></button>`).join("")}
+  </section>`;
+}
+
+function saveAnswer(qid,choice){
+  const date=currentQuizDate(); const all=allQuestions(); const q=all[qid]; if(!q||!date) return;
+  const set=dailySet(date); const day=Q.days[date]||{};
+  const answers={...(day.answers||{})}; if(answers[qid]) return;
+  const ok=choice===q.answer;
+  answers[qid]={c:choice,ok,sector:q.sector||(SUB[q.subindustry]||{}).sector||"other"};
+  const done=set.every(x=>answers[x.id]); const score=set.filter(x=>answers[x.id]&&answers[x.id].ok).length;
+  const next={date,qids:set.map(x=>x.id),answers,done,score};
+  Q.days[date]=next;
+  const missed={...((Q.progress&&Q.progress.missed)||{})};
+  if(ok) delete missed[qid]; else missed[qid]={last:date};
+  Q.progress={...(Q.progress||{}),missed};
+  render(); const el=document.getElementById("q-"+qid); el&&el.scrollIntoView({block:"nearest"});
+  if(!Q.canSave) return;
+  try{ localStorage.setItem(LS_KEY,JSON.stringify({days:Q.days,missed})); }catch(e){ console.warn(e); Q.saveErr=true; Q.canSave=false; render(); }
+}
+
+function haystack(s){
+  const cos=(s.companies||[]).map(k=>S.companies[k]?S.companies[k].name:k).join(" ");
+  return [s.headline,s.summary,s.soWhat,(s.numbers||[]).join(" "),subName(s.subindustry),secName(secOf(s)),cos,isDeal(s)?"deal m&a acquisition":""].join(" ").toLowerCase();
+}
+function searchView(){
+  const terms=S.q.toLowerCase().split(/\s+/).filter(Boolean);
+  const hits=S.stories.filter(s=>{const h=haystack(s);return terms.every(t=>h.includes(t));}).sort(byOrder);
+  const coHits=Object.entries(S.companies).filter(([k,c])=>terms.every(t=>(c.name+" "+k).toLowerCase().includes(t)));
+  const subHits=Object.values(SUB).filter(x=>x.id!=="macro"&&terms.every(t=>x.name.toLowerCase().includes(t)));
+  let h=`<div class="dayline"><span class="label">${hits.length} stor${hits.length===1?"y":"ies"} matching “${esc(S.q)}”</span><button type="button" class="more" data-clear style="color:var(--accent)">Clear search</button></div>`;
+  if(coHits.length||subHits.length) h+=`<div class="cos">${subHits.map(x=>`<button type="button" class="co-link" data-go="i:${x.id}">Industry: ${esc(x.name)}</button>`).join("")}${coHits.map(([k,c])=>`<button type="button" class="co-link" data-co="${esc(k)}">Company: ${esc(c.name)}</button>`).join("")}</div>`;
+  h+=hits.length?hits.map(s=>storyCard(s,{showDate:true})).join(""):`<div class="empty"><h2>No matches</h2>Try a company name, an industry like “LNG” or “banking”, or a theme like “tariffs”.</div>`;
+  return h;
+}
+function effectiveTheme(){ const t=document.documentElement.getAttribute("data-theme"); if(t==="dark"||t==="light") return t; return window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"; }
+function syncThemeBtn(){ const b=$("#themeBtn"); if(!b) return; const d=effectiveTheme()==="dark"; b.textContent=d?"Light mode":"Dark mode"; b.setAttribute("aria-label",d?"Switch to light mode":"Switch to dark mode"); }
+(function initTheme(){ try{ const t=localStorage.getItem("sb-theme"); if(t==="dark"||t==="light") document.documentElement.setAttribute("data-theme",t); }catch(e){} syncThemeBtn();
+  try{ window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change",syncThemeBtn); }catch(e){} })();
+document.addEventListener("click",e=>{ if(!e.target.closest("[data-theme-toggle]")) return; const next=effectiveTheme()==="dark"?"light":"dark"; document.documentElement.setAttribute("data-theme",next); try{localStorage.setItem("sb-theme",next);}catch(e){} syncThemeBtn(); });
+let qTimer=null;
+$("#q").addEventListener("input",e=>{ clearTimeout(qTimer); qTimer=setTimeout(()=>{ S.q=e.target.value.trim(); if(S.q){ if(S.view!=="search") S.prevView=S.view; S.view="search"; } else if(S.view==="search"){ S.view=S.prevView||"today"; } render(); },150); });
+$("#q").addEventListener("keydown",e=>{ if(e.key==="Escape"){ e.target.value=""; S.q=""; if(S.view==="search") S.view=S.prevView||"today"; render(); } });
+document.addEventListener("click",e=>{
+  const a=e.target.closest("[data-answer]"); if(a&&!a.disabled){ const id=a.dataset.answer, c=Number(a.dataset.choice);
+    if(a.dataset.mode==="practice"){ if(Q.practice&&Q.practice.answers[id]===undefined){ Q.practice.answers[id]=c; render(); const el=document.getElementById("q-"+id); el&&el.scrollIntoView({block:"nearest"}); } }
+    else saveAnswer(id,c); return; }
+  if(e.target.closest("[data-newpractice]")){ newPractice(); render(); window.scrollTo({top:0}); return; }
+  const st=e.target.closest("[data-story]"); if(st){ const s0=S.stories.find(x=>x.id===st.dataset.story); if(s0){ S.day=s0.date; go("today"); setTimeout(()=>{ let el=document.getElementById("story-"+s0.id); if(!el){ S.open.add(s0.id); render(); el=document.getElementById("story-"+s0.id);} el&&el.scrollIntoView({behavior:"smooth"}); },30);} return; }
+});
+document.addEventListener("click",e=>{ if(e.target.closest("[data-clear]")){ const qi=$("#q"); qi.value=""; S.q=""; S.view=S.prevView||"today"; render(); qi.focus(); } });
+
+document.addEventListener("click",e=>{
+  if(e.target.closest("[data-side-open]")){ openSide(); return; }
+  if(e.target.closest("[data-side-close]")){ closeSide(); return; }
+});
+document.addEventListener("keydown",e=>{ if(e.key==="Escape"&&SIDE.open){ SIDE.open=false; applySide(); } });
+try{ window.matchMedia("(max-width:860px)").addEventListener("change",()=>{ SIDE.open=false; applySide(); }); }catch(e){}
+
+const LS_KEY="sb-quiz-v1";
+function loadLocal(){ try{ const raw=localStorage.getItem(LS_KEY); const o=raw?JSON.parse(raw):{}; Q.days=o.days||{}; Q.progress={missed:o.missed||{}}; Q.canSave=true; }catch(e){ Q.canSave=false; Q.days={}; Q.progress={missed:{}}; } Q.gotP=true; Q.gotD=true; }
+async function getJSON(u){ const r=await fetch(u,{cache:"no-cache"}); if(!r.ok) throw new Error(u+" "+r.status); return r.json(); }
+async function boot(){
+  readHash(); loadLocal(); render();
+  try{
+    const [idx,ref]=await Promise.all([getJSON("data/index.json"),getJSON("data/reference.json")]);
+    S.sectors=ref.sectors||{}; S.subs=ref.subindustries||{}; S.companies=ref.companies||{}; S.meta={lastRun:idx.latest};
+    S.got.x=S.got.i=S.got.c=true;
+    const months=(idx.months||[]).slice().sort().reverse(), qmonths=(idx.quizMonths||[]).slice().sort().reverse();
+    const storyMap={};
+    const loadS=async m=>{ const d=await getJSON("data/stories/"+m+".json"); Object.entries(d).forEach(([id,v])=>storyMap[id]={...v,id}); S.stories=Object.values(storyMap); };
+    const loadQ=async m=>{ const d=await getJSON("data/quizzes/"+m+".json"); Object.entries(d).forEach(([id,v])=>Q.docs[id]={...v,date:v.date||id}); };
+    await Promise.all([months[0]?loadS(months[0]):null, qmonths[0]?loadQ(qmonths[0]):null]);
+    S.got.s=true; Q.got=true; render();
+    if(months.length>1||qmonths.length>1){ await Promise.all(months.slice(1).map(loadS).concat(qmonths.slice(1).map(loadQ))); render(); }
+  }catch(e){ console.warn(e); S.err="load"; render(); }
+}
+boot();
+</script>
+
+</body>
+</html>

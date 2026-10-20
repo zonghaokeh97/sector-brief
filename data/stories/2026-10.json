@@ -1,0 +1,299 @@
+{
+ "2026-10-19-01": {
+  "companies": [],
+  "date": "2026-10-19",
+  "headline": "Brent nears $110 as attacks on ships in the Strait of Hormuz choke supply",
+  "numbers": [
+   "Brent Dec: $109.86/bbl (+4.9% w/w)",
+   "WTI Nov: $101.41/bbl (+10.4% w/w)",
+   "Hormuz transits: ~70% below pre-war",
+   "IEA coordinated release: ~100M bbl",
+   "OPEC+ meets Nov 1"
+  ],
+  "order": 1,
+  "sector": "energy-materials",
+  "soWhat": "This is a logistics shock, not a reserves shock: the oil exists but can't move safely, so freight, insurance and the physical premium carry the price. Winners are producers outside the Gulf (US shale, Brazil, Norway) and tanker owners; losers are refiners without crude access, airlines and import-dependent Asia. A client question you'd hear: how do we hedge or re-route supply if the strait stays contested through winter?",
+  "sources": [
+   {
+    "title": "The Weekly Insight: Commodities",
+    "url": "https://www.theweeklyinsight.com/2026-10-17/05-commodities"
+   },
+   {
+    "title": "TheStreet: Stock Market Today, Oct 19",
+    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "December Brent settled at $109.86 on Friday, up about 4.9% on the week and its highest close since May; WTI rose about 10% to $101.41. Tanker transits through Hormuz are running roughly 70% below pre-war levels after a dozen attacks on ships in one week. Physical cargoes are trading far above futures, and governments are releasing emergency stocks, including about 100 million barrels coordinated by IEA members. On Monday WTI swung between roughly $100 and $104 as a US sanctions waiver on Russian oil met fresh Houthi attacks on Saudi targets.",
+  "tags": []
+ },
+ "2026-10-19-02": {
+  "companies": [],
+  "date": "2026-10-19",
+  "headline": "Asian LNG hits a near four-year high as Europe heads into winter with record-low gas storage",
+  "numbers": [
+   "NE Asia spot LNG: ~$29.30/MMBtu",
+   "TTF: ~$28.86/MMBtu (+8.5% w/w)",
+   "Henry Hub: ~$3.1–3.2/MMBtu",
+   "Gulf LNG flows: ~30% of pre-conflict",
+   "EU storage: ~74% (record low entering winter)"
+  ],
+  "order": 2,
+  "sector": "energy-materials",
+  "soWhat": "The spread between US gas (~$3) and Asian/European gas (~$29) is the whole story for US LNG exporters: every cargo that can be shipped earns a huge margin, which strengthens the case for new US export terminals and long-term offtake contracts. For Asian utilities and European industry, the question is demand destruction and fuel switching back to coal or oil this winter.",
+  "sources": [
+   {
+    "title": "Al Attiyah Foundation Weekly Energy Market Review, Oct 17",
+    "url": "https://marhaba.qa/al-attiyah-foundation-weekly-energy-market-review-17-october-2026/"
+   },
+   {
+    "title": "Bloomberg: JERA on Qatar LNG supply",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-02/world-s-top-lng-buyer-doesn-t-see-qatar-supply-coming-back-soon"
+   }
+  ],
+  "subindustry": "midstream-lng",
+  "summary": "Spot LNG for December delivery into northeast Asia averaged about $29.30/MMBtu, up from $26.50 a week earlier, and Dutch TTF rose 8.5% to about $28.86. Gulf LNG flows have recovered to only about 30% of pre-conflict levels, and Japan's JERA, the world's largest LNG buyer, has said it doesn't expect Qatari supply to return soon. Europe enters winter with storage at about 74%, a record low. US Henry Hub, by contrast, sits near $3, with storage above the five-year average.",
+  "tags": []
+ },
+ "2026-10-19-03": {
+  "companies": [
+   "coreweave"
+  ],
+  "date": "2026-10-19",
+  "headline": "Nasdaq falls ~4.5% in a week on doubts over AI spending; tech rebounds Monday",
+  "numbers": [
+   "Nasdaq: ~-4.5% for the week",
+   "SMH semis ETF: ~-10% for the week",
+   "VIX: >22, first time in 4 months",
+   "CoreWeave: -25%+ week, +6% Mon",
+   "Goldman CRWV target: $139 (from $106)"
+  ],
+  "order": 3,
+  "sector": "tmt",
+  "soWhat": "The market is shifting from 'who sells AI chips' to 'who earns a return on AI capex'. Highly levered AI infrastructure players like CoreWeave are the most exposed because their debt is serviced by a few large customer contracts. Watch Meta's capex guidance on Wednesday: if hyperscalers trim spending, the whole supply chain (chips, memory, power, data center builders) reprices.",
+  "sources": [
+   {
+    "title": "Gotrade: US Market Week Ahead",
+    "url": "https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-10-19/"
+   },
+   {
+    "title": "TheStreet: Stock Market Today, Oct 19",
+    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "The Nasdaq lost about 4.5% and the S&P 500 about 2% in the week to Oct 16, while the Dow gained as money rotated into energy and defensive stocks. Investors questioned whether tech companies borrowing heavily to build AI data centers will earn a return; the SMH semiconductor ETF fell about 10% and the VIX topped 22. AI cloud provider CoreWeave fell more than 25% over the week, then jumped about 6% Monday after Goldman Sachs upgraded it to Buy. Meta and Tesla report on Wednesday.",
+  "tags": []
+ },
+ "2026-10-19-04": {
+  "companies": [
+   "proofpoint",
+   "varonis"
+  ],
+  "date": "2026-10-19",
+  "headline": "Thoma Bravo's Proofpoint agrees to buy Varonis for $6.3 billion in cash",
+  "numbers": [
+   "Deal value: $6.3B, all cash",
+   "Price: $49.75/share",
+   "Premium: 52% vs. pre-rumor (Jun 22)",
+   "Expected close: 1H 2027"
+  ],
+  "order": 4,
+  "sector": "tmt",
+  "soWhat": "A classic PE 'platform plus add-on' play: Thoma Bravo uses an owned platform (Proofpoint, email security) to buy an adjacent product (Varonis, data security) and sell both to the same CISOs. The AI angle is the pitch: companies need to control what data AI agents can reach. For consulting interviews, this is a clean example of revenue synergies through cross-selling, financed with leverage.",
+  "sources": [
+   {
+    "title": "Cybersecurity News: Proofpoint to acquire Varonis",
+    "url": "https://cybersecuritynews.com/proofpoint-to-acquire-varonis/"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Proofpoint, owned by private equity firm Thoma Bravo, will pay $49.75 per share for data-security company Varonis, a 52% premium to the price before sale rumors surfaced in June. Thoma Bravo has committed equity and lined up debt financing, and Ontario Teachers' Pension Plan is also investing in Proofpoint. The deal was announced Oct 15 and is expected to close in the first half of 2027, after which Varonis will leave Nasdaq.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-19-05": {
+  "companies": [
+   "bumble"
+  ],
+  "date": "2026-10-19",
+  "headline": "Bumble agrees to $1.3 billion take-private by Ithaca Holdings",
+  "numbers": [
+   "Deal value: $1.3B",
+   "2021 IPO valuation: ~$14B",
+   "Q2 2026 revenue: $211M (-15.2% y/y)",
+   "Paying users: ~3.2M (-16.4% y/y)"
+  ],
+  "order": 5,
+  "sector": "tmt",
+  "soWhat": "Going private is a turnaround tool: the company can rebuild its product (AI features, in-person 'Plans') without quarterly scrutiny. The ~90% fall from IPO value shows how online dating has matured: user fatigue, Gen Z moving to in-person formats, and Match Group dominating scale. Classic question: is this a cyclical slump or a structural decline in the category?",
+  "sources": [
+   {
+    "title": "TechCrunch: Bumble agrees to $1.3B acquisition deal",
+    "url": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/"
+   }
+  ],
+  "subindustry": "internet-platforms",
+  "summary": "Dating app Bumble agreed to be taken private by Ithaca Holdings in a $1.3 billion deal announced Oct 13. Bumble went public in 2021 at a valuation of roughly $14 billion, but Q2 2026 revenue fell 15% year over year to $211 million and paying users dropped 16% to about 3.2 million. A board committee recommended the deal; founder Whitney Wolfe Herd did not vote and plans to stay involved.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-19-06": {
+  "companies": [
+   "bank-of-america"
+  ],
+  "date": "2026-10-19",
+  "headline": "Bank of America hit with $1.2 billion in penalties over anti-money-laundering failures",
+  "numbers": [
+   "Total penalties: >$1.2B",
+   "OCC penalty: $750M (agency record)",
+   "Unreported suspicious activity: >$5B",
+   "AmEx fine week before: $350M"
+  ],
+  "order": 6,
+  "sector": "financial-services",
+  "soWhat": "Compliance is now a cost of doing business that scales with transaction volume. Two big AML fines in a week signal stepped-up enforcement, which means more spending on financial-crime technology and staff across banks. That is a consulting demand driver: AML remediation, transaction-monitoring vendors and RegTech all benefit.",
+  "sources": [
+   {
+    "title": "Axios: Bank of America hit with $1.2 billion penalty",
+    "url": "https://www.axios.com/2026/10/13/treasury-bank-america-fine"
+   }
+  ],
+  "subindustry": "banking",
+  "summary": "US regulators fined Bank of America more than $1.2 billion on Oct 13, including a $750 million civil penalty from the OCC, the largest in that agency's history. Regulators said the bank left more than $5 billion of suspicious activity unreported or reported late, including flows tied to Chinese money-laundering networks and trade-based laundering at the US-Mexico border. The bank admitted to willful violations and took a non-tax-deductible $1.2 billion charge in its Q3 results. American Express was fined $350 million for similar failures a week earlier.",
+  "tags": []
+ },
+ "2026-10-19-07": {
+  "companies": [
+   "cleveland-cliffs"
+  ],
+  "date": "2026-10-19",
+  "headline": "Cleveland-Cliffs posts its best quarter in three years and guides 2027 EBITDA above $4 billion",
+  "numbers": [
+   "Q3 revenue: $5.6B",
+   "Adj. EBITDA: $612M (Q2: $286M)",
+   "Avg price: $1,177/net ton",
+   "2027 EBITDA guide: >$4B",
+   "Auto share of steel revenue: 28%"
+  ],
+  "order": 7,
+  "sector": "energy-materials",
+  "soWhat": "Tariffs are working for US steelmakers: imports are low, so domestic mills have pricing power. The flip side is higher input costs for automakers, appliance makers and builders, who are already squeezed. Cliffs is a leveraged bet on US auto demand (28% of steel revenue) and on trade policy staying protective.",
+  "sources": [
+   {
+    "title": "Cleveland-Cliffs Q3 2026 results (SEC 8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000764065/000076406526000112/clf-202609308xkex991.htm"
+   }
+  ],
+  "subindustry": "metals-mining",
+  "summary": "Cleveland-Cliffs reported Q3 revenue of $5.6 billion, up from $4.7 billion a year earlier, and adjusted EBITDA of $612 million, more than double Q2. Average selling price rose to $1,177 per ton from $1,032 a year ago, helped by low imports and long lead times under US trade protection. It expects about $715 million of adjusted EBITDA in Q4 and more than $4 billion in 2027. It idled galvanizing lines in Canada because of oversupply there. Shares jumped about 12% premarket.",
+  "tags": []
+ },
+ "2026-10-19-08": {
+  "companies": [
+   "johnson-johnson"
+  ],
+  "date": "2026-10-19",
+  "headline": "J&J raises 2026 profit forecast as drug sales grow ~8%, weighs orthopedics spinoff",
+  "numbers": [
+   "Pharma sales growth: ~8%",
+   "2026 adj. EPS guide: $11.05–$11.15",
+   "Possible spinoff: orthopedics (DePuy Synthes)"
+  ],
+  "order": 8,
+  "sector": "healthcare",
+  "soWhat": "Big pharma's playbook in one company: focus capital on high-margin drugs, carve out slower businesses (it spun off Kenvue consumer health in 2023; orthopedics may be next), and buy pipeline to replace revenue lost when patents expire. Stelara's biosimilar competition is the patent cliff J&J is managing now.",
+  "sources": [
+   {
+    "title": "Quartz: J&J raises profit guidance",
+    "url": "https://qz.com/johnson-johnson-raises-profit-guidance-drug-sales-medtech-101326"
+   },
+   {
+    "title": "Benzinga: J&J warns new drug deals will hit 2027 earnings",
+    "url": "https://www.benzinga.com/markets/earnings/26/10/62329245/johnson-johnson-warns-new-drug-deals-will-hit-2027-earnings"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "Johnson & Johnson beat profit expectations in Q3, reported Oct 13, as pharmaceutical sales grew nearly 8% and outpaced its medical device business. It raised 2026 adjusted EPS guidance to $11.05–$11.15. The company is leaning toward spinning off its orthopedics unit and warned that new drug deals will weigh on 2027 earnings.",
+  "tags": []
+ },
+ "2026-10-19-09": {
+  "companies": [],
+  "date": "2026-10-19",
+  "headline": "$6.30 diesel spreads freight surcharges through the US supply chain",
+  "numbers": [
+   "US diesel: ~$6.30/gal (+~68% vs pre-war)",
+   "Core CPI Sep: 2.6% (Aug: 2.4%)",
+   "Core retail spending: +0.2%"
+  ],
+  "order": 9,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Diesel moves almost everything consumers buy, so it acts like a tax on goods retailers. Expect margin pressure for grocers and discounters (thin margins, heavy freight), more surcharges and price increases, and weaker discretionary spending into the holidays. Retailers with their own fleets and good fuel hedges hold up better.",
+  "sources": [
+   {
+    "title": "Fortune: Fuel costs spread through the economy",
+    "url": "https://fortune.com/2026/10/16/fuel-prices-diesel-costs-inflation-trucking-freight-surcharges-consumers"
+   }
+  ],
+  "subindustry": "transport-logistics",
+  "summary": "Average US diesel reached about $6.30 a gallon, up roughly 68% since before the Iran war, according to AAA. The Fed's latest regional reports describe freight surcharges on almost every purchase, a grocer paying more to ship a head of lettuce than the lettuce costs, and truckers on fixed contracts losing money. Core CPI rose to 2.6% in September, and spending outside gas stations rose just 0.2%. Retailers stocked up early for the holidays.",
+  "tags": []
+ },
+ "2026-10-19-10": {
+  "companies": [],
+  "date": "2026-10-19",
+  "headline": "China's economy grows 4.5% in Q3 on surging exports",
+  "numbers": [
+   "Q3 GDP: +4.5% y/y",
+   "Q2 GDP: +4.3% y/y",
+   "Sep exports: +36.3% y/y",
+   "9-month trade surplus: ~$938B"
+  ],
+  "order": 10,
+  "sector": "macro",
+  "soWhat": "China is exporting its way through weak domestic demand. A near-$1 trillion surplus means more cheap Chinese goods (EVs, steel, solar) flowing into other markets and more trade friction with the US and Europe. For any client competing with Chinese manufacturers, price pressure is the theme.",
+  "sources": [
+   {
+    "title": "Vantage Markets: China GDP Q3",
+    "url": "https://www.vantagemarkets.com/market-news/china-gdp-q3-grows-4-5-percent-exports-rise-october-19-2026/"
+   },
+   {
+    "title": "US News / Reuters: China's growth accelerates",
+    "url": "https://money.usnews.com/investing/news/articles/2026-10-18/chinas-economic-growth-accelerates-to-4-5-in-third-quarter"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "China's GDP grew 4.5% year on year in Q3, faster than 4.3% in Q2, putting growth at the low end of the 4.5–5% annual target. September exports jumped 36.3% to about $447 billion, and the trade surplus for the first nine months reached about $938 billion. Services grew faster than industry over the year so far.",
+  "tags": []
+ },
+ "2026-10-19-11": {
+  "companies": [],
+  "date": "2026-10-19",
+  "headline": "US homebuilder confidence falls to its lowest since 2012 as mortgage rates near 7.4%",
+  "numbers": [
+   "NAHB index: 29 (lowest since Jun 2012)",
+   "Builders cutting prices: 43%",
+   "30-yr mortgage: ~7.40%",
+   "10-yr Treasury: ~5.09%",
+   "Fed decision: Oct 27–28"
+  ],
+  "order": 11,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Oil-driven inflation keeps rates high, and high rates freeze housing. That ripples into building materials, furniture, appliances and home-improvement retail. Markets are even pricing a possible rate rise, a reversal from the cutting cycle many expected this year.",
+  "sources": [
+   {
+    "title": "TheStreet: Stock Market Today, Oct 19",
+    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
+   },
+   {
+    "title": "Gotrade: US Market Week Ahead",
+    "url": "https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-10-19/"
+   }
+  ],
+  "subindustry": "real-estate-construction",
+  "summary": "The NAHB builder sentiment index fell 3 points to 29, the weakest reading since June 2012, and 43% of builders cut prices. The 30-year mortgage rate averaged about 7.40%, near a three-year high, with the 10-year Treasury yield around 5.1%. The Fed is in its quiet period ahead of its Oct 27–28 decision; Q3 GDP and September PCE inflation come next week.",
+  "tags": []
+ }
+}

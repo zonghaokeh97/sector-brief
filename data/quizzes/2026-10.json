@@ -1,0 +1,249 @@
+{
+ "2026-10-19": {
+  "date": "2026-10-19",
+  "extra": [
+   {
+    "answer": 0,
+    "explanation": "China is exporting its way through weak domestic demand, with a nine-month trade surplus near $938 billion. That means cheaper Chinese EVs, steel and solar in other markets, and more tariffs in response.",
+    "id": "2026-10-19:x01",
+    "kind": "today",
+    "options": [
+     "More price pressure from cheap Chinese goods, and more trade friction",
+     "Less competition as China focuses on its home market",
+     "Higher Chinese demand for their finished goods",
+     "A much stronger yuan that makes Chinese goods expensive"
+    ],
+    "prompt": "China's September exports jumped about 36%. What is the most likely effect on manufacturers in other countries?",
+    "sector": "macro",
+    "storyId": "2026-10-19-10",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 2,
+    "explanation": "Higher inflation keeps the Fed from cutting and pushes long-term yields up. With 30-year mortgages near 7.4%, builder confidence fell to its lowest since 2012 and 43% of builders cut prices.",
+    "id": "2026-10-19:x02",
+    "kind": "today",
+    "options": [
+     "Builders use oil as their main raw material",
+     "It pushes home prices up too fast for buyers",
+     "It keeps interest rates, and so mortgage rates, high, which freezes demand",
+     "Gasoline taxes are added to home prices"
+    ],
+    "prompt": "Why does oil-driven inflation hurt US homebuilders?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-10-19-11",
+    "subindustry": "real-estate-construction"
+   },
+   {
+    "answer": 1,
+    "explanation": "Contract rates are fixed for the year, while diesel rose about 68% since before the Iran war. Surcharges recover part of that cost, but late, so carriers are cutting maintenance and delaying new trucks.",
+    "id": "2026-10-19:x03",
+    "kind": "today",
+    "options": [
+     "Freight volumes fell to almost nothing",
+     "Their rates were set before fuel rose, and fuel surcharges only pass costs on with a lag",
+     "Regulators capped trucking rates",
+     "Driver wages fell sharply"
+    ],
+    "prompt": "Truckers on fixed annual contracts are losing money with diesel near $6.30. Why?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-10-19-09",
+    "subindustry": "transport-logistics"
+   },
+   {
+    "answer": 3,
+    "explanation": "With revenue down 15% and paying users down 16%, Bumble needs time to rework its product. Private ownership lets it experiment without reporting to public investors every quarter.",
+    "id": "2026-10-19:x04",
+    "kind": "today",
+    "options": [
+     "To raise cheaper equity from the public",
+     "Regulators required it",
+     "To pay a large special dividend to public shareholders",
+     "To restructure and rebuild the product without quarterly public-market pressure"
+    ],
+    "prompt": "Bumble is going private at $1.3B, down from roughly $14B at its IPO. What is the usual main reason a board chooses a take-private in this situation?",
+    "sector": "tmt",
+    "storyId": "2026-10-19-05",
+    "subindustry": "internet-platforms"
+   },
+   {
+    "answer": 0,
+    "explanation": "Drug sales grew about 8% and outpaced devices. Separating slower units, as J&J did with Kenvue in 2023, lets each business be valued and run on its own terms.",
+    "id": "2026-10-19:x05",
+    "kind": "today",
+    "options": [
+     "Focus capital and management on higher-margin, faster-growing businesses like drugs",
+     "Avoid a patent cliff in orthopedics",
+     "Merge orthopedics into Kenvue",
+     "Exit healthcare altogether"
+    ],
+    "prompt": "J&J is leaning toward spinning off its orthopedics unit. What is the main strategic logic?",
+    "sector": "healthcare",
+    "storyId": "2026-10-19-08",
+    "subindustry": "pharma-biotech"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "Hormuz tanker transits are running about 70% below pre-war levels. The oil exists but can't move safely, so freight, insurance and the physical premium drive the price. OPEC+ doesn't meet until Nov 1.",
+    "id": "2026-10-19:q01",
+    "kind": "today",
+    "options": [
+     "OPEC+ announced a large production cut",
+     "Attacks on shipping mean Gulf oil can't safely get through the Strait of Hormuz",
+     "US shale output fell sharply this quarter",
+     "Chinese oil demand surged on a strong recovery"
+    ],
+    "prompt": "Brent is near $110 even though the world's oil reserves haven't changed. What is the main reason?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-19-01",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 2,
+    "explanation": "An exporter buys gas near $3, liquefies and ships it, and sells near $29. That spread is the margin. European and Asian buyers pay the high price, and US households just see normal domestic prices.",
+    "id": "2026-10-19:q02",
+    "kind": "today",
+    "options": [
+     "European factories that use gas",
+     "Japanese utilities buying cargoes on the spot market",
+     "US LNG exporters with cargoes to sell",
+     "US households heating with gas"
+    ],
+    "prompt": "US gas (Henry Hub) is about $3/MMBtu while Asian spot LNG is about $29. Who captures the most value from that gap?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-19-02",
+    "subindustry": "midstream-lng"
+   },
+   {
+    "answer": 0,
+    "explanation": "CoreWeave rents GPUs under contracts concentrated in a few customers and funded its fleet largely with debt. If those customers spend less, revenue and debt service are both at risk, which is why it fell 25%+ in last week's sell-off.",
+    "id": "2026-10-19:q03",
+    "kind": "today",
+    "options": [
+     "A debt-funded AI cloud provider with a few very large customers, like CoreWeave",
+     "A payment network like Visa",
+     "A consumer staples company like Procter & Gamble",
+     "A large US bank"
+    ],
+    "prompt": "Which kind of company is most exposed if big tech firms cut their AI data center spending?",
+    "sector": "tmt",
+    "storyId": "2026-10-19-03",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 3,
+    "explanation": "Proofpoint sells email security and Varonis sells data security, both to corporate security chiefs. The logic is revenue synergy: sell both products to each customer. This 'platform plus add-on' approach is a classic private equity playbook.",
+    "id": "2026-10-19:q04",
+    "kind": "today",
+    "options": [
+     "Vertical integration into a supplier",
+     "A merger of two direct competitors to cut costs",
+     "Diversification into an unrelated industry",
+     "A platform company buying an adjacent product to cross-sell to the same buyers"
+    ],
+    "prompt": "Thoma Bravo's Proofpoint is buying Varonis for $6.3B. How would you best describe the strategy?",
+    "sector": "tmt",
+    "storyId": "2026-10-19-04",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 0,
+    "explanation": "Regulators said the bank left more than $5 billion of suspicious activity unreported or reported late. The OCC's $750 million share was the largest civil penalty in its history. American Express was fined $350 million for similar failures a week earlier.",
+    "id": "2026-10-19:q05",
+    "kind": "today",
+    "options": [
+     "It failed to properly monitor and report suspicious transactions under anti-money-laundering rules",
+     "It held too little capital against its loans",
+     "It misled investors about interest rate risk",
+     "It broke consumer rules on overdraft fees"
+    ],
+    "prompt": "Why was Bank of America hit with more than $1.2 billion in penalties?",
+    "sector": "financial-services",
+    "storyId": "2026-10-19-06",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 2,
+    "explanation": "Management pointed to low imports and long lead times under the current trade environment. The flip side: automakers and other steel buyers pay more for their inputs.",
+    "id": "2026-10-19:q06",
+    "kind": "today",
+    "options": [
+     "Chinese demand for US steel surged",
+     "Iron ore became much cheaper",
+     "Trade protection keeps imports low, giving US mills pricing power",
+     "It merged with Nucor and cut capacity"
+    ],
+    "prompt": "Cleveland-Cliffs' average steel price is up about 14% from a year ago. What is the main reason?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-19-07",
+    "subindustry": "metals-mining"
+   },
+   {
+    "answer": 1,
+    "explanation": "Banks borrow cheaply through deposits and lend at higher rates. That spread, net interest income, is the largest profit line for most big banks. Fee businesses add steadier but smaller revenue.",
+    "id": "2026-10-19:q07",
+    "kind": "profile",
+    "options": [
+     "Investment banking advisory fees",
+     "Net interest income: the spread between what it earns on loans and pays on deposits",
+     "Trading revenue",
+     "Late fees on credit cards"
+    ],
+    "prompt": "For a large US bank, what is usually the single biggest source of profit?",
+    "sector": "financial-services",
+    "storyId": null,
+    "subindustry": "banking"
+   },
+   {
+    "answer": 2,
+    "explanation": "A patented drug earns very high margins until its patent expires, then sales drop sharply as generics or biosimilars arrive. Buying biotechs refills the pipeline. J&J said this week that new drug deals will weigh on its 2027 earnings.",
+    "id": "2026-10-19:q08",
+    "kind": "profile",
+    "options": [
+     "To lower their manufacturing costs",
+     "To move into medical devices",
+     "To replace revenue they'll lose when patents on their blockbuster drugs expire",
+     "To reduce the taxes they pay on research"
+    ],
+    "prompt": "Why do big pharma companies keep buying biotech companies?",
+    "sector": "healthcare",
+    "storyId": null,
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 3,
+    "explanation": "Lenders fund LNG projects because buyers commit to long-term contracts up front, often priced at Henry Hub times 115% plus a fixed fee. The contracts make the cash flow predictable enough to borrow against.",
+    "id": "2026-10-19:q09",
+    "kind": "profile",
+    "options": [
+     "By selling cargoes on the spot market as they are produced",
+     "Mostly through government grants",
+     "Through retail bonds sold to consumers",
+     "Against long-term, roughly 20-year, offtake contracts signed before construction"
+    ],
+    "prompt": "How is a new $10B+ LNG export terminal typically financed?",
+    "sector": "energy-materials",
+    "storyId": null,
+    "subindustry": "midstream-lng"
+   },
+   {
+    "answer": 1,
+    "explanation": "New US shale wells typically need around $60 to $65 a barrel. With WTI above $100, shale producers are very profitable, but they are prioritizing dividends and buybacks over fast growth.",
+    "id": "2026-10-19:q10",
+    "kind": "profile",
+    "options": [
+     "About $20 a barrel",
+     "About $60 to $65 a barrel",
+     "About $110 a barrel",
+     "About $150 a barrel"
+    ],
+    "prompt": "Roughly what oil price do new US shale wells need to break even?",
+    "sector": "energy-materials",
+    "storyId": null,
+    "subindustry": "oil-gas-upstream"
+   }
+  ]
+ }
+}
