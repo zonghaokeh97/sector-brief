@@ -1,5 +1,39 @@
 {
  "companies": {
+  "3m": {
+   "businessModel": "Sells tens of thousands of engineered materials and products (adhesives, abrasives, films, safety gear, electronics materials) to industrial, consumer and transport customers, earning high margins from patented materials science.",
+   "competitors": [
+    "Honeywell",
+    "Avery Dennison",
+    "DuPont",
+    "Illinois Tool Works",
+    "Corning"
+   ],
+   "hq": "Saint Paul, MN",
+   "name": "3M",
+   "sector": "advanced-industries",
+   "size": "Revenue about $24-25B (2025, approx.)",
+   "subindustry": "industrial-machinery",
+   "ticker": "NYSE: MMM",
+   "updated": "2026-10-20"
+  },
+  "amazon": {
+   "businessModel": "Earns revenue from online retail, third-party seller fees, advertising and subscriptions (Prime), while most operating profit comes from AWS cloud computing.",
+   "competitors": [
+    "Walmart",
+    "Microsoft Azure",
+    "Google Cloud",
+    "Shopify",
+    "Alibaba"
+   ],
+   "hq": "Seattle, WA",
+   "name": "Amazon",
+   "sector": "consumer-retail",
+   "size": "Revenue about $700B (2025, approx.); AWS is the world's largest cloud provider",
+   "subindustry": "retail-ecommerce",
+   "ticker": "NASDAQ: AMZN",
+   "updated": "2026-10-20"
+  },
   "bank-of-america": {
    "businessModel": "Earns net interest income on its huge low-cost deposit base, plus fees from wealth management (Merrill), investment banking and trading.",
    "competitors": [
@@ -64,6 +98,73 @@
    "ticker": "NASDAQ: CRWV",
    "updated": "2026-10-19"
   },
+  "deutsche-telekom": {
+   "businessModel": "Sells mobile and fixed-line phone, broadband and TV subscriptions in Germany, Europe and (through T-Mobile US) the United States, earning recurring monthly fees on networks it builds.",
+   "competitors": [
+    "Vodafone",
+    "Orange",
+    "Telefonica",
+    "Verizon",
+    "AT&T"
+   ],
+   "hq": "Bonn, Germany",
+   "name": "Deutsche Telekom",
+   "sector": "tmt",
+   "size": "Revenue EUR 119.1B (2025); majority owner of T-Mobile US",
+   "subindustry": "telecom",
+   "ticker": "ETR: DTE",
+   "updated": "2026-10-20"
+  },
+  "ge-aerospace": {
+   "businessModel": "Sells jet engines (often at thin margins) and earns most of its profit over decades from spare parts, repairs and service contracts on the installed fleet.",
+   "competitors": [
+    "Pratt & Whitney (RTX)",
+    "Rolls-Royce",
+    "Safran",
+    "Honeywell Aerospace"
+   ],
+   "hq": "Evendale, OH",
+   "name": "GE Aerospace",
+   "sector": "advanced-industries",
+   "size": "Revenue about $45B (2025, approx.); engines power roughly three of every four commercial flights (with partner Safran via CFM)",
+   "subindustry": "aerospace-defense",
+   "ticker": "NYSE: GE",
+   "updated": "2026-10-20"
+  },
+  "general-motors": {
+   "businessModel": "Designs, builds and sells cars, trucks and SUVs (Chevrolet, GMC, Buick, Cadillac), with most profit from full-size pickups and SUVs in North America. GM Financial earns interest on auto loans and leases.",
+   "competitors": [
+    "Ford",
+    "Toyota",
+    "Stellantis",
+    "Hyundai-Kia",
+    "Tesla",
+    "Honda"
+   ],
+   "hq": "Detroit, MI",
+   "name": "General Motors",
+   "sector": "advanced-industries",
+   "size": "Revenue about $185B (2025, approx.); largest US automaker by sales",
+   "subindustry": "automotive-mobility",
+   "ticker": "NYSE: GM",
+   "updated": "2026-10-20"
+  },
+  "hudson-pacific": {
+   "businessModel": "Owns and leases West Coast office buildings and film/TV studio space, earning rent; heavily exposed to tech-tenant demand and to refinancing costs.",
+   "competitors": [
+    "Kilroy Realty",
+    "Boston Properties (BXP)",
+    "Douglas Emmett",
+    "Vornado"
+   ],
+   "hq": "Los Angeles, CA",
+   "name": "Hudson Pacific Properties",
+   "sector": "infrastructure-logistics",
+   "size": "Office and studio REIT; market cap about $1B or less (2025, approx.)",
+   "subindustry": "real-estate-construction",
+   "ticker": "NYSE: HPP",
+   "updated": "2026-10-20"
+  },
   "johnson-johnson": {
    "businessModel": "Two segments: Innovative Medicine (patented drugs in immunology, oncology, neuroscience; roughly two-thirds of sales) and MedTech (surgery, orthopedics, cardiovascular devices).",
    "competitors": [
@@ -82,6 +183,124 @@
    "ticker": "NYSE: JNJ",
    "updated": "2026-10-19"
   },
+  "mastercard": {
+   "businessModel": "Runs a card payment network and charges small fees on each transaction and on cross-border volume; it does not lend money. Also sells fraud, data and security services.",
+   "competitors": [
+    "Visa",
+    "American Express",
+    "PayPal",
+    "UnionPay",
+    "Stripe"
+   ],
+   "hq": "Purchase, NY",
+   "name": "Mastercard",
+   "sector": "financial-services",
+   "size": "Revenue about $32B (2025, approx.)",
+   "subindustry": "payments-fintech",
+   "ticker": "NYSE: MA",
+   "updated": "2026-10-20"
+  },
+  "merck-kgaa": {
+   "businessModel": "Science and technology group with three businesses: healthcare (prescription drugs), life science (lab and bioprocessing tools) and electronics (semiconductor and display materials). Separate from US-based Merck & Co.",
+   "competitors": [
+    "Thermo Fisher",
+    "Sanofi",
+    "Bayer",
+    "Novartis",
+    "Danaher"
+   ],
+   "hq": "Darmstadt, Germany",
+   "name": "Merck KGaA",
+   "sector": "healthcare",
+   "size": "Revenue about EUR 21B (2024, approx.)",
+   "subindustry": "pharma-biotech",
+   "ticker": "ETR: MRK",
+   "updated": "2026-10-20"
+  },
+  "micron": {
+   "businessModel": "Makes memory chips (DRAM, high-bandwidth memory and NAND flash) and sells them to PC, phone and data center customers. Prices swing sharply with supply and demand, so profits are highly cyclical.",
+   "competitors": [
+    "Samsung Electronics",
+    "SK hynix",
+    "Kioxia",
+    "Sandisk"
+   ],
+   "hq": "Boise, ID",
+   "name": "Micron Technology",
+   "sector": "tmt",
+   "size": "Revenue about $37B (FY2025, approx.)",
+   "subindustry": "semiconductors",
+   "ticker": "NASDAQ: MU",
+   "updated": "2026-10-20"
+  },
+  "microsoft": {
+   "businessModel": "Sells cloud computing (Azure), Office and other software subscriptions, Windows licenses, and gaming. Azure is the growth engine and the reason it spends tens of billions a year on data centers.",
+   "competitors": [
+    "Amazon (AWS)",
+    "Google Cloud",
+    "Oracle",
+    "Salesforce",
+    "Apple"
+   ],
+   "hq": "Redmond, WA",
+   "name": "Microsoft",
+   "sector": "tmt",
+   "size": "Revenue about $280B (FY2025, approx.); market cap above $3T",
+   "subindustry": "software-cloud",
+   "ticker": "NASDAQ: MSFT",
+   "updated": "2026-10-20"
+  },
+  "nisource": {
+   "businessModel": "Regulated gas and electric utility that earns an allowed return on the infrastructure it builds (its rate base). Its Indiana electric arm, NIPSCO, sells power and now builds generation for large data center customers.",
+   "competitors": [
+    "AEP",
+    "Duke Energy",
+    "CenterPoint Energy",
+    "Ameren",
+    "Vectren (CenterPoint)"
+   ],
+   "hq": "Merrillville, IN",
+   "name": "NiSource",
+   "sector": "energy-materials",
+   "size": "Revenue about $5.5-6B (2024, approx.); serves about 4M gas and electric customers in six states",
+   "subindustry": "power-utilities",
+   "ticker": "NYSE: NI",
+   "updated": "2026-10-20"
+  },
+  "nscale": {
+   "businessModel": "Builds and operates data centers filled with Nvidia GPUs and rents the compute to large customers such as Microsoft under long-term contracts.",
+   "competitors": [
+    "CoreWeave",
+    "Nebius",
+    "Lambda",
+    "Fluidstack",
+    "Crusoe"
+   ],
+   "hq": "London, UK",
+   "name": "Nscale",
+   "sector": "tmt",
+   "size": "AI cloud start-up building GPU data centers in Europe; size not disclosed",
+   "subindustry": "software-cloud",
+   "ticker": "Private (Nvidia-backed; filed for US IPO Sept 2026)",
+   "updated": "2026-10-20"
+  },
+  "orange": {
+   "businessModel": "Sells mobile, broadband and business telecom services in France, Europe, Africa and the Middle East, plus IT and cybersecurity services to companies.",
+   "competitors": [
+    "Deutsche Telekom",
+    "Vodafone",
+    "Telefonica",
+    "Iliad (Free)",
+    "Bouygues Telecom"
+   ],
+   "hq": "Paris, France",
+   "name": "Orange",
+   "sector": "tmt",
+   "size": "Revenue EUR 40.4B (2025); about 340M customers in 26 countries",
+   "subindustry": "telecom",
+   "ticker": "EPA: ORA",
+   "updated": "2026-10-20"
+  },
   "proofpoint": {
    "businessModel": "Subscription software that protects employees from email threats, phishing and data loss, sold to enterprise security teams. Grows by bolting on adjacent products.",
    "competitors": [
@@ -97,6 +316,142 @@
    "subindustry": "software-cloud",
    "ticker": "Private (Thoma Bravo)",
    "updated": "2026-10-19"
+  },
+  "rtx": {
+   "businessModel": "Three businesses: Collins Aerospace (aircraft systems), Pratt & Whitney (jet engines plus aftermarket service) and Raytheon (missiles, radars and air defense sold mainly to governments).",
+   "competitors": [
+    "Lockheed Martin",
+    "GE Aerospace",
+    "Northrop Grumman",
+    "Boeing Defense",
+    "Honeywell",
+    "Safran"
+   ],
+   "hq": "Arlington, VA",
+   "name": "RTX",
+   "sector": "advanced-industries",
+   "size": "Sales about $88B (2025, approx.); 2026 guidance $97.0-97.5B",
+   "subindustry": "aerospace-defense",
+   "ticker": "NYSE: RTX",
+   "updated": "2026-10-20"
+  },
+  "saudi-aramco": {
+   "businessModel": "State-controlled oil and gas producer that earns money by pumping and selling crude, gas and refined products at very low production cost, and pays large dividends to the Saudi state.",
+   "competitors": [
+    "ExxonMobil",
+    "Shell",
+    "ADNOC",
+    "Chevron",
+    "PetroChina"
+   ],
+   "hq": "Dhahran, Saudi Arabia",
+   "name": "Saudi Aramco",
+   "sector": "energy-materials",
+   "size": "World's largest oil producer, roughly 12M+ barrels/day of oil equivalent; revenue around $440B (2024, approx.)",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "Tadawul: 2222",
+   "updated": "2026-10-20"
+  },
+  "silence-therapeutics": {
+   "businessModel": "Develops siRNA medicines that switch off disease-causing genes. Earns money mainly from partnership payments now and aims to earn drug sales later; lead drug is divesiran for polycythemia vera.",
+   "competitors": [
+    "Alnylam",
+    "Arrowhead Pharmaceuticals",
+    "Ionis",
+    "Arbutus"
+   ],
+   "hq": "London, UK",
+   "name": "Silence Therapeutics",
+   "sector": "healthcare",
+   "size": "Clinical-stage biotech; being acquired for ~$1.3B equity value (2026)",
+   "subindustry": "pharma-biotech",
+   "ticker": "NASDAQ: SLN",
+   "updated": "2026-10-20"
+  },
+  "silgan": {
+   "businessModel": "Makes metal food cans, closures and dispensing systems (pumps, sprayers) under long-term supply contracts with food, beverage and personal care brands, often passing metal costs through to customers.",
+   "competitors": [
+    "Crown Holdings",
+    "Ball",
+    "Ardagh Metal Packaging",
+    "AptarGroup",
+    "Berry Global (Amcor)"
+   ],
+   "hq": "Stamford, CT",
+   "name": "Silgan Holdings",
+   "sector": "consumer-retail",
+   "size": "Revenue about $6B (2024, approx.)",
+   "subindustry": "cpg",
+   "ticker": "NYSE: SLGN",
+   "updated": "2026-10-20"
+  },
+  "steel-dynamics": {
+   "businessModel": "Melts scrap in electric arc furnaces to make steel, and profits from the spread between steel prices and scrap costs. It also recycles metals and is building an aluminum flat-rolled business.",
+   "competitors": [
+    "Nucor",
+    "Cleveland-Cliffs",
+    "U.S. Steel (Nippon Steel)",
+    "Commercial Metals",
+    "Novelis (for aluminum)"
+   ],
+   "hq": "Fort Wayne, IN",
+   "name": "Steel Dynamics",
+   "sector": "energy-materials",
+   "size": "Revenue about $17-18B (2025, approx.); one of the largest US steelmakers",
+   "subindustry": "metals-mining",
+   "ticker": "NASDAQ: STLD",
+   "updated": "2026-10-20"
+  },
+  "stripe": {
+   "businessModel": "Gives online businesses software to accept payments, charging a percentage plus a fixed fee per transaction, and sells add-ons such as billing, fraud tools and stablecoin services.",
+   "competitors": [
+    "Adyen",
+    "PayPal (Braintree)",
+    "Block",
+    "Fiserv",
+    "Checkout.com"
+   ],
+   "hq": "South San Francisco, CA and Dublin, Ireland",
+   "name": "Stripe",
+   "sector": "financial-services",
+   "size": "Processed about $1.4T in payment volume (2024, approx.)",
+   "subindustry": "payments-fintech",
+   "ticker": "Private (founder- and VC-owned)",
+   "updated": "2026-10-20"
+  },
+  "telefonica": {
+   "businessModel": "Sells mobile and fixed telecom services in Spain, Germany, the UK (via Virgin Media O2) and Brazil, earning recurring subscription revenue.",
+   "competitors": [
+    "Vodafone",
+    "Orange",
+    "Deutsche Telekom",
+    "America Movil",
+    "MasOrange"
+   ],
+   "hq": "Madrid, Spain",
+   "name": "Telefonica",
+   "sector": "tmt",
+   "size": "Revenue about EUR 40B (2025, approx.); about 300M customers",
+   "subindustry": "telecom",
+   "ticker": "BME: TEF",
+   "updated": "2026-10-20"
+  },
+  "trivium-packaging": {
+   "businessModel": "Makes metal packaging such as food, seafood and pet food cans and aerosol containers for food, beauty and personal care brands in Europe and the Americas.",
+   "competitors": [
+    "Silgan",
+    "Crown Holdings",
+    "Ardagh Metal Packaging",
+    "Can-Pack",
+    "Massilly"
+   ],
+   "hq": "Amsterdam, Netherlands",
+   "name": "Trivium Packaging",
+   "sector": "consumer-retail",
+   "size": "Revenue about $3B (2025, per Ardagh)",
+   "subindustry": "cpg",
+   "ticker": "Private (Ontario Teachers' and Ardagh; being sold to Silgan/AIP)",
+   "updated": "2026-10-20"
   },
   "varonis": {
    "businessModel": "Data-security software that finds sensitive data, shows who can access it and flags misuse. Moving customers from on-premises licenses to SaaS subscriptions.",
@@ -114,18 +469,86 @@
    "subindustry": "software-cloud",
    "ticker": "NASDAQ: VRNS",
    "updated": "2026-10-19"
+  },
+  "visa": {
+   "businessModel": "Earns fees for authorizing, clearing and settling card payments between banks, with extra fees on cross-border transactions; banks issue the cards and take the credit risk.",
+   "competitors": [
+    "Mastercard",
+    "American Express",
+    "PayPal",
+    "UnionPay",
+    "Stripe"
+   ],
+   "hq": "San Francisco, CA",
+   "name": "Visa",
+   "sector": "financial-services",
+   "size": "Revenue about $40B (FY2025, approx.); world's largest card network",
+   "subindustry": "payments-fintech",
+   "ticker": "NYSE: V",
+   "updated": "2026-10-20"
+  },
+  "vodafone": {
+   "businessModel": "Sells mobile, broadband and business connectivity in Europe and Africa (including M-Pesa mobile money), earning monthly subscription fees.",
+   "competitors": [
+    "Deutsche Telekom",
+    "Orange",
+    "Telefonica",
+    "BT",
+    "MTN"
+   ],
+   "hq": "Newbury, UK",
+   "name": "Vodafone",
+   "sector": "tmt",
+   "size": "Revenue about EUR 37B (FY2025, approx.); about 370M mobile and broadband customers",
+   "subindustry": "telecom",
+   "ticker": "LSE: VOD",
+   "updated": "2026-10-20"
+  },
+  "w-r-berkley": {
+   "businessModel": "Underwrites specialty commercial property and casualty insurance through dozens of niche units, earning an underwriting margin plus investment income on the premiums it holds.",
+   "competitors": [
+    "Markel",
+    "Chubb",
+    "Travelers",
+    "AIG",
+    "Arch Capital",
+    "Kinsale"
+   ],
+   "hq": "Greenwich, CT",
+   "name": "W. R. Berkley",
+   "sector": "financial-services",
+   "size": "Revenue about $14B (2025, approx.); one of the largest US commercial lines insurers",
+   "subindustry": "insurance",
+   "ticker": "NYSE: WRB",
+   "updated": "2026-10-20"
+  },
+  "western-digital": {
+   "businessModel": "Makes hard disk drives, mostly high-capacity drives sold to cloud data centers for storing data cheaply at scale.",
+   "competitors": [
+    "Seagate",
+    "Toshiba",
+    "Sandisk",
+    "Samsung"
+   ],
+   "hq": "San Jose, CA",
+   "name": "Western Digital",
+   "sector": "tmt",
+   "size": "Revenue about $9-10B (FY2025, approx., after Sandisk spin-off)",
+   "subindustry": "semiconductors",
+   "ticker": "NASDAQ: WDC",
+   "updated": "2026-10-20"
   }
  },
  "sectors": {
   "advanced-industries": {
    "overview": "Advanced industries covers engineering-heavy manufacturers: carmakers and their suppliers, aircraft and defense companies, and makers of industrial machinery and equipment. Products take years to design and depend on long, global supply chains, so these companies are shaped by how full their factories are, trade policy and the cost of materials like steel. A large share of their profit often comes from servicing and spare parts after the original sale.",
-   "recap": "No stories filed yet. Related signals: US steel prices are up about 14% from a year ago, raising automakers' costs, and Stellantis fell about 2.5% Monday. GM, GE Aerospace, 3M and RTX report Tuesday; Tesla reports Wednesday.",
-   "recapUpdated": "2026-10-19"
+   "recap": "Earnings season opened strongly. GM beat on North American trucks, raised its cash flow outlook and added a $20B buyback, while GE Aerospace (orders up 49%) and RTX ($340B backlog) both raised 2026 guidance on booming aftermarket and defense demand. 3M lifted its EPS outlook and signed an optical connectivity deal with Amazon. Watch for supply chain limits on deliveries and the hit from high fuel on airline customers. Tesla reports Wednesday.",
+   "recapUpdated": "2026-10-20"
   },
   "consumer-retail": {
    "overview": "Consumer and retail covers the companies that make and sell what people buy day to day. That includes stores and online retailers, makers of food, drinks and household products, farm and food businesses, and travel and hospitality companies like airlines and hotels. Consumer spending is about two-thirds of the US economy, so these businesses rise and fall with how confident people feel and how much money they have left after essentials.",
-   "recap": "No consumer stories filed yet. The main pressure is fuel: diesel near $6.30 is adding freight surcharges and squeezing spending outside gas stations (see Transport & logistics). P&G reports Thursday.",
-   "recapUpdated": "2026-10-19"
+   "recap": "Costs are the theme. Silgan and American Industrial Partners agreed to buy can maker Trivium for $3.4B, a cost-synergy play in packaging for food and pet food brands. S&P Global warned the Hormuz shock is raising fertilizer and diesel costs for farmers, with food prices likely to feel the full squeeze in 2027. Diesel near $6.30 is also adding freight surcharges. P&G reports Thursday.",
+   "recapUpdated": "2026-10-20"
   },
   "energy-materials": {
    "overview": "Energy and materials covers the companies that pull resources out of the ground and turn them into fuel, power and raw materials. That includes oil and gas producers, the pipelines, ships and terminals that move their output, refineries and chemical plants, electric utilities and renewable developers, and miners and steelmakers. These are capital-heavy businesses that live with commodity prices they don't control, so returns depend on keeping costs low and investing at the right point in the cycle.",
@@ -159,6 +582,117 @@
   }
  },
  "subindustries": {
+  "aerospace-defense": {
+   "kpis": [
+    "Backlog in years of sales",
+    "Book-to-bill ratio (orders divided by sales)",
+    "Aircraft and engine delivery counts",
+    "Aftermarket share of revenue"
+   ],
+   "marketSize": {
+    "global": "~$900B-1T",
+    "globalNote": "Global A&D industry revenue (industry est., 2024 approx.)",
+    "us": "~$850B+",
+    "usNote": "US defense budget (FY2025, approx.)"
+   },
+   "operatingModel": "Engine and systems makers often sell original equipment near cost and earn high margins on decades of spare parts and services. Defense primes earn steady but capped margins (often about 10%) on government contracts, with large backlogs giving visibility.",
+   "overview": "Aerospace and defense covers makers of commercial aircraft, jet engines and aircraft systems, and suppliers of military equipment such as missiles, fighter jets and ships. Commercial aerospace sells to airlines and earns much of its profit from long-term aftermarket service, while defense sells mostly to governments under multi-year contracts. Both rely on deep, specialized supply chains with few qualified suppliers.",
+   "players": [
+    "Aircraft makers: Boeing and Airbus (a duopoly), plus Embraer and COMAC",
+    "Engine makers: GE Aerospace, Pratt & Whitney (RTX), Rolls-Royce, Safran",
+    "Defense primes: Lockheed Martin, RTX, Northrop Grumman, General Dynamics, BAE Systems",
+    "Structure: concentrated at the top, with high barriers from certification and security rules"
+   ],
+   "profileUpdated": "2026-10-20",
+   "sector": "advanced-industries",
+   "threats": [
+    "Supply chain failures and quality problems",
+    "Government budget cuts or delays",
+    "Airline bankruptcies when fuel prices spike",
+    "Export controls and political risk"
+   ],
+   "trends": [
+    "Aircraft deliveries lag demand, so airlines fly older planes longer and aftermarket service booms",
+    "Defense budgets are rising in Europe, the Middle East and Asia after wars in Ukraine and the Gulf",
+    "Munitions and air defense restocking is creating multi-year backlogs",
+    "Supply chain bottlenecks in castings, forgings and engines cap output",
+    "Consolidation among suppliers to secure scarce capacity"
+   ]
+  },
+  "agriculture-food": {
+   "kpis": [
+    "Urea and ammonia prices",
+    "Corn, wheat and soybean prices",
+    "Farmer input cost as % of crop revenue",
+    "Stocks-to-use ratios"
+   ],
+   "marketSize": {
+    "global": "~$9T+",
+    "globalNote": "Global food and agriculture value chain (World Bank/FAO est., approx.)",
+    "us": "~$1.5T",
+    "usNote": "US agriculture, food and related industries' GDP contribution (USDA ERS, 2023 approx.)"
+   },
+   "operatingModel": "Input suppliers earn margins tied to crop prices and energy costs; traders earn a small margin per ton on huge volumes plus logistics; farmers earn crop prices minus input costs. Fertilizer is made from natural gas, so gas prices drive fertilizer prices.",
+   "overview": "Agriculture and food covers the chain from farm inputs (seeds, fertilizer, crop protection, machinery) through farming and grain trading to food processing. Farmers sell crops and livestock at commodity prices they do not control, so their profits depend on input costs, weather and global trade. Large traders and processors move and transform crops, earning a margin on volume.",
+   "players": [
+    "Grain traders (the 'ABCD'): ADM, Bunge, Cargill, Louis Dreyfus",
+    "Fertilizer: Nutrien, Yara, CF Industries, Mosaic",
+    "Seeds and crop protection: Bayer, Corteva, Syngenta",
+    "Structure: millions of farms in the middle, with concentrated suppliers and buyers on either side"
+   ],
+   "profileUpdated": "2026-10-20",
+   "sector": "consumer-retail",
+   "threats": [
+    "Weather and climate shocks",
+    "Energy and fertilizer price spikes",
+    "Export bans and tariffs",
+    "Plant and animal disease outbreaks"
+   ],
+   "trends": [
+    "Hormuz disruption is raising fertilizer, sulfur and diesel costs for farmers",
+    "El Nino weather risk to crops in Brazil, Australia and Southeast Asia",
+    "Biofuel demand is supporting prices for vegetable oils and corn",
+    "Trade disputes shift grain flows between the US, China and Brazil",
+    "Precision farming and data tools to raise yields"
+   ]
+  },
+  "automotive-mobility": {
+   "kpis": [
+    "EBIT margin: about 5-10% for mass-market automakers",
+    "Global sales: about 90M vehicles a year",
+    "US SAAR (annualized sales rate): about 15-16M",
+    "Inventory days' supply at dealers"
+   ],
+   "marketSize": {
+    "global": "~90M vehicles/yr",
+    "globalNote": "Global light vehicle sales (S&P Global Mobility forecast, 2025 approx.)",
+    "us": "~16M vehicles/yr",
+    "usNote": "US light vehicle sales (2025 approx.)"
+   },
+   "operatingModel": "Automakers earn thin average margins (often 5-10% EBIT), with most profit from trucks, SUVs and luxury models, plus financing arms that earn interest on loans and leases. High fixed costs mean profits swing sharply with volume.",
+   "overview": "The automotive industry designs, builds and sells cars and trucks, and supplies the parts, financing and services around them. Automakers assemble vehicles from parts made by thousands of suppliers and sell through franchised dealers, earning more profit on large trucks and SUVs than on small cars. The industry is capital intensive and cyclical, rising and falling with consumer confidence and interest rates.",
+   "players": [
+    "Global leaders: Toyota, Volkswagen, Hyundai-Kia, GM, Stellantis, Ford",
+    "EV specialists: Tesla, BYD",
+    "Top suppliers: Bosch, Denso, ZF, Magna, CATL (batteries)",
+    "Structure: a handful of global automakers sitting on top of a deep supplier pyramid"
+   ],
+   "profileUpdated": "2026-10-20",
+   "sector": "advanced-industries",
+   "threats": [
+    "Chinese competitors with lower costs",
+    "Demand slowdown from high rates and fuel prices",
+    "Tariffs and trade disputes",
+    "Expensive EV transition"
+   ],
+   "trends": [
+    "EV adoption is slower than planned in the US, and automakers are writing down EV investments",
+    "Chinese automakers (BYD and others) are winning share in China and exports",
+    "Tariffs on imported vehicles, parts and steel raise costs",
+    "Software, driver assistance and autonomy are becoming new profit pools",
+    "High interest rates make auto loans expensive and slow sales"
+   ]
+  },
   "banking": {
    "kpis": [
     "Net interest margin: ~2.5–3% for large US banks",
@@ -194,6 +728,117 @@
     "AML and sanctions enforcement is stepping up, with record fines",
     "US capital rules are being eased, freeing capital for buybacks",
     "AI for fraud detection, operations and advice"
+   ]
+  },
+  "cpg": {
+   "kpis": [
+    "Organic sales growth split into price and volume",
+    "Gross margin: about 35-50%",
+    "Market share by category",
+    "Advertising spend as % of sales"
+   ],
+   "marketSize": {
+    "global": "~$2T+",
+    "globalNote": "Global packaged food, beverage, household and personal care sales (est., 2024)",
+    "us": "~$900B",
+    "usNote": "US CPG retail sales (est., 2024)"
+   },
+   "operatingModel": "CPG firms earn gross margins of roughly 35-50% because brands let them charge more than production costs, then spend heavily on advertising and retailer promotions. Growth comes from price increases, volume, and shifting the mix toward premium products.",
+   "overview": "Consumer packaged goods are the everyday branded products people buy often, such as food, drinks, cleaning products, cosmetics and pet food. CPG companies make or outsource production and sell through retailers, relying on brands and advertising to charge more than store brands. The supply chain behind them includes ingredient suppliers, packaging makers and distributors.",
+   "players": [
+    "Global leaders: Procter & Gamble, Nestle, Unilever, PepsiCo, Coca-Cola",
+    "Packaged food: Mondelez, Kraft Heinz, General Mills",
+    "Packaging suppliers: Crown, Ball, Silgan, Amcor",
+    "Structure: big brands dominate shelf space, but retailers hold growing bargaining power"
+   ],
+   "profileUpdated": "2026-10-20",
+   "sector": "consumer-retail",
+   "threats": [
+    "Private-label competition",
+    "Retailer pushback on prices",
+    "Commodity and packaging cost inflation",
+    "Shifts in consumer health habits"
+   ],
+   "trends": [
+    "Volumes are flat or falling as shoppers trade down after years of price increases",
+    "Store brands are taking share from national brands",
+    "Weight-loss drugs are changing demand for snacks and sugary drinks",
+    "Portfolio reshaping through spin-offs and acquisitions",
+    "Rising input, energy and packaging costs squeeze margins"
+   ]
+  },
+  "industrial-machinery": {
+   "kpis": [
+    "Organic growth",
+    "Operating margin (often 15-25% for top players)",
+    "Book-to-bill and backlog",
+    "Aftermarket share of revenue"
+   ],
+   "marketSize": {
+    "global": "~$3T+",
+    "globalNote": "Global industrial machinery and equipment sales (est., 2024)",
+    "us": "~$500B+",
+    "usNote": "US machinery shipments (est., 2024)"
+   },
+   "operatingModel": "Companies earn margins on equipment sales and higher, steadier margins on aftermarket parts and service. Pricing power comes from engineering know-how and installed base, and productivity programs drive margin expansion.",
+   "overview": "Industrial machinery covers companies that make equipment and components used by factories, construction, mining, energy and data centers, from engines and pumps to robots, tools and specialty materials. Customers buy this equipment when they invest, so sales follow the capital spending cycle. Many firms earn steady extra revenue from parts and service on the machines they have already sold.",
+   "players": [
+    "Diversified industrials: Honeywell, 3M, Siemens, ABB, Emerson",
+    "Heavy equipment: Caterpillar, Deere, Komatsu",
+    "Electrical and power equipment: Eaton, Schneider Electric, Vertiv",
+    "Structure: fragmented across niches, each often led by 2-3 global players"
+   ],
+   "profileUpdated": "2026-10-20",
+   "sector": "advanced-industries",
+   "threats": [
+    "A capital spending downturn",
+    "Tariffs on imported components",
+    "Litigation and environmental liabilities",
+    "Low-cost competition from Asia"
+   ],
+   "trends": [
+    "AI data center construction is lifting demand for power, cooling and connectivity equipment",
+    "Reshoring and tariffs are driving new US factory investment",
+    "Automation and robotics to offset labor shortages",
+    "Conglomerates are breaking up into focused companies",
+    "Shift toward recurring service and software revenue"
+   ]
+  },
+  "insurance": {
+   "kpis": [
+    "Combined ratio: below 100% means underwriting profit",
+    "Net premiums written growth",
+    "Return on equity: about 10-15% for good insurers",
+    "Catastrophe losses per quarter"
+   ],
+   "marketSize": {
+    "global": "~$7T+",
+    "globalNote": "Global insurance premiums (Swiss Re sigma, 2024 approx.)",
+    "us": "~$3T",
+    "usNote": "US insurance premiums, the world's largest market (Swiss Re, 2024 approx.)"
+   },
+   "operatingModel": "Insurers make money two ways: underwriting profit (premiums minus claims and expenses, shown by a combined ratio below 100%) and investment income on the float. Pricing discipline across the cycle is what separates top performers.",
+   "overview": "Insurance companies collect premiums from customers in exchange for paying their claims if something goes wrong. Property and casualty insurers cover homes, cars and businesses, life insurers cover death and retirement, and reinsurers insure the insurers. Because premiums come in before claims are paid, insurers invest that money, called float, and earn investment income.",
+   "players": [
+    "P&C: Chubb, Travelers, Allstate, Progressive, AIG, W. R. Berkley",
+    "Life and retirement: MetLife, Prudential, Allianz, AIA",
+    "Reinsurance: Munich Re, Swiss Re, Berkshire Hathaway",
+    "Structure: fragmented globally, with specialty niches led by a few experts"
+   ],
+   "profileUpdated": "2026-10-20",
+   "sector": "financial-services",
+   "threats": [
+    "Catastrophe losses and climate change",
+    "Reserve shortfalls from rising claims costs (social inflation)",
+    "Soft pricing cycles",
+    "Investment losses"
+   ],
+   "trends": [
+    "Commercial insurance pricing is softening after a multi-year hard market",
+    "Higher interest rates boost investment income",
+    "Bigger catastrophe losses from storms and wildfires",
+    "Private equity buying life insurers to manage their assets",
+    "AI used in underwriting and claims"
    ]
   },
   "internet-platforms": {
@@ -382,6 +1027,80 @@
     "Long-lead deepwater projects (Guyana, Brazil, Namibia) drive non-OPEC supply growth"
    ]
   },
+  "payers-providers": {
+   "kpis": [
+    "US health spending: about $4.9T, 17-18% of GDP",
+    "Medical loss ratio (often 85%+)",
+    "Medicare Advantage enrollment: about half of Medicare",
+    "Hospital operating margin"
+   ],
+   "marketSize": {
+    "global": "~$10T",
+    "globalNote": "Global health spending (WHO est., approx.)",
+    "us": "~$4.9T",
+    "usNote": "US national health expenditure, about 17-18% of GDP (CMS, 2023)"
+   },
+   "operatingModel": "Insurers earn the gap between premiums and medical costs, usually a low single-digit net margin. Providers earn fee-for-service payments or capped payments per patient, and PBMs earn fees plus a share of drug rebates and price spreads.",
+   "overview": "Payers and providers make up the business of delivering and paying for healthcare. Providers such as hospitals, physician groups and clinics deliver care, while payers such as insurers, employers and government programs like Medicare and Medicaid pay for it. In the US, pharmacy benefit managers sit in between, negotiating drug prices for insurers.",
+   "players": [
+    "Insurers: UnitedHealth, Elevance, CVS (Aetna), Cigna, Humana",
+    "PBMs: CVS Caremark, Express Scripts (Cigna), Optum Rx (UnitedHealth), about 80% of the market together",
+    "Hospitals: HCA, Tenet, CommonSpirit, plus nonprofit systems",
+    "Structure: concentrated payers and PBMs, fragmented but consolidating providers"
+   ],
+   "profileUpdated": "2026-10-20",
+   "sector": "healthcare",
+   "threats": [
+    "Rising utilization and medical costs",
+    "Medicare Advantage payment cuts",
+    "PBM and drug pricing regulation",
+    "Labor shortages at providers"
+   ],
+   "trends": [
+    "Rising medical cost trends squeezing insurer margins, especially in Medicare Advantage",
+    "Government scrutiny of PBM rebates and pricing",
+    "Vertical integration: insurers owning PBMs, pharmacies and physician groups",
+    "Shift of care from hospitals to outpatient and home settings",
+    "GLP-1 obesity drugs raising pharmacy spending"
+   ]
+  },
+  "payments-fintech": {
+   "kpis": [
+    "Payment volume (TPV)",
+    "Take rate (revenue as % of volume)",
+    "Cross-border volume growth",
+    "Stablecoin supply: about $305B (Sept 2026)"
+   ],
+   "marketSize": {
+    "global": "~$2.5T",
+    "globalNote": "Global payments revenue (McKinsey Global Payments Report, 2024 approx.)",
+    "us": "~$700B",
+    "usNote": "US payments revenue (est., 2024)"
+   },
+   "operatingModel": "Networks earn small per-transaction fees on huge volumes plus higher cross-border fees, with very high margins and no credit risk. Processors earn a percentage of each transaction (often 2-3% total cost to merchants, most of which is interchange paid to card-issuing banks).",
+   "overview": "Payments and fintech covers the networks, processors and apps that move money between people and businesses. Card networks like Visa and Mastercard connect the banks that issue cards to the banks that serve merchants, while processors and fintechs provide the software that lets merchants accept payments. Newer rails such as real-time bank payments and stablecoins compete with cards, especially across borders.",
+   "players": [
+    "Card networks: Visa and Mastercard (a duopoly outside China), plus American Express and UnionPay",
+    "Merchant processors: Stripe, Adyen, Fiserv, PayPal, Block",
+    "Stablecoin issuers: Tether, Circle",
+    "Structure: network effects create very concentrated networks with fragmented processors"
+   ],
+   "profileUpdated": "2026-10-20",
+   "sector": "financial-services",
+   "threats": [
+    "Real-time payments and stablecoins bypassing cards",
+    "Interchange fee caps",
+    "Fraud and cybersecurity",
+    "Big tech wallets capturing customers"
+   ],
+   "trends": [
+    "Stablecoin payments are growing fast, and card networks are building them into their rails",
+    "Real-time payment systems (Pix, UPI, FedNow) compete with cards",
+    "Embedded finance: non-banks offering payments and lending inside their apps",
+    "Regulators pressure interchange fees",
+    "Consolidation among merchant processors"
+   ]
+  },
   "pharma-biotech": {
    "kpis": [
     "R&D as % of sales",
@@ -416,6 +1135,43 @@
     "US pricing pressure: Medicare negotiation and most-favored-nation pricing deals",
     "Tariffs push companies to build US manufacturing",
     "Conglomerates splitting into focused businesses"
+   ]
+  },
+  "power-utilities": {
+   "kpis": [
+    "Allowed ROE: about 9-10% for US regulated utilities",
+    "Rate base growth: 6-9% a year for fast growers",
+    "US electricity demand: about 4,400 TWh a year",
+    "Interconnection queue: often 4-5+ years"
+   ],
+   "marketSize": {
+    "global": "~$3T+",
+    "globalNote": "Global electricity sector revenue (est., 2024)",
+    "us": "~$500B",
+    "usNote": "US retail electricity sales revenue (EIA, 2024 approx.)"
+   },
+   "operatingModel": "Regulated utilities earn an allowed return on equity (typically around 9-10% in the US) on their rate base, so profit grows by investing more capital. Independent generators earn the market price of power minus fuel costs, which makes them more volatile.",
+   "overview": "Power and utilities generate electricity and deliver electricity, gas and water to homes and businesses. In much of the US, utilities are regulated monopolies: a state commission sets their prices so they can recover costs and earn an allowed return on the grid and plants they build. Other markets separate generation, which competes on price, from transmission and distribution, which stay regulated.",
+   "players": [
+    "Regulated US utilities: NextEra, Duke, Southern, AEP, Dominion",
+    "Independent power producers: Vistra, Constellation, NRG",
+    "European integrated players: Iberdrola, Enel, EDF, RWE",
+    "Structure: local monopolies for wires; competitive wholesale generation in many regions"
+   ],
+   "profileUpdated": "2026-10-20",
+   "sector": "energy-materials",
+   "threats": [
+    "Regulators refusing rate increases as bills rise",
+    "Wildfire and storm liabilities",
+    "Rising interest rates and equity dilution",
+    "Data center demand that fails to materialize after utilities have built for it"
+   ],
+   "trends": [
+    "Data centers are driving the first sustained US power demand growth in decades",
+    "Large-load tariffs make big users like data centers pay for the generation and grid they need",
+    "Grid connection queues and transmission shortages delay new projects by years",
+    "Utilities are adding gas plants and batteries alongside renewables to keep supply firm",
+    "Higher interest rates raise the cost of funding large capital programs"
    ]
   },
   "real-estate-construction": {
@@ -455,6 +1211,43 @@
     "Labor shortages and tariffs raise building costs"
    ]
   },
+  "semiconductors": {
+   "kpis": [
+    "Global chip sales: about $800B a year",
+    "Gross margin (Nvidia ~70%+, memory far lower and cyclical)",
+    "Capex as % of sales",
+    "DRAM and NAND price trends"
+   ],
+   "marketSize": {
+    "global": "~$792B",
+    "globalNote": "Global semiconductor sales (SIA/WSTS, 2025)",
+    "us": "~$250B",
+    "usNote": "Americas chip sales (SIA, 2025 est.)"
+   },
+   "operatingModel": "Fabless designers earn high gross margins on intellectual property while foundries earn returns on very expensive factories (a leading-edge fab costs $20B+). Memory makers sell near-commodity products, so profits swing with prices.",
+   "overview": "The semiconductor industry designs and makes the chips inside every electronic device, from phones to data center servers. The work is split between chip designers, foundries that manufacture chips, memory makers, and suppliers of manufacturing equipment and materials. It is highly cyclical, because new factories take years to build and supply often overshoots demand.",
+   "players": [
+    "AI chips: Nvidia (dominant), AMD, Broadcom (custom chips)",
+    "Foundries: TSMC (about two-thirds of the market), Samsung, Intel",
+    "Memory: Samsung, SK hynix, Micron",
+    "Equipment: ASML, Applied Materials, Lam Research, Tokyo Electron, KLA"
+   ],
+   "profileUpdated": "2026-10-20",
+   "sector": "tmt",
+   "threats": [
+    "Cyclical oversupply",
+    "US-China export controls and Taiwan risk",
+    "Customer concentration in a few hyperscalers",
+    "AI spending slowdown"
+   ],
+   "trends": [
+    "AI data centers drive demand for GPUs, custom accelerators and high-bandwidth memory",
+    "Memory prices are rising as AI absorbs supply",
+    "Governments subsidize domestic chip factories (US CHIPS Act, EU, Japan)",
+    "Export controls limit advanced chip sales to China",
+    "Power and financing, not chips, increasingly limit AI buildouts"
+   ]
+  },
   "software-cloud": {
    "kpis": [
     "Rule of 40: growth % + profit margin % ≥ 40",
@@ -490,6 +1283,43 @@
     "Cybersecurity is consolidating as buyers want fewer vendors",
     "PE take-privates of slower-growth public software companies",
     "AI cloud specialists (CoreWeave, Nebius) carry high leverage and customer concentration"
+   ]
+  },
+  "telecom": {
+   "kpis": [
+    "ARPU (average revenue per user)",
+    "Monthly churn (often around 1% for postpaid)",
+    "EBITDA margin: about 30-40%",
+    "Capex intensity: about 15-20% of revenue"
+   ],
+   "marketSize": {
+    "global": "~$1.5T",
+    "globalNote": "Global telecom services revenue (industry est., 2024 approx.)",
+    "us": "~$400B+",
+    "usNote": "US telecom services revenue (est., 2024)"
+   },
+   "operatingModel": "Operators earn recurring subscription revenue with EBITDA margins of roughly 30-40%, but must reinvest about 15-20% of revenue every year in networks. Profit depends on keeping churn low and filling the network with more paying customers.",
+   "overview": "Telecom companies build and run networks that carry voice and data, selling mobile, broadband and TV subscriptions to consumers and connectivity to businesses. They spend heavily on spectrum licenses, towers and fiber, then recover that investment through monthly fees from millions of customers. Most markets have three or four main operators, and regulators control spectrum and mergers.",
+   "players": [
+    "US: Verizon, AT&T, T-Mobile US",
+    "Europe: Deutsche Telekom, Vodafone, Orange, Telefonica",
+    "Asia: China Mobile, NTT, Reliance Jio",
+    "Structure: 3-4 operators per country in a regulated oligopoly"
+   ],
+   "profileUpdated": "2026-10-20",
+   "sector": "tmt",
+   "threats": [
+    "Satellite and cable competitors",
+    "Spectrum auction costs",
+    "High debt and rising interest rates",
+    "Regulators blocking consolidation"
+   ],
+   "trends": [
+    "Satellite-to-phone services (SpaceX Starlink and others) threaten coverage advantages",
+    "Fiber broadband buildouts and fixed-wireless competition",
+    "Pressure in Europe to allow mergers and reduce the number of operators",
+    "Selling towers and fiber to infrastructure funds to cut debt",
+    "Flat revenue per user and price competition"
    ]
   },
   "transport-logistics": {

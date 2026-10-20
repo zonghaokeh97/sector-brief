@@ -295,5 +295,515 @@
   "subindustry": "real-estate-construction",
   "summary": "The NAHB builder sentiment index fell 3 points to 29, the weakest reading since June 2012, and 43% of builders cut prices. The 30-year mortgage rate averaged about 7.40%, near a three-year high, with the 10-year Treasury yield around 5.1%. The Fed is in its quiet period ahead of its Oct 27–28 decision; Q3 GDP and September PCE inflation come next week.",
   "tags": []
+ },
+ "2026-10-20-01": {
+  "companies": [
+   "saudi-aramco"
+  ],
+  "date": "2026-10-20",
+  "headline": "Brent holds near $110 as Houthis claim strikes on Saudi oil sites and Hormuz flows collapse",
+  "numbers": [
+   "Brent: $109.55/bbl (Dec contract)",
+   "Nov WTI: $103.66/bbl, +2.2%",
+   "Hormuz crude flows: ~8.5M b/d vs 20M+ a week earlier (Kpler)",
+   "Graham Act tariffs waived: 500% on Russian goods, 100% on top buyers"
+  ],
+  "order": 1,
+  "sector": "energy-materials",
+  "soWhat": "The market's problem is logistics, not sanctions: barrels exist but cannot move safely, so a policy that frees up Russian supply barely moves the price. Saudi Arabia's workaround, piping crude west to Yanbu on the Red Sea, is now itself a target, which removes the main bypass for Gulf exports. Winners are producers outside the Gulf (US shale, Brazil, Norway) and tanker owners; losers are Asian importers and airlines. The CEO question: if Hormuz stays impaired past the Nov 3 US midterms, what does our cost base look like at $110 oil for another quarter?",
+  "sources": [
+   {
+    "title": "Reuters via Yahoo Finance: Brent crude edges lower, even after Houthi attacks on Saudi infrastructure",
+    "url": "https://finance.yahoo.com/energy/articles/oil-slips-trumps-sanction-waiver-222256196.html"
+   },
+   {
+    "title": "HSF Kramer: Trump administration waives new Russia sanctions and tariffs under Graham Act",
+    "url": "https://www.hsfkramer.com/notes/sanctions/2026-posts/trump-administration-waives-new-russia-sanctions-and-tariffs-under-graham-act"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Brent settled at $109.55 a barrel on Monday, down 0.3% after last week's run to a five-month high, while expiring November WTI jumped 2.2% to $103.66, its highest settle since mid-September. Yemen's Houthis said they hit an Aramco facility in Yanbu, the Shaybah oilfield and two Saudi airports; Saudi Arabia had not confirmed the claims. Kpler data show crude flows through the Hormuz region fell to a seven-day average of about 8.5 million barrels a day last week, from over 20 million the week before, with at least 10 incidents involving commercial ships. On Friday, President Trump waived the new Graham Act tariffs and sanctions on buyers of Russian energy, but analysts said that does little for the physical shortage.",
+  "tags": []
+ },
+ "2026-10-20-02": {
+  "companies": [
+   "microsoft",
+   "nisource",
+   "nscale"
+  ],
+  "date": "2026-10-20",
+  "headline": "Microsoft signs a 20-year Indiana power deal with NiSource but drops a UK data center over grid delays",
+  "numbers": [
+   "Contract length: 20 years from 2028",
+   "New capacity: ~1.1 GW plus 600 MW battery storage",
+   "UK grid power for Loughton: possibly not until the 2030s",
+   "Microsoft UK investment plan: $30B (2025-28)"
+  ],
+  "order": 2,
+  "sector": "energy-materials",
+  "soWhat": "The binding constraint on AI is now electricity and grid connections, not chips. Hyperscalers will move capacity to wherever power can be delivered fastest, which favors US utilities with spare land, generation and supportive regulators, and penalizes congested grids like London's. The large-load tariff is the template to know: it lets a utility grow its rate base while shielding households from the cost. The question a utility CEO would ask: can we promise a 1 GW customer a firm connection date, and who pays if they walk away?",
+  "sources": [
+   {
+    "title": "DCD: Microsoft signs 20-year power deal with Indiana utility NiSource",
+    "url": "https://www.datacenterdynamics.com/en/news/microsoft-signs-20-year-power-deal-with-indiana-utility-nisource-for-planned-data-center-in-the-state/"
+   },
+   {
+    "title": "CGTN: Microsoft exits UK data center deal amid power delays",
+    "url": "https://news.cgtn.com/news/2026-10-19/Microsoft-exits-UK-data-center-deal-amid-power-delays-1RnjxWrKGvm/p.html"
+   }
+  ],
+  "subindustry": "power-utilities",
+  "summary": "Microsoft agreed a 20-year power supply deal with NiSource's generation arm for a planned data center campus in northern Indiana, starting in 2028. The deal grows NiSource's power portfolio by about 1.1 GW and includes 600 MW of battery storage under a tolling agreement, and it sits in a new large-load rate class where big users fund the generation and grid they need. The same weekend, Reuters reported that Microsoft ended its agreement for an Nscale data center in Loughton, Essex, after Nscale was told grid power might not arrive until the 2030s. Microsoft has a $30 billion UK investment plan for 2025 to 2028, half of it for cloud and AI infrastructure.",
+  "tags": []
+ },
+ "2026-10-20-03": {
+  "companies": [
+   "general-motors"
+  ],
+  "date": "2026-10-20",
+  "headline": "GM beats on North American trucks, lifts cash flow guidance and adds a $20 billion buyback",
+  "numbers": [
+   "Adj. EPS: $3.70, +32%",
+   "North America EBIT margin: 8.7% (vs 6.2%)",
+   "2026 adj. auto FCF guide: $11.5-12.5B (from $9.5-11.5B)",
+   "New buyback: $20B"
+  ],
+  "order": 3,
+  "sector": "advanced-industries",
+  "soWhat": "GM's profit engine is still full-size pickups and SUVs in North America; EVs and China are now being managed for losses, not growth. Returning cash through buybacks (share count down about 6% this year) signals management sees few better uses of capital than its own stock. The risk is concentration: a US consumer squeezed by $6 diesel and 7%+ mortgage rates is exactly the truck buyer GM depends on. The question for a CEO: how much of this margin is pricing power that could unwind if demand softens?",
+  "sources": [
+   {
+    "title": "GM press release: 2026 third-quarter results",
+    "url": "http://www.prnewswire.com/news-releases/gm-releases-2026-third-quarter-results-and-updates-full-year-2026-guidance-board-approves-new-20-billion-share-repurchase-authorization-declares-quarterly-dividend-302913358.html"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "General Motors earned adjusted EPS of $3.70 in the third quarter, up 32%, on revenue of $50.0 billion. Adjusted EBIT rose 22% to $4.1 billion, driven by North America, where the margin climbed to 8.7% from 6.2% a year ago. China equity income fell 60% to $32 million, and EV restructuring charges were $238 million in the quarter after $1.6 billion a year earlier. GM raised its 2026 adjusted automotive free cash flow outlook to $11.5 to $12.5 billion and approved a new $20 billion buyback after finishing a $6 billion program.",
+  "tags": []
+ },
+ "2026-10-20-04": {
+  "companies": [
+   "ge-aerospace"
+  ],
+  "date": "2026-10-20",
+  "headline": "GE Aerospace raises 2026 guidance again as orders jump 49%",
+  "numbers": [
+   "Q3 revenue: $14.1B, +16%",
+   "Orders: $19.0B, +49%",
+   "2026 adj. EPS guide: $8.00-8.10 (from $7.65-7.85)",
+   "LEAP deliveries: +5% in Q3"
+  ],
+  "order": 4,
+  "sector": "advanced-industries",
+  "soWhat": "Engine makers earn most of their profit from decades of spare parts and shop visits on the installed fleet, and that aftermarket is booming because airlines are flying old planes longer while Boeing and Airbus deliveries lag. High jet fuel actually helps demand for new, more efficient engines, but supply chain bottlenecks cap deliveries. Winners are GE and parts suppliers; losers are airlines paying more for maintenance. The question a client would ask: how long does this aftermarket boom last once new aircraft deliveries catch up?",
+  "sources": [
+   {
+    "title": "Quartz: GE Aerospace raises profit outlook in Q3 2026 earnings report",
+    "url": "https://qz.com/ge-aerospace-raises-2026-profit-forecast-engine-demand-102026"
+   },
+   {
+    "title": "TradingView: GE Aerospace posts Q3 2026 results",
+    "url": "https://www.tradingview.com/news/tradingview:2f7920f1e4823:0-ge-aerospace-posts-q3-2026-revenue-14-12b-profit-2-81b-adj-eps-2-25-raises-2026-guidance/"
+   },
+   {
+    "title": "Stock Titan: GE Aerospace 8-K guidance update",
+    "url": "https://www.stocktitan.net/sec-filings/GE/8-k-general-electric-co-reports-material-event-1cc7b6ff48f1.html"
+   }
+  ],
+  "subindustry": "aerospace-defense",
+  "summary": "GE Aerospace reported third-quarter revenue of $14.1 billion, up 16%, and adjusted EPS of $2.25, up 36%. Orders rose 49% to $19.0 billion. Commercial Engines and Services revenue grew 21%, with services up 17% and new equipment up 38%, though LEAP engine deliveries rose only 5%. The company raised its 2026 adjusted EPS outlook to $8.00 to $8.10 from $7.65 to $7.85, and lifted free cash flow guidance to $9.1 to $9.4 billion.",
+  "tags": []
+ },
+ "2026-10-20-05": {
+  "companies": [
+   "silgan",
+   "trivium-packaging"
+  ],
+  "date": "2026-10-20",
+  "headline": "Silgan and American Industrial Partners buy Trivium Packaging for $3.4 billion",
+  "numbers": [
+   "Deal value: ~$3.4B incl. debt",
+   "Price: 7.1x EBITDA, 4.8x with synergies",
+   "Expected synergies: $225M",
+   "Ownership: Silgan 60% / AIP 40%",
+   "Expected close: mid-2027"
+  ],
+  "order": 5,
+  "sector": "consumer-retail",
+  "soWhat": "This is consolidation in a mature, low-growth industry: the value comes from cost synergies (plants, purchasing, logistics), not growth. The structure is clever, because bringing in a PE partner lets Silgan buy scale while taking cash out and cutting leverage. For CPG customers such as food and pet food brands, fewer can suppliers means less negotiating power over packaging costs. The question a CEO would ask: are the $225 million of synergies realistic, and what will regulators demand in Europe?",
+  "sources": [
+   {
+    "title": "Quartz: Silgan to combine metal packaging unit with Trivium in $3.4B deal",
+    "url": "https://qz.com/silgan-trivium-metal-packaging-deal-101926"
+   },
+   {
+    "title": "CappNotes: Closing Look, Monday, October 19, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-monday-october-19-2026"
+   }
+  ],
+  "subindustry": "cpg",
+  "summary": "Silgan will combine its metal containers business with Trivium, a European maker of food, pet food and aerosol cans, in a deal valuing Trivium at about $3.4 billion including debt. The new company, Silgan Metal Containers and Closures, will be 60% owned by Silgan and 40% by funds of private equity firm American Industrial Partners, which will put in about $1.0 billion of cash equity. Silgan receives about $2.3 billion in cash to pay down debt and expects the deal to lift adjusted EPS and free cash flow by at least 15%. Trivium is priced at 7.1x trailing EBITDA, or 4.8x after $225 million of expected synergies; Silgan shares rose about 6%.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-20-06": {
+  "companies": [
+   "rtx"
+  ],
+  "date": "2026-10-20",
+  "headline": "RTX lifts 2026 outlook as sales rise 11% and backlog hits $340 billion",
+  "numbers": [
+   "Q3 sales: $25.0B, +11%",
+   "Backlog: $340B ($176B commercial, $164B defense)",
+   "New awards in Q3: $81B+",
+   "2026 adj. EPS guide: $7.65-7.75 (from $7.10-7.25)"
+  ],
+  "order": 6,
+  "sector": "advanced-industries",
+  "soWhat": "Two cycles are running at once: commercial aerospace aftermarket demand (old fleets flying longer) and defense restocking driven by wars in the Middle East and Ukraine. A backlog of more than three years of sales gives unusual visibility, so the constraint is factory output and supply chains, not demand. The weak cash flow and the airline-customer bankruptcy are the warning signs, because high jet fuel is pushing weaker airlines toward failure. The question for a client: can we add capacity fast enough to convert this backlog before the cycle turns?",
+  "sources": [
+   {
+    "title": "Grafa: RTX third quarter sales rise 11% to $25 billion",
+    "url": "https://grafa.com/en/news/united-states/rtx-q3-2026-sales-rise-11-percent-25-billion"
+   },
+   {
+    "title": "Stock Titan: RTX Reports Q3 2026 Results",
+    "url": "https://www.stocktitan.net/news/RTX/rtx-reports-q3-2026-2du25pmxdw6m.html"
+   }
+  ],
+  "subindustry": "aerospace-defense",
+  "summary": "RTX reported third-quarter sales of $25.0 billion, up 11%, with 12% organic growth, and adjusted EPS of $2.26, up 33%, including $0.25 from recovering tariff costs. Its backlog reached $340 billion, split $176 billion commercial and $164 billion defense, after more than $81 billion of new awards. All three segments grew, led by Raytheon defense sales up 14%, though Pratt & Whitney took a $363 million charge tied to a customer bankruptcy and free cash flow fell 47% to $2.1 billion. RTX raised its 2026 adjusted sales guidance to $97.0 to $97.5 billion and adjusted EPS to $7.65 to $7.75.",
+  "tags": []
+ },
+ "2026-10-20-07": {
+  "companies": [
+   "merck-kgaa",
+   "silence-therapeutics"
+  ],
+  "date": "2026-10-20",
+  "headline": "Merck KGaA agrees to buy RNA drug developer Silence Therapeutics for $1.3 billion",
+  "numbers": [
+   "Equity value: ~$1.3B, all cash",
+   "Enterprise value: $1.1B",
+   "Price: $20 per ADS",
+   "Silence share move: +126% on Monday"
+  ],
+  "order": 7,
+  "sector": "healthcare",
+  "soWhat": "A typical big-pharma move: buy a de-risked mid-stage asset plus a technology platform rather than build it, paying a large premium for a company the market valued at less than half the price. For a small biotech, a Phase 3 program and global launch are too costly to fund alone, so selling is often the best path to value. The question an acquirer's CEO would ask: is the platform worth more than the lead drug, and can we generate follow-on candidates from it?",
+  "sources": [
+   {
+    "title": "Silence Therapeutics DEFA14A filing (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001479615/000119312526425238/d189864dex999.htm"
+   },
+   {
+    "title": "CappNotes: Closing Look, Monday, October 19, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-monday-october-19-2026"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "Germany's Merck KGaA will buy London-based Silence Therapeutics in an all-cash deal with an equity value of about $1.3 billion and an enterprise value of $1.1 billion. The price is $20 per ADS, and Silence shares more than doubled on Monday, rising about 126%. Silence develops siRNA drugs, which silence specific disease-causing genes, and its lead candidate divesiran has shown strong Phase 2 data in polycythemia vera, a rare blood cancer. Silence said Merck's scale and commercial reach will speed divesiran into Phase 3.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-20-08": {
+  "companies": [],
+  "date": "2026-10-20",
+  "headline": "Canada's inflation rises to 3.1% on a 28% jump in gasoline prices",
+  "numbers": [
+   "Headline CPI: 3.1% y/y (Aug: 3.0%)",
+   "Gasoline: +27.8% y/y",
+   "Core (CPI-median/trim): 1.9% / 1.8%",
+   "BoC policy rate: 2.25%, next decision Oct 28"
+  ],
+  "order": 8,
+  "sector": "macro",
+  "soWhat": "This is the global pattern in one data release: headline inflation pushed above target by energy, while underlying inflation stays near 2%. Central banks face a choice between looking through an oil shock and hiking to stop it spreading into wages and expectations. Rate hikes in Canada, the US and Japan would raise borrowing costs for leveraged businesses, housing and infrastructure. The question a CFO would ask: are we planning for rates going up again in 2027, not down?",
+  "sources": [
+   {
+    "title": "IndexBox: Canada inflation hits 3.1% in September ahead of BoC decision",
+    "url": "https://www.indexbox.io/blog/canada-inflation-rises-to-31-in-september-on-energy-prices/"
+   },
+   {
+    "title": "CappNotes: Closing Look, Monday, October 19, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-monday-october-19-2026"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "Canada's consumer prices rose 3.1% in September from a year earlier, up from 3.0% in August and just below the 3.2% economists expected. Energy prices were up 19% and gasoline 27.8%, while air fares rose 19.4%. The Bank of Canada's preferred core measures stayed calm, with CPI-median at 1.9% and CPI-trim at 1.8%. The policy rate is 2.25%, and markets expect a hold at the October 28 decision but are pricing a quarter-point hike in December.",
+  "tags": []
+ },
+ "2026-10-20-09": {
+  "companies": [],
+  "date": "2026-10-20",
+  "headline": "Indonesian stocks extend their rout after MSCI proposes cutting the country out of emerging markets",
+  "numbers": [
+   "Monday move: -3.6% (Jakarta Composite ~4,997)",
+   "Friday move: -11%, worst day in 28 years",
+   "Foreign net outflows 2026: $4.9B",
+   "MSCI decision due: by end-June 2027"
+  ],
+  "order": 9,
+  "sector": "macro",
+  "soWhat": "Index inclusion is a real business driver: passive funds must own what is in the index, so a downgrade turns into forced selling and a higher cost of capital for every listed Indonesian company. Expect Indonesian firms to delay listings and lean on bank or local funding, and foreign buyers to find cheaper assets in nickel, banks and consumer names. The question for a client with Indonesian operations: how exposed are our local partners to a funding squeeze, and is this a buying opportunity?",
+  "sources": [
+   {
+    "title": "Euronews: Indonesian stocks plunge 11% as MSCI proposes emerging market downgrade",
+    "url": "https://www.euronews.com/2026/10/16/indonesian-stocks-plunge-11-as-msci-proposes-emerging-market-downgrade"
+   },
+   {
+    "title": "CappNotes: Closing Look, Monday, October 19, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-monday-october-19-2026"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "Jakarta's main index fell another 3.6% on Monday to about 4,997, after an 11% plunge on Friday that was its worst day in 28 years. MSCI opened a consultation on moving Indonesia from Emerging Market to Standalone Market status, citing unclear shareholding structures, suspected coordinated trading and market dysfunction. Funds that track MSCI emerging-market indexes could be forced to sell Indonesian holdings, and foreign investors had already pulled a net $4.9 billion this year. The index was down about 39% since January as of Friday and the rupiah about 8%; MSCI's final decision is due by end of June 2027.",
+  "tags": []
+ },
+ "2026-10-20-10": {
+  "companies": [
+   "steel-dynamics"
+  ],
+  "date": "2026-10-20",
+  "headline": "Steel Dynamics ships a record 3.78 million tons as prices reach $1,400 a ton, but misses its own guidance",
+  "numbers": [
+   "Q3 EPS: $5.26 (vs $2.74 a year ago)",
+   "Record shipments: 3.78M tons",
+   "Avg. steel price: $1,400/ton, +$102 q/q",
+   "Scrap cost: $404/ton"
+  ],
+  "order": 10,
+  "sector": "energy-materials",
+  "soWhat": "US steelmakers are enjoying a tariff-protected market: imports are near historic lows, so domestic mills set prices, and electric-arc producers like Steel Dynamics profit from the gap between steel prices and scrap costs. The flip side is higher input costs for automakers, appliance makers and builders. The aluminum mill is a bet on the same playbook in auto and can sheet. The question for a manufacturing client: how much of our margin depends on trade protection that a future administration could remove?",
+  "sources": [
+   {
+    "title": "Steel Dynamics Q3 2026 results (SEC 8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001022671/000110465926117217/tm2627861d2_ex99-1.htm"
+   },
+   {
+    "title": "CappNotes: Closing Look, Monday, October 19, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-monday-october-19-2026"
+   }
+  ],
+  "subindustry": "metals-mining",
+  "summary": "Steel Dynamics earned $756 million, or $5.26 a share, in the third quarter, nearly double a year ago, on sales of $6.5 billion. It shipped a record 3.78 million tons of steel, and its average external steel price rose $102 from the prior quarter to $1,400 a ton while scrap costs fell to $404 a ton. EPS fell short of the company's own guidance, and shares dropped about 5% after hours. Its new aluminum flat-rolled business lost $26 million but was roughly break-even on EBITDA, with automotive shipments due to start before year-end.",
+  "tags": []
+ },
+ "2026-10-20-11": {
+  "companies": [
+   "3m",
+   "amazon"
+  ],
+  "date": "2026-10-20",
+  "headline": "3M raises its 2026 profit outlook and signs a data center optics deal with Amazon",
+  "numbers": [
+   "Adj. EPS: $2.50, +12%",
+   "Adj. operating margin: 26.2%",
+   "2026 adj. EPS guide: $9.10-9.15",
+   "Amazon deal: warrants for 3.2M shares tied to $6B of purchases"
+  ],
+  "order": 11,
+  "sector": "advanced-industries",
+  "soWhat": "3M is a turnaround story: slow organic growth, but margins rising through cost cuts after spinning off healthcare and settling PFAS claims. The Amazon deal shows how an old industrial can tap AI spending by selling components (fiber connectors) into data centers. Warrants tied to purchase volume are a growing way for suppliers to lock in hyperscaler orders. The question a CEO would ask: which of our product lines can be repositioned toward the AI buildout?",
+  "sources": [
+   {
+    "title": "3M press release: Third-quarter 2026 results",
+    "url": "https://news.3m.com/2026-10-20-3M-Reports-Third-Quarter-2026-Results-Raises-Full-Year-EPS-Guidance"
+   }
+  ],
+  "subindustry": "industrial-machinery",
+  "summary": "3M's adjusted EPS rose 12% to $2.50 in the third quarter on adjusted sales of $6.6 billion, with adjusted organic growth of 3.3% and an adjusted operating margin of 26.2%, up 1.1 points. It raised its 2026 adjusted EPS outlook to $9.10 to $9.15 and expects adjusted free cash flow of about $4.8 billion. 3M expanded its relationship with Amazon for optical connectivity and data center products, giving Amazon warrants for up to 3.2 million 3M shares tied to $6 billion of purchases over seven years. Litigation and PFAS exit costs were $0.19 a share in the quarter.",
+  "tags": []
+ },
+ "2026-10-20-12": {
+  "companies": [],
+  "date": "2026-10-20",
+  "headline": "S&P Global warns the Hormuz energy shock could become a food crisis in 2027",
+  "numbers": [
+   "Urea trade via Hormuz: ~29%",
+   "Merchant ammonia via Hormuz: ~21%",
+   "Crude-to-diesel gap: $100+/bbl (normal $12-20)",
+   "Brazil soybean forecast: cut 6Mt to 177Mt"
+  ],
+  "order": 12,
+  "sector": "consumer-retail",
+  "soWhat": "Energy shocks reach food with a lag: farmers buy fertilizer months before planting, so today's input costs show up as smaller harvests and higher food prices next year. Winners are fertilizer producers with cheap gas outside the Gulf (North America) and grain exporters; losers are import-dependent countries, food processors and restaurants facing higher ingredient costs. The question for a food company CEO: should we lock in 2027 grain and oilseed supply now?",
+  "sources": [
+   {
+    "title": "S&P Global: Out of Hormuz energy shocks, the ingredients for a global food crisis",
+    "url": "https://press.spglobal.com/2026-10-19-Out-of-Hormuz-Energy-Shocks,-the-Ingredients-for-a-Global-Food-Crisis"
+   }
+  ],
+  "subindustry": "agriculture-food",
+  "summary": "S&P Global said the Hormuz disruption is squeezing farmers through fertilizer and diesel. About 29% of global urea trade, nearly half of sulfur trade and about 21% of merchant ammonia trade normally pass through the strait, and the crude-to-diesel price gap, usually $12 to $20 a barrel, rose above $100 in early September. India relies on LNG for about 85% of its domestic urea output, and Bangladesh has shut four of its five urea plants since March. Combined with El Nino, S&P cut its Brazil soybean forecast by 6 million tons to 177 million and warned food prices may not feel the full squeeze until 2027.",
+  "tags": []
+ },
+ "2026-10-20-13": {
+  "companies": [
+   "micron",
+   "western-digital"
+  ],
+  "date": "2026-10-20",
+  "headline": "Chip stocks snap their longest losing streak since 2008 as memory makers rally",
+  "numbers": [
+   "SOX: +1.6% to 11,316; 8-day losing streak ended",
+   "Western Digital: +6.1%; Micron: +3.0%",
+   "SemiAnalysis forecast: 50 GW new data center capacity in 2027",
+   "CoreWeave bond yield: ~15%"
+  ],
+  "order": 13,
+  "sector": "tmt",
+  "soWhat": "The market is separating AI winners by balance sheet: chip and memory suppliers with real orders bounce, while debt-funded neoclouds and recent IPOs stay under pressure. Memory is the most cyclical part of semis, and a forecast of 50 GW of new capacity means demand for high-bandwidth memory and storage could stay tight into 2027. The question for an investor client: is AI demand now limited by power and financing rather than chips, and who is exposed if the financing dries up?",
+  "sources": [
+   {
+    "title": "CappNotes: Closing Look, Monday, October 19, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-monday-october-19-2026"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "The Philadelphia Semiconductor Index rose 1.6% on Monday to 11,316, ending an eight-session losing streak, its longest since 2008, and the Nasdaq gained 1.1%. Memory and storage names led after research firm SemiAnalysis projected 50 GW of new data center capacity in 2027: Western Digital rose 6.1%, Sandisk 5.5% and Micron 3.0%. Not everything recovered: Cerebras fell 5% to a 52-week low after an analyst target cut and a lockup expiry freeing about 19.4 million shares. CoreWeave's bonds still yield about 15%, a sign credit markets remain wary of debt-funded AI buildouts.",
+  "tags": []
+ },
+ "2026-10-20-14": {
+  "companies": [
+   "deutsche-telekom",
+   "orange",
+   "telefonica",
+   "vodafone"
+  ],
+  "date": "2026-10-20",
+  "headline": "Europe's four biggest telecom groups explore a joint bid for satellite-to-phone spectrum",
+  "numbers": [
+   "Carriers: 4 (DT, Orange, Telefonica, Vodafone)",
+   "Deutsche Telekom 2025 revenue: EUR 119.1B",
+   "Orange 2025 revenue: EUR 40.4B",
+   "Satellite partner: not yet chosen"
+  ],
+  "order": 14,
+  "sector": "tmt",
+  "soWhat": "Direct-to-device satellite service threatens carriers' biggest advantage, nationwide coverage, if a satellite player like SpaceX's Starlink can offer it directly to consumers. By bidding together, Europe's incumbents try to own the spectrum and keep satellites as a supplier rather than a competitor. It also fits EU goals of not depending on US space infrastructure. The question a telecom CEO would ask: do we partner with satellite operators, or risk them becoming the network?",
+  "sources": [
+   {
+    "title": "Vodafone: Four European operators sign Letter of Intent to explore a joint bid for MSS spectrum",
+    "url": "https://www.vodafone.com/news/newsroom/technology/four-european-operators-sign-letter-of-intent-to-explore-a-joint-bid-for-mobile-satellite-services"
+   },
+   {
+    "title": "Quartz: Four European carriers explore joint bid for satellite spectrum",
+    "url": "https://qz.com/european-carriers-joint-satellite-spectrum-bid-101926"
+   }
+  ],
+  "subindustry": "telecom",
+  "summary": "Deutsche Telekom, Orange, Telefonica and Vodafone signed a letter of intent on Monday to explore a joint bid for future European spectrum for mobile satellite services, which lets satellites connect directly to ordinary phones. The carriers would build ground networks and coordination in Europe but would not invest directly in a satellite constellation; a satellite partner has not been chosen. They framed the plan around European sovereignty and open access for all mobile operators. Together the four serve well over a billion customers, and Deutsche Telekom alone had 2025 revenue of 119 billion euros.",
+  "tags": []
+ },
+ "2026-10-20-15": {
+  "companies": [],
+  "date": "2026-10-20",
+  "headline": "CMS proposes flat fees for drug middlemen and tighter directory rules for Medicare Advantage",
+  "numbers": [
+   "PBM pay in Part D: flat fees only (proposed)",
+   "Directory checks: at least every 90 days",
+   "Effective: mostly 2028",
+   "Past CMS review: 5%-93% of listings inaccurate"
+  ],
+  "order": 15,
+  "sector": "healthcare",
+  "soWhat": "This hits the core PBM business model, which earns money from a share of rebates and price spreads; flat fees turn PBMs into service providers with lower, more predictable margins. The biggest exposure is at vertically integrated insurers that own PBMs (UnitedHealth's Optum, CVS's Caremark, Cigna's Express Scripts). Drugmakers may benefit if list-price inflation stops paying off. The question for a payer CEO: how much of our PBM profit is tied to rebates, and what replaces it?",
+  "sources": [
+   {
+    "title": "Healthcare Dive: CMS proposes rule to clean up MA provider directories, shine light on PBMs",
+    "url": "https://healthcaredive.com/news/cms-proposes-rule-clean-up-ma-provider-directories-pbms/833325"
+   }
+  ],
+  "subindustry": "payers-providers",
+  "summary": "The Centers for Medicare and Medicaid Services proposed a rule that would limit pharmacy benefit managers in Medicare Part D to flat service fees that cannot depend on a drug's price, rebates or formulary placement. PBMs would have to pass rebates through to plan sponsors and report their compensation each year. Medicare Advantage plans would have to verify provider directories at least every 90 days, and seniors who go out of network because of a wrong listing would pay only in-network cost-sharing. Most provisions would take effect in 2028.",
+  "tags": []
+ },
+ "2026-10-20-16": {
+  "companies": [
+   "hudson-pacific"
+  ],
+  "date": "2026-10-20",
+  "headline": "The 10-year Treasury yield climbs to 5.15%, hitting REITs and utilities",
+  "numbers": [
+   "10-year Treasury: 5.15% (+6 bp)",
+   "30-year Treasury: 5.48%",
+   "Hudson Pacific: -12% on a downgrade",
+   "Odds of Fed hold Oct 28: ~85%"
+  ],
+  "order": 16,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Real estate is valued off long-term rates: when the 10-year yield rises, property values fall (cap rates rise) and refinancing gets more expensive. Office landlords with heavy debt maturities are the weakest, while owners with low leverage can buy distressed assets. Utilities fall for the same reason, as their dividends look less attractive next to 5% Treasuries. The question for a real estate client: which of our loans mature in the next two years, and at what rate can we refinance?",
+  "sources": [
+   {
+    "title": "CappNotes: Closing Look, Monday, October 19, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-monday-october-19-2026"
+   },
+   {
+    "title": "Dividend Channel: Utilities and financial stocks lead Monday's sector declines",
+    "url": "https://www.dividendchannel.com/article/202610/utilities-and-financial-stocks-lead-monday-s-sector-declines-XLU10192026spxldr.htm/"
+   }
+  ],
+  "subindustry": "real-estate-construction",
+  "summary": "Long-term US Treasury yields rose on Monday, with the 10-year up 6 basis points to 5.15% and the 30-year at 5.48%. Rate-sensitive sectors fell the most: utilities dropped 2.0% and real estate 1.2%, even as the Nasdaq rose. Office and studio landlord Hudson Pacific fell 12% after a Piper Sandler downgrade citing higher rates. Prediction markets see about an 85% chance the Fed holds at its Oct 27-28 meeting, while a December hike is about 90% priced.",
+  "tags": []
+ },
+ "2026-10-20-17": {
+  "companies": [
+   "w-r-berkley"
+  ],
+  "date": "2026-10-20",
+  "headline": "W. R. Berkley's operating profit edges up, but premium growth slows to 1%",
+  "numbers": [
+   "Operating EPS: $1.17, +6%",
+   "Net premiums written: $3.27B, +1.3%",
+   "Combined ratio: 90.8%",
+   "Operating ROE: 18.8% (vs 21.0%)"
+  ],
+  "order": 17,
+  "sector": "financial-services",
+  "soWhat": "Commercial insurance pricing is softening after several years of hard-market rate increases, so growth is slowing even at top underwriters. Higher interest rates are cushioning the slowdown, since insurers invest premiums before paying claims and earn more on that float. The question an insurance CEO would ask: do we hold underwriting discipline and shrink, or chase volume as prices soften?",
+  "sources": [
+   {
+    "title": "W. R. Berkley Q3 2026 earnings release (SEC 8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000011544/000001154426000046/wrb93020268-kex991.htm"
+   },
+   {
+    "title": "CappNotes: Closing Look, Monday, October 19, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-monday-october-19-2026"
+   }
+  ],
+  "subindustry": "insurance",
+  "summary": "W. R. Berkley reported third-quarter operating EPS of $1.17, up 6%, while net income fell 13% to $446 million. Net premiums written grew just 1.3% to $3.27 billion, and its combined ratio was 90.8%, meaning it kept about 9 cents of underwriting profit per dollar of premium. Catastrophe losses rose 9% to $86 million, and net investment income climbed 9% to $384 million. Operating return on equity was 18.8%, down from 21.0%, and shares fell about 2% after hours.",
+  "tags": []
+ },
+ "2026-10-20-18": {
+  "companies": [
+   "mastercard",
+   "visa",
+   "stripe"
+  ],
+  "date": "2026-10-20",
+  "headline": "Stablecoin payments jump 45% this year as Visa, Mastercard and Stripe link crypto to cards",
+  "numbers": [
+   "Stablecoin payments: $482B in 9M 2026, +45%",
+   "Payment count: 1B+, +71%",
+   "Stablecoin supply: ~$305B, flat",
+   "Stablecoin card spend: $3.9B, ~10x"
+  ],
+  "order": 18,
+  "sector": "financial-services",
+  "soWhat": "Card networks are choosing to embrace stablecoins rather than be bypassed by them: they plug the new rails into their existing networks and keep earning fees on risk, fraud and settlement services. The real growth is cross-border business payments, where stablecoins are faster and cheaper than correspondent banking, which threatens banks' foreign exchange and wire revenue. The question a bank CEO would ask: should we issue or support stablecoins ourselves before fintechs take our cross-border clients?",
+  "sources": [
+   {
+    "title": "CoinDesk: Stablecoin supply stalls but payments jump 45%",
+    "url": "https://coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash"
+   }
+  ],
+  "subindustry": "payments-fintech",
+  "summary": "Stablecoin payments reached $482 billion in the first nine months of 2026, up 45% from a year earlier, according to Allium data reported by CoinDesk, while the number of payments rose 71% to over 1 billion. Total stablecoin supply was flat at about $305 billion, and stablecoin card spending hit $3.9 billion, about ten times last year. Mastercard launched a platform with BVNK, the stablecoin firm it bought in August, linking stablecoin balances to card spending and bank payouts. Visa began stablecoin prefunding for cross-border payouts using Circle's USDC, and Stripe is working with Plasma on multi-currency cards.",
+  "tags": []
  }
 }

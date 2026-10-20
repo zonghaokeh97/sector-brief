@@ -245,5 +245,252 @@
     "subindustry": "oil-gas-upstream"
    }
   ]
+ },
+ "2026-10-20": {
+  "date": "2026-10-20",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "RTX reported $176B of commercial and $164B of defense backlog, about half each. That is more than three years of sales, so the constraint is output, not demand.",
+    "id": "2026-10-20:x01",
+    "kind": "today",
+    "options": [
+     "Almost all defense",
+     "About half commercial, half defense",
+     "Almost all commercial",
+     "Mostly space programs"
+    ],
+    "prompt": "RTX's backlog reached $340 billion. Roughly how is it split?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-20-06",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 1,
+    "explanation": "Passive funds must own what is in the index, so a downgrade turns into forced selling. Jakarta's index fell 11% on Friday and another 3.6% on Monday, after $4.9B of foreign outflows this year.",
+    "id": "2026-10-20:x02",
+    "kind": "today",
+    "options": [
+     "MSCI would ban foreign investors from buying Indonesian shares",
+     "Index funds would have to sell, raising Indonesian firms' cost of capital",
+     "Indonesian companies would have to stop paying dividends",
+     "The government would be forced to devalue the rupiah"
+    ],
+    "prompt": "MSCI proposed moving Indonesia out of its Emerging Markets index. Why does that hurt Indonesian companies even if their businesses are unchanged?",
+    "sector": "macro",
+    "storyId": "2026-10-20-09",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 2,
+    "explanation": "PBMs earn much of their money from a share of rebates and price spreads; flat fees cut that link. The three biggest PBMs (Optum Rx, Caremark, Express Scripts) are owned by UnitedHealth, CVS and Cigna.",
+    "id": "2026-10-20:x03",
+    "kind": "today",
+    "options": [
+     "Hospital chains such as HCA",
+     "Generic drug makers",
+     "Insurers that own big PBMs, such as UnitedHealth, CVS and Cigna",
+     "Medical device makers"
+    ],
+    "prompt": "CMS proposed that PBMs in Medicare Part D be paid only flat service fees. Which companies are most exposed?",
+    "sector": "healthcare",
+    "storyId": "2026-10-20-15",
+    "subindustry": "payers-providers"
+   },
+   {
+    "answer": 0,
+    "explanation": "Direct-to-device satellite service could erode carriers' coverage advantage. The four would own the spectrum and build ground networks, while a satellite partner (not yet chosen) supplies the constellation.",
+    "id": "2026-10-20:x04",
+    "kind": "today",
+    "options": [
+     "To keep satellite players as suppliers instead of direct competitors for coverage",
+     "To launch their own satellite constellation and stop using towers",
+     "Because EU rules require all operators to merge their networks",
+     "To sell the spectrum to SpaceX at a profit"
+    ],
+    "prompt": "Why are Deutsche Telekom, Orange, Telefonica and Vodafone exploring a joint bid for satellite-to-phone spectrum?",
+    "sector": "tmt",
+    "storyId": "2026-10-20-14",
+    "subindustry": "telecom"
+   },
+   {
+    "answer": 3,
+    "explanation": "Silence's lead drug divesiran has strong Phase 2 data, and Merck's scale and commercial reach can speed it into Phase 3. A mid-stage biotech usually can't fund late trials and launch cheaply, so a sale captures value now.",
+    "id": "2026-10-20:x05",
+    "kind": "today",
+    "options": [
+     "Its drug has already been approved and launched",
+     "Regulators require biotechs to partner with big pharma",
+     "Big pharma pays for drugs only after patents expire",
+     "Funding Phase 3 trials and a global launch alone is very costly"
+    ],
+    "prompt": "Merck KGaA is paying about $1.3B for Silence Therapeutics, whose shares jumped about 126%. Why does a small biotech often sell at this stage?",
+    "sector": "healthcare",
+    "storyId": "2026-10-20-07",
+    "subindustry": "pharma-biotech"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 2,
+    "explanation": "Kpler shows Hormuz crude flows fell to about 8.5M b/d last week from over 20M the week before. The oil exists but can't be shipped safely, so freeing up Russian supply on paper barely changes the physical shortage.",
+    "id": "2026-10-20:q01",
+    "kind": "today",
+    "options": [
+     "OPEC+ cut output at the same time to offset Russian barrels",
+     "Russian oil exports were already banned worldwide by the EU",
+     "The shortage is physical: Gulf oil can't move safely through Hormuz",
+     "US shale producers announced large production cuts the same day"
+    ],
+    "prompt": "President Trump waived the new tariffs on buyers of Russian energy, yet Brent stayed near $110. Why did the waiver do so little?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-20-01",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 0,
+    "explanation": "Microsoft's NiSource deal uses a large-load rate class where big users fund the capacity they need, protecting existing customers. Connection timing is the other make-or-break issue: Microsoft just walked away from a UK site where grid power might not arrive until the 2030s.",
+    "id": "2026-10-20:q02",
+    "kind": "today",
+    "options": [
+     "Whether a large-load tariff makes the data center fund the new generation and grid, and how fast a firm connection can be delivered",
+     "Whether the utility can raise residential rates enough to pay for the new plants",
+     "Whether the data center will buy rooftop solar for its own buildings",
+     "Whether the utility's stock price would rise on the announcement"
+    ],
+    "prompt": "A US utility client is asked to supply a new 1 GW data center campus. What should you look at first?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-20-02",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 3,
+    "explanation": "GM approved a new $20B multi-year buyback after completing a $6B program announced in January. The $6B figure is tempting but is the old program; GM's share count is down about 6% this year.",
+    "id": "2026-10-20:q03",
+    "kind": "today",
+    "options": [
+     "$2 billion",
+     "$6 billion",
+     "$10 billion",
+     "$20 billion"
+    ],
+    "prompt": "How large is the new share buyback GM approved alongside its Q3 results?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-20-03",
+    "subindustry": "automotive-mobility"
+   },
+   {
+    "answer": 1,
+    "explanation": "Engine makers often sell new engines at thin margins and earn most profit over decades of aftermarket service. With airlines flying older planes longer, services grew 17% and GE raised its 2026 EPS guide to $8.00-8.10.",
+    "id": "2026-10-20:q04",
+    "kind": "today",
+    "options": [
+     "Selling new engines at high margins to Boeing and Airbus",
+     "Spare parts, repairs and service on the engines already flying",
+     "Leasing aircraft to airlines",
+     "Government research grants for new engine designs"
+    ],
+    "prompt": "GE Aerospace's orders jumped 49% while LEAP engine deliveries rose only 5%. Where does an engine maker like GE earn most of its profit?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-20-04",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 2,
+    "explanation": "Metal cans are a mature, low-growth market, so the value comes from combining plants, purchasing and logistics. If the $225M of synergies arrive, the effective price falls from 7.1x to 4.8x EBITDA; if they don't, Silgan paid a full price.",
+    "id": "2026-10-20:q05",
+    "kind": "today",
+    "options": [
+     "The deal only works if Trivium grows sales quickly",
+     "Silgan is paying a high premium for a fast-growing business",
+     "Most of the value depends on delivering cost synergies in a mature industry",
+     "Private equity partner AIP is taking all the integration risk"
+    ],
+    "prompt": "Trivium is priced at 7.1x EBITDA, but only 4.8x after $225M of expected synergies. What does that gap tell you about the Silgan deal?",
+    "sector": "consumer-retail",
+    "storyId": "2026-10-20-05",
+    "subindustry": "cpg"
+   },
+   {
+    "answer": 0,
+    "explanation": "Gasoline was up 27.8% and energy 19%, while CPI-median (1.9%) and CPI-trim (1.8%) stayed near target. That is an oil shock, not broad inflation, though markets still price a December hike in case it spreads. Food was actually one of the softer items.",
+    "id": "2026-10-20:q06",
+    "kind": "today",
+    "options": [
+     "Price rises are driven by energy and haven't yet spread across the economy",
+     "Wages are rising fast and pushing up all prices",
+     "The Bank of Canada has kept interest rates too low for years",
+     "Food prices are the main driver of inflation"
+    ],
+    "prompt": "Canada's headline inflation rose to 3.1%, but core measures were 1.8-1.9%. What does that combination mainly signal?",
+    "sector": "macro",
+    "storyId": "2026-10-20-08",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 2,
+    "explanation": "An exporter buys gas near $3, liquefies and ships it, and sells near $29. That spread is the margin. European and Asian buyers pay the high price, and US households just see normal domestic prices.",
+    "id": "2026-10-19:q02",
+    "kind": "review",
+    "options": [
+     "European factories that use gas",
+     "Japanese utilities buying cargoes on the spot market",
+     "US LNG exporters with cargoes to sell",
+     "US households heating with gas"
+    ],
+    "prompt": "US gas (Henry Hub) is about $3/MMBtu while Asian spot LNG is about $29. Who captures the most value from that gap?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-19-02",
+    "subindustry": "midstream-lng"
+   },
+   {
+    "answer": 3,
+    "explanation": "Proofpoint sells email security and Varonis sells data security, both to corporate security chiefs. The logic is revenue synergy: sell both products to each customer. This 'platform plus add-on' approach is a classic private equity playbook.",
+    "id": "2026-10-19:q04",
+    "kind": "review",
+    "options": [
+     "Vertical integration into a supplier",
+     "A merger of two direct competitors to cut costs",
+     "Diversification into an unrelated industry",
+     "A platform company buying an adjacent product to cross-sell to the same buyers"
+    ],
+    "prompt": "Thoma Bravo's Proofpoint is buying Varonis for $6.3B. How would you best describe the strategy?",
+    "sector": "tmt",
+    "storyId": "2026-10-19-04",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 0,
+    "explanation": "Regulators said the bank left more than $5 billion of suspicious activity unreported or reported late. The OCC's $750 million share was the largest civil penalty in its history. American Express was fined $350 million for similar failures a week earlier.",
+    "id": "2026-10-19:q05",
+    "kind": "review",
+    "options": [
+     "It failed to properly monitor and report suspicious transactions under anti-money-laundering rules",
+     "It held too little capital against its loans",
+     "It misled investors about interest rate risk",
+     "It broke consumer rules on overdraft fees"
+    ],
+    "prompt": "Why was Bank of America hit with more than $1.2 billion in penalties?",
+    "sector": "financial-services",
+    "storyId": "2026-10-19-06",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 1,
+    "explanation": "US national health expenditure is about $4.9T, or 17-18% of GDP (CMS, 2023). About $10T is the rough global figure, not the US one.",
+    "id": "2026-10-20:q10",
+    "kind": "profile",
+    "options": [
+     "About $1.5 trillion, roughly 5% of GDP",
+     "About $4.9 trillion, roughly 17-18% of GDP",
+     "About $10 trillion, roughly 35% of GDP",
+     "About $900 billion, roughly 3% of GDP"
+    ],
+    "prompt": "Roughly how much does the US spend on healthcare each year?",
+    "sector": "healthcare",
+    "storyId": null,
+    "subindustry": "payers-providers"
+   }
+  ]
  }
 }
