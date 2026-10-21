@@ -34,6 +34,23 @@
    "ticker": "NASDAQ: AMZN",
    "updated": "2026-10-20"
   },
+  "american-airlines": {
+   "businessModel": "Sells passenger tickets across a large hub network and earns extra from its loyalty program and credit card partnerships.",
+   "competitors": [
+    "Delta Air Lines",
+    "United Airlines",
+    "Southwest Airlines",
+    "JetBlue",
+    "Spirit Airlines"
+   ],
+   "hq": "Fort Worth, TX",
+   "name": "American Airlines",
+   "sector": "consumer-retail",
+   "size": "Revenue about $54B (2025, approx.)",
+   "subindustry": "travel-hospitality",
+   "ticker": "NASDAQ: AAL",
+   "updated": "2026-10-21"
+  },
   "bank-of-america": {
    "businessModel": "Earns net interest income on its huge low-cost deposit base, plus fees from wealth management (Merrill), investment banking and trading.",
    "competitors": [
@@ -63,6 +80,40 @@
    "subindustry": "internet-platforms",
    "ticker": "NASDAQ: BMBL (going private)",
    "updated": "2026-10-19"
+  },
+  "challenger": {
+   "businessModel": "Sells annuities that pay guaranteed retirement income and invests the premiums in bonds and loans, earning the spread; it also runs an asset management arm for fees.",
+   "competitors": [
+    "AMP",
+    "Insignia Financial",
+    "Resolution Life",
+    "MetLife",
+    "Prudential"
+   ],
+   "hq": "Sydney, Australia",
+   "name": "Challenger Limited",
+   "sector": "financial-services",
+   "size": "Takeover offer values equity at A$7.94B; AUM A$31.9B (Q1 FY27)",
+   "subindustry": "insurance",
+   "ticker": "ASX: CGF",
+   "updated": "2026-10-21"
+  },
+  "cleanaway": {
+   "businessModel": "Collects, transports, treats and disposes of solid and liquid waste for councils and businesses under multi-year contracts, and earns extra from landfill fees and recycled materials.",
+   "competitors": [
+    "Veolia",
+    "Suez",
+    "Remondis",
+    "Bingo Industries (Macquarie)",
+    "Waste Management"
+   ],
+   "hq": "Melbourne, Australia",
+   "name": "Cleanaway Waste Management",
+   "sector": "infrastructure-logistics",
+   "size": "Deal value about A$9.3B (Oct 2026); 300+ sites",
+   "subindustry": "transport-logistics",
+   "ticker": "ASX: CWY (subject to EQT takeover)",
+   "updated": "2026-10-21"
   },
   "cleveland-cliffs": {
    "businessModel": "Vertically integrated: mines its own iron ore and makes steel in blast furnaces, selling flat-rolled sheet mainly to automakers, appliance makers and distributors.",
@@ -98,6 +149,40 @@
    "ticker": "NASDAQ: CRWV",
    "updated": "2026-10-19"
   },
+  "dai-ichi-life": {
+   "businessModel": "Collects life insurance and annuity premiums, invests them, and has been buying overseas insurers and retirement businesses to offset a shrinking Japanese market.",
+   "competitors": [
+    "Nippon Life",
+    "Meiji Yasuda",
+    "Sumitomo Life",
+    "Japan Post Insurance",
+    "Prudential Financial"
+   ],
+   "hq": "Tokyo, Japan",
+   "name": "Dai-ichi Life Holdings",
+   "sector": "financial-services",
+   "size": "One of Japan's largest life insurers (approx.)",
+   "subindustry": "insurance",
+   "ticker": "TSE: 8750",
+   "updated": "2026-10-21"
+  },
+  "delta-air-lines": {
+   "businessModel": "Sells passenger tickets, with premium cabins and its loyalty program (including a large American Express partnership) providing a large share of profit.",
+   "competitors": [
+    "United Airlines",
+    "American Airlines",
+    "Southwest Airlines",
+    "JetBlue",
+    "Alaska Airlines"
+   ],
+   "hq": "Atlanta, GA",
+   "name": "Delta Air Lines",
+   "sector": "consumer-retail",
+   "size": "Revenue about $60B (2025, approx.)",
+   "subindustry": "travel-hospitality",
+   "ticker": "NYSE: DAL",
+   "updated": "2026-10-21"
+  },
   "deutsche-telekom": {
    "businessModel": "Sells mobile and fixed-line phone, broadband and TV subscriptions in Germany, Europe and (through T-Mobile US) the United States, earning recurring monthly fees on networks it builds.",
    "competitors": [
@@ -114,6 +199,23 @@
    "subindustry": "telecom",
    "ticker": "ETR: DTE",
    "updated": "2026-10-20"
+  },
+  "eqt": {
+   "businessModel": "Raises funds from pension plans and other investors, buys companies and infrastructure assets, and earns management fees plus a share of profits when assets are sold.",
+   "competitors": [
+    "Blackstone",
+    "KKR",
+    "Brookfield",
+    "CVC Capital Partners",
+    "Macquarie Asset Management"
+   ],
+   "hq": "Stockholm, Sweden",
+   "name": "EQT",
+   "sector": "financial-services",
+   "size": "Approx. EUR 250B+ assets under management (2025, from memory)",
+   "subindustry": "asset-wealth",
+   "ticker": "STO: EQT",
+   "updated": "2026-10-21"
   },
   "ge-aerospace": {
    "businessModel": "Sells jet engines (often at thin margins) and earns most of its profit over decades from spare parts, repairs and service contracts on the installed fleet.",
@@ -149,6 +251,23 @@
    "ticker": "NYSE: GM",
    "updated": "2026-10-20"
   },
+  "halliburton": {
+   "businessModel": "Provides drilling, hydraulic fracturing, well completion and production services to oil and gas producers and is paid per job and per day of equipment use.",
+   "competitors": [
+    "SLB",
+    "Baker Hughes",
+    "Weatherford",
+    "NOV",
+    "Nabors"
+   ],
+   "hq": "Houston, TX",
+   "name": "Halliburton",
+   "sector": "energy-materials",
+   "size": "Revenue about $22B (2025, approx.)",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "NYSE: HAL",
+   "updated": "2026-10-21"
+  },
   "hudson-pacific": {
    "businessModel": "Owns and leases West Coast office buildings and film/TV studio space, earning rent; heavily exposed to tech-tenant demand and to refinancing costs.",
    "competitors": [
@@ -164,6 +283,23 @@
    "subindustry": "real-estate-construction",
    "ticker": "NYSE: HPP",
    "updated": "2026-10-20"
+  },
+  "intuitive-surgical": {
+   "businessModel": "Sells da Vinci robotic surgery systems and earns most revenue from instruments, accessories and service used on every procedure, plus leasing and system sales.",
+   "competitors": [
+    "Medtronic",
+    "Johnson & Johnson MedTech",
+    "Stryker",
+    "CMR Surgical",
+    "Zimmer Biomet"
+   ],
+   "hq": "Sunnyvale, CA",
+   "name": "Intuitive Surgical",
+   "sector": "healthcare",
+   "size": "Revenue about $11B annualized (2026, approx.)",
+   "subindustry": "medtech",
+   "ticker": "NASDAQ: ISRG",
+   "updated": "2026-10-21"
   },
   "johnson-johnson": {
    "businessModel": "Two segments: Innovative Medicine (patented drugs in immunology, oncology, neuroscience; roughly two-thirds of sales) and MedTech (surgery, orthopedics, cardiovascular devices).",
@@ -250,6 +386,23 @@
    "ticker": "NASDAQ: MSFT",
    "updated": "2026-10-20"
   },
+  "netflix": {
+   "businessModel": "Charges monthly subscriptions at several price tiers and sells advertising on cheaper ad-supported plans, using the revenue to fund original shows and licensed content.",
+   "competitors": [
+    "Disney",
+    "Amazon Prime Video",
+    "YouTube",
+    "Warner Bros. Discovery",
+    "Paramount"
+   ],
+   "hq": "Los Gatos, CA",
+   "name": "Netflix",
+   "sector": "tmt",
+   "size": "2026 revenue guidance $51.1B",
+   "subindustry": "media-entertainment",
+   "ticker": "NASDAQ: NFLX",
+   "updated": "2026-10-21"
+  },
   "nisource": {
    "businessModel": "Regulated gas and electric utility that earns an allowed return on the infrastructure it builds (its rate base). Its Indiana electric arm, NIPSCO, sells power and now builds generation for large data center customers.",
    "competitors": [
@@ -266,6 +419,23 @@
    "subindustry": "power-utilities",
    "ticker": "NYSE: NI",
    "updated": "2026-10-20"
+  },
+  "northrop-grumman": {
+   "businessModel": "Develops and builds aircraft, space systems, missiles and electronics under long government contracts, earning a margin on each program plus follow-on support work.",
+   "competitors": [
+    "Lockheed Martin",
+    "RTX",
+    "Boeing Defense",
+    "General Dynamics",
+    "L3Harris"
+   ],
+   "hq": "Falls Church, VA",
+   "name": "Northrop Grumman",
+   "sector": "advanced-industries",
+   "size": "Sales about $44B (2026 guidance, approx.); backlog about $110B",
+   "subindustry": "aerospace-defense",
+   "ticker": "NYSE: NOC",
+   "updated": "2026-10-21"
   },
   "nscale": {
    "businessModel": "Builds and operates data centers filled with Nvidia GPUs and rents the compute to large customers such as Microsoft under long-term contracts.",
@@ -316,6 +486,23 @@
    "subindustry": "software-cloud",
    "ticker": "Private (Thoma Bravo)",
    "updated": "2026-10-19"
+  },
+  "qatarenergy": {
+   "businessModel": "State-owned company that produces gas, liquefies it into LNG and sells it to Asia and Europe, mostly under long-term contracts.",
+   "competitors": [
+    "Shell",
+    "ExxonMobil",
+    "Cheniere",
+    "Woodside",
+    "Novatek"
+   ],
+   "hq": "Doha, Qatar",
+   "name": "QatarEnergy",
+   "sector": "energy-materials",
+   "size": "One of the world's largest LNG exporters (approx. 77 Mtpa capacity, from memory)",
+   "subindustry": "midstream-lng",
+   "ticker": "Private (State of Qatar)",
+   "updated": "2026-10-21"
   },
   "rtx": {
    "businessModel": "Three businesses: Collins Aerospace (aircraft systems), Pratt & Whitney (jet engines plus aftermarket service) and Raytheon (missiles, radars and air defense sold mainly to governments).",
@@ -384,6 +571,24 @@
    "subindustry": "cpg",
    "ticker": "NYSE: SLGN",
    "updated": "2026-10-20"
+  },
+  "spacex": {
+   "businessModel": "Sells Starlink satellite internet subscriptions and mobile connectivity, launches rockets for government and commercial customers, and now sells AI computing capacity.",
+   "competitors": [
+    "Amazon Leo (Kuiper)",
+    "Eutelsat OneWeb",
+    "AST SpaceMobile",
+    "Blue Origin",
+    "OpenAI",
+    "Google"
+   ],
+   "hq": "Starbase, TX",
+   "name": "SpaceX",
+   "sector": "tmt",
+   "size": "Q3 2026 revenue $14.6B; public company",
+   "subindustry": "telecom",
+   "ticker": "NASDAQ: SPCX",
+   "updated": "2026-10-21"
   },
   "steel-dynamics": {
    "businessModel": "Melts scrap in electric arc furnaces to make steel, and profits from the spread between steel prices and scrap costs. It also recycles metals and is building an aluminum flat-rolled business.",
@@ -915,6 +1120,81 @@
     "AI investment is a major driver of US capex and equity gains"
    ]
   },
+  "media-entertainment": {
+   "kpis": [
+    "Operating margin (leader about 30%+)",
+    "Paid memberships and average revenue per member",
+    "Churn (monthly cancellations)",
+    "Content spend vs revenue",
+    "Ad revenue as a share of the total"
+   ],
+   "marketSize": {
+    "global": "~$157B",
+    "globalNote": "Global streaming subscription revenue, Ampere Analysis, 2025 (about $177B including ads); one slice of the wider media industry",
+    "us": "~$79B",
+    "usNote": "US is about 50% of global streaming subscription revenue (Ampere, 2025); derived estimate"
+   },
+   "operatingModel": "Streamers collect monthly subscriptions and ad revenue and spend most of it on content, so profit depends on spreading a fixed content budget over more subscribers and higher prices. Operating margins for the leader run around 30%, while smaller rivals earn far less.",
+   "overview": "Media and entertainment companies make and distribute films, TV, music, games and news, and sell them through streaming subscriptions, advertising, cinemas and licensing. Content costs a lot to make but little to copy, so the winners are the services that spread those costs over the most viewers. Streaming has largely replaced cable, shifting money from bundles to monthly subscriptions and ads.",
+   "players": [
+    "Streaming: Netflix, Amazon Prime Video, YouTube, Disney, Warner Bros. Discovery, Paramount",
+    "Music and games: Universal Music, Sony, Tencent, Electronic Arts",
+    "Structure: a few global platforms with scale, many smaller services that are bundling or being bought"
+   ],
+   "profileUpdated": "2026-10-21",
+   "sector": "tmt",
+   "threats": [
+    "Subscribers lose interest and cancel, and churn rises",
+    "Content costs and sports rights keep inflating",
+    "Video platforms such as YouTube and TikTok take viewing time",
+    "Piracy and password sharing"
+   ],
+   "trends": [
+    "Ad-supported tiers were 28% of subscription revenue in 2025, up from under 5% in 2020",
+    "Price rises and password-sharing limits are the main growth lever as subscriber growth slows",
+    "Studios are merging or bundling to gain scale against the biggest streamers",
+    "Live sports and events are used to hold audiences and sell ads",
+    "Cost cuts and layoffs as growth slows toward about 10% a year",
+    "Generative AI is entering production and marketing workflows"
+   ]
+  },
+  "medtech": {
+   "kpis": [
+    "Procedure growth",
+    "System placements and installed base",
+    "Recurring revenue as a share of the total",
+    "Gross margin: about 60-70%",
+    "R&D as a share of revenue: around 7-10%"
+   ],
+   "marketSize": {
+    "global": "~$580B",
+    "globalNote": "Global medical devices market, 2026 vendor estimate (estimates vary widely by definition)",
+    "us": "~$220B",
+    "usNote": "Derived estimate: North America is about 38% of global sales; approx."
+   },
+   "operatingModel": "Makers sell the device or system once, then earn recurring revenue from disposable supplies, software and service contracts. Gross margins are high, around 60% to 70%, and spending on R&D and sales teams is the main cost.",
+   "overview": "Medical technology companies make the devices, implants and equipment used in care, from surgical robots and heart valves to insulin pumps and imaging machines. They sell mainly to hospitals, which buy under tight budgets and care about clinical evidence. Once a device is installed and surgeons are trained on it, hospitals rarely switch, so a recurring stream of supplies and service follows the first sale.",
+   "players": [
+    "Leaders: Medtronic, Johnson & Johnson MedTech, Abbott, Stryker, Boston Scientific, Intuitive Surgical",
+    "Structure: a few large diversified players plus many specialists that dominate one device category"
+   ],
+   "profileUpdated": "2026-10-21",
+   "sector": "healthcare",
+   "threats": [
+    "Regulatory delays or recalls from the FDA",
+    "Hospital budget pressure and price cuts",
+    "New competitors in robotics",
+    "Tariffs on parts and finished devices"
+   ],
+   "trends": [
+    "Robotic and minimally invasive surgery is spreading to more procedure types",
+    "Hospitals are buying fewer standalone devices and more bundles with software and service",
+    "Wearable glucose monitors, pumps and cardiac devices push care out of hospitals",
+    "AI is being added to imaging and surgical planning",
+    "Tariffs and supply-chain costs weigh on manufacturers",
+    "Large companies keep buying small device makers to fill product gaps"
+   ]
+  },
   "metals-mining": {
    "kpis": [
     "Hot-rolled coil price ($/ton)",
@@ -1358,6 +1638,44 @@
     "Truckers on fixed contracts are losing money; capacity may exit",
     "Nearshoring to Mexico is lifting cross-border freight",
     "Automation in warehouses and autonomous trucking pilots"
+   ]
+  },
+  "travel-hospitality": {
+   "kpis": [
+    "Load factor (seats filled): about 84% in 2026",
+    "Unit revenue (RASM) vs unit cost (CASM)",
+    "Net margin: about 2-4% for airlines",
+    "RevPAR (hotel revenue per available room)",
+    "Fuel as a share of airline costs"
+   ],
+   "marketSize": {
+    "global": "~$1.05T",
+    "globalNote": "Global airline revenue, IATA forecast for 2026 (made December 2025); hotels, cruises and bookings are additional",
+    "us": "~$250B+",
+    "usNote": "US airline revenue, approx. (from memory, 2024-25)"
+   },
+   "operatingModel": "Airlines earn revenue from tickets, bags and loyalty programs but carry heavy fixed costs, so a few percentage points of seats filled decide profit. Hotel brands mostly collect fees from franchisees and owners and take little operating risk.",
+   "overview": "Travel and hospitality covers the airlines, hotels, cruise lines, rental firms and booking sites that move and host people on trips. Costs are mostly fixed (planes, buildings, crews), so profit swings sharply with how full they are and with fuel and labor costs. Leisure and business travel recover at different speeds after shocks, and demand follows consumer confidence.",
+   "players": [
+    "Airlines: Delta, United, American, Southwest; Ryanair, Lufthansa, Emirates",
+    "Hotels: Marriott, Hilton, Hyatt; Airbnb; Booking Holdings and Expedia",
+    "Structure: a few big US airlines run most of the market; hotels are brand franchisors"
+   ],
+   "profileUpdated": "2026-10-21",
+   "sector": "consumer-retail",
+   "threats": [
+    "Fuel price spikes and conflict-related airspace closures",
+    "Recession reducing business and leisure travel",
+    "Aircraft delivery delays",
+    "Strikes and labor cost increases"
+   ],
+   "trends": [
+    "Jet fuel at about $152 a barrel in 2026 versus $90 in 2025 is cutting airline profits",
+    "Premium cabins and loyalty programs earn a growing share of airline profit",
+    "Record passenger numbers, about 5.2 billion expected in 2026",
+    "Aircraft and engine shortages limit how fast airlines can add capacity",
+    "Hotel chains lean on franchising and fees instead of owning buildings",
+    "Travel demand is split: wealthier travelers keep spending while lower-income ones trade down"
    ]
   }
  }

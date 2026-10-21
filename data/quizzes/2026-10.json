@@ -492,5 +492,252 @@
     "subindustry": "payers-providers"
    }
   ]
+ },
+ "2026-10-21": {
+  "date": "2026-10-21",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "Intuitive earns most of its money after installation from instruments and service used in every procedure. It placed 546 da Vinci systems versus 427 a year earlier, which should lift procedures in coming quarters.",
+    "id": "2026-10-21:x01",
+    "kind": "today",
+    "options": [
+     "Robots are given away free, so procedures are the only sales",
+     "Procedures determine demand for instruments, accessories and service, which is its main recurring revenue",
+     "Procedure counts set the price of each robot",
+     "Procedures are the only thing regulators measure"
+    ],
+    "prompt": "Why does Intuitive Surgical watch procedure growth (up 15%) more closely than robot sales alone?",
+    "sector": "healthcare",
+    "storyId": "2026-10-21-10",
+    "subindustry": "medtech"
+   },
+   {
+    "answer": 1,
+    "explanation": "Europe has to bid for LNG when storage is low and Qatar capacity is partly offline, which helps exporters that can ship gas. Energy-intensive industry in Europe loses from higher gas prices.",
+    "id": "2026-10-21:x02",
+    "kind": "today",
+    "options": [
+     "European fertilizer makers that use gas as a raw material",
+     "US LNG exporters selling cargoes to Europe at higher prices",
+     "European households with fixed price contracts",
+     "Airlines that use gas for fuel"
+    ],
+    "prompt": "Europe's gas storage was 68.5% full on Sept 15 versus 80.6% a year earlier. Who is most likely to gain?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-21-09",
+    "subindustry": "midstream-lng"
+   },
+   {
+    "answer": 0,
+    "explanation": "Hiring is weak but inflation is far above the 2% goal, so neither a cut nor a quick hike is clearly right. Markets leaned toward a hold on October 28 and a possible hike in December.",
+    "id": "2026-10-21:x03",
+    "kind": "today",
+    "options": [
+     "Weak hiring argues for waiting while energy-driven inflation argues against cutting",
+     "Inflation is below target, so cutting is easy",
+     "Unemployment fell sharply, so hiring is strong",
+     "The Fed does not consider jobs data"
+    ],
+    "prompt": "The Fed's rate is 3.75-4.00% and inflation is 3.4%, but September payrolls grew only 29,000. Why is the Fed's choice hard?",
+    "sector": "macro",
+    "storyId": "2026-10-21-08",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 2,
+    "explanation": "Japanese insurers face a shrinking home market and are buying overseas retirement businesses. Dai-ichi already holds 20.36% and offered A$11.80 a share, although the bid is non-binding.",
+    "id": "2026-10-21:x04",
+    "kind": "today",
+    "options": [
+     "Japan has no demand for retirement income",
+     "Annuities need no investment portfolio",
+     "Australia's ageing population creates steady demand for guaranteed retirement income, offsetting a shrinking Japanese market",
+     "Annuities are exempt from regulation"
+    ],
+    "prompt": "Why does Challenger's annuity business appeal to a Japanese life insurer?",
+    "sector": "financial-services",
+    "storyId": "2026-10-21-05",
+    "subindustry": "insurance"
+   },
+   {
+    "answer": 1,
+    "explanation": "Content is expensive to make but cheap to deliver, so more subscribers, price rises and ads improve margins. Netflix's 34.6% operating margin shows what scale does.",
+    "id": "2026-10-21:x05",
+    "kind": "profile",
+    "options": [
+     "Selling movie tickets",
+     "Spreading a large fixed content budget over more subscribers and higher prices and ad income",
+     "Charging for each hour viewed",
+     "Selling its original shows to cable networks"
+    ],
+    "prompt": "What is the main way a streaming service makes a profit?",
+    "sector": "tmt",
+    "storyId": null,
+    "subindustry": "media-entertainment"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 2,
+    "explanation": "The AI business (Super Intelligence) earned $7.6B against about $5.2B for connectivity, so SpaceX now gets more than half its revenue from AI computing. The tempting answer, Starlink, is still growing 69% but is now the smaller segment.",
+    "id": "2026-10-21:q01",
+    "kind": "today",
+    "options": [
+     "Starlink subscriptions still provide most of its revenue",
+     "Rocket launches now bring in the largest share of sales",
+     "AI computing revenue of $7.6B passed Starlink's roughly $5.2B for the first time",
+     "Government contracts replaced consumer sales as the main driver"
+    ],
+    "prompt": "SpaceX's Q3 revenue was $14.6B, up 161%. Which statement best describes what changed about the business?",
+    "sector": "tmt",
+    "storyId": "2026-10-21-01",
+    "subindustry": "telecom"
+   },
+   {
+    "answer": 0,
+    "explanation": "Sites that are slow and hard to approve create barriers to entry, and multi-year contracts make cash flow predictable enough to carry debt. Cleanaway has 300+ sites and EQT is paying A$3.095 a share, 32.1% over the pre-approach price.",
+    "id": "2026-10-21:q02",
+    "kind": "today",
+    "options": [
+     "Landfills and treatment sites are hard to permit and replicate, and contracts give steady cash flow it can finance with debt",
+     "Waste volumes double when the economy slows, so profits rise in recessions",
+     "Waste companies need little investment, so almost all profit can be paid out",
+     "Governments guarantee waste companies a minimum share price"
+    ],
+    "prompt": "Why would an infrastructure fund pay a 32% premium to take a waste company like Cleanaway private?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-10-21-02",
+    "subindustry": "transport-logistics"
+   },
+   {
+    "answer": 1,
+    "explanation": "Service firms are paid for wells drilled and completed, so revenue follows producers' activity plans rather than the spot price. Halliburton's $2.2B North America figure and weaker pressure pumping show spending restraint, while international work grew.",
+    "id": "2026-10-21:q03",
+    "kind": "today",
+    "options": [
+     "Oilfield service firms are paid based on the oil price in each barrel produced",
+     "US producers are not adding drilling and completion work in proportion to the price rise, and service demand follows that activity",
+     "Halliburton stopped working in North America",
+     "Higher oil prices always reduce drilling activity immediately"
+    ],
+    "prompt": "Brent is near $110, yet Halliburton's North America revenue fell 5% from the prior quarter. What is the most likely explanation?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-21-03",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 3,
+    "explanation": "Industrial output grew 5.5% while retail sales and investment lagged, so the headline number rests on factories and exports. That matters for exporters of steel and other commodities, which feel the property drop most, and invites trade friction.",
+    "id": "2026-10-21:q04",
+    "kind": "today",
+    "options": [
+     "Domestic consumers are driving the expansion",
+     "The property sector is now a major growth engine",
+     "Growth is balanced across consumption, investment and exports",
+     "Growth is leaning on exports and industry while households and property stay weak"
+    ],
+    "prompt": "China grew 4.5% in Q3, but retail sales rose just 1.1% and property investment fell 20.6%. What does this combination suggest?",
+    "sector": "macro",
+    "storyId": "2026-10-21-04",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 2,
+    "explanation": "A book-to-bill above 1 means new contracts exceed revenue recognized, so the order book grows. The $110B record backlog is a multi-year pipeline, though cost overruns on fixed-price programs remain the main risk.",
+    "id": "2026-10-21:q05",
+    "kind": "today",
+    "options": [
+     "Sales will fall because customers are cancelling orders",
+     "Revenue growth must be coming from price cuts",
+     "Orders are outrunning sales, so the backlog (about $110B) is growing and supports future revenue",
+     "The company is selling more than it can deliver this year"
+    ],
+    "prompt": "Northrop Grumman won $16B of net awards on $11.1B of sales, a book-to-bill of 1.5. What does that tell you?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-21-06",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 0,
+    "explanation": "Netflix said Q3 benefited mainly from the timing of expenses, and Q4 carries about 120 basis points of drag from the roughly 1,000-person cut. Revenue is still growing about 12%, so the drop is about cost timing, not demand.",
+    "id": "2026-10-21:q06",
+    "kind": "today",
+    "options": [
+     "Expense timing helped Q3, and Q4 includes about 1.2 points of cost from the job cuts",
+     "Subscribers fell sharply in the fall",
+     "The company plans to cut prices to attract new viewers",
+     "Advertising revenue is expected to decline"
+    ],
+    "prompt": "Netflix earned a 34.6% operating margin in Q3 but guided to 26.0% for Q4. What best explains the drop?",
+    "sector": "tmt",
+    "storyId": "2026-10-21-07",
+    "subindustry": "media-entertainment"
+   },
+   {
+    "answer": 2,
+    "explanation": "Management pointed to low imports and long lead times under the current trade environment. The flip side: automakers and other steel buyers pay more for their inputs.",
+    "id": "2026-10-19:q06",
+    "kind": "review",
+    "options": [
+     "Chinese demand for US steel surged",
+     "Iron ore became much cheaper",
+     "Trade protection keeps imports low, giving US mills pricing power",
+     "It merged with Nucor and cut capacity"
+    ],
+    "prompt": "Cleveland-Cliffs' average steel price is up about 14% from a year ago. What is the main reason?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-19-07",
+    "subindustry": "metals-mining"
+   },
+   {
+    "answer": 0,
+    "explanation": "CoreWeave rents GPUs under contracts concentrated in a few customers and funded its fleet largely with debt. If those customers spend less, revenue and debt service are both at risk, which is why it fell 25%+ in last week's sell-off.",
+    "id": "2026-10-19:q03",
+    "kind": "review",
+    "options": [
+     "A debt-funded AI cloud provider with a few very large customers, like CoreWeave",
+     "A payment network like Visa",
+     "A consumer staples company like Procter & Gamble",
+     "A large US bank"
+    ],
+    "prompt": "Which kind of company is most exposed if big tech firms cut their AI data center spending?",
+    "sector": "tmt",
+    "storyId": "2026-10-19-03",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 2,
+    "explanation": "Metal cans are a mature, low-growth market, so the value comes from combining plants, purchasing and logistics. If the $225M of synergies arrive, the effective price falls from 7.1x to 4.8x EBITDA; if they don't, Silgan paid a full price.",
+    "id": "2026-10-20:q05",
+    "kind": "review",
+    "options": [
+     "The deal only works if Trivium grows sales quickly",
+     "Silgan is paying a high premium for a fast-growing business",
+     "Most of the value depends on delivering cost synergies in a mature industry",
+     "Private equity partner AIP is taking all the integration risk"
+    ],
+    "prompt": "Trivium is priced at 7.1x EBITDA, but only 4.8x after $225M of expected synergies. What does that gap tell you about the Silgan deal?",
+    "sector": "consumer-retail",
+    "storyId": "2026-10-20-05",
+    "subindustry": "cpg"
+   },
+   {
+    "answer": 1,
+    "explanation": "Planes, crews and airports cost about the same whether seats are full or not, so profit is a thin slice of revenue. With IATA now forecasting a 2.0% margin and jet fuel at about $152 a barrel, fuel swings dominate.",
+    "id": "2026-10-21:q10",
+    "kind": "profile",
+    "options": [
+     "Airlines hold no fixed assets, so costs vary with each flight",
+     "Net margins are only about 2-4% and most other costs are fixed, so small cost moves are a large share of profit",
+     "Fuel is the only cost airlines pay",
+     "Fuel contracts are always fixed for ten years"
+    ],
+    "prompt": "Why can a small rise in fuel costs wipe out most of an airline's profit?",
+    "sector": "consumer-retail",
+    "storyId": null,
+    "subindustry": "travel-hospitality"
+   }
+  ]
  }
 }

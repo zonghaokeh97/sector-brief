@@ -805,5 +805,334 @@
   "subindustry": "payments-fintech",
   "summary": "Stablecoin payments reached $482 billion in the first nine months of 2026, up 45% from a year earlier, according to Allium data reported by CoinDesk, while the number of payments rose 71% to over 1 billion. Total stablecoin supply was flat at about $305 billion, and stablecoin card spending hit $3.9 billion, about ten times last year. Mastercard launched a platform with BVNK, the stablecoin firm it bought in August, linking stablecoin balances to card spending and bank payouts. Visa began stablecoin prefunding for cross-border payouts using Circle's USDC, and Stripe is working with Plasma on multi-currency cards.",
   "tags": []
+ },
+ "2026-10-21-01": {
+  "companies": [
+   "spacex"
+  ],
+  "date": "2026-10-21",
+  "headline": "SpaceX's first full public quarter shows revenue up 161% to $14.6 billion, with AI now bigger than Starlink",
+  "numbers": [
+   "Revenue: $14.6B, +161% y/y",
+   "Net income: $4.4B (vs -$1.05B a year ago)",
+   "AI (Super Intelligence) revenue: $7.6B",
+   "Starlink consumer subscribers: 13.6M"
+  ],
+  "order": 1,
+  "sector": "tmt",
+  "soWhat": "SpaceX is no longer valued as a rocket and satellite-internet company: more than half of its quarterly revenue now comes from selling AI computing, which has very different economics from selling a $69-a-month subscription. Satellite broadband still gives it a steady recurring base, but slower subscriber additions show that growth in consumer demand is not unlimited. A Tesla combination would mix a carmaker, a satellite network and an AI compute business under one balance sheet. The open question is whether investors treat the AI revenue as durable or as a one-off build-out boom.",
+  "sources": [
+   {
+    "title": "Quartz: SpaceX Q3 2026 earnings show revenue up 161% to $14.6 billion",
+    "url": "https://qz.com/spacex-earnings-revenue-net-income-super-intelligence-starlink-102026"
+   },
+   {
+    "title": "CNBC: SpaceX Q3 2026 earnings live updates",
+    "url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html"
+   }
+  ],
+  "subindustry": "telecom",
+  "summary": "SpaceX reported third-quarter revenue of $14.6 billion, up 161% from a year earlier and well above the roughly $12.7 billion analysts expected. It earned $4.4 billion of net income, against a loss of about $1.05 billion a year ago. Its AI business, now called Super Intelligence, brought in $7.6 billion and passed Starlink for the first time. Connectivity revenue rose 69% to about $5.2 billion, and consumer Starlink subscribers reached 13.6 million from 12.0 million in June, though net additions of 1.6 million were below forecasts. CNBC reported that SpaceX and Tesla have each formed special committees to discuss a possible merger; no deal has been announced.",
+  "tags": []
+ },
+ "2026-10-21-02": {
+  "companies": [
+   "cleanaway",
+   "eqt"
+  ],
+  "date": "2026-10-21",
+  "headline": "EQT agrees to buy Australian waste leader Cleanaway in a deal worth about A$9.3 billion",
+  "numbers": [
+   "Equity value: about A$9.3B (~US$6.5B)",
+   "Offer: A$3.095 per share, 32.1% premium",
+   "Special dividend: A$0.145-0.19 per share",
+   "Network: 300+ sites"
+  ],
+  "order": 2,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Waste collection and disposal is a steady, contract-based business with high barriers to entry, because landfills and treatment sites are very hard to permit and build. That makes it attractive to infrastructure funds, which want predictable cash flow they can finance with debt. Taking Cleanaway private lets EQT invest in recycling and treatment capacity away from quarterly share-price pressure. Public-market investors lose one of the few listed pure-play Australian waste companies, and the open question is whether the scheme clears shareholder, court and foreign-investment approvals.",
+  "sources": [
+   {
+    "title": "EQT: EQT agrees to acquire Cleanaway",
+    "url": "https://eqtgroup.com/news/eqt-agrees-to-acquire-cleanaway-a-leading-australian-integrated-waste-management-and-resource-recovery-platform-2026-10-18"
+   },
+   {
+    "title": "DealStreetAsia: EQT to acquire Australia's Cleanaway in $6.5b deal",
+    "url": "https://www.dealstreetasia.com/?p=498438"
+   }
+  ],
+  "subindustry": "transport-logistics",
+  "summary": "EQT Infrastructure VI signed a binding agreement to buy all of Cleanaway for A$3.095 in cash per share, valuing the business at about A$9.3 billion (roughly US$6.5 billion). The price is a 32.1% premium to the A$2.37 close on August 12, before the approach became public. Shareholders would also receive a special dividend of A$0.145 to A$0.19 per share. Cleanaway's board unanimously recommends the deal, subject to an independent expert and no better offer. The company runs a national network of more than 300 sites, including transfer stations, resource recovery plants, liquid waste facilities and landfills.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-21-03": {
+  "companies": [
+   "halliburton"
+  ],
+  "date": "2026-10-21",
+  "headline": "Halliburton's North America revenue slips even with oil near $110, while international work grows",
+  "numbers": [
+   "North America revenue: $2.2B, -5% q/q",
+   "Q4 completion and production revenue: -3% to -5% guided",
+   "2027 outlook: mid-single-digit revenue growth"
+  ],
+  "order": 3,
+  "sector": "energy-materials",
+  "soWhat": "Oilfield service companies are paid for wells drilled and completed, not for the oil price itself. Halliburton's weak US demand suggests producers are not rushing to add drilling and completion work even with crude near $110, which points to spending discipline rather than a rush for volume. The outside-US customers, including national oil companies trying to add supply, are where the growth is. The open question is whether US activity picks up in 2027 if prices stay high.",
+  "sources": [
+   {
+    "title": "Halliburton: Form 8-K, Q3 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000045012/000004501226000070/livemastererdocument.htm"
+   },
+   {
+    "title": "Halliburton Q3 2026 earnings conference call notice",
+    "url": "https://finviz.com/news/392434/halliburton-third-quarter-2026-earnings-conference-call"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Halliburton's third-quarter filing shows North America revenue of $2.2 billion, down 5% from the prior quarter, as demand for onshore pressure pumping and Gulf of Mexico maintenance work was weak. International and Middle East activity rose. Management called the period another three months inside one of the largest energy disruptions in history, and said it expects mid-single-digit revenue growth in 2027. It also warned that fourth-quarter revenue in its completion and production business could fall 3% to 5%.",
+  "tags": []
+ },
+ "2026-10-21-04": {
+  "companies": [],
+  "date": "2026-10-21",
+  "headline": "China's economy grows 4.5% in the third quarter, led by exports while consumers and property stay weak",
+  "numbers": [
+   "GDP (Q3): +4.5% y/y",
+   "Industrial output (Sept): +5.5%",
+   "Retail sales (Sept): +1.1%",
+   "Property investment (Jan-Sep): -20.6%"
+  ],
+  "order": 4,
+  "sector": "macro",
+  "soWhat": "The headline number hides an unbalanced economy: factories and exporters are doing the work while households spend little and the property slump drags on investment. For foreign companies, that means China is a strong source of supply and competition but a weak source of new consumer demand. Steel, cement and commodity exporters feel the property weakness most. The open question is whether Beijing adds consumer support or keeps leaning on exports, which invites trade friction.",
+  "sources": [
+   {
+    "title": "CGTN: China's GDP grows 4.5% in Q3",
+    "url": "https://news.cgtn.com/news/2026-10-19/China-s-GDP-grows-4-5-in-Q3-1RmtO3rD0EU/p.html"
+   },
+   {
+    "title": "Babypips: China meets growth target but domestic demand remains weak",
+    "url": "https://www.babypips.com/news/headline-china-meets-growth-target-but-domestic-demand-remains-weak-2026-10-19"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "China's GDP grew 4.5% from a year earlier in July to September, ahead of the 4.4% economists expected and up from 4.3% in the second quarter. Growth for the first nine months was 4.6%, inside the government's 4.5% to 5% target range. September industrial output rose 5.5% and retail sales grew 1.1%. Fixed-asset investment fell 7.2% over the first nine months, and property investment dropped 20.6%.",
+  "tags": []
+ },
+ "2026-10-21-05": {
+  "companies": [
+   "challenger",
+   "dai-ichi-life"
+  ],
+  "date": "2026-10-21",
+  "headline": "Japan's Dai-ichi Life makes an A$7.9 billion approach for Australian annuity provider Challenger",
+  "numbers": [
+   "Offer value: about A$7.94B (US$5.5B)",
+   "Price: A$11.80 per share, 19.8% premium",
+   "Dai-ichi stake today: 20.36%",
+   "Challenger AUM: A$31.9B, +5%"
+  ],
+  "order": 5,
+  "sector": "financial-services",
+  "soWhat": "Challenger sells annuities, which are guaranteed retirement incomes backed by a portfolio of bonds and loans. Japanese life insurers face a shrinking home market and are buying overseas retirement income businesses, where an ageing population creates steady demand. An owner with a 20% stake already knows the books, which helps it move quickly, but a board can still hold out for a higher price. The open question is whether Dai-ichi raises its offer and whether Australian regulators approve a full takeover.",
+  "sources": [
+   {
+    "title": "DealStreetAsia: Dai-ichi Life unit tables offer to take over Challenger",
+    "url": "https://www.dealstreetasia.com/?p=498441"
+   },
+   {
+    "title": "Insurance Business: Japanese owned insurer makes bid to take over Aussie financial company",
+    "url": "https://www.insurancebusinessmag.com/asia/news/life-insurance/japanese-owned-insurer-makes-bid-to-take-over-aussie-financial-company-594106.aspx"
+   }
+  ],
+  "subindustry": "insurance",
+  "summary": "TAL Dai-ichi Life Australia, a unit of Japan's Dai-ichi Life, proposed buying the roughly 79.5% of Challenger it does not already own at A$11.80 per share, valuing the company at about A$7.94 billion (US$5.5 billion). The offer is 19.8% above the previous Friday's close. It is non-binding and conditional on due diligence, and Dai-ichi said no decision has been made to proceed. Challenger shares rose to A$11.41, still below the offer, which suggests investors see real doubt about a binding deal. Challenger separately reported assets under management up 5% to A$31.9 billion.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-21-06": {
+  "companies": [
+   "northrop-grumman"
+  ],
+  "date": "2026-10-21",
+  "headline": "Northrop Grumman posts a record $110 billion backlog and raises its 2026 outlook",
+  "numbers": [
+   "Sales: $11.1B, +7%",
+   "Backlog: about $110B (record)",
+   "Net awards: $16B, book-to-bill 1.5x",
+   "EPS guide raised by $0.70 at midpoint"
+  ],
+  "order": 6,
+  "sector": "advanced-industries",
+  "soWhat": "A book-to-bill ratio above 1 means new orders are outrunning revenue, so the backlog is a multi-year pipeline of sales that is already contracted. Defense primes like Northrop win from rising budgets and from multi-decade programs such as bombers and missiles. The small stock reaction shows that investors had already priced in strong results, as with RTX and GE Aerospace earlier this week. The risk is on execution, since fixed-price development contracts can lose money when costs rise.",
+  "sources": [
+   {
+    "title": "Northrop Grumman: Form 8-K, Q3 2026 earnings release",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001133421/000113342126000037/noc-09302026xearningsrelea.htm"
+   },
+   {
+    "title": "Northrop Grumman Lifts Outlook as Backlog Buildup Continues",
+    "url": "https://www.itiger.com/news/2653274142"
+   }
+  ],
+  "subindustry": "aerospace-defense",
+  "summary": "Northrop Grumman said third-quarter sales rose 7% to $11.1 billion, with diluted earnings of $7.89 per share and an operating margin of 11.4%. Net awards of $16 billion gave a book-to-bill ratio of 1.5 and lifted its backlog to a record of about $110 billion. The company raised 2026 guidance, adding $65 million at the midpoint for segment operating income and $0.70 at the midpoint for earnings per share. The stock moved less than 1% on the news.",
+  "tags": []
+ },
+ "2026-10-21-07": {
+  "companies": [
+   "netflix"
+  ],
+  "date": "2026-10-21",
+  "headline": "Netflix posts a 34.6% operating margin but guides to 26% next quarter as it cuts about 1,000 jobs",
+  "numbers": [
+   "Q3 revenue growth: +12%",
+   "Q3 operating margin: 34.6% (vs 28.2%)",
+   "Q4 guide: $13.4B revenue, 26.0% margin",
+   "Headcount cut: about 1,000 (~6%)"
+  ],
+  "order": 7,
+  "sector": "tmt",
+  "soWhat": "A streaming service has a large fixed cost for content, so profit depends on spreading it over more subscribers and on raising prices and ad income. The margin drop between Q3 and Q4 shows how much of the quarterly profit is about when content spending lands, not about the underlying business. Job cuts in product, tech and other support teams are a way to hold margins as revenue growth slows to about 12%. Winners are the largest services with ad tiers; smaller rivals without scale face higher cost per subscriber.",
+  "sources": [
+   {
+    "title": "Netflix: Q3 2026 shareholder letter (Form 8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001065280/000106528026000290/ex991_q326.htm"
+   },
+   {
+    "title": "ROIC: Netflix to slash 6% of workforce",
+    "url": "https://www.roic.ai/news/netflix-to-slash-6-of-workforce-in-largest-cut-since-2022-10-14-2026"
+   }
+  ],
+  "subindustry": "media-entertainment",
+  "summary": "Netflix said third-quarter revenue grew 12%, in line with its own forecast, while operating income rose about 37% to roughly $4.5 billion. The operating margin was 34.6% versus 28.2% a year earlier, and diluted earnings were $0.87 per share against $0.59. The company said the beat came mostly from the timing of expenses plus slightly higher revenue. It guided fourth-quarter revenue to $13.4 billion with a 26.0% margin, which includes about 1.2 points of cost from the roughly 1,000-person (about 6%) headcount cut announced last week. Full-year 2026 revenue is expected at $51.1 billion.",
+  "tags": []
+ },
+ "2026-10-21-08": {
+  "companies": [],
+  "date": "2026-10-21",
+  "headline": "US stocks rally as oil eases, but yields stay near multi-decade highs and the Fed faces weak jobs with high inflation",
+  "numbers": [
+   "Brent: about $108/bbl, -0.7%",
+   "10-year yield: ~5.12%; 30-year: ~5.44%",
+   "Fed funds range: 3.75-4.00%",
+   "September payrolls: +29,000"
+  ],
+  "order": 8,
+  "sector": "macro",
+  "soWhat": "The Fed has two conflicting signals: weak hiring argues for waiting, but inflation well above its 2% goal, driven by energy, argues against cutting. High long-term yields raise the cost of mortgages, corporate bonds and commercial property, which is why REITs, utilities and other debt-heavy sectors are sensitive. Any day oil falls, borrowing costs ease and stocks gain. The open question is whether energy-driven inflation spreads into wages and other prices, which would force the Fed to raise rates again in December.",
+  "sources": [
+   {
+    "title": "TipRanks: Dow rallies as oil slips and Treasury yields dip",
+    "url": "https://www.tipranks.com/news/dow-jones-today-djia-rallies-as-oil-slips-and-treasury-yields-dip"
+   },
+   {
+    "title": "24/7 Wall St: The Fed may now skip an October rate hike",
+    "url": "https://247wallst.com/investing/2026/10/03/the-fed-may-now-skip-october-rate-hike-but-december-is-still-very-much-in-play/"
+   },
+   {
+    "title": "Babypips: September 2026 US jobs report",
+    "url": "https://www.babypips.com/news/headline-us-jobs-report-september-2026-payrolls-miss-fed-hike-odds"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "US stocks rose on Tuesday, with the Dow up about 1%, as Brent fell 0.7% to about $108 a barrel despite the continuing standoff between the US and Iran over the Strait of Hormuz. The 10-year Treasury yield slipped to about 5.12% and the 30-year to 5.44%. Payrolls rose by only 29,000 in September and unemployment ticked up to 4.2%, while the Fed's preferred inflation gauge was 3.4% in August. The Fed raised its rate to 3.75% to 4.00% on September 16, and its next decision is on October 28, where markets lean toward a hold.",
+  "tags": []
+ },
+ "2026-10-21-09": {
+  "companies": [
+   "qatarenergy"
+  ],
+  "date": "2026-10-21",
+  "headline": "Europe heads into winter with gas storage well below normal as Qatar's LNG capacity stays partly offline",
+  "numbers": [
+   "EU storage (Sep 15): 68.5% vs 80.6% a year earlier",
+   "TTF gas: above EUR 80/MWh in September",
+   "Qatar force majeure: about 17% of capacity",
+   "Winter TTF forecast: EUR 85/MWh average (Morgan Stanley)"
+  ],
+  "order": 9,
+  "sector": "energy-materials",
+  "soWhat": "LNG is gas cooled into a liquid so ships can carry it, which means supply depends on a small number of plants that take years to build. When Qatar, a top exporter, loses output and Hormuz shipping is risky, Europe has to outbid Asia for US and other cargoes. That lifts power prices and raises costs for fertilizer, chemicals and steel makers that use gas as a raw material. US LNG exporters and their buyers on long-term contracts gain; energy-intensive European factories lose. All the figures here are as of September, so the latest storage level will differ.",
+  "sources": [
+   {
+    "title": "IENE: Europe faces gas storage scramble as Iran conflict tightens supply",
+    "url": "https://www.iene.eu/energy-news/europe-faces-gas-storage-scramble-as-iran-conflict-tightens-supply-p8332.html"
+   },
+   {
+    "title": "Hellenic Shipping News: Wood Mackenzie on European gas storage",
+    "url": "https://www.hellenicshippingnews.com/?p=1142883"
+   },
+   {
+    "title": "GMK Center: European gas prices exceeded EUR 80/MWh in September",
+    "url": "https://gmk.center/en/news/european-gas-prices-exceeded-e80-mwh-in-september/"
+   }
+  ],
+  "subindustry": "midstream-lng",
+  "summary": "European gas storage was 68.5% full on September 15, against 80.6% a year earlier and a five-year seasonal average of about 84%. Benchmark TTF gas topped 80 euros per megawatt-hour in September for the first time in three years. QatarEnergy declared force majeure in March on about 17% of its liquefaction capacity, and Wood Mackenzie does not expect new Qatari capacity before the second half of 2027. Morgan Stanley expects a winter average near 85 euros, with a risk of more than 100 euros in a cold winter.",
+  "tags": []
+ },
+ "2026-10-21-10": {
+  "companies": [
+   "intuitive-surgical"
+  ],
+  "date": "2026-10-21",
+  "headline": "Intuitive Surgical's procedures grow 15% as it places 546 da Vinci robots, up from 427",
+  "numbers": [
+   "Procedures: +15% (da Vinci +14%, Ion +31%)",
+   "da Vinci placements: 546 vs 427",
+   "of which da Vinci 5: 315",
+   "Ion placements: 56 vs 50"
+  ],
+  "order": 10,
+  "sector": "healthcare",
+  "soWhat": "Intuitive earns most of its money after the robot is installed, from instruments, accessories and service that are used in every procedure. That is why procedure growth is the number investors watch most, and why a jump in new system placements points to more procedures in coming quarters. Upgrading hospitals to da Vinci 5 also resets service contracts at higher prices. Rivals such as Medtronic and J&J are launching competing robots, so the open question is how quickly any of them win hospital contracts.",
+  "sources": [
+   {
+    "title": "Intuitive Surgical: Form 8-K, Q3 2026 earnings release",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001035267/000103526726000067/q326ex-991earningsrelease.htm"
+   }
+  ],
+  "subindustry": "medtech",
+  "summary": "Intuitive Surgical said worldwide procedures rose about 15% in the third quarter, with da Vinci procedures up about 14% and procedures on its Ion lung-biopsy system up about 31%. It placed 546 da Vinci surgical systems, compared with 427 a year earlier, and 315 of those were the newer da Vinci 5. Ion placements were 56 versus 50 a year earlier. Reported revenue and the share price reaction were not available in the sources checked.",
+  "tags": []
+ },
+ "2026-10-21-11": {
+  "companies": [
+   "delta-air-lines",
+   "american-airlines"
+  ],
+  "date": "2026-10-21",
+  "headline": "Fuel costs squeeze US airlines: fuel spending is up 55-67% while revenue rises 16-22%",
+  "numbers": [
+   "US airline fuel expense: +55% to +67% y/y (Q3 est.)",
+   "Delta 2026 EPS guide: $5.10-5.60 (from $6.50-7.50)",
+   "IATA jet fuel assumption: $152/bbl (vs $90)",
+   "IATA 2026 industry profit: $23B (from $41B)"
+  ],
+  "order": 11,
+  "sector": "consumer-retail",
+  "soWhat": "Fuel is typically the second biggest airline cost after labor, and airlines can only pass it on through fares if customers keep buying. With margins already around 2% to 4%, a fuel spike takes away most of the profit. Airlines with fuel hedges, premium cabins and loyalty programs hold up better than low-fare carriers that compete mostly on price. Several of these figures come from earlier in October, so results this week will update them.",
+  "sources": [
+   {
+    "title": "S&P Global: US airlines Q3 2026 earnings expectations",
+    "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/10/visible-alpha-breakdown-of-us-airlines-q3-2026-earnings-expectations"
+   },
+   {
+    "title": "Business Travel News Europe: Global airline earnings to halve in 2026 as fuel prices soar",
+    "url": "https://businesstravelnewseurope.com/Air-Travel/Global-airline-earnings-to-halve-in-2026-as-fuel-prices-soar-IATA"
+   },
+   {
+    "title": "Inspenet: Delta cuts profit forecast due to rising fuel costs",
+    "url": "https://inspenet.com/en/news/delta-air-lines-cuts-profit-forecast-due-to-rising-fuel-costs/"
+   }
+  ],
+  "subindustry": "travel-hospitality",
+  "summary": "Analysts expect fuel expense at six major US airlines to rise 55% to 67% from a year ago in the third quarter, while revenue grows 16% to 22%. Delta cut its 2026 earnings outlook to $5.10 to $5.60 per share from $6.50 to $7.50, and American trimmed its own after its expected fuel bill rose by nearly $1.6 billion. IATA now expects jet fuel to average $152 a barrel in 2026 against $90 in 2025, and cut its forecast for global airline profit to $23 billion from $41 billion, a 2.0% net margin. Strong demand has kept fares high, but higher prices only cover part of the fuel increase.",
+  "tags": []
  }
 }
