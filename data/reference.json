@@ -284,6 +284,24 @@
    "ticker": "NYSE: HPP",
    "updated": "2026-10-20"
   },
+  "ibm": {
+   "businessModel": "Sells software (including Red Hat and automation tools) on subscription, mainframe and other infrastructure hardware, and a services segment that helps companies build and run technology. Software and mainframe produce most of the profit and cash.",
+   "competitors": [
+    "Microsoft",
+    "Oracle",
+    "SAP",
+    "Accenture",
+    "Amazon (AWS)",
+    "Dell Technologies"
+   ],
+   "hq": "Armonk, NY",
+   "name": "IBM",
+   "sector": "tmt",
+   "size": "Revenue about $67B (2025, approx.)",
+   "subindustry": "software-cloud",
+   "ticker": "NYSE: IBM",
+   "updated": "2026-10-22"
+  },
   "intuitive-surgical": {
    "businessModel": "Sells da Vinci robotic surgery systems and earns most revenue from instruments, accessories and service used on every procedure, plus leasing and system sales.",
    "competitors": [
@@ -318,6 +336,24 @@
    "subindustry": "pharma-biotech",
    "ticker": "NYSE: JNJ",
    "updated": "2026-10-19"
+  },
+  "lseg": {
+   "businessModel": "Earns subscription fees for financial data, analytics and workflow tools (including Refinitiv), plus fees from trading, clearing (LCH) and index licensing. Data and analytics make up the largest share of revenue.",
+   "competitors": [
+    "Intercontinental Exchange",
+    "S&P Global",
+    "Bloomberg",
+    "CME Group",
+    "Nasdaq",
+    "Deutsche Boerse"
+   ],
+   "hq": "London, UK",
+   "name": "London Stock Exchange Group",
+   "sector": "financial-services",
+   "size": "Revenue about £9B (2025, approx.)",
+   "subindustry": "payments-fintech",
+   "ticker": "LSE: LSEG",
+   "updated": "2026-10-22"
   },
   "mastercard": {
    "businessModel": "Runs a card payment network and charges small fees on each transaction and on cross-border volume; it does not lend money. Also sells fraud, data and security services.",
@@ -454,6 +490,24 @@
    "ticker": "Private (Nvidia-backed; filed for US IPO Sept 2026)",
    "updated": "2026-10-20"
   },
+  "octus": {
+   "businessModel": "Sells subscriptions to credit intelligence, news, data and workflow tools for restructuring, distressed debt and private credit work, used by investors, banks, law firms and advisers.",
+   "competitors": [
+    "S&P Global (Capital IQ, LCD)",
+    "Moody's",
+    "Bloomberg",
+    "PitchBook",
+    "Debtwire",
+    "FactSet"
+   ],
+   "hq": "New York, NY",
+   "name": "Octus",
+   "sector": "financial-services",
+   "size": "Over 44,000 customers; revenue not disclosed",
+   "subindustry": "asset-wealth",
+   "ticker": "Private (Permira; sale to LSEG agreed)",
+   "updated": "2026-10-22"
+  },
   "orange": {
    "businessModel": "Sells mobile, broadband and business telecom services in France, Europe, Africa and the Middle East, plus IT and cybersecurity services to companies.",
    "competitors": [
@@ -470,6 +524,24 @@
    "subindustry": "telecom",
    "ticker": "EPA: ORA",
    "updated": "2026-10-20"
+  },
+  "procter-gamble": {
+   "businessModel": "Makes and sells branded household and personal-care products (Tide, Pampers, Gillette, Oral-B, Olay) through retailers worldwide. Profit comes from brand strength, scale in manufacturing and advertising, and regular price increases.",
+   "competitors": [
+    "Unilever",
+    "Colgate-Palmolive",
+    "Kimberly-Clark",
+    "Reckitt",
+    "Henkel",
+    "L'Oreal"
+   ],
+   "hq": "Cincinnati, OH",
+   "name": "Procter & Gamble",
+   "sector": "consumer-retail",
+   "size": "Revenue about $84B (fiscal 2025, approx.)",
+   "subindustry": "cpg",
+   "ticker": "NYSE: PG",
+   "updated": "2026-10-22"
   },
   "proofpoint": {
    "businessModel": "Subscription software that protects employees from email threats, phishing and data loss, sold to enterprise security teams. Grows by bolting on adjacent products.",
@@ -572,6 +644,23 @@
    "ticker": "NYSE: SLGN",
    "updated": "2026-10-20"
   },
+  "southwest-airlines": {
+   "businessModel": "A US airline selling tickets and extras such as extra-legroom seats and bags, flying mainly point-to-point routes on a single aircraft type. Profit depends on fares, seat occupancy and fuel and labor costs.",
+   "competitors": [
+    "Delta Air Lines",
+    "United Airlines",
+    "American Airlines",
+    "Alaska Air Group",
+    "JetBlue"
+   ],
+   "hq": "Dallas, TX",
+   "name": "Southwest Airlines",
+   "sector": "consumer-retail",
+   "size": "Revenue about $28B (2025, approx.)",
+   "subindustry": "travel-hospitality",
+   "ticker": "NYSE: LUV",
+   "updated": "2026-10-22"
+  },
   "spacex": {
    "businessModel": "Sells Starlink satellite internet subscriptions and mobile connectivity, launches rockets for government and commercial customers, and now sells AI computing capacity.",
    "competitors": [
@@ -640,6 +729,60 @@
    "subindustry": "telecom",
    "ticker": "BME: TEF",
    "updated": "2026-10-20"
+  },
+  "tesla": {
+   "businessModel": "Sells electric cars and SUVs directly to buyers, plus battery energy storage, solar, charging, software subscriptions such as Full Self-Driving, and services. It is investing heavily in robotaxis and the Optimus humanoid robot.",
+   "competitors": [
+    "BYD",
+    "General Motors",
+    "Ford",
+    "Volkswagen Group",
+    "Hyundai-Kia",
+    "Waymo"
+   ],
+   "hq": "Austin, TX",
+   "name": "Tesla",
+   "sector": "advanced-industries",
+   "size": "Quarterly revenue about $28B (Q3 2026); annual revenue about $95B (2025, approx.)",
+   "subindustry": "automotive-mobility",
+   "ticker": "Nasdaq: TSLA",
+   "updated": "2026-10-22"
+  },
+  "texas-instruments": {
+   "businessModel": "Designs and manufactures analog and embedded processing chips that manage power and signals, sold to tens of thousands of customers in industrial, automotive, personal electronics and data center markets. It makes most chips in its own US factories.",
+   "competitors": [
+    "Analog Devices",
+    "Infineon",
+    "STMicroelectronics",
+    "NXP",
+    "Microchip Technology",
+    "onsemi"
+   ],
+   "hq": "Dallas, TX",
+   "name": "Texas Instruments",
+   "sector": "tmt",
+   "size": "Revenue about $17B (2025, approx.)",
+   "subindustry": "semiconductors",
+   "ticker": "Nasdaq: TXN",
+   "updated": "2026-10-22"
+  },
+  "thermo-fisher": {
+   "businessModel": "Sells lab instruments, reagents and consumables, diagnostics, and contract development and manufacturing services to drugmakers, biotech firms, hospitals and universities. Repeat consumables and services give it steady revenue.",
+   "competitors": [
+    "Danaher",
+    "Agilent",
+    "Waters",
+    "Merck KGaA (MilliporeSigma)",
+    "Revvity",
+    "Avantor"
+   ],
+   "hq": "Waltham, MA",
+   "name": "Thermo Fisher Scientific",
+   "sector": "healthcare",
+   "size": "Revenue about $45B (2025, approx.)",
+   "subindustry": "pharma-biotech",
+   "ticker": "NYSE: TMO",
+   "updated": "2026-10-22"
   },
   "trivium-packaging": {
    "businessModel": "Makes metal packaging such as food, seafood and pet food cans and aerosol containers for food, beauty and personal care brands in Europe and the Americas.",
@@ -859,6 +1002,43 @@
     "Biofuel demand is supporting prices for vegetable oils and corn",
     "Trade disputes shift grain flows between the US, China and Brazil",
     "Precision farming and data tools to raise yields"
+   ]
+  },
+  "asset-wealth": {
+   "kpis": [
+    "Assets under management (AUM): the base fees are charged on",
+    "Net flows: new money in minus money out",
+    "Fee rate: measured in basis points; lower for passive",
+    "Pretax operating margin: about 33% in 2024 (McKinsey)"
+   ],
+   "marketSize": {
+    "global": "~$147T",
+    "globalNote": "Global assets under management, 2025 (BCG Global Asset Management Report 2026; McKinsey also put mid-2025 AUM near $147T)",
+    "us": "~$60T (est.)",
+    "usNote": "Rough estimate of about 40% of global AUM for North America; not sourced this run"
+   },
+   "operatingModel": "Managers charge a fee on assets, from a few basis points on index funds to about 2% plus a share of profits in private equity. Costs such as staff and technology are mostly fixed, so margins widen when markets rise and assets grow, and shrink when markets fall or clients move to cheaper funds.",
+   "overview": "Asset and wealth management is the business of investing money for institutions and individuals and charging a fee for it. It covers mutual funds and ETFs, alternatives such as private equity and private credit, and the advisers and platforms that serve wealthy households. Fees are a small percentage of the assets managed.",
+   "players": [
+    "Index and traditional: BlackRock, Vanguard, Fidelity, State Street",
+    "Alternatives: Blackstone, Apollo, KKR, EQT, Brookfield",
+    "Wealth platforms: Morgan Stanley, UBS, Charles Schwab",
+    "Concentrated at the top, with thousands of smaller boutique managers"
+   ],
+   "profileUpdated": "2026-10-22",
+   "sector": "financial-services",
+   "threats": [
+    "A market downturn cuts assets and fees at the same time",
+    "Fee compression as clients shift to passive and low-cost products",
+    "Outflows to private markets or rival platforms",
+    "Regulation of fees, conduct and private-market access"
+   ],
+   "trends": [
+    "Market gains drove about 80% of industry revenue growth in 2025, with net new business only about 20% (BCG)",
+    "Passive funds and ETFs keep pushing fees down on traditional products",
+    "Public and private markets are converging, with McKinsey estimating $6-10.5T of money in motion over five years",
+    "Retail investors drove 61% of AUM growth from 2020 to 2025 (BCG)",
+    "Managers and data groups are buying technology and data to win on distribution"
    ]
   },
   "automotive-mobility": {

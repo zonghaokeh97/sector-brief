@@ -739,5 +739,252 @@
     "subindustry": "travel-hospitality"
    }
   ]
+ },
+ "2026-10-22": {
+  "date": "2026-10-22",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "Oil in the ground has not changed. Attacks on vessels and Iran's restrictions on the Strait set the price, and the roughly $12 gap between Brent and US crude reflects the premium on seaborne barrels.",
+    "id": "2026-10-22:x01",
+    "kind": "today",
+    "options": [
+     "A sharp fall in global oil reserves",
+     "Shipping risk around the Strait of Hormuz and Iran headlines",
+     "A surge in US shale output",
+     "A big cut announced by OPEC+ this week"
+    ],
+    "prompt": "Brent trades near $112 while US crude is near $100. What mainly drives the price?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-22-02",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 0,
+    "explanation": "Organic growth sped up each quarter even though management said academic and government demand would stay weak through year-end, which points to drug and biotech customers.",
+    "id": "2026-10-22:x02",
+    "kind": "today",
+    "options": [
+     "Pharma and biotech customers are spending again while academic labs lag",
+     "University budgets are now the main growth driver",
+     "Consumables sales are shrinking",
+     "Contract manufacturing has been sold off"
+    ],
+    "prompt": "Thermo Fisher's organic growth was 1% in Q1, 5% in Q2 and 6% in Q3. What does the trend suggest?",
+    "sector": "healthcare",
+    "storyId": "2026-10-22-08",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 1,
+    "explanation": "About 80% of revenue growth came from market gains and only about 20% from net new business. That is why managers' profits track markets and why distribution strength matters.",
+    "id": "2026-10-22:x03",
+    "kind": "profile",
+    "options": [
+     "Net new client money",
+     "Market gains",
+     "Higher fees",
+     "Acquisitions of smaller managers"
+    ],
+    "prompt": "According to BCG, what drove most of the asset management industry's revenue growth in 2025?",
+    "sector": "financial-services",
+    "storyId": null,
+    "subindustry": "asset-wealth"
+   },
+   {
+    "answer": 3,
+    "explanation": "Capex more than doubled from $2.25B. Free cash flow was still positive at $1.53B, but the open question is how long that holds.",
+    "id": "2026-10-22:x04",
+    "kind": "today",
+    "options": [
+     "Slightly lower",
+     "About the same",
+     "About 20% higher",
+     "More than double ($2.25B)"
+    ],
+    "prompt": "Tesla's capital spending in Q3 was $4.73B. How does that compare with a year earlier?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-22-01",
+    "subindustry": "automotive-mobility"
+   },
+   {
+    "answer": 0,
+    "explanation": "P&G agreed to pay $3.8B for Thorne, which has annual revenue above $500M. The deal pushes P&G into supplements and wellness.",
+    "id": "2026-10-22:x05",
+    "kind": "today",
+    "options": [
+     "$3.8 billion",
+     "$380 million",
+     "$12 billion",
+     "$1.3 billion"
+    ],
+    "prompt": "What did P&G agree to pay for the supplements maker Thorne in August?",
+    "sector": "consumer-retail",
+    "storyId": "2026-10-22-06",
+    "subindustry": "cpg"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 0,
+    "explanation": "Gross margin actually rose 1.6 points to 19.6%, so margins on each sale were not the problem. Operating costs for AI and Optimus grew faster than gross profit, which cut operating margin to 2.6%.",
+    "id": "2026-10-22:q01",
+    "kind": "today",
+    "options": [
+     "Spending on AI and the Optimus robot grew faster than gross profit",
+     "Gross margin fell sharply from the prior year",
+     "Vehicle deliveries rose so fast that costs spiked",
+     "Services revenue declined by about a third"
+    ],
+    "prompt": "Tesla's Q3 revenue was flat at about $28B, yet operating income fell 56% to $718M. What best explains the drop?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-22-01",
+    "subindustry": "automotive-mobility"
+   },
+   {
+    "answer": 2,
+    "explanation": "Software grew 8% and infrastructure 4%, while services was about flat. IBM also raised its cash flow outlook, so cash flow is not shrinking.",
+    "id": "2026-10-22:q02",
+    "kind": "today",
+    "options": [
+     "Hardware sales are now the main source of growth",
+     "Software demand is falling across the industry",
+     "Growth is coming from software while the labor-based services segment lags",
+     "Cash flow is shrinking as revenue grows"
+    ],
+    "prompt": "IBM's revenue rose 5% to $17.1B, with Software up 8% and its services segment roughly flat. What does that mix show?",
+    "sector": "tmt",
+    "storyId": "2026-10-22-03",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 1,
+    "explanation": "Revenue grew 28% from a year earlier. The 11% figure is the sequential increase from the prior quarter, which is the tempting wrong answer.",
+    "id": "2026-10-22:q03",
+    "kind": "today",
+    "options": [
+     "About 3%",
+     "About 28%",
+     "About 11%",
+     "It was lower than a year earlier"
+    ],
+    "prompt": "Texas Instruments reported Q3 revenue of $6.06B. How much higher was that than a year earlier?",
+    "sector": "tmt",
+    "storyId": "2026-10-22-04",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 3,
+    "explanation": "Octus sells credit data and workflow tools on subscription, which complements LSEG's fixed-income data and private markets products. It is not a lender, trading venue or broker.",
+    "id": "2026-10-22:q04",
+    "kind": "today",
+    "options": [
+     "It lets LSEG launch a lending business",
+     "It gives LSEG a bond trading venue",
+     "It lets LSEG start a retail brokerage",
+     "It adds credit intelligence subscriptions for 44,000+ customers to LSEG's fixed-income data"
+    ],
+    "prompt": "LSEG agreed to pay over $3.5B for Octus, which Permira bought into for $1.3B in 2022. What is the business logic?",
+    "sector": "financial-services",
+    "storyId": "2026-10-22-05",
+    "subindustry": "asset-wealth"
+   },
+   {
+    "answer": 2,
+    "explanation": "P&G had warned that core EPS could fall 5% or more because of oil-linked costs. Organic sales growth of 4% gave it room to absorb the cost, and it kept its full-year guidance.",
+    "id": "2026-10-22:q05",
+    "kind": "today",
+    "options": [
+     "A cut to its dividend",
+     "The sale of its largest brand",
+     "Organic sales growth of 4%",
+     "A fall in oil prices during the quarter"
+    ],
+    "prompt": "A household-products maker faces higher oil-linked raw material costs. In P&G's quarter, what helped it still grow core EPS 1%?",
+    "sector": "consumer-retail",
+    "storyId": "2026-10-22-06",
+    "subindustry": "cpg"
+   },
+   {
+    "answer": 3,
+    "explanation": "Fuel expense rose $821M from a year earlier and cost $1.08 per share. Southwest plans for $4.55 a gallon in Q4, so the pressure continues.",
+    "id": "2026-10-22:q06",
+    "kind": "today",
+    "options": [
+     "About $0.18 per share",
+     "About $0.40 per share",
+     "About $2.10 per share",
+     "About $1.08 per share"
+    ],
+    "prompt": "Southwest's Q3 fuel cost $3.92 a gallon, above its $3.70-3.75 assumption. What was the hit to adjusted EPS?",
+    "sector": "consumer-retail",
+    "storyId": "2026-10-22-07",
+    "subindustry": "travel-hospitality"
+   },
+   {
+    "answer": 1,
+    "explanation": "Hormuz tanker transits are running about 70% below pre-war levels. The oil exists but can't move safely, so freight, insurance and the physical premium drive the price. OPEC+ doesn't meet until Nov 1.",
+    "id": "2026-10-19:q01",
+    "kind": "review",
+    "options": [
+     "OPEC+ announced a large production cut",
+     "Attacks on shipping mean Gulf oil can't safely get through the Strait of Hormuz",
+     "US shale output fell sharply this quarter",
+     "Chinese oil demand surged on a strong recovery"
+    ],
+    "prompt": "Brent is near $110 even though the world's oil reserves haven't changed. What is the main reason?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-19-01",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 3,
+    "explanation": "GM approved a new $20B multi-year buyback after completing a $6B program announced in January. The $6B figure is tempting but is the old program; GM's share count is down about 6% this year.",
+    "id": "2026-10-20:q03",
+    "kind": "review",
+    "options": [
+     "$2 billion",
+     "$6 billion",
+     "$10 billion",
+     "$20 billion"
+    ],
+    "prompt": "How large is the new share buyback GM approved alongside its Q3 results?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-20-03",
+    "subindustry": "automotive-mobility"
+   },
+   {
+    "answer": 0,
+    "explanation": "Gasoline was up 27.8% and energy 19%, while CPI-median (1.9%) and CPI-trim (1.8%) stayed near target. That is an oil shock, not broad inflation, though markets still price a December hike in case it spreads. Food was actually one of the softer items.",
+    "id": "2026-10-20:q06",
+    "kind": "review",
+    "options": [
+     "Price rises are driven by energy and haven't yet spread across the economy",
+     "Wages are rising fast and pushing up all prices",
+     "The Bank of Canada has kept interest rates too low for years",
+     "Food prices are the main driver of inflation"
+    ],
+    "prompt": "Canada's headline inflation rose to 3.1%, but core measures were 1.8-1.9%. What does that combination mainly signal?",
+    "sector": "macro",
+    "storyId": "2026-10-20-08",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "Managers charge a percentage of assets under management, so rising markets lift fees while staff and technology costs stay roughly fixed. That operating leverage works in reverse in a downturn.",
+    "id": "2026-10-22:q10",
+    "kind": "profile",
+    "options": [
+     "Fees are charged on assets, and costs are mostly fixed",
+     "Regulators set fees according to the stock market index",
+     "Most revenue comes from interest on customer loans",
+     "Managers earn commission on every trade clients make"
+    ],
+    "prompt": "Why do asset managers' profits tend to rise and fall with financial markets?",
+    "sector": "financial-services",
+    "storyId": null,
+    "subindustry": "asset-wealth"
+   }
+  ]
  }
 }

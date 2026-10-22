@@ -1134,5 +1134,238 @@
   "subindustry": "travel-hospitality",
   "summary": "Analysts expect fuel expense at six major US airlines to rise 55% to 67% from a year ago in the third quarter, while revenue grows 16% to 22%. Delta cut its 2026 earnings outlook to $5.10 to $5.60 per share from $6.50 to $7.50, and American trimmed its own after its expected fuel bill rose by nearly $1.6 billion. IATA now expects jet fuel to average $152 a barrel in 2026 against $90 in 2025, and cut its forecast for global airline profit to $23 billion from $41 billion, a 2.0% net margin. Strong demand has kept fares high, but higher prices only cover part of the fuel increase.",
   "tags": []
+ },
+ "2026-10-22-01": {
+  "companies": [
+   "tesla"
+  ],
+  "date": "2026-10-22",
+  "headline": "Tesla's revenue is flat at $28 billion while operating profit falls 56% as AI and robot spending outruns gross profit",
+  "numbers": [
+   "Revenue: $28.05B, roughly flat y/y",
+   "Operating income: $718M, down 56% (2.6% margin)",
+   "Capex: $4.73B vs $2.25B a year ago",
+   "Gross margin: 19.6%, up 1.6 points"
+  ],
+  "order": 1,
+  "sector": "advanced-industries",
+  "soWhat": "Tesla is spending like a technology company while still earning most of its money like a carmaker. Better margins on each vehicle were not enough to cover the cost of AI training, robots and new factories, so profit shrank even as the core business stabilized. Investors are being asked to accept lower profits now for a bet on robotaxis and robots later, and the payoff depends on whether those services reach real scale. The open question is how long free cash flow can stay positive while capital spending keeps climbing.",
+  "sources": [
+   {
+    "title": "Electrek: Tesla Q3 2026 financial results",
+    "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/"
+   },
+   {
+    "title": "Drive Tesla Canada: Tesla Q3 2026 earnings",
+    "url": "https://driveteslacanada.ca/news/tesla-q3-2026-earnings-results/"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "Tesla reported third-quarter revenue of $28.05 billion, essentially unchanged from a year earlier. Automotive revenue fell 3% to $20.6 billion, while services and other revenue rose 33% to $4.61 billion. Gross margin improved by 1.6 points to 19.6%, but operating income dropped 56% to $718 million because spending on AI and the Optimus robot grew faster than gross profit. GAAP net income was $787 million, down 43%. Capital spending more than doubled to $4.73 billion and free cash flow was $1.53 billion. Tesla also began offering robotaxi rides in Austin using its Cybercab vehicle on September 3.",
+  "tags": []
+ },
+ "2026-10-22-02": {
+  "companies": [],
+  "date": "2026-10-22",
+  "headline": "Brent climbs back to about $112 as Iran says it attacked ships and keeps Hormuz restrictions in place",
+  "numbers": [
+   "Brent: $112.27, +3.2% on Thursday",
+   "US crude: $99.80, +2.8%",
+   "Tuesday high: $111.99, highest since May",
+   "Vessels Iran says it attacked: 4"
+  ],
+  "order": 2,
+  "sector": "energy-materials",
+  "soWhat": "The price is being set by shipping risk rather than by a shortage of oil in the ground. Producers outside the Gulf, such as US shale drillers, earn windfall margins at $100 crude, while refiners, airlines and chemical makers see their costs rise. The roughly $12 gap between Brent and US crude shows how much extra the market pays for barrels that must travel by sea. The open question is whether talks restart soon enough to prevent a longer period of high prices from slowing demand.",
+  "sources": [
+   {
+    "title": "Vantage Markets: Brent crude tops $111 as Iran strike reports lift oil prices",
+    "url": "https://www.vantagemarkets.com/market-analysis/crude-oil-prices-brent-wti-iran-strike-reports-october-22-2026/"
+   },
+   {
+    "title": "Discovery Alert: Oil prices whipsaw as Brent hits $111.99",
+    "url": "https://discoveryalert.com/news/oil-prices-brent-iran-talks-october-2026/"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Brent crude touched $111.99 on Tuesday, its highest level since May, then settled at $108.79 after unconfirmed reports that Qatar and Pakistan were working to revive talks with Iran. On Thursday Brent rose about 3% to $112.27 a barrel and US crude gained 2.8% to $99.80 after Iran's Revolutionary Guard said it attacked four vessels using a shipping route Tehran rejects. Iran says indirect talks continue, while Washington denies negotiating, and no timetable exists for reopening the Strait of Hormuz.",
+  "tags": []
+ },
+ "2026-10-22-03": {
+  "companies": [
+   "ibm"
+  ],
+  "date": "2026-10-22",
+  "headline": "IBM's software revenue grows 8% and it raises its cash flow outlook while its services segment stays flat",
+  "numbers": [
+   "Revenue: $17.1B, +5%",
+   "Software revenue growth: +8%",
+   "Free cash flow, first nine months: $7.8B",
+   "Adjusted EPS: $2.95 vs about $2.86 expected"
+  ],
+  "order": 3,
+  "sector": "tmt",
+  "soWhat": "IBM has shifted toward software and mainframe infrastructure, which are recurring and higher-margin, while the people-based services segment grows little. Software subscriptions and mainframe cycles give it predictable cash, which funds dividends and acquisitions. The flat services line shows how labor-based work is the part of the business most exposed to pricing pressure and automation. The open question is whether AI products can lift software growth beyond the current 8%.",
+  "sources": [
+   {
+    "title": "SEC: IBM Q3 2026 earnings release (8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000051143/000005114326000093/ibm-20261021xex991.htm"
+   },
+   {
+    "title": "Constellation Research: IBM Q3 strong, carried by AI, IBM Z mainframe",
+    "url": "https://www.constellationr.com/insights/news/ibm-q3-strong-carried-ai-ibm-z-mainframe"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "IBM reported third-quarter revenue of $17.1 billion, up 5% (6% at constant currency). Software grew 8%, infrastructure grew 4% and the services segment was roughly flat. Adjusted earnings were $2.95 per share against about $2.86 expected. Operating cash flow for the first nine months was $11.8 billion and free cash flow was $7.8 billion. IBM kept its full-year revenue growth target of 4-5% at constant currency and now expects free cash flow to rise by more than $1 billion from last year's $14.7 billion.",
+  "tags": []
+ },
+ "2026-10-22-04": {
+  "companies": [
+   "texas-instruments"
+  ],
+  "date": "2026-10-22",
+  "headline": "Texas Instruments' revenue jumps 28% to $6.06 billion as industrial, auto and data center chips all grow",
+  "numbers": [
+   "Revenue: $6.06B, +28% y/y, +11% q/q",
+   "Net income: $2.43B (EPS $2.62)",
+   "Q4 revenue guide: $5.80-6.30B",
+   "Q4 EPS guide: $2.45-2.79"
+  ],
+  "order": 4,
+  "sector": "tmt",
+  "soWhat": "Texas Instruments makes analog and embedded chips that manage power and signals in nearly every electronic product, so its results work as a read on the wider economy. A 28% annual jump suggests customers have worked through the inventory they built up earlier and are ordering again. The company runs its own factories, so each extra dollar of sales adds profit faster than costs, which is why earnings rise faster than revenue in an upswing. The open question is whether the fourth-quarter guide, which spans a decline to modest growth, means the rebound is leveling off.",
+  "sources": [
+   {
+    "title": "SEC: Texas Instruments Q3 2026 earnings release (8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000097476/000009747626000165/q32026txnex99-eredgar.htm"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Texas Instruments reported third-quarter revenue of $6.06 billion, above the top of its own $5.65-6.15 billion guidance range. Revenue rose 11% from the previous quarter and 28% from a year earlier. Net income was $2.43 billion, or $2.62 per share. The company said growth was broad across industrial, automotive and data center customers. For the fourth quarter it guided to revenue of $5.80-6.30 billion and earnings of $2.45-2.79 per share.",
+  "tags": []
+ },
+ "2026-10-22-05": {
+  "companies": [
+   "lseg",
+   "octus"
+  ],
+  "date": "2026-10-22",
+  "headline": "London Stock Exchange Group agrees to buy credit data provider Octus from Permira for more than $3.5 billion",
+  "numbers": [
+   "Deal value: more than $3.5B (all cash)",
+   "Octus customers: 44,000+",
+   "Permira's 2022 purchase price: $1.3B",
+   "Seller's exits this year: sixth by Permira"
+  ],
+  "order": 5,
+  "sector": "financial-services",
+  "soWhat": "Exchanges and data groups earn steady subscription revenue by owning information that professionals cannot work without, and credit data is a gap LSEG wants to fill. Distressed and private credit markets have grown, so analysis of those borrowers is now worth paying for. For Permira the deal is another exit at a much higher value than its entry price. The open question is how much LSEG is paying relative to Octus's revenue, which has not been disclosed.",
+  "sources": [
+   {
+    "title": "Legal Business: LSEG acquires Octus from Permira for $3.5bn",
+    "url": "https://www.legalbusiness.co.uk/law-firms/us-firms-lead-as-lseg-acquires-octus-from-permira-for-3-5bn/"
+   },
+   {
+    "title": "FStech: LSEG to buy finance data specialist Octus for $3.5bn",
+    "url": "https://www.fstech.co.uk/fst/LSEG_To_Buy_Finance_Data_Specialist_Octus_For_3_5bn.php"
+   },
+   {
+    "title": "LSEG: Response to press speculation, Octus acquisition",
+    "url": "https://www.lseg.com/en/media-centre/press-releases/2026/lseg-response-to-press-speculation-octus-acquisition"
+   }
+  ],
+  "subindustry": "asset-wealth",
+  "summary": "The London Stock Exchange Group agreed to buy Octus, a credit intelligence, data and workflow provider, from private equity firm Permira in an all-cash deal worth more than $3.5 billion. Octus serves investment banks, law firms, advisers and investors, with more than 44,000 customers. Permira bought the controlling stake from Warburg Pincus in 2022 for $1.3 billion. LSEG, which had confirmed the talks on October 13, says the deal complements its fixed-income data and private markets products and will add to growth. The deal needs regulatory clearance.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-22-06": {
+  "companies": [
+   "procter-gamble"
+  ],
+  "date": "2026-10-22",
+  "headline": "P&G grows sales 4% to $23.3 billion and holds its full-year outlook despite higher oil-linked costs",
+  "numbers": [
+   "Net sales: $23.3B, +4%",
+   "Core EPS: $2.00, +1%",
+   "Organic sales growth: +4%",
+   "Thorne deal: $3.8B, announced Aug 4"
+  ],
+  "order": 6,
+  "sector": "consumer-retail",
+  "soWhat": "Household-products makers buy plastics, resins and chemicals made from oil, so a fuel price shock hits their costs within months. P&G's 4% organic growth gave it room to absorb that cost, which shows the value of strong brands that can raise prices or sell more without losing customers. The Thorne purchase pushes it into supplements and wellness, a faster-growing aisle than detergent or diapers. The open question is whether the cost hit, which management expected to be heaviest in the first half, fades as promised.",
+  "sources": [
+   {
+    "title": "SEC: P&G first quarter fiscal 2027 results (8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000080424/000008042426000250/fy2627q1jas8-kexhibit991.htm"
+   },
+   {
+    "title": "L Catterton: sale of Thorne to P&G for $3.8 billion",
+    "url": "https://ca.marketscreener.com/quote/stock/PROCTER-GAMBLE-COMPANY-4838/news/"
+   }
+  ],
+  "subindustry": "cpg",
+  "summary": "Procter & Gamble reported first-quarter fiscal 2027 net sales of $23.3 billion, up 4%, with organic sales also up 4%. Core earnings per share were $2.00, up 1%, after the company had warned in July that higher oil-linked raw material costs could cut first-quarter earnings by 5% or more. It kept its full-year organic sales, earnings growth and cash return guidance, and updated its net sales outlook to include Thorne, the supplements maker it agreed to buy for $3.8 billion in August.",
+  "tags": []
+ },
+ "2026-10-22-07": {
+  "companies": [
+   "southwest-airlines"
+  ],
+  "date": "2026-10-22",
+  "headline": "Southwest's third-quarter fuel bill rises $821 million and it plans for $4.55 a gallon in the fourth quarter",
+  "numbers": [
+   "Q3 fuel cost: $3.92 per gallon",
+   "Fuel expense increase: $821M y/y",
+   "EPS headwind: $1.08 per share",
+   "Q4 fuel assumption: $4.55 per gallon"
+  ],
+  "order": 7,
+  "sector": "consumer-retail",
+  "soWhat": "Fuel is typically the airline industry's second-largest cost after labor, and Southwest does not hedge much of it, so price swings pass straight into profit. Travel demand and extras such as assigned seating are helping revenue, yet they are being outweighed by fuel. Airlines with newer, more efficient planes and fuel hedges are better protected than those without. The open question is how much of the higher fuel cost carriers can recover through fares before demand weakens.",
+  "sources": [
+   {
+    "title": "SEC: Southwest Airlines Q3 2026 earnings release (8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000092380/000009238026000104/er-9302026xerdoc.htm"
+   },
+   {
+    "title": "Reuters via WHBL: Southwest cuts annual outlook on fuel",
+    "url": "https://whbl.com/?p=988781"
+   }
+  ],
+  "subindustry": "travel-hospitality",
+  "summary": "Southwest Airlines said its third-quarter fuel cost averaged $3.92 a gallon, above the $3.70-3.75 it had assumed. Fuel expense rose $821 million from a year earlier and cut adjusted earnings by $1.08 per share. For the fourth quarter the airline assumes about $4.55 a gallon, based on the October 15 forward price curve. In July it had set full-year adjusted earnings guidance of $3.25-4.25 per share and a third-quarter range of 50 to 75 cents.",
+  "tags": []
+ },
+ "2026-10-22-08": {
+  "companies": [
+   "thermo-fisher"
+  ],
+  "date": "2026-10-22",
+  "headline": "Thermo Fisher's revenue grows 9% to $12.14 billion as organic growth speeds up for a third straight quarter",
+  "numbers": [
+   "Revenue: $12.14B, +9%",
+   "Organic growth: +6% (Q1 +1%, Q2 +5%)",
+   "Adjusted EPS: $6.68",
+   "Preview consensus revenue: about $11.95B"
+  ],
+  "order": 8,
+  "sector": "healthcare",
+  "soWhat": "Thermo Fisher sells instruments, lab supplies and contract services to drugmakers, biotech firms and universities, so its sales follow research budgets and drug production. Most of its revenue is repeat purchases of consumables, which makes it steadier than a pure equipment seller. Faster organic growth suggests pharma and biotech customers are spending again even though university and government labs are not. The open question is whether academic demand recovers or stays the drag management described.",
+  "sources": [
+   {
+    "title": "SEC: Thermo Fisher Q3 2026 earnings release (8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000097745/000009774526000173/q32026earnings8kex99_1.htm"
+   },
+   {
+    "title": "GenomeWeb: Thermo Fisher raises guidance on strong Q2 results",
+    "url": "https://www.genomeweb.com/business-news/thermo-fisher-stock-surges-firm-raises-full-year-guidance-strong-q2-results"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "Thermo Fisher Scientific reported third-quarter revenue of $12.14 billion, up 9%, with organic growth of 6% and adjusted earnings of $6.68 per share. Organic growth was 1% in the first quarter and 5% in the second, so the pace has increased through the year. An earnings preview had expected revenue of about $11.95 billion. In April management said academic and government demand would stay weak through year-end. The company said it would give updated 2026 guidance on its earnings call.",
+  "tags": []
  }
 }
