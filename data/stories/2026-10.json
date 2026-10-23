@@ -1367,5 +1367,217 @@
   "subindustry": "pharma-biotech",
   "summary": "Thermo Fisher Scientific reported third-quarter revenue of $12.14 billion, up 9%, with organic growth of 6% and adjusted earnings of $6.68 per share. Organic growth was 1% in the first quarter and 5% in the second, so the pace has increased through the year. An earnings preview had expected revenue of about $11.95 billion. In April management said academic and government demand would stay weak through year-end. The company said it would give updated 2026 guidance on its earnings call.",
   "tags": []
+ },
+ "2026-10-23-01": {
+  "companies": [
+   "meta"
+  ],
+  "date": "2026-10-23",
+  "headline": "Meta's revenue jumps 26% to $64.6 billion, but a $9.9 billion legal charge halves its profit and free cash flow turns negative",
+  "numbers": [
+   "Revenue: $64.6B, +26%",
+   "EPS: $3.83 ($7.40 excluding $9.89B legal charge)",
+   "Q3 capex: $34.91B; 2026 range $135-145B",
+   "Free cash flow: about -$2.1B"
+  ],
+  "order": 1,
+  "sector": "tmt",
+  "soWhat": "Meta shows both sides of the AI buildout: advertising revenue is growing fast, but spending on data centers is now large enough to consume all of the cash the business produces. Social platforms earn most of their money from ads, so better AI targeting can lift revenue, yet the chips and buildings must be paid for years before the payoff is clear. The new non-voting shares let the company issue stock without diluting the founder's control. The open question is how long investors will fund spending at this pace without clearer proof of returns.",
+  "sources": [
+   {
+    "title": "SiliconANGLE: Meta beats on revenue and splits its stock two for one",
+    "url": "https://siliconangle.com/2026/10/21/meta-beats-on-revenue-and-splits-its-stock-two-for-one-with-non-voting-class-c-shares/"
+   },
+   {
+    "title": "XTB: Record-breaking Meta, though with a cash loss",
+    "url": "https://www.xtb.com/en/market-analysis/news-and-research/record-breaking-meta-though-with-a-cash-loss-investors-for-now-are-buying-zuckerberg-s-plan-anyway"
+   },
+   {
+    "title": "24/7 Wall St: Meta's $9.89 billion legal charge buried a strong quarter",
+    "url": "https://247wallst.com/cards/meta-q3-2026-earnings-meta-01m5g1awm0ef8g90sxmwd9b4kz"
+   }
+  ],
+  "subindustry": "internet-platforms",
+  "summary": "Meta reported third-quarter revenue of $64.6 billion, up 26% and above estimates. Earnings per share were $3.83, which includes a $9.89 billion charge tied to an August settlement with US state attorneys general; without it, EPS would have been about $7.40. Capital spending was $34.91 billion in the quarter and the company narrowed its 2026 range to $135-145 billion, with total expenses guided to $175-179 billion. Free cash flow was negative by about $2.1 billion, and cash and securities stood at $82.45 billion. Fourth-quarter revenue is guided to $73-76 billion. Meta also created a non-voting Class C share in a two-for-one split that takes effect January 19, 2027. One market report said the stock fell more than 6% on Thursday.",
+  "tags": []
+ },
+ "2026-10-23-02": {
+  "companies": [],
+  "date": "2026-10-23",
+  "headline": "The Nasdaq falls 2.6% on AI spending worries and oil at a five-month high, while consumer staples have their best day since July",
+  "numbers": [
+   "Nasdaq: -2.6% to 26,008.86",
+   "S&P 500: -1.21% to 7,663.43",
+   "Dow: +0.02% to 52,867.98",
+   "Staples ETF: +2.5%, best day since July"
+  ],
+  "order": 2,
+  "sector": "macro",
+  "soWhat": "When investors worry about growth, they shift from companies that depend on future earnings toward makers of everyday goods whose sales hold up in any economy. High oil prices add to this by raising costs for most businesses while also lifting inflation concerns. Lower yields on the same day suggest that bond buyers saw the oil move as a threat to growth rather than only to prices. The open question is whether the tech decline is a one-day reaction to Meta's spending or the start of a broader reassessment of AI investment.",
+  "sources": [
+   {
+    "title": "Vista PGlobal: Stock market today, October 22, 2026",
+    "url": "https://vistapglobal.com/stock-market-today-october-22-2026-nasdaq-sinks-as-wall-street-checks-ais-tab-amwl-docs-eprx-lrcx-meta-modd-mrk-mrna-nvda-ser-skyd-spcx-tsla/"
+   },
+   {
+    "title": "Yahoo Finance: Stock market today, Thursday October 22",
+    "url": "https://finance.yahoo.com/markets/article/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "US stocks split on Thursday. The Nasdaq Composite fell 2.6% to 26,008.86 and the S&P 500 lost 1.21% to 7,663.43, while the Dow edged up 0.02% to 52,867.98 and the small-company Russell 2000 gained 0.11%. Investors sold technology shares on doubts about the cost of AI buildouts, with Meta among the big decliners. Oil rose to a five-month high, which pushed Treasury yields lower as money moved into bonds. The consumer staples sector ETF rose 2.5%, its best day since July.",
+  "tags": []
+ },
+ "2026-10-23-03": {
+  "companies": [
+   "moderna",
+   "merck-co"
+  ],
+  "date": "2026-10-23",
+  "headline": "Moderna falls about 18% after its melanoma vaccine data leaked early showing a 42% cut in recurrence or death risk",
+  "numbers": [
+   "Risk reduction: 42% vs Keytruda alone",
+   "Median follow-up: 24.6 months",
+   "Moderna close: down about 17.6%",
+   "Market value erased: more than $17B"
+  ],
+  "order": 3,
+  "sector": "healthcare",
+  "soWhat": "A drug can succeed in a trial and still disappoint investors when the share price already assumes an even better result. Moderna's stock had risen sharply since the August announcement, so a result inside analysts' expected range was not enough. Merck, a far larger company with many other products, moved much less, which shows how a single program can drive a small biotech's value but not a big pharma partner's. The open question is whether the benefit holds up in longer follow-up and carries over to other tumor types.",
+  "sources": [
+   {
+    "title": "BioPharma Dive: Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
+    "url": "https://www.biopharmadive.com/news/moderna-merck-esmo-intismeran-melanoma-vaccine-results/833765/"
+   },
+   {
+    "title": "24/7 Wall St: Moderna tumbles 25% after apparent early leak",
+    "url": "https://247wallst.com/investing/2026/10/22/moderna-tumbles-25-after-apparent-early-leak-of-melanoma-vaccine-data-biontech-dips-pfizer-edges-higher/"
+   },
+   {
+    "title": "Forbes: Moderna stock plunges 25% after possible cancer vaccine data leak",
+    "url": "https://www.forbes.com/sites/maryroeloffs/2026/10/22/moderna-stock-plunges-25-after-possible-cancer-vaccine-data-leak/"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "Partial Phase 3 results for intismeran autogene, the personalized cancer vaccine from Moderna and Merck, appeared on a website around midday Thursday and were taken down soon after. The data showed the vaccine plus Merck's Keytruda cut the risk of recurrence or death by 42% versus Keytruda alone after a median 24.6 months in high-risk melanoma. Moderna closed down about 17.6% and fell as much as 25% during the day, erasing more than $17 billion of market value after a huge run-up since the August topline result. Merck fell as much as 3.9%. Analysts had expected a 40-50% benefit, and Citigroup downgraded Moderna. The companies then released the full results ahead of the ESMO meeting and said the data were accepted by the New England Journal of Medicine.",
+  "tags": []
+ },
+ "2026-10-23-04": {
+  "companies": [
+   "bloom-energy"
+  ],
+  "date": "2026-10-23",
+  "headline": "Bloom Energy's revenue more than doubles to a record $1.24 billion and it raises its 2026 outlook to $4.4-4.6 billion",
+  "numbers": [
+   "Q3 revenue: $1,235.8M, +138.1%",
+   "2026 revenue guide: $4.4-4.6B",
+   "Added to the S&P 500"
+  ],
+  "order": 4,
+  "sector": "energy-materials",
+  "soWhat": "Large data centers need power faster than utilities can often connect them to the grid, which can take years, so on-site generation has become a growing niche between the grid and the customer. Fuel cells convert natural gas into electricity without burning it, which can ease some permitting issues. The business is capital-heavy and depends on a few large buyers, so growth this fast is tied to how long AI-driven demand lasts. The open question is whether Bloom can keep manufacturing costs falling as it scales, and whether tech spending holds up.",
+  "sources": [
+   {
+    "title": "SEC: Bloom Energy Q3 2026 results (8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001664703/000162828026066890/ex991_q326financialresults.htm"
+   },
+   {
+    "title": "MarketScreener: Bloom Energy reports record third quarter 2026 results",
+    "url": "https://www.marketscreener.com/news/bloom-energy-reports-record-third-quarter-2026-financial-results-and-raises-full-year-2026-guidance-ce785cdedf89f623"
+   }
+  ],
+  "subindustry": "power-utilities",
+  "summary": "Bloom Energy, which makes fuel cells that generate electricity on site, reported record third-quarter revenue of $1,235.8 million, up 138.1% from a year earlier. It raised its full-year 2026 revenue guidance to $4.4-4.6 billion. The company was also added to the S&P 500 index.",
+  "tags": []
+ },
+ "2026-10-23-05": {
+  "companies": [
+   "union-pacific"
+  ],
+  "date": "2026-10-23",
+  "headline": "Union Pacific posts record third-quarter results with revenue up 15% and volume up 6% while its Norfolk Southern merger stays under review",
+  "numbers": [
+   "Revenue: about $7.2B, +15%",
+   "Adjusted EPS: $3.53 vs $3.08",
+   "Operating ratio: 59.1% reported, 58.8% adjusted",
+   "Volume: +6%"
+  ],
+  "order": 5,
+  "sector": "infrastructure-logistics",
+  "soWhat": "A railroad's operating ratio, the share of revenue spent on operations, is the key measure of efficiency, and each point lower adds directly to profit. Rail volume is a read on industrial demand and imports, so 6% growth is a positive signal for freight. Fuel surcharges pass much of higher diesel costs on to shippers, which lifts revenue but can make the ratio look worse. The open question is whether regulators approve a first coast-to-coast railroad and on what conditions.",
+  "sources": [
+   {
+    "title": "SEC: Union Pacific Q3 2026 earnings release (8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000100885/000010088526000319/a2026-10x228xkex991earning.htm"
+   },
+   {
+    "title": "Motley Fool: Union Pacific Q3 2026 earnings call transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/union-pacific-unp-q3-2026-earnings-call-transcript/"
+   },
+   {
+    "title": "Chartmill: Union Pacific posts in-line Q3 earnings as record results meet a soft market reaction",
+    "url": "https://www.chartmill.com/news/UNP/Chartmill-56640-Union-Pacific-NYSEUNP-Posts-In-Line-Q3-Earnings-as-Record-Results-Meet-a-Soft-Market-Reaction"
+   }
+  ],
+  "subindustry": "transport-logistics",
+  "summary": "Union Pacific reported third-quarter revenue of about $7.2 billion, up 15%, helped by 6% volume growth, higher fuel surcharges and pricing. Adjusted earnings were $3.53 per share, up 15% from $3.08, and the reported operating ratio was 59.1% (58.8% adjusted). Management said the ratio improved 110 basis points when fuel and merger costs are excluded. It reaffirmed its 2026 outlook for high-single-digit earnings growth. The Surface Transportation Board resumed its review of the Norfolk Southern merger in August, and the company expects it to close in the second half of 2027.",
+  "tags": []
+ },
+ "2026-10-23-06": {
+  "companies": [
+   "comcast"
+  ],
+  "date": "2026-10-23",
+  "headline": "Comcast loses 144,000 broadband customers but beats earnings as wireless adds 368,000 lines",
+  "numbers": [
+   "Adjusted EPS: $1.07 vs about $0.98 expected",
+   "Broadband: -144,000 customers",
+   "Wireless: +368,000 lines to 10.6M",
+   "Free cash flow: $4.21B"
+  ],
+  "order": 6,
+  "sector": "tmt",
+  "soWhat": "Cable companies built their profits on home broadband, and fiber and fixed wireless rivals are now taking customers by offering low prices. Wireless service, which Comcast sells mostly by renting capacity on another carrier's network, lets it bundle mobile and home internet to keep households and grow when broadband shrinks. Theme parks add a cyclical source of profit that depends on tourist demand and new attractions. The open question is how far broadband losses can go before the bundle strategy stops covering them.",
+  "sources": [
+   {
+    "title": "CNBC: Comcast Q3 2026 earnings",
+    "url": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html"
+   },
+   {
+    "title": "MarketBeat: Comcast Q3 2026 earnings results",
+    "url": "https://www.marketbeat.com/earnings/reports/2026-10-22-comcast-co-stock/"
+   }
+  ],
+  "subindustry": "telecom",
+  "summary": "Comcast reported third-quarter adjusted earnings of $1.07 per share against about $0.98 expected, on revenue of $29.30 billion, down 6.1% (essentially flat after adjusting for the Versant spin-off). Free cash flow was $4.21 billion. It lost 144,000 broadband customers, which it blamed on competition from fiber and fixed wireless and on pricing changes, while wireless added 368,000 lines to reach 10.6 million, up 18% from a year earlier. Theme park adjusted EBITDA fell 17%. The shares rose about 4%, and the company expects a transformation charge of more than $1 billion in the fourth quarter.",
+  "tags": []
+ },
+ "2026-10-23-07": {
+  "companies": [
+   "quest-diagnostics"
+  ],
+  "date": "2026-10-23",
+  "headline": "Quest Diagnostics grows third-quarter revenue 10% to $3.10 billion and raises its full-year outlook",
+  "numbers": [
+   "Q3 revenue: $3.10B, +10.0%",
+   "2026 revenue guide: $12.065-12.105B",
+   "2026 adjusted EPS guide: $11.25-11.35"
+  ],
+  "order": 7,
+  "sector": "healthcare",
+  "soWhat": "Diagnostic labs earn a fee for each test, so revenue follows the number of patient visits and how many tests doctors order. Large labs have an edge because they run huge volumes through automated equipment, which lowers the cost per test. Insurers pay the fees, so changes in reimbursement rates matter as much as demand. The open question is how much of the growth comes from more tests versus acquisitions of hospital lab businesses.",
+  "sources": [
+   {
+    "title": "Quest Diagnostics: Reports third quarter 2026 financial results",
+    "url": "https://newsroom.questdiagnostics.com/2026-10-22-Quest-Diagnostics-Reports-Third-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
+   },
+   {
+    "title": "SEC: Quest Diagnostics 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001022079/000102207926000097/dgx093020268-kex991.htm"
+   }
+  ],
+  "subindustry": "payers-providers",
+  "summary": "Quest Diagnostics, the largest US lab testing company by revenue, reported third-quarter revenue of $3.10 billion, up 10.0% from a year earlier. It raised its 2026 revenue guidance to $12.065-12.105 billion and its adjusted earnings guidance to $11.25-11.35 per share.",
+  "tags": []
  }
 }

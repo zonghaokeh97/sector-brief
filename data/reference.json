@@ -66,6 +66,23 @@
    "ticker": "NYSE: BAC",
    "updated": "2026-10-19"
   },
+  "bloom-energy": {
+   "businessModel": "Manufactures solid-oxide fuel cell systems that generate electricity on site from natural gas or hydrogen, mainly for data centers and large commercial customers.",
+   "competitors": [
+    "Caterpillar",
+    "Cummins",
+    "GE Vernova",
+    "Generac",
+    "Plug Power"
+   ],
+   "hq": "San Jose, CA",
+   "name": "Bloom Energy",
+   "sector": "energy-materials",
+   "size": "Quarterly revenue $1.24B (Q3 2026); 2026 guide $4.4-4.6B",
+   "subindustry": "power-utilities",
+   "ticker": "NYSE: BE",
+   "updated": "2026-10-23"
+  },
   "bumble": {
    "businessModel": "Freemium dating apps (Bumble, Badoo): free to join, revenue from subscriptions and paid features that boost visibility or matching.",
    "competitors": [
@@ -130,6 +147,23 @@
    "subindustry": "metals-mining",
    "ticker": "NYSE: CLF",
    "updated": "2026-10-19"
+  },
+  "comcast": {
+   "businessModel": "Sells home broadband, wireless and cable TV, and earns from NBCUniversal's studios, Peacock streaming and Universal theme parks.",
+   "competitors": [
+    "Charter",
+    "Verizon",
+    "AT&T",
+    "T-Mobile US",
+    "Walt Disney"
+   ],
+   "hq": "Philadelphia, PA",
+   "name": "Comcast",
+   "sector": "tmt",
+   "size": "Quarterly revenue $29.3B (Q3 2026)",
+   "subindustry": "telecom",
+   "ticker": "Nasdaq: CMCSA",
+   "updated": "2026-10-23"
   },
   "coreweave": {
    "businessModel": "Rents Nvidia GPU compute to AI labs and big tech under multi-year, largely take-or-pay contracts. Revenue is concentrated in a few customers such as Microsoft and OpenAI.",
@@ -372,6 +406,24 @@
    "ticker": "NYSE: MA",
    "updated": "2026-10-20"
   },
+  "merck-co": {
+   "businessModel": "Sells prescription drugs and vaccines, led by the cancer immunotherapy Keytruda, and licenses and co-develops new drugs with partners.",
+   "competitors": [
+    "Pfizer",
+    "Bristol Myers Squibb",
+    "AbbVie",
+    "Eli Lilly",
+    "Roche",
+    "AstraZeneca"
+   ],
+   "hq": "Rahway, NJ",
+   "name": "Merck & Co.",
+   "sector": "healthcare",
+   "size": "Annual revenue about $64B (2025, approx.)",
+   "subindustry": "pharma-biotech",
+   "ticker": "NYSE: MRK",
+   "updated": "2026-10-23"
+  },
   "merck-kgaa": {
    "businessModel": "Science and technology group with three businesses: healthcare (prescription drugs), life science (lab and bioprocessing tools) and electronics (semiconductor and display materials). Separate from US-based Merck & Co.",
    "competitors": [
@@ -388,6 +440,23 @@
    "subindustry": "pharma-biotech",
    "ticker": "ETR: MRK",
    "updated": "2026-10-20"
+  },
+  "meta": {
+   "businessModel": "Sells advertising across Facebook, Instagram, WhatsApp and Messenger, and spends heavily on AI models, data centers and smart glasses.",
+   "competitors": [
+    "Alphabet (Google, YouTube)",
+    "ByteDance (TikTok)",
+    "Snap",
+    "Pinterest",
+    "Amazon"
+   ],
+   "hq": "Menlo Park, CA",
+   "name": "Meta Platforms",
+   "sector": "tmt",
+   "size": "Quarterly revenue about $64.6B (Q3 2026)",
+   "subindustry": "internet-platforms",
+   "ticker": "Nasdaq: META",
+   "updated": "2026-10-23"
   },
   "micron": {
    "businessModel": "Makes memory chips (DRAM, high-bandwidth memory and NAND flash) and sells them to PC, phone and data center customers. Prices swing sharply with supply and demand, so profits are highly cyclical.",
@@ -421,6 +490,23 @@
    "subindustry": "software-cloud",
    "ticker": "NASDAQ: MSFT",
    "updated": "2026-10-20"
+  },
+  "moderna": {
+   "businessModel": "Develops mRNA medicines, selling respiratory vaccines and partnering with Merck on a personalized cancer vaccine.",
+   "competitors": [
+    "Pfizer",
+    "BioNTech",
+    "Novavax",
+    "Sanofi",
+    "GSK"
+   ],
+   "hq": "Cambridge, MA",
+   "name": "Moderna",
+   "sector": "healthcare",
+   "size": "Market value roughly $80B after the Oct 22 selloff (approx., implied by the reported $17B loss)",
+   "subindustry": "pharma-biotech",
+   "ticker": "Nasdaq: MRNA",
+   "updated": "2026-10-23"
   },
   "netflix": {
    "businessModel": "Charges monthly subscriptions at several price tiers and sells advertising on cheaper ad-supported plans, using the revenue to fund original shows and licensed content.",
@@ -575,6 +661,22 @@
    "subindustry": "midstream-lng",
    "ticker": "Private (State of Qatar)",
    "updated": "2026-10-21"
+  },
+  "quest-diagnostics": {
+   "businessModel": "Runs clinical laboratories and earns a fee per test, billed to health insurers, hospitals and patients.",
+   "competitors": [
+    "Labcorp",
+    "Sonic Healthcare",
+    "Eurofins",
+    "ARUP Laboratories"
+   ],
+   "hq": "Secaucus, NJ",
+   "name": "Quest Diagnostics",
+   "sector": "healthcare",
+   "size": "2026 revenue guide about $12.1B",
+   "subindustry": "payers-providers",
+   "ticker": "NYSE: DGX",
+   "updated": "2026-10-23"
   },
   "rtx": {
    "businessModel": "Three businesses: Collins Aerospace (aircraft systems), Pratt & Whitney (jet engines plus aftermarket service) and Raytheon (missiles, radars and air defense sold mainly to governments).",
@@ -800,6 +902,23 @@
    "subindustry": "cpg",
    "ticker": "Private (Ontario Teachers' and Ardagh; being sold to Silgan/AIP)",
    "updated": "2026-10-20"
+  },
+  "union-pacific": {
+   "businessModel": "Operates a freight railroad across the western US and earns fees per carload and shipment for hauling goods, with fuel surcharges added on top.",
+   "competitors": [
+    "BNSF",
+    "CSX",
+    "Norfolk Southern",
+    "Canadian Pacific Kansas City",
+    "Canadian National"
+   ],
+   "hq": "Omaha, NE",
+   "name": "Union Pacific",
+   "sector": "infrastructure-logistics",
+   "size": "Quarterly revenue about $7.2B (Q3 2026)",
+   "subindustry": "transport-logistics",
+   "ticker": "NYSE: UNP",
+   "updated": "2026-10-23"
   },
   "varonis": {
    "businessModel": "Data-security software that finds sensitive data, shows who can access it and flags misuse. Moving customers from on-premises licenses to SaaS subscriptions.",

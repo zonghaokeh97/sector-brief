@@ -986,5 +986,252 @@
     "subindustry": "asset-wealth"
    }
   ]
+ },
+ "2026-10-23": {
+  "date": "2026-10-23",
+  "extra": [
+   {
+    "answer": 2,
+    "explanation": "Meta guided 2026 capex to $135-145B after spending $34.91B in Q3 alone, which is why free cash flow was negative.",
+    "id": "2026-10-23:x01",
+    "kind": "today",
+    "options": [
+     "$35-45B",
+     "$85-95B",
+     "$135-145B",
+     "$235-245B"
+    ],
+    "prompt": "Meta narrowed its 2026 capital spending range to roughly what level?",
+    "sector": "tmt",
+    "storyId": "2026-10-23-01",
+    "subindustry": "internet-platforms"
+   },
+   {
+    "answer": 0,
+    "explanation": "Railroads carry industrial, agricultural and consumer goods, so carload growth reflects how much the economy is shipping. Fuel surcharges affect revenue but volume counts cars moved.",
+    "id": "2026-10-23:x02",
+    "kind": "today",
+    "options": [
+     "It tracks shipments of goods like industrial and import cargo",
+     "It measures passenger travel",
+     "It sets interest rates",
+     "It shows fuel prices directly"
+    ],
+    "prompt": "Union Pacific's volume grew 6% in Q3. Why is rail volume a useful read on the economy?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-10-23-05",
+    "subindustry": "transport-logistics"
+   },
+   {
+    "answer": 0,
+    "explanation": "Labs are paid per test, so volume and reimbursement rates matter. Premiums and rebates belong to insurers and pharmacy benefit managers.",
+    "id": "2026-10-23:x03",
+    "kind": "today",
+    "options": [
+     "Number of tests multiplied by fee per test",
+     "Drug rebates",
+     "Premiums collected from members",
+     "Hospital bed occupancy"
+    ],
+    "prompt": "What mainly drives revenue at a large clinical lab like Quest Diagnostics?",
+    "sector": "healthcare",
+    "storyId": "2026-10-23-07",
+    "subindustry": "payers-providers"
+   },
+   {
+    "answer": 1,
+    "explanation": "Platforms attract users free and sell advertising, so user growth, engagement and monetization per user drive revenue.",
+    "id": "2026-10-23:x04",
+    "kind": "profile",
+    "options": [
+     "Subscription fees from every user",
+     "Selling ads priced per impression or click",
+     "Charging for each message",
+     "Selling phones"
+    ],
+    "prompt": "How do social platforms like Instagram mainly earn money?",
+    "sector": "tmt",
+    "storyId": null,
+    "subindustry": "internet-platforms"
+   },
+   {
+    "answer": 0,
+    "explanation": "Memory makers sell similar products, so oversupply cuts prices sharply, while designers earn high gross margins on intellectual property.",
+    "id": "2026-10-23:x05",
+    "kind": "profile",
+    "options": [
+     "Memory is a near-commodity, so prices swing with supply",
+     "Memory chips are never sold",
+     "Designers own all factories",
+     "Memory uses no silicon"
+    ],
+    "prompt": "Why are memory chip profits more volatile than those of a chip designer like Nvidia?",
+    "sector": "tmt",
+    "storyId": null,
+    "subindustry": "semiconductors"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "The $9.89B charge tied to the August settlement cut EPS roughly in half; excluding it EPS would have been about $7.40. Revenue was growing, so a demand problem is the tempting but wrong answer.",
+    "id": "2026-10-23:q01",
+    "kind": "today",
+    "options": [
+     "Advertising prices fell sharply",
+     "A one-time $9.89B legal charge from the state attorneys general settlement",
+     "A drop in the number of users",
+     "Higher taxes on overseas profits"
+    ],
+    "prompt": "Meta's revenue rose 26% to $64.6B, yet EPS was $3.83 against about $7.40 underlying. What explains the gap?",
+    "sector": "tmt",
+    "storyId": "2026-10-23-01",
+    "subindustry": "internet-platforms"
+   },
+   {
+    "answer": 2,
+    "explanation": "Shares had risen sharply since the August topline news and analysts expected a 40-50% benefit, so a 42% result left no room for surprise. The trial did meet its goals, which rules out failure, and Merck fell far less than Moderna.",
+    "id": "2026-10-23:q02",
+    "kind": "today",
+    "options": [
+     "The trial failed its main goal",
+     "Merck withdrew from the partnership",
+     "The stock had run up on hopes of an even better result, so good data disappointed",
+     "The vaccine was found to be unsafe"
+    ],
+    "prompt": "Moderna's vaccine cut melanoma recurrence or death risk by 42%, yet its stock fell about 18%. What best explains the fall?",
+    "sector": "healthcare",
+    "storyId": "2026-10-23-03",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 0,
+    "explanation": "Staples makers sell everyday goods with steady demand, so they attract money when investors worry about growth, as with AI spending and oil near a five-month high. Staples had their best day since July, but the move reflects portfolio shifts rather than a change in household spending.",
+    "id": "2026-10-23:q03",
+    "kind": "today",
+    "options": [
+     "Investors moved toward defensive companies whose sales hold up in any economy",
+     "Households are suddenly spending much more on food",
+     "Interest rates are about to fall sharply",
+     "Technology companies reported weak sales"
+    ],
+    "prompt": "On a day when the Nasdaq fell 2.6%, the consumer staples ETF rose 2.5%. What does that pattern most likely show?",
+    "sector": "macro",
+    "storyId": "2026-10-23-02",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 3,
+    "explanation": "Utilities often cannot connect new large loads quickly, so on-site generation fills the gap. Fuel cells still run on natural gas, so they are not free of fuel cost, and they are not always cheaper.",
+    "id": "2026-10-23:q04",
+    "kind": "today",
+    "options": [
+     "Fuel cells are far cheaper than grid power in every case",
+     "Regulations ban data centers from the grid",
+     "Fuel cells use no fuel",
+     "Grid connections can take years, and on-site power can arrive faster"
+    ],
+    "prompt": "Why are data center operators buying on-site fuel cells from companies like Bloom Energy, whose revenue grew 138%?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-23-04",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 1,
+    "explanation": "Operating ratio is operating costs divided by revenue, so 59.1% leaves roughly 41 cents of each dollar as operating profit. It is not a profit margin of 59%, which is the tempting misreading.",
+    "id": "2026-10-23:q05",
+    "kind": "today",
+    "options": [
+     "Cars carried are 59.1% full",
+     "About 59 cents of each revenue dollar goes to operating costs, so lower is better",
+     "Profit margin is 59.1%",
+     "Fuel is 59% of costs"
+    ],
+    "prompt": "Union Pacific's operating ratio was 59.1%. What does that number tell you?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-10-23-05",
+    "subindustry": "transport-logistics"
+   },
+   {
+    "answer": 3,
+    "explanation": "Wireless is growing 18% and gives cable a second product to bundle against fiber and fixed wireless rivals. Raising broadband prices is the option that would likely speed up losses, which Comcast itself linked to pricing changes.",
+    "id": "2026-10-23:q06",
+    "kind": "today",
+    "options": [
+     "Exit wireless and focus only on cable TV",
+     "Raise broadband prices to offset losses",
+     "Sell the theme parks",
+     "Bundle mobile with home internet to keep households as fiber and fixed wireless take share"
+    ],
+    "prompt": "Comcast lost 144,000 broadband customers but added 368,000 wireless lines. What strategy does this support?",
+    "sector": "tmt",
+    "storyId": "2026-10-23-06",
+    "subindustry": "telecom"
+   },
+   {
+    "answer": 0,
+    "explanation": "Microsoft's NiSource deal uses a large-load rate class where big users fund the capacity they need, protecting existing customers. Connection timing is the other make-or-break issue: Microsoft just walked away from a UK site where grid power might not arrive until the 2030s.",
+    "id": "2026-10-20:q02",
+    "kind": "review",
+    "options": [
+     "Whether a large-load tariff makes the data center fund the new generation and grid, and how fast a firm connection can be delivered",
+     "Whether the utility can raise residential rates enough to pay for the new plants",
+     "Whether the data center will buy rooftop solar for its own buildings",
+     "Whether the utility's stock price would rise on the announcement"
+    ],
+    "prompt": "A US utility is asked to supply a new 1 GW data center campus. What matters most to get right first?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-20-02",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 0,
+    "explanation": "Netflix said Q3 benefited mainly from the timing of expenses, and Q4 carries about 120 basis points of drag from the roughly 1,000-person cut. Revenue is still growing about 12%, so the drop is about cost timing, not demand.",
+    "id": "2026-10-21:q06",
+    "kind": "review",
+    "options": [
+     "Expense timing helped Q3, and Q4 includes about 1.2 points of cost from the job cuts",
+     "Subscribers fell sharply in the fall",
+     "The company plans to cut prices to attract new viewers",
+     "Advertising revenue is expected to decline"
+    ],
+    "prompt": "Netflix earned a 34.6% operating margin in Q3 but guided to 26.0% for Q4. What best explains the drop?",
+    "sector": "tmt",
+    "storyId": "2026-10-21-07",
+    "subindustry": "media-entertainment"
+   },
+   {
+    "answer": 0,
+    "explanation": "Gasoline was up 27.8% and energy 19%, while CPI-median (1.9%) and CPI-trim (1.8%) stayed near target. That is an oil shock, not broad inflation, though markets still price a December hike in case it spreads. Food was actually one of the softer items.",
+    "id": "2026-10-20:q06",
+    "kind": "review",
+    "options": [
+     "Price rises are driven by energy and haven't yet spread across the economy",
+     "Wages are rising fast and pushing up all prices",
+     "The Bank of Canada has kept interest rates too low for years",
+     "Food prices are the main driver of inflation"
+    ],
+    "prompt": "Canada's headline inflation rose to 3.1%, but core measures were 1.8-1.9%. What does that combination mainly signal?",
+    "sector": "macro",
+    "storyId": "2026-10-20-08",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 2,
+    "explanation": "Operators must keep building networks, which is why capex intensity is about 15-20% of revenue even though margins are healthy. Dividends come from what is left after that reinvestment.",
+    "id": "2026-10-23:q10",
+    "kind": "profile",
+    "options": [
+     "Content licenses for streaming",
+     "Dividends for shareholders",
+     "Network upgrades and spectrum to keep the service competitive",
+     "Retail store leases"
+    ],
+    "prompt": "A telecom operator earns about 35% EBITDA margins but must reinvest 15-20% of revenue every year. What does that reinvestment buy?",
+    "sector": "tmt",
+    "storyId": null,
+    "subindustry": "telecom"
+   }
+  ]
  }
 }
