@@ -1233,5 +1233,412 @@
     "subindustry": "telecom"
    }
   ]
+ },
+ "2026-10-25": {
+  "date": "2026-10-25",
+  "extra": [
+   {
+    "answer": 0,
+    "explanation": "Memory makers sell similar products, so oversupply cuts prices sharply, while designers earn high gross margins on intellectual property.",
+    "id": "2026-10-23:x05",
+    "kind": "profile",
+    "options": [
+     "Memory is a near-commodity, so prices swing with supply",
+     "Memory chips are never sold",
+     "Designers own all factories",
+     "Memory uses no silicon"
+    ],
+    "prompt": "Why are memory chip profits more volatile than those of a chip designer like Nvidia?",
+    "sector": "tmt",
+    "storyId": null,
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 0,
+    "explanation": "Labs are paid per test, so volume and reimbursement rates matter. Premiums and rebates belong to insurers and pharmacy benefit managers.",
+    "id": "2026-10-23:x03",
+    "kind": "today",
+    "options": [
+     "Number of tests multiplied by fee per test",
+     "Drug rebates",
+     "Premiums collected from members",
+     "Hospital bed occupancy"
+    ],
+    "prompt": "What mainly drives revenue at a large clinical lab like Quest Diagnostics?",
+    "sector": "healthcare",
+    "storyId": "2026-10-23-07",
+    "subindustry": "payers-providers"
+   },
+   {
+    "answer": 0,
+    "explanation": "Railroads carry industrial, agricultural and consumer goods, so carload growth reflects how much the economy is shipping. Fuel surcharges affect revenue but volume counts cars moved.",
+    "id": "2026-10-23:x02",
+    "kind": "today",
+    "options": [
+     "It tracks shipments of goods like industrial and import cargo",
+     "It measures passenger travel",
+     "It sets interest rates",
+     "It shows fuel prices directly"
+    ],
+    "prompt": "Union Pacific's volume grew 6% in Q3. Why is rail volume a useful read on the economy?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-10-23-05",
+    "subindustry": "transport-logistics"
+   },
+   {
+    "answer": 3,
+    "explanation": "Utilities often cannot connect new large loads quickly, so on-site generation fills the gap. Fuel cells still run on natural gas, so they are not free of fuel cost, and they are not always cheaper.",
+    "id": "2026-10-23:q04",
+    "kind": "today",
+    "options": [
+     "Fuel cells are far cheaper than grid power in every case",
+     "Regulations ban data centers from the grid",
+     "Fuel cells use no fuel",
+     "Grid connections can take years, and on-site power can arrive faster"
+    ],
+    "prompt": "Why are data center operators buying on-site fuel cells from companies like Bloom Energy, whose revenue grew 138%?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-23-04",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 0,
+    "explanation": "Staples makers sell everyday goods with steady demand, so they attract money when investors worry about growth, as with AI spending and oil near a five-month high. Staples had their best day since July, but the move reflects portfolio shifts rather than a change in household spending.",
+    "id": "2026-10-23:q03",
+    "kind": "today",
+    "options": [
+     "Investors moved toward defensive companies whose sales hold up in any economy",
+     "Households are suddenly spending much more on food",
+     "Interest rates are about to fall sharply",
+     "Technology companies reported weak sales"
+    ],
+    "prompt": "On a day when the Nasdaq fell 2.6%, the consumer staples ETF rose 2.5%. What does that pattern most likely show?",
+    "sector": "macro",
+    "storyId": "2026-10-23-02",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "P&G agreed to pay $3.8B for Thorne, which has annual revenue above $500M. The deal pushes P&G into supplements and wellness.",
+    "id": "2026-10-22:x05",
+    "kind": "today",
+    "options": [
+     "$3.8 billion",
+     "$380 million",
+     "$12 billion",
+     "$1.3 billion"
+    ],
+    "prompt": "What did P&G agree to pay for the supplements maker Thorne in August?",
+    "sector": "consumer-retail",
+    "storyId": "2026-10-22-06",
+    "subindustry": "cpg"
+   },
+   {
+    "answer": 3,
+    "explanation": "Capex more than doubled from $2.25B. Free cash flow was still positive at $1.53B, but the open question is how long that holds.",
+    "id": "2026-10-22:x04",
+    "kind": "today",
+    "options": [
+     "Slightly lower",
+     "About the same",
+     "About 20% higher",
+     "More than double ($2.25B)"
+    ],
+    "prompt": "Tesla's capital spending in Q3 was $4.73B. How does that compare with a year earlier?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-22-01",
+    "subindustry": "automotive-mobility"
+   },
+   {
+    "answer": 1,
+    "explanation": "About 80% of revenue growth came from market gains and only about 20% from net new business. That is why managers' profits track markets and why distribution strength matters.",
+    "id": "2026-10-22:x03",
+    "kind": "profile",
+    "options": [
+     "Net new client money",
+     "Market gains",
+     "Higher fees",
+     "Acquisitions of smaller managers"
+    ],
+    "prompt": "According to BCG, what drove most of the asset management industry's revenue growth in 2025?",
+    "sector": "financial-services",
+    "storyId": null,
+    "subindustry": "asset-wealth"
+   },
+   {
+    "answer": 1,
+    "explanation": "Platforms attract users free and sell advertising, so user growth, engagement and monetization per user drive revenue.",
+    "id": "2026-10-23:x04",
+    "kind": "profile",
+    "options": [
+     "Subscription fees from every user",
+     "Selling ads priced per impression or click",
+     "Charging for each message",
+     "Selling phones"
+    ],
+    "prompt": "How do social platforms like Instagram mainly earn money?",
+    "sector": "tmt",
+    "storyId": null,
+    "subindustry": "internet-platforms"
+   },
+   {
+    "answer": 2,
+    "explanation": "Shares had risen sharply since the August topline news and analysts expected a 40-50% benefit, so a 42% result left no room for surprise. The trial did meet its goals, which rules out failure, and Merck fell far less than Moderna.",
+    "id": "2026-10-23:q02",
+    "kind": "today",
+    "options": [
+     "The trial failed its main goal",
+     "Merck withdrew from the partnership",
+     "The stock had run up on hopes of an even better result, so good data disappointed",
+     "The vaccine was found to be unsafe"
+    ],
+    "prompt": "Moderna's vaccine cut melanoma recurrence or death risk by 42%, yet its stock fell about 18%. What best explains the fall?",
+    "sector": "healthcare",
+    "storyId": "2026-10-23-03",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 1,
+    "explanation": "Operating ratio is operating costs divided by revenue, so 59.1% leaves roughly 41 cents of each dollar as operating profit. It is not a profit margin of 59%, which is the tempting misreading.",
+    "id": "2026-10-23:q05",
+    "kind": "today",
+    "options": [
+     "Cars carried are 59.1% full",
+     "About 59 cents of each revenue dollar goes to operating costs, so lower is better",
+     "Profit margin is 59.1%",
+     "Fuel is 59% of costs"
+    ],
+    "prompt": "Union Pacific's operating ratio was 59.1%. What does that number tell you?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-10-23-05",
+    "subindustry": "transport-logistics"
+   },
+   {
+    "answer": 1,
+    "explanation": "Oil in the ground has not changed. Attacks on vessels and Iran's restrictions on the Strait set the price, and the roughly $12 gap between Brent and US crude reflects the premium on seaborne barrels.",
+    "id": "2026-10-22:x01",
+    "kind": "today",
+    "options": [
+     "A sharp fall in global oil reserves",
+     "Shipping risk around the Strait of Hormuz and Iran headlines",
+     "A surge in US shale output",
+     "A big cut announced by OPEC+ this week"
+    ],
+    "prompt": "Brent trades near $112 while US crude is near $100. What mainly drives the price?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-22-02",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 0,
+    "explanation": "Hiring is weak but inflation is far above the 2% goal, so neither a cut nor a quick hike is clearly right. Markets leaned toward a hold on October 28 and a possible hike in December.",
+    "id": "2026-10-21:x03",
+    "kind": "today",
+    "options": [
+     "Weak hiring argues for waiting while energy-driven inflation argues against cutting",
+     "Inflation is below target, so cutting is easy",
+     "Unemployment fell sharply, so hiring is strong",
+     "The Fed does not consider jobs data"
+    ],
+    "prompt": "The Fed's rate is 3.75-4.00% and inflation is 3.4%, but September payrolls grew only 29,000. Why is the Fed's choice hard?",
+    "sector": "macro",
+    "storyId": "2026-10-21-08",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 3,
+    "explanation": "Fuel expense rose $821M from a year earlier and cost $1.08 per share. Southwest plans for $4.55 a gallon in Q4, so the pressure continues.",
+    "id": "2026-10-22:q06",
+    "kind": "today",
+    "options": [
+     "About $0.18 per share",
+     "About $0.40 per share",
+     "About $2.10 per share",
+     "About $1.08 per share"
+    ],
+    "prompt": "Southwest's Q3 fuel cost $3.92 a gallon, above its $3.70-3.75 assumption. What was the hit to adjusted EPS?",
+    "sector": "consumer-retail",
+    "storyId": "2026-10-22-07",
+    "subindustry": "travel-hospitality"
+   },
+   {
+    "answer": 0,
+    "explanation": "Gross margin actually rose 1.6 points to 19.6%, so margins on each sale were not the problem. Operating costs for AI and Optimus grew faster than gross profit, which cut operating margin to 2.6%.",
+    "id": "2026-10-22:q01",
+    "kind": "today",
+    "options": [
+     "Spending on AI and the Optimus robot grew faster than gross profit",
+     "Gross margin fell sharply from the prior year",
+     "Vehicle deliveries rose so fast that costs spiked",
+     "Services revenue declined by about a third"
+    ],
+    "prompt": "Tesla's Q3 revenue was flat at about $28B, yet operating income fell 56% to $718M. What best explains the drop?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-22-01",
+    "subindustry": "automotive-mobility"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "A 5% risk-free return raises the bar for every other asset and raises financing costs, which hits borrowers like utilities, homebuilders and REITs most. A strong economy is not what the yield shows here, since inflation and policy expectations also drive it.",
+    "id": "2026-10-25:q01",
+    "kind": "today",
+    "options": [
+     "It shows the economy is growing faster than expected",
+     "Safe bonds now pay more, so riskier assets must offer higher returns and borrowing costs rise",
+     "It means companies have stopped paying dividends",
+     "It lowers oil prices and cuts energy profits"
+    ],
+    "prompt": "The 10-year Treasury yield closed at about 5.00% on Friday. Why does a yield that high pressure stocks and real estate?",
+    "sector": "macro",
+    "storyId": "2026-10-25-01",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 2,
+    "explanation": "Airlines and carriers buy fuel daily but reset fares and surcharges slowly, so margins shrink when prices jump. Producers and drillers benefit from higher prices.",
+    "id": "2026-10-25:q02",
+    "kind": "today",
+    "options": [
+     "Oil producers selling at the higher price",
+     "Oilfield service firms with new drilling orders",
+     "Airlines and freight carriers whose fares and contracts adjust only with a delay",
+     "Companies that sell solar panels"
+    ],
+    "prompt": "US crude rose 3.8% to $103.27 and is up 14% in October. Which group is hurt most by a fast jump in fuel prices?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-25-02",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 3,
+    "explanation": "$12.1B divided by $728M is about 16.6 times EBITDA. Buyers pay that for revenue that customers reorder with every test, which is predictable and high margin.",
+    "id": "2026-10-25:q03",
+    "kind": "today",
+    "options": [
+     "About 2 times EBITDA, a distressed price",
+     "About 5 times EBITDA, a typical industrial price",
+     "About 10 times EBITDA, matching the stock market average",
+     "About 17 times EBITDA, a high price for steady, recurring consumables revenue"
+    ],
+    "prompt": "EQT's offer values QIAGEN at about $12.1B against 2025 EBITDA of $728M. What does the price imply?",
+    "sector": "healthcare",
+    "storyId": "2026-10-25-03",
+    "subindustry": "medtech"
+   },
+   {
+    "answer": 0,
+    "explanation": "Salesforce's marketing tools lagged newer rivals in real-time engagement, and buying Braze is quicker than rebuilding, though costly. The premium also reflects how few independent platforms of this kind exist.",
+    "id": "2026-10-25:q04",
+    "kind": "today",
+    "options": [
+     "It fills a product gap faster than building a new tool, and rival bidders could drive the price",
+     "It lets Salesforce exit the marketing business",
+     "It is mainly a way to cut headcount at Braze",
+     "It lowers Salesforce's tax bill"
+    ],
+    "prompt": "Salesforce is paying a 58% premium to buy Braze. What is the main business logic?",
+    "sector": "tmt",
+    "storyId": "2026-10-25-04",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 1,
+    "explanation": "Revenue grew 9% and credit-loss provisions fell, so the business was healthy. The $336M restructuring charge and fears about service quality weighed on the shares even as guidance rose.",
+    "id": "2026-10-25:q05",
+    "kind": "today",
+    "options": [
+     "Credit losses had risen sharply",
+     "Strong revenue let it invest, while cost cuts aim to use AI to lower expenses; the restructuring charge worried investors short term",
+     "It lost cardholders to rivals",
+     "Interest rates had fallen"
+    ],
+    "prompt": "American Express raised its profit outlook but announced a 5% job cut, and its stock fell 3.7%. What best explains the pairing?",
+    "sector": "financial-services",
+    "storyId": "2026-10-25-05",
+    "subindustry": "payments-fintech"
+   },
+   {
+    "answer": 2,
+    "explanation": "Clearances and past performance are barriers to entry, so buying them is faster than hiring. It also lessens dependence on civilian programs, whose budgets change with politics.",
+    "id": "2026-10-25:q06",
+    "kind": "today",
+    "options": [
+     "Cleared staff can be hired in a week",
+     "Defense budgets are shrinking and it wants to diversify",
+     "Security clearances and defense relationships take years to build, and defense spending growth is expected to last",
+     "Shareholders had demanded a deal"
+    ],
+    "prompt": "Why would a civilian-focused government services firm pay $660M for a defense contractor with about 1,100 cleared staff?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-10-25-07",
+    "subindustry": "public-sector"
+   },
+   {
+    "answer": 0,
+    "explanation": "Microsoft's NiSource deal uses a large-load rate class where big users fund the capacity they need, protecting existing customers. Connection timing is the other make-or-break issue: Microsoft just walked away from a UK site where grid power might not arrive until the 2030s.",
+    "id": "2026-10-20:q02",
+    "kind": "review",
+    "options": [
+     "Whether a large-load tariff makes the data center fund the new generation and grid, and how fast a firm connection can be delivered",
+     "Whether the utility can raise residential rates enough to pay for the new plants",
+     "Whether the data center will buy rooftop solar for its own buildings",
+     "Whether the utility's stock price would rise on the announcement"
+    ],
+    "prompt": "A US utility is asked to supply a new 1 GW data center campus. What matters most to get right first?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-20-02",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 3,
+    "explanation": "Industrial output grew 5.5% while retail sales and investment lagged, so the headline number rests on factories and exports. That matters for exporters of steel and other commodities, which feel the property drop most, and invites trade friction.",
+    "id": "2026-10-21:q04",
+    "kind": "review",
+    "options": [
+     "Domestic consumers are driving the expansion",
+     "The property sector is now a major growth engine",
+     "Growth is balanced across consumption, investment and exports",
+     "Growth is leaning on exports and industry while households and property stay weak"
+    ],
+    "prompt": "China grew 4.5% in Q3, but retail sales rose just 1.1% and property investment fell 20.6%. What does this combination suggest?",
+    "sector": "macro",
+    "storyId": "2026-10-21-04",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 2,
+    "explanation": "A book-to-bill above 1 means new contracts exceed revenue recognized, so the order book grows. The $110B record backlog is a multi-year pipeline, though cost overruns on fixed-price programs remain the main risk.",
+    "id": "2026-10-21:q05",
+    "kind": "review",
+    "options": [
+     "Sales will fall because customers are cancelling orders",
+     "Revenue growth must be coming from price cuts",
+     "Orders are outrunning sales, so the backlog (about $110B) is growing and supports future revenue",
+     "The company is selling more than it can deliver this year"
+    ],
+    "prompt": "Northrop Grumman won $16B of net awards on $11.1B of sales, a book-to-bill of 1.5. What does that tell you?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-21-06",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 1,
+    "explanation": "Contractors earn thin margins (about 5-12%), so a lost recompete can erase a big share of revenue and profit. Backlog and book-to-bill show whether future revenue is growing or shrinking.",
+    "id": "2026-10-25:q10",
+    "kind": "profile",
+    "options": [
+     "Contracts are renewed automatically every year",
+     "Backlog shows future revenue, and losing a recompete removes a large slice of it because margins are thin",
+     "Backlog is the same as profit",
+     "Recompetes only matter for fixed-price work"
+    ],
+    "prompt": "A government services contractor wins a five-year program contract. Why does it watch recompete dates and backlog so closely?",
+    "sector": "infrastructure-logistics",
+    "storyId": null,
+    "subindustry": "public-sector"
+   }
+  ]
  }
 }

@@ -17,6 +17,23 @@
    "ticker": "NYSE: MMM",
    "updated": "2026-10-20"
   },
+  "agile-defense": {
+   "businessModel": "Provides cybersecurity, data analytics and AI services to defense and national-security agencies, billed under government contracts.",
+   "competitors": [
+    "Booz Allen Hamilton",
+    "SAIC",
+    "CACI",
+    "Leidos",
+    "ManTech"
+   ],
+   "hq": "McLean, Virginia, US",
+   "name": "Agile Defense",
+   "sector": "infrastructure-logistics",
+   "size": "About 1,100 cleared personnel; supports more than 50 federal agencies",
+   "subindustry": "public-sector",
+   "ticker": "Private (Enlightenment Capital; Maximus deal pending)",
+   "updated": "2026-10-25"
+  },
   "amazon": {
    "businessModel": "Earns revenue from online retail, third-party seller fees, advertising and subscriptions (Prime), while most operating profit comes from AWS cloud computing.",
    "competitors": [
@@ -51,6 +68,23 @@
    "ticker": "NASDAQ: AAL",
    "updated": "2026-10-21"
   },
+  "american-express": {
+   "businessModel": "Runs its own card network and issues cards, earning fees from merchants on each purchase, annual fees from cardholders and interest on balances.",
+   "competitors": [
+    "Visa",
+    "Mastercard",
+    "JPMorgan Chase",
+    "Capital One",
+    "Citigroup"
+   ],
+   "hq": "New York, US",
+   "name": "American Express",
+   "sector": "financial-services",
+   "size": "Revenue about $20B per quarter (Q3 2026: $20.1B)",
+   "subindustry": "payments-fintech",
+   "ticker": "NYSE: AXP",
+   "updated": "2026-10-25"
+  },
   "bank-of-america": {
    "businessModel": "Earns net interest income on its huge low-cost deposit base, plus fees from wealth management (Merrill), investment banking and trading.",
    "competitors": [
@@ -82,6 +116,23 @@
    "subindustry": "power-utilities",
    "ticker": "NYSE: BE",
    "updated": "2026-10-23"
+  },
+  "braze": {
+   "businessModel": "Sells a subscription platform that lets brands send personalized messages across apps, email, text and web, priced by customer reach and usage.",
+   "competitors": [
+    "Adobe",
+    "Klaviyo",
+    "HubSpot",
+    "Iterable",
+    "Salesforce Marketing Cloud"
+   ],
+   "hq": "New York, US",
+   "name": "Braze",
+   "sector": "tmt",
+   "size": "About 2,770 customers; revenue roughly $0.7B a year (approx., from memory)",
+   "subindustry": "software-cloud",
+   "ticker": "NASDAQ: BRZE (Salesforce deal pending)",
+   "updated": "2026-10-25"
   },
   "bumble": {
    "businessModel": "Freemium dating apps (Bumble, Badoo): free to join, revenue from subscriptions and paid features that boost visibility or matching.",
@@ -406,6 +457,24 @@
    "ticker": "NYSE: MA",
    "updated": "2026-10-20"
   },
+  "maximus": {
+   "businessModel": "Runs government programs such as benefits administration and contact centers under multi-year contracts, and sells related technology services.",
+   "competitors": [
+    "Conduent",
+    "Leidos",
+    "Booz Allen Hamilton",
+    "SAIC",
+    "CACI",
+    "Accenture Federal Services"
+   ],
+   "hq": "Tysons, Virginia, US",
+   "name": "Maximus",
+   "sector": "infrastructure-logistics",
+   "size": "Revenue about $5B+ a year (FY2025, approx., from memory)",
+   "subindustry": "public-sector",
+   "ticker": "NYSE: MMS",
+   "updated": "2026-10-25"
+  },
   "merck-co": {
    "businessModel": "Sells prescription drugs and vaccines, led by the cancer immunotherapy Keytruda, and licenses and co-develops new drugs with partners.",
    "competitors": [
@@ -662,6 +731,24 @@
    "ticker": "Private (State of Qatar)",
    "updated": "2026-10-21"
   },
+  "qiagen": {
+   "businessModel": "Sells kits, instruments and software that prepare and analyze DNA and RNA samples, earning most revenue from consumables that customers reorder with each test.",
+   "competitors": [
+    "Thermo Fisher Scientific",
+    "Roche",
+    "Danaher",
+    "Illumina",
+    "Bio-Rad",
+    "Agilent"
+   ],
+   "hq": "Venlo, Netherlands",
+   "name": "QIAGEN",
+   "sector": "healthcare",
+   "size": "Revenue $2.09B, EBITDA $728M (2025)",
+   "subindustry": "medtech",
+   "ticker": "NYSE: QGEN (take-private offer pending)",
+   "updated": "2026-10-25"
+  },
   "quest-diagnostics": {
    "businessModel": "Runs clinical laboratories and earns a fee per test, billed to health insurers, hospitals and patients.",
    "competitors": [
@@ -695,6 +782,24 @@
    "subindustry": "aerospace-defense",
    "ticker": "NYSE: RTX",
    "updated": "2026-10-20"
+  },
+  "salesforce": {
+   "businessModel": "Sells cloud software for sales, service, marketing and data on subscription, and adds AI agents and acquired products to the same customer base.",
+   "competitors": [
+    "Microsoft",
+    "Oracle",
+    "SAP",
+    "Adobe",
+    "HubSpot",
+    "ServiceNow"
+   ],
+   "hq": "San Francisco, US",
+   "name": "Salesforce",
+   "sector": "tmt",
+   "size": "Revenue about $40B+ a year (approx., from memory)",
+   "subindustry": "software-cloud",
+   "ticker": "NYSE: CRM",
+   "updated": "2026-10-25"
   },
   "saudi-aramco": {
    "businessModel": "State-controlled oil and gas producer that earns money by pumping and selling crude, gas and refined products at very low production cost, and pays large dividends to the Saudi state.",
@@ -886,6 +991,23 @@
    "ticker": "NYSE: TMO",
    "updated": "2026-10-22"
   },
+  "tradeweb": {
+   "businessModel": "Operates electronic marketplaces for bonds, derivatives and other assets, earning fees on trades plus subscription and data fees.",
+   "competitors": [
+    "MarketAxess",
+    "Bloomberg",
+    "Intercontinental Exchange",
+    "LSEG",
+    "CME Group"
+   ],
+   "hq": "New York, US",
+   "name": "Tradeweb Markets",
+   "sector": "financial-services",
+   "size": "Over $3.0T of daily trading volume; revenue about $2B (2025, approx.)",
+   "subindustry": "payments-fintech",
+   "ticker": "NASDAQ: TW",
+   "updated": "2026-10-25"
+  },
   "trivium-packaging": {
    "businessModel": "Makes metal packaging such as food, seafood and pet food cans and aerosol containers for food, beauty and personal care brands in Europe and the Americas.",
    "competitors": [
@@ -902,6 +1024,22 @@
    "subindustry": "cpg",
    "ticker": "Private (Ontario Teachers' and Ardagh; being sold to Silgan/AIP)",
    "updated": "2026-10-20"
+  },
+  "trumid": {
+   "businessModel": "Runs an electronic marketplace for US corporate bonds and earns fees on trades matched between dealers and investors.",
+   "competitors": [
+    "MarketAxess",
+    "Bloomberg",
+    "Tradeweb",
+    "Intercontinental Exchange"
+   ],
+   "hq": "New York, US",
+   "name": "Trumid",
+   "sector": "financial-services",
+   "size": "Purchase price about $1.97B (2026 deal)",
+   "subindustry": "payments-fintech",
+   "ticker": "Private (Tradeweb deal pending)",
+   "updated": "2026-10-25"
   },
   "union-pacific": {
    "businessModel": "Operates a freight railroad across the western US and earns fees per carload and shipment for hauling goods, with fuel surcharges added on top.",
@@ -1009,43 +1147,43 @@
  "sectors": {
   "advanced-industries": {
    "overview": "Advanced industries covers engineering-heavy manufacturers: carmakers and their suppliers, aircraft and defense companies, and makers of industrial machinery and equipment. Products take years to design and depend on long, global supply chains, so these companies are shaped by how full their factories are, trade policy and the cost of materials like steel. A large share of their profit often comes from servicing and spare parts after the original sale.",
-   "recap": "Earnings season opened strongly. GM beat on North American trucks, raised its cash flow outlook and added a $20B buyback, while GE Aerospace (orders up 49%) and RTX ($340B backlog) both raised 2026 guidance on booming aftermarket and defense demand. 3M lifted its EPS outlook and signed an optical connectivity deal with Amazon. Watch for supply chain limits on deliveries and the hit from high fuel on airline customers. Tesla reports Wednesday.",
-   "recapUpdated": "2026-10-20"
+   "recap": "Aerospace and defense stayed strong: GE Aerospace's orders jumped 49%, RTX's backlog reached $340 billion and Northrop Grumman's backlog hit a record $110 billion, and all three raised their outlooks. GM beat on North American trucks and added a $20 billion buyback. 3M raised its profit outlook and signed a data center optics deal with Amazon. Tesla's revenue was flat at $28 billion while operating profit fell 56% as AI and robot spending outran gross profit.",
+   "recapUpdated": "2026-10-25"
   },
   "consumer-retail": {
    "overview": "Consumer and retail covers the companies that make and sell what people buy day to day. That includes stores and online retailers, makers of food, drinks and household products, farm and food businesses, and travel and hospitality companies like airlines and hotels. Consumer spending is about two-thirds of the US economy, so these businesses rise and fall with how confident people feel and how much money they have left after essentials.",
-   "recap": "Costs are the theme. Silgan and American Industrial Partners agreed to buy can maker Trivium for $3.4B, a cost-synergy play in packaging for food and pet food brands. S&P Global warned the Hormuz shock is raising fertilizer and diesel costs for farmers, with food prices likely to feel the full squeeze in 2027. Diesel near $6.30 is also adding freight surcharges. P&G reports Thursday.",
-   "recapUpdated": "2026-10-20"
+   "recap": "Fuel costs were the common thread. US airlines' fuel spending rose 55% to 67% while revenue rose 16% to 22%, and Southwest's fuel bill rose $821 million with $4.55 a gallon planned for the fourth quarter. P&G grew sales 4% to $23.3 billion and held its outlook despite higher oil-linked costs, and S&P Global warned the Hormuz energy shock could become a food crisis in 2027. Silgan and American Industrial Partners agreed to buy Trivium Packaging for $3.4 billion.",
+   "recapUpdated": "2026-10-25"
   },
   "energy-materials": {
    "overview": "Energy and materials covers the companies that pull resources out of the ground and turn them into fuel, power and raw materials. That includes oil and gas producers, the pipelines, ships and terminals that move their output, refineries and chemical plants, electric utilities and renewable developers, and miners and steelmakers. These are capital-heavy businesses that live with commodity prices they don't control, so returns depend on keeping costs low and investing at the right point in the cycle.",
-   "recap": "The sector is in a supply shock. Brent ended last week near $110 as Strait of Hormuz transits ran about 70% below pre-war levels, and IEA members coordinated a ~100M barrel stock release. Gas is just as tight: Asian LNG hit a near four-year high around $29/MMBtu and Europe enters winter with record-low 74% storage, while US gas sits near $3. In metals, tariff protection lifted Cleveland-Cliffs to its best quarter in three years. Key dates: EIA data Oct 21, OPEC+ meeting Nov 1.",
-   "recapUpdated": "2026-10-19"
+   "recap": "Hormuz kept oil high all week: Brent held near $110 to $112 as Iran said it attacked ships, and on Friday US crude rose 3.8% to $103.27 after new Iranian warnings. Gas is tight too, with Asian LNG at a near four-year high and Europe entering winter with low storage while Qatar's LNG capacity stays partly offline. Halliburton's North America revenue slipped despite high prices while its international work grew. In power, Microsoft signed a 20-year Indiana supply deal with NiSource and Bloom Energy's revenue more than doubled to a record $1.24 billion. Steelmakers posted strong volumes, with Steel Dynamics shipping a record 3.78 million tons.",
+   "recapUpdated": "2026-10-25"
   },
   "financial-services": {
    "overview": "Financial services is the business of managing, lending, investing and moving money. Banks take deposits and make loans, insurers collect premiums to cover risks, asset managers invest on behalf of savers and pension funds, and payments companies handle the flow of money between people and businesses. It is one of the most heavily regulated industries, so how much capital firms must hold and how well they control risk shapes how profitable they can be.",
-   "recap": "Enforcement is the theme. Bank of America took over $1.2B in penalties for anti-money-laundering failures, including a record $750M OCC fine, a week after American Express paid $350M for similar issues. Expect more compliance spending across the industry. Ameriprise fell about 3% Monday on a BofA downgrade.",
-   "recapUpdated": "2026-10-19"
+   "recap": "Deals and penalties led the week. Bank of America faced $1.2 billion in penalties over anti-money-laundering failures, LSEG agreed to buy Octus for more than $3.5 billion, Dai-ichi Life approached Challenger with an A$7.9 billion offer, and Tradeweb agreed to buy Trumid for about $1.97 billion. Stablecoin payments rose 45% this year as Visa, Mastercard and Stripe link crypto to cards. W. R. Berkley's premium growth slowed to 1%. American Express posted record quarterly revenue of $20.1 billion and raised its profit outlook, then announced a 5% job cut.",
+   "recapUpdated": "2026-10-25"
   },
   "healthcare": {
    "overview": "Healthcare covers the companies that discover, make, pay for and deliver medical care. Drugmakers and biotech firms develop medicines, device makers build everything from surgical tools to heart implants, insurers pay for care, and hospitals and doctors provide it. In the US the system is large and complex, and prices are set through negotiation between manufacturers, insurers and the middlemen between them, so policy and regulation matter as much as science.",
-   "recap": "J&J beat profit expectations on ~8% drug sales growth, raised 2026 guidance and is leaning toward spinning off orthopedics, while warning that new drug acquisitions will weigh on 2027 earnings. The big-pharma pattern: focus on high-margin drugs, separate slower units, and buy pipeline to cover patent cliffs.",
-   "recapUpdated": "2026-10-19"
+   "recap": "Drug and device companies mostly reported solid quarters: J&J raised its profit forecast and is weighing an orthopedics spinoff, Thermo Fisher's revenue grew 9% to $12.14 billion, Quest Diagnostics grew revenue 10% to $3.10 billion and Intuitive Surgical's procedures grew 15%. Moderna fell about 18% after melanoma vaccine data leaked early, showing a 42% cut in recurrence or death risk. Merck KGaA agreed to buy Silence Therapeutics for $1.3 billion, and EQT agreed to take QIAGEN private for $12.1 billion. CMS proposed flat fees for drug middlemen in Medicare Part D.",
+   "recapUpdated": "2026-10-25"
   },
   "infrastructure-logistics": {
    "overview": "Infrastructure and logistics covers the physical networks the rest of the economy runs on. That includes the trucking, rail, shipping and air freight companies that move goods, the developers and builders behind homes, offices and data centers, and the public sector that funds and regulates much of it. These businesses are sensitive to fuel costs and interest rates, because moving goods burns diesel and most buildings are paid for with borrowed money.",
-   "recap": "Fuel and rates are the two pressures. Diesel near $6.30 a gallon has pushed freight surcharges across supply chains and left truckers on fixed contracts losing money. In real estate, homebuilder confidence fell to its lowest since 2012 with mortgages near 7.4% and 43% of builders cutting prices.",
-   "recapUpdated": "2026-10-19"
+   "recap": "Higher costs and rates weighed on the sector. Diesel near $6.30 spread fuel surcharges through supply chains, homebuilder confidence fell to its lowest since 2012 with mortgage rates near 7.4%, and the 10-year yield above 5% pressured REITs. Union Pacific posted record third-quarter results with revenue up 15% while its Norfolk Southern merger stays under review. EQT agreed to buy Cleanaway for about A$9.3 billion, and Maximus agreed to buy defense contractor Agile Defense for $660 million.",
+   "recapUpdated": "2026-10-25"
   },
   "macro": {
    "overview": "The macro picture covers the forces that move every industry at once: how fast economies are growing, how quickly prices are rising, where central banks set interest rates, and how goods and money flow between countries. When energy costs climb or borrowing gets more expensive, the effects show up in nearly every company's results, so this is the backdrop for reading the rest of the news.",
-   "recap": "Energy is driving the macro story. Oil above $100 and $6+ diesel lifted US core CPI to 2.6% in September, the 10-year yield is near 5.1%, and markets price some chance of a Fed hike at the Oct 27–28 meeting. China grew 4.5% in Q3 on a 36% jump in September exports while domestic demand stayed soft. Q3 GDP and September PCE inflation arrive next week.",
-   "recapUpdated": "2026-10-19"
+   "recap": "Energy and interest rates drove the week. Brent held near $110 to $112 on Hormuz disruption, and on Friday US crude rose to $103.27, up 14% for October. The 10-year Treasury yield reached 5.00% on Friday after touching 5.15% earlier in the week, and the Fed ends its meeting on Wednesday, expected to hold rates. China grew 4.5% in the third quarter on exports while consumers and property stayed weak, and Canada's inflation rose to 3.1% on a 28% jump in gasoline prices. The Nasdaq fell 2.6% on Thursday on doubts about AI spending.",
+   "recapUpdated": "2026-10-25"
   },
   "tmt": {
    "overview": "Tech, media and telecom covers the companies behind computing and communication: chipmakers, software and cloud providers, internet platforms like search and social media, entertainment and streaming companies, and the telecom networks that connect everything. Many of these businesses become more profitable as they grow, because serving one more customer costs very little, which is why a handful of very large companies dominate. Much of the sector's investment today is going into the data centers and chips that power AI.",
-   "recap": "Tech had its worst week in months: the Nasdaq fell about 4.5% and chip stocks about 10% as investors questioned debt-funded AI buildouts, and CoreWeave dropped 25%+ before a Goldman upgrade. Private equity is buying software: Thoma Bravo's Proofpoint is acquiring Varonis for $6.3B, and Bumble is going private at $1.3B. Netflix (Tue) and Meta (Wed) earnings will test the AI spending story.",
-   "recapUpdated": "2026-10-19"
+   "recap": "Doubts about AI spending hit tech: Meta grew revenue 26% to $64.6 billion but its free cash flow turned negative on capital spending of $135 to $145 billion this year, and the Nasdaq fell 2.6% on Thursday. Deals continued, with Salesforce agreeing to buy Braze for $5.66 billion, Proofpoint buying Varonis for $6.3 billion and Bumble going private for $1.3 billion. SpaceX grew revenue 161% to $14.6 billion in its first full public quarter, and Texas Instruments revenue rose 28% to $6.06 billion. Netflix guided to a lower margin and is cutting about 1,000 jobs, and Comcast lost 144,000 broadband customers while adding 368,000 wireless lines.",
+   "recapUpdated": "2026-10-25"
   }
  },
  "subindustries": {
@@ -1751,6 +1889,45 @@
     "Grid connection queues and transmission shortages delay new projects by years",
     "Utilities are adding gas plants and batteries alongside renewables to keep supply firm",
     "Higher interest rates raise the cost of funding large capital programs"
+   ]
+  },
+  "public-sector": {
+   "kpis": [
+    "Backlog and book-to-bill ratio",
+    "Contract win rate and recompete rate",
+    "Adjusted EBITDA margin (5-12% typical)",
+    "Headcount and utilization of billable staff",
+    "Federal contract obligations (about $793B in FY2025)"
+   ],
+   "marketSize": {
+    "global": "~$11T",
+    "globalNote": "Global public procurement, about 12% of world GDP (World Bank, 2018 data, approx.)",
+    "us": "~$793B",
+    "usNote": "US federal contract obligations, FY2025 (GAO, approx.); Defense is about 62%"
+   },
+   "operatingModel": "Contractors win multi-year contracts through competitive bids and earn revenue by time and materials, cost-plus or fixed price. Margins are thin, typically 5-12%, so profit depends on keeping billable staff busy and winning contracts again at renewal. Security clearances and past performance are barriers to entry that protect incumbents.",
+   "overview": "The public sector as a market is made up of government agencies that buy goods and services, and the companies that supply them. Suppliers include IT and cybersecurity contractors, firms that run benefit and health programs, defense technology providers and builders of public works. Agencies buy through formal bidding, so winning contracts and keeping them at renewal drives results.",
+   "players": [
+    "IT and defense services: Booz Allen Hamilton, Leidos, SAIC, CACI",
+    "Program administration: Maximus, Conduent",
+    "Large integrators: Accenture Federal Services, Lockheed Martin, General Dynamics",
+    "Fragmented: thousands of small firms hold prime or subcontract roles",
+    "Customers are concentrated: the US Defense Department alone is about 62% of federal contract spending"
+   ],
+   "profileUpdated": "2026-10-25",
+   "sector": "infrastructure-logistics",
+   "threats": [
+    "Budget cuts, shutdowns or policy shifts that delay or cancel contracts",
+    "Losing a large contract at recompete",
+    "Fixed-price work that overruns costs",
+    "Difficulty hiring and keeping cleared engineers"
+   ],
+   "trends": [
+    "Defense and national-security technology budgets are growing, pulling in acquisitions of cleared specialists",
+    "AI, cloud and cybersecurity work is replacing older staffing-based contracts",
+    "Contractors are buying small technical firms to add talent and security clearances",
+    "Agencies are consolidating contracts and pushing for fixed-price work",
+    "Civilian program budgets and policy change with each election cycle"
    ]
   },
   "real-estate-construction": {

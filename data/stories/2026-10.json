@@ -1579,5 +1579,200 @@
   "subindustry": "payers-providers",
   "summary": "Quest Diagnostics, the largest US lab testing company by revenue, reported third-quarter revenue of $3.10 billion, up 10.0% from a year earlier. It raised its 2026 revenue guidance to $12.065-12.105 billion and its adjusted earnings guidance to $11.25-11.35 per share.",
   "tags": []
+ },
+ "2026-10-25-01": {
+  "companies": [],
+  "date": "2026-10-25",
+  "headline": "US stocks fall on Friday as the 10-year Treasury yield reaches 5.00% and oil climbs, with the Fed meeting due next week",
+  "numbers": [
+   "Dow: -1.2% to 52,215",
+   "S&P 500: -0.5% to 7,623",
+   "Nasdaq: -0.2% to 25,955",
+   "10-year Treasury yield: 5.001%",
+   "30-year Treasury yield: 5.329%"
+  ],
+  "order": 1,
+  "sector": "macro",
+  "soWhat": "A 10-year yield at 5% sets the return that investors can earn on a safe bond, so every riskier asset, from stocks to real estate, has to offer more to compete. Companies with heavy borrowing or long-dated payoffs, such as utilities, homebuilders and AI infrastructure builders, are hit first because their financing costs rise and their future profits are discounted more heavily. Energy producers gain from higher oil, but the same oil price feeds inflation, which is what keeps the Fed from cutting. The open question is whether cooler hiring and an AI spending slowdown can hold the Fed back while inflation readings stay warm.",
+  "sources": [
+   {
+    "title": "Kiplinger: Dow drops 652 points as oil prices rise",
+    "url": "https://www.kiplinger.com/investing/stocks/dow-drops-652-points-as-oil-treasury-yields-rise-stock-market-today"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "The Dow fell 1.2% (652 points) to 52,215 on Friday, October 23, the S&P 500 lost 0.5% to 7,623 and the Nasdaq slipped 0.2% to 25,955. The Dow still finished the week higher, while the S&P 500 and Nasdaq ended lower. Treasury yields climbed again: the 2-year closed at 4.686%, the 10-year at 5.001% and the 30-year at 5.329%. Oil rose after Iran said it was ready to attack if the US and Israel resumed strikes. The Federal Reserve meeting ends on Wednesday and policymakers are widely expected to leave rates unchanged, though one bank economist expects a rate rise in December and March.",
+  "tags": []
+ },
+ "2026-10-25-02": {
+  "companies": [],
+  "date": "2026-10-25",
+  "headline": "US crude jumps 3.8% to $103.27 and is up 14% in October after Iran warns it will attack if strikes resume",
+  "numbers": [
+   "WTI: +3.8% to $103.27 a barrel",
+   "WTI: +14% month to date",
+   "Brent earlier in the week: about $110-112"
+  ],
+  "order": 2,
+  "sector": "energy-materials",
+  "soWhat": "Oil is the first link in a long chain. Producers and oilfield companies earn more per barrel, but refiners pass the cost into diesel and jet fuel, which then reaches trucking, rail and airlines through fuel surcharges and higher fares, and finally shows up in consumer prices. Airlines and freight carriers lose most when prices jump quickly because their fixed-price contracts adjust with a delay. The open question is whether a threat of renewed strikes keeps a risk premium in prices even if physical supply through Hormuz slowly recovers.",
+  "sources": [
+   {
+    "title": "Kiplinger: Dow drops 652 points as oil prices rise",
+    "url": "https://www.kiplinger.com/investing/stocks/dow-drops-652-points-as-oil-treasury-yields-rise-stock-market-today"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Front-month West Texas Intermediate futures rose 3.8% to $103.27 a barrel on Friday, October 23, and are now up 14% for the month. The move followed a statement from Iran that it is prepared to attack if the US and Israel resume strikes on Tehran. Earlier this week, Brent, the international benchmark, was trading around $110 to $112 as disruption in the Strait of Hormuz limited tanker flows. Higher energy prices helped push Treasury yields up on Friday, and market commentary points to warm inflation readings, especially at the producer level.",
+  "tags": []
+ },
+ "2026-10-25-03": {
+  "companies": [
+   "qiagen",
+   "eqt"
+  ],
+  "date": "2026-10-25",
+  "headline": "EQT agrees to take diagnostics tools maker QIAGEN private in a $12.1 billion all-cash deal",
+  "numbers": [
+   "Deal value: about $12.1B incl. $1.1B net debt",
+   "Offer: EUR 46.50 per share, all cash",
+   "2025 revenue: $2.09B; EBITDA: $728.3M",
+   "Expected close: mid-2027"
+  ],
+  "order": 3,
+  "sector": "healthcare",
+  "soWhat": "QIAGEN sells the kits and instruments that prepare DNA and RNA samples for testing, and customers reorder the consumables every time they run a test. That recurring, high-margin revenue is what private equity prizes, and at roughly 17 times EBITDA the price shows how highly stable diagnostics tools are valued. Going private lets the owners cut costs or invest without quarterly scrutiny, financed in part by debt that the steady cash flow can service. The open question is whether the shareholders who rejected a similar price in 2020 accept this one.",
+  "sources": [
+   {
+    "title": "LevinPro Healthcare M&A: EQT agrees to take QIAGEN private in $12.1 billion deal",
+    "url": "https://healthcare.levinassociates.com/2026/10/23/eqt-agrees-to-take-qiagen-private-in-12-1-billion-deal/"
+   }
+  ],
+  "subindustry": "medtech",
+  "summary": "EQT Private Equity agreed to a recommended all-cash takeover offer for QIAGEN at EUR 46.50 per share, valuing the company at about $12.1 billion including roughly $1.1 billion of net debt. Affiliates of the Abu Dhabi Investment Authority and Canada Pension Plan Investment Board are also taking part in the offer. QIAGEN reported $2.09 billion of revenue and $728.3 million of EBITDA for 2025, and serves more than 500,000 customers. EQT has secured equity and debt financing, QIAGEN's board has approved the offer, and closing is expected in mid-2027. Thermo Fisher agreed to buy QIAGEN in 2020 for about $11.5 billion but dropped the deal after failing to win enough shareholder support.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-25-04": {
+  "companies": [
+   "salesforce",
+   "braze"
+  ],
+  "date": "2026-10-25",
+  "headline": "Salesforce agrees to buy marketing software maker Braze for about $5.66 billion in cash",
+  "numbers": [
+   "Enterprise value: about $5.66B",
+   "Price: $47.50 per share, a 58% premium",
+   "Braze customers: about 2,770",
+   "Termination fees: $300M (Salesforce), $191.4M (Braze)"
+  ],
+  "order": 4,
+  "sector": "tmt",
+  "soWhat": "Software vendors often buy a better product rather than rebuild their own, and this is a clear case: Salesforce's marketing tools had lost ground to newer rivals built for real-time, app-based messaging. The 58% premium shows how much Salesforce values closing that gap, and it also reflects the scarcity of independent engagement platforms. Customers could gain a single vendor for data and messaging, while competitors such as Adobe and Klaviyo lose a rival to compete against on price. The open question is whether Braze keeps its speed and ease of use once it is folded into a much larger product suite.",
+  "sources": [
+   {
+    "title": "Salesforce: Salesforce signs definitive agreement to acquire Braze",
+    "url": "https://www.salesforce.com/news/press-releases/2026/10/20/salesforce-signs-definitive-agreement-to-acquire-braze/"
+   },
+   {
+    "title": "Please Advise: Deal Sheet (Oct 23, 2026)",
+    "url": "https://nonbindingthoughts.substack.com/p/please-advise-deal-sheet-oct-23-2026"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Salesforce signed a deal to acquire Braze for about $5.66 billion in enterprise value, paying $47.50 per share in cash, a 58% premium to Braze's October 19 close. Braze runs a platform that turns live customer behavior into personalized messages across mobile apps, email, text and WhatsApp, and serves about 2,770 customers including Canva, Instacart and Venmo. Salesforce plans to combine it with Marketing Cloud, its CRM and its AI agents. The deal is expected to close in Salesforce's fiscal year 2028 after shareholder and regulatory approval. Salesforce would owe a $300 million termination fee in some cases, and Braze $191.4 million.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-25-05": {
+  "companies": [
+   "american-express"
+  ],
+  "date": "2026-10-25",
+  "headline": "American Express posts record $20.1 billion quarterly revenue and raises its profit outlook, then announces a 5% job cut",
+  "numbers": [
+   "Revenue: $20.1B, +9%",
+   "EPS: $5.42 ($4.68 adjusted, +13%)",
+   "Billed business: $454.0B, +8%",
+   "2026 EPS guidance: $18.30-$18.60",
+   "Job cut: about 5% of workforce"
+  ],
+  "order": 5,
+  "sector": "financial-services",
+  "soWhat": "American Express runs a closed-loop network, so it earns fees from merchants, annual fees from cardholders and interest on balances, which makes it less dependent on lending than most card issuers. Strong spending and falling credit losses lifted profit, but the job cut shows the next lever: using AI to hold down operating costs while revenue grows. Investors sold the stock anyway, a reminder that restructuring charges and cost-cutting news can outweigh a strong quarter in the short run. The open question is how many roles are replaced by automation and whether service quality, a core part of the premium brand, holds up.",
+  "sources": [
+   {
+    "title": "SEC filing: American Express Q3 2026 results release",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000004962/000000496226000405/q326exhibit991.htm"
+   },
+   {
+    "title": "Kiplinger: Dow drops 652 points as oil prices rise",
+    "url": "https://www.kiplinger.com/investing/stocks/dow-drops-652-points-as-oil-treasury-yields-rise-stock-market-today"
+   }
+  ],
+  "subindustry": "payments-fintech",
+  "summary": "American Express reported third-quarter revenue of $20.1 billion, up 9%, and net income of $3.7 billion. Earnings per share were $5.42, or $4.68 excluding a gain on the sale of its stake in Global Business Travel Group, up 13%. Customers' billed business rose 8% to $454.0 billion, credit-loss provisions fell to $1.0 billion from $1.3 billion a year earlier, and the net write-off rate edged down to 1.8%. The company raised its full-year earnings guidance to $18.30-$18.60 per share ($17.60-$17.90 adjusted) and said it expects 10% revenue growth. It also said it is cutting about 5% of its workforce, roughly 3,850 jobs on a base of about 77,000, with a $336 million restructuring charge, and the stock fell 3.7%.",
+  "tags": []
+ },
+ "2026-10-25-06": {
+  "companies": [
+   "tradeweb",
+   "trumid"
+  ],
+  "date": "2026-10-25",
+  "headline": "Tradeweb agrees to buy credit trading platform Trumid for about $1.97 billion",
+  "numbers": [
+   "Deal value: about $1.97B",
+   "Consideration: $1.89B cash, $82M equity",
+   "Tradeweb daily volume: more than $3.0T",
+   "Targeted close: first half of 2027"
+  ],
+  "order": 6,
+  "sector": "financial-services",
+  "soWhat": "Bond trading has long been done by phone between banks and investors, and platforms earn a fee on each electronic trade, so every share of the market that moves online grows their revenue. Buying Trumid gives Tradeweb a bigger position in US corporate credit, where electronic trading is still catching up, and a new customer group in hedge funds. Larger platforms also benefit from network effects: more buyers attract more sellers. Rivals such as MarketAxess face a stronger competitor, and dealers gain a single venue for more of their flow.",
+  "sources": [
+   {
+    "title": "Markets Media: Tradeweb to acquire Trumid",
+    "url": "https://www.marketsmedia.com/tradeweb-to-acquire-trumid/"
+   },
+   {
+    "title": "Please Advise: Deal Sheet (Oct 23, 2026)",
+    "url": "https://nonbindingthoughts.substack.com/p/please-advise-deal-sheet-oct-23-2026"
+   }
+  ],
+  "subindustry": "payments-fintech",
+  "summary": "Tradeweb, which facilitates more than $3.0 trillion of trading a day across asset classes, agreed to acquire Trumid, an electronic marketplace for corporate bonds, for about $1.97 billion. The price is $1.75 billion for the business plus about $220 million for tax assets, paid as roughly $1.89 billion in cash and $82 million in equity, mostly from cash on hand. Trumid adds trading in the earlier stages of a bond's life, including new-issue and grey-market trading, and a strong base among hedge funds. Tradeweb expects the deal to add to adjusted earnings per share in the first full year and targets closing in the first half of 2027.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-25-07": {
+  "companies": [
+   "maximus",
+   "agile-defense"
+  ],
+  "date": "2026-10-25",
+  "headline": "Maximus agrees to buy defense technology contractor Agile Defense for $660 million in cash",
+  "numbers": [
+   "Price: $660M in cash plus performance payments",
+   "Cleared personnel: about 1,100",
+   "Expected close: first quarter of fiscal 2027"
+  ],
+  "order": 7,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Government services firms win multi-year contracts and earn fees for running programs, so growth depends on getting into agencies with rising budgets. Defense and national-security technology work is attractive because budgets are rising and the work requires security clearances that take time to build. Buying a firm with 1,100 cleared staff is faster than hiring them, and it lessens reliance on civilian programs that can change with each budget. The open question is whether Maximus can keep the specialist engineers who make the business valuable.",
+  "sources": [
+   {
+    "title": "SEC filing: Maximus to acquire Agile Defense (press release)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001032220/000103222026000038/mms-2026x10x20ex991agilede.htm"
+   }
+  ],
+  "subindustry": "public-sector",
+  "summary": "Maximus, a provider of technology-enabled government services, agreed to acquire Agile Defense for $660 million in cash, with extra payments possible if performance targets are met. Agile Defense, owned by the investment firm Enlightenment Capital, provides cybersecurity, data analytics and AI services to defense and national-security agencies and brings about 1,100 cleared personnel. Maximus said the deal speeds up its push into defense, where spending growth is expected to last. The purchase needs regulatory approval, not a shareholder vote, and is expected to close in the first quarter of Maximus's 2027 fiscal year.",
+  "tags": [
+   "deal"
+  ]
  }
 }
