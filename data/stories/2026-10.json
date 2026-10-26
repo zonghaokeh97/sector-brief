@@ -1774,5 +1774,139 @@
   "tags": [
    "deal"
   ]
+ },
+ "2026-10-26-01": {
+  "companies": [
+   "eqt-corporation",
+   "range-resources"
+  ],
+  "date": "2026-10-26",
+  "headline": "EQT agrees to buy Range Resources in an all-stock deal that creates a US gas producer worth over $50 billion",
+  "numbers": [
+   "Pro forma enterprise value: over $50B",
+   "Exchange ratio: 0.987 EQT share per Range share",
+   "Ownership: about 73% EQT, 27% Range",
+   "Combined production: over 9 Bcfe/d",
+   "Base synergies: $325M a year within 2 years"
+  ],
+  "order": 1,
+  "sector": "energy-materials",
+  "soWhat": "Gas producers cannot control the price of gas, so the main lever is cost, and scale lets a company spread drilling, pipeline and marketing costs over more volume. The companies say the combined business can break even below $2 per million BTU, which would leave it profitable at prices where weaker producers struggle. Owning gathering pipelines and a marketing arm also lets it capture margin on moving and selling gas and liquids, including to LNG buyers. Smaller Appalachian rivals face a bigger competitor, and the open question is whether the promised savings arrive, since the synergy figures are the companies' own projections.",
+  "sources": [
+   {
+    "title": "EQT Corp Form 8-K: joint announcement of the Range Resources merger",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000033213/000121390026112242/ea030960101ex99-1.htm"
+   },
+   {
+    "title": "IndexBox: EQT to acquire Range Resources in $50 billion all-stock deal",
+    "url": "https://www.indexbox.io/blog/eqt-to-acquire-range-resources-in-50-billion-all-stock-deal/"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "EQT Corporation will acquire Range Resources, with each Range share exchanged for 0.987 EQT shares. EQT holders would own about 73% of the combined company and Range holders about 27%. The companies put the pro forma enterprise value above $50 billion and combined output above 9 billion cubic feet equivalent a day, from nearly 3 million net acres and more than 3,700 miles of pipeline. EQT expects $325 million of base annual savings within two years, rising to more than $600 million over time. Headquarters stay in Canonsburg, Pennsylvania, and closing is expected in the first quarter of 2027 pending regulatory and shareholder approvals.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-26-02": {
+  "companies": [
+   "verizon"
+  ],
+  "date": "2026-10-26",
+  "headline": "Verizon adds 406,000 postpaid phone customers in the third quarter and raises its 2026 outlook",
+  "numbers": [
+   "Postpaid phone net adds: 406,000 (vs 44,000)",
+   "Adjusted EBITDA margin: 40.2% (vs 37.8%)",
+   "Free cash flow: $7.8B, up 12.1%",
+   "2026 capex guidance: $16.0B to $16.5B"
+  ],
+  "order": 2,
+  "sector": "tmt",
+  "soWhat": "A mobile network costs the same to run whether it has more or fewer customers, so extra customers and fewer departures flow mostly to profit. Verizon grew customers and widened its margin at the same time, which suggests it is not only buying growth with discounts. Fiber and fixed wireless now bring in broadband customers in competition with cable companies. Capital spending stays at $16.0 to $16.5 billion, so the cash left after the network bill is what funds buybacks and debt. The open question is whether churn stays low if AT&T and T-Mobile respond.",
+  "sources": [
+   {
+    "title": "Verizon Form 8-K: third quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000732712/000073271226000049/a2026q3exhibit99.htm"
+   }
+  ],
+  "subindustry": "telecom",
+  "summary": "Verizon reported third-quarter revenue of $34.3 billion, up 1.5%, with adjusted EPS of $1.31, up 8.3%. Adjusted EBITDA was $13.8 billion at a 40.2% margin, up from 37.8% a year earlier. It added 406,000 postpaid phone customers versus 44,000 a year ago, and consumer postpaid phone churn improved to 0.87%. Broadband grew by 314,000 connections, split between 155,000 fiber and 159,000 fixed wireless. Free cash flow was $7.8 billion, and Verizon now expects 1.1 to 1.2 million postpaid phone additions this year and free cash flow growth approaching 12%.",
+  "tags": []
+ },
+ "2026-10-26-03": {
+  "companies": [
+   "saudi-aramco"
+  ],
+  "date": "2026-10-26",
+  "headline": "Oil slips as mediators head to Tehran, but Brent stays above $115",
+  "numbers": [
+   "Brent: about $115.2/bbl (-1.3% Monday)",
+   "WTI: about $101.5/bbl (-1.7% Monday)",
+   "Weekly gain: Brent +6%, WTI +2.3%",
+   "War began: February 28"
+  ],
+  "order": 3,
+  "sector": "energy-materials",
+  "soWhat": "Oil is carrying a risk premium for blocked shipping lanes, so talks move the price a little but cannot restore lost supply on their own. Producers outside the disrupted region and anyone able to ship by other routes gain from the high price, while importers, airlines and chemical makers pay for it. Gulf producers are already planning for a different map, with Saudi Aramco set to start storing crude in Singapore from the second half of 2027. The open question is whether US strikes on Iran resume after the November 3 midterm elections, which one analyst flagged as an upside risk to prices.",
+  "sources": [
+   {
+    "title": "Asharq Al-Awsat: Oil drops from near six-month highs on hopes Iran war hostilities will ease",
+    "url": "https://english.aawsat.com/business/5333750-oil-drops-near-six-month-highs-hopes-iran-war-hostilities-ease"
+   },
+   {
+    "title": "ABC News Australia: markets live blog, October 26",
+    "url": "https://www.abc.net.au/news/2026-10-26/asx-markets-business-live-news-october-26/107306820"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "By midmorning Monday in London, WTI was down 1.7% at $101.51 a barrel and Brent down 1.3% at $115.23. Prices had settled nearly $3 higher on Friday after Houthi attacks in Saudi Arabia, leaving Brent up 6% and WTI up 2.3% for the week. Qatari mediators went to Tehran on Sunday, and officials from Saudi Arabia, Turkey and Pakistan were due to meet Iran's leaders Monday. The war that began on February 28 is still disrupting shipping through the Strait of Hormuz and the Bab el-Mandeb Strait. Analysts said the pullback reflects traders adjusting positions rather than more supply.",
+  "tags": []
+ },
+ "2026-10-26-04": {
+  "companies": [],
+  "date": "2026-10-26",
+  "headline": "Markets price better than 60% odds of another Australian rate hike as quarterly inflation data nears",
+  "numbers": [
+   "RBA cash rate: 4.60% after four hikes this year",
+   "Market odds of a hike: above 60%",
+   "Expected annual inflation: 3.9%",
+   "ASX 200 close: 8,810 (+0.2%)"
+  ],
+  "order": 4,
+  "sector": "macro",
+  "soWhat": "Australia is facing the same energy-driven inflation as other economies, and four hikes in one year show a central bank willing to keep tightening until prices cool. Higher rates squeeze households with mortgages and weigh on property, where auction clearance rates have fallen below 50% even as the number of auctions rose about 33%. Banks earn more on loans but face more bad-debt risk, and Westpac and NAB each fell about 0.7%. The open question is whether Wednesday's inflation reading is soft enough to let the bank pause.",
+  "sources": [
+   {
+    "title": "ABC News Australia: markets live blog, October 26",
+    "url": "https://www.abc.net.au/news/2026-10-26/asx-markets-business-live-news-october-26/107306820"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "Traders put the chance of a Reserve Bank of Australia rate hike at next week's meeting above 60%. The cash rate is 4.60% after four increases this year, and the bank's chief economist signalled that it is not yet done. Quarterly inflation data is due Wednesday, with economists expecting 1.3% for the quarter, which would hold annual inflation at 3.9%. The ASX 200 recovered from an early 0.8% drop to close up 0.2% at 8,810, led by miners and energy shares. Spot gold touched a three-month low below $4,000 an ounce on Friday and was near $4,017 on Monday.",
+  "tags": []
+ },
+ "2026-10-26-05": {
+  "companies": [
+   "bluescope"
+  ],
+  "date": "2026-10-26",
+  "headline": "BlueScope lifts first-half profit guidance to about A$1.1 billion from A$860 to 960 million",
+  "numbers": [
+   "New first-half pre-tax profit guidance: approaching A$1.1B",
+   "Prior guidance: A$860M to A$960M",
+   "Share price move: +2.8% to A$33.26"
+  ],
+  "order": 5,
+  "sector": "energy-materials",
+  "soWhat": "Steel profit is the gap between what mills charge and what their inputs and energy cost, so small price or cost moves swing earnings by a lot. The new guidance is roughly 15% to 28% above the old range, which shows how fast that gap can change in a few months. Low-cost producers keep more of any price gain, while high-cost mills feel pressure when prices fall. The open question is whether the higher level lasts or reflects a temporary rise in prices.",
+  "sources": [
+   {
+    "title": "ABC News Australia: markets live blog, October 26",
+    "url": "https://www.abc.net.au/news/2026-10-26/asx-markets-business-live-news-october-26/107306820"
+   }
+  ],
+  "subindustry": "metals-mining",
+  "summary": "Australian steelmaker BlueScope raised its guidance for first-half pre-tax profit to approaching A$1.1 billion, from a prior range of A$860 million to A$960 million. Its shares rose 2.8% to A$33.26 on Monday. Miners and energy shares led the Australian market higher on the day, and iron ore, a key steelmaking input, was about $90.40 a tonne on Friday.",
+  "tags": []
  }
 }

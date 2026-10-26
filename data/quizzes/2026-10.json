@@ -1640,5 +1640,252 @@
     "subindustry": "public-sector"
    }
   ]
+ },
+ "2026-10-26": {
+  "date": "2026-10-26",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "The company has more than 3,700 miles of midstream infrastructure and a marketing platform, so it earns money on moving and selling gas as well as producing it.",
+    "id": "2026-10-26:x01",
+    "kind": "today",
+    "options": [
+     "It drills only in vertical wells",
+     "It owns production, gathering pipelines and a marketing platform, not just wells",
+     "It sells only to its own subsidiaries",
+     "It operates in every part of the energy industry, including solar"
+    ],
+    "prompt": "EQT calls the combined company the largest vertically integrated gas producer in the US. What does vertically integrated mean here?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-26-01",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 2,
+    "explanation": "Operators must keep investing to maintain quality and capacity. Cash left after capital spending is what can be returned to shareholders or used to pay down debt.",
+    "id": "2026-10-26:x02",
+    "kind": "today",
+    "options": [
+     "Because telecom firms do not report profit",
+     "Because free cash flow is set by regulators",
+     "Because networks need heavy constant investment, so cash left after that spending funds buybacks, dividends and debt",
+     "Because network spending is optional"
+    ],
+    "prompt": "Verizon made $7.8B of free cash flow in Q3 while spending $16.0B to $16.5B a year on its network. Why do investors watch free cash flow closely in telecom?",
+    "sector": "tmt",
+    "storyId": "2026-10-26-02",
+    "subindustry": "telecom"
+   },
+   {
+    "answer": 0,
+    "explanation": "Network spending is a recurring cost of staying competitive. After it, much of the EBITDA margin is already committed.",
+    "id": "2026-10-26:x03",
+    "kind": "profile",
+    "options": [
+     "Networks must be upgraded constantly to keep up quality and capacity, which is why even 30-40% EBITDA margins leave limited cash",
+     "Regulators require operators to spend that share on advertising",
+     "Because the spending is refunded by customers each year",
+     "Because networks last only one year"
+    ],
+    "prompt": "Why does a telecom operator reinvest roughly 15-20% of revenue in its network every year?",
+    "sector": "tmt",
+    "storyId": null,
+    "subindustry": "telecom"
+   },
+   {
+    "answer": 3,
+    "explanation": "Short-cycle wells decline steeply, so producers can add or cut activity quickly. Deepwater projects are long-cycle bets that last decades.",
+    "id": "2026-10-26:x04",
+    "kind": "profile",
+    "options": [
+     "Shale wells are owned by governments",
+     "Deepwater fields do not need drilling",
+     "Shale output cannot fall",
+     "Shale wells are short-cycle: they are drilled and producing within months"
+    ],
+    "prompt": "Why can US shale producers respond to price changes faster than deepwater projects?",
+    "sector": "energy-materials",
+    "storyId": null,
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 1,
+    "explanation": "Without a real supply improvement, a position-driven drop can reverse if tensions rise again, and one analyst flagged possible US strikes after the November 3 elections.",
+    "id": "2026-10-26:x05",
+    "kind": "today",
+    "options": [
+     "As lasting, since prices only follow traders",
+     "As fragile, because the physical shipping disruption has not eased",
+     "As proof that Hormuz has reopened",
+     "As a sign demand has collapsed"
+    ],
+    "prompt": "Analysts said Monday's oil dip reflected traders adjusting positions, not more supply. How should that move be read?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-26-03",
+    "subindustry": "oil-gas-upstream"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 2,
+    "explanation": "A 73/27 split means EQT shareholders keep clear control, so this is a larger company absorbing a smaller one. It is all stock, so no cash changes hands, which keeps the combined company's debt low.",
+    "id": "2026-10-26:q01",
+    "kind": "today",
+    "options": [
+     "The two companies are roughly equal partners in the new company",
+     "Range holders also receive a large cash payment on top of their shares",
+     "EQT is the larger partner, and its holders keep about 73% of the combined company",
+     "Range will be the controlling shareholder after the merger"
+    ],
+    "prompt": "In the EQT and Range all-stock deal, Range holders get 0.987 EQT shares per share and end up with about 27% of the combined company. What does that split show?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-26-01",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 0,
+    "explanation": "The companies point to corporate, operations and commodity marketing savings, which are the costs a larger producer can spread over more volume. The figures are the companies' own projections, and earlier EQT deals show such targets are not always reached.",
+    "id": "2026-10-26:q02",
+    "kind": "today",
+    "options": [
+     "Shared corporate costs, joint drilling and pipeline operations, and better marketing of gas and liquids",
+     "A rise in gas prices caused by the merger cutting supply",
+     "Selling all of the combined output under one fixed long-term contract",
+     "Shutting down all wells on Range's acreage"
+    ],
+    "prompt": "EQT expects $325 million of base annual savings within two years from buying Range. Where would such savings most likely come from?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-26-01",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 3,
+    "explanation": "More customers, lower churn (0.87%) and a wider margin together point to growth that adds profit. A discount-led push would normally push the margin down, and capital spending guidance of $16.0B to $16.5B was unchanged.",
+    "id": "2026-10-26:q03",
+    "kind": "today",
+    "options": [
+     "It gave up profit to win customers through heavy promotions",
+     "Its growth came mainly from cutting prices across the board",
+     "It trimmed network spending to lift its margin",
+     "It is adding customers and keeping them, so growth is not simply being bought with discounts"
+    ],
+    "prompt": "Verizon added 406,000 postpaid phone customers, up from 44,000 a year ago, while its EBITDA margin rose to 40.2% from 37.8%. What does this combination suggest?",
+    "sector": "tmt",
+    "storyId": "2026-10-26-02",
+    "subindustry": "telecom"
+   },
+   {
+    "answer": 1,
+    "explanation": "Analysts described the dip as traders adjusting positions, not a real supply improvement, and warned the reprieve may be temporary. Brent was still up 6% for the week.",
+    "id": "2026-10-26:q04",
+    "kind": "today",
+    "options": [
+     "Shipping through Hormuz and Bab el-Mandeb has returned to normal",
+     "Talks eased fear at the margin, but the shipping disruption continues and analysts see upside risk if strikes resume",
+     "Producers have cut output to hold prices up",
+     "Demand jumped because interest rates fell"
+    ],
+    "prompt": "Oil fell about 1.3% as mediators went to Tehran, yet Brent stayed above $115. What is the best explanation?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-26-03",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 2,
+    "explanation": "Inflation near 3.9% is driven partly by energy costs, and the chief economist signalled the bank is not yet done. Weak property auctions (clearance rates under 50%) show higher rates are already biting.",
+    "id": "2026-10-26:q05",
+    "kind": "today",
+    "options": [
+     "Unemployment is rising sharply and needs support",
+     "The currency has become too strong",
+     "Annual inflation is about 3.9%, so markets expect policy to stay tight until prices cool",
+     "The government asked the bank to lift house prices"
+    ],
+    "prompt": "The RBA has raised its cash rate to 4.60% with four hikes this year, and markets see better than 60% odds of another. What is the most likely reason?",
+    "sector": "macro",
+    "storyId": "2026-10-26-04",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 1,
+    "explanation": "Steel profit is the selling price minus production cost, so a modest move in either one changes earnings a lot. The new guidance sits roughly 15% to 28% above the old range.",
+    "id": "2026-10-26:q06",
+    "kind": "today",
+    "options": [
+     "Headcount and payroll costs",
+     "The gap between steel prices and the cost of inputs and energy",
+     "Government subsidy payments",
+     "Interest on its debt"
+    ],
+    "prompt": "BlueScope raised first-half profit guidance to about A$1.1B from A$860 to 960 million. What mainly drives such swings in steelmaker profit?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-26-05",
+    "subindustry": "metals-mining"
+   },
+   {
+    "answer": 1,
+    "explanation": "Service firms are paid for wells drilled and completed, so revenue follows producers' activity plans rather than the spot price. Halliburton's $2.2B North America figure and weaker pressure pumping show spending restraint, while international work grew.",
+    "id": "2026-10-21:q03",
+    "kind": "review",
+    "options": [
+     "Oilfield service firms are paid based on the oil price in each barrel produced",
+     "US producers are not adding drilling and completion work in proportion to the price rise, and service demand follows that activity",
+     "Halliburton stopped working in North America",
+     "Higher oil prices always reduce drilling activity immediately"
+    ],
+    "prompt": "Brent is near $110, yet Halliburton's North America revenue fell 5% from the prior quarter. What is the most likely explanation?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-21-03",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 3,
+    "explanation": "Industrial output grew 5.5% while retail sales and investment lagged, so the headline number rests on factories and exports. That matters for exporters of steel and other commodities, which feel the property drop most, and invites trade friction.",
+    "id": "2026-10-21:q04",
+    "kind": "review",
+    "options": [
+     "Domestic consumers are driving the expansion",
+     "The property sector is now a major growth engine",
+     "Growth is balanced across consumption, investment and exports",
+     "Growth is leaning on exports and industry while households and property stay weak"
+    ],
+    "prompt": "China grew 4.5% in Q3, but retail sales rose just 1.1% and property investment fell 20.6%. What does this combination suggest?",
+    "sector": "macro",
+    "storyId": "2026-10-21-04",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "Gross margin actually rose 1.6 points to 19.6%, so margins on each sale were not the problem. Operating costs for AI and Optimus grew faster than gross profit, which cut operating margin to 2.6%.",
+    "id": "2026-10-22:q01",
+    "kind": "review",
+    "options": [
+     "Spending on AI and the Optimus robot grew faster than gross profit",
+     "Gross margin fell sharply from the prior year",
+     "Vehicle deliveries rose so fast that costs spiked",
+     "Services revenue declined by about a third"
+    ],
+    "prompt": "Tesla's Q3 revenue was flat at about $28B, yet operating income fell 56% to $718M. What best explains the drop?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-22-01",
+    "subindustry": "automotive-mobility"
+   },
+   {
+    "answer": 3,
+    "explanation": "Nitrogen fertilizer uses natural gas as feedstock and fuel, so a gas price spike raises production costs and fertilizer prices. That in turn raises farmers' input costs.",
+    "id": "2026-10-26:q10",
+    "kind": "profile",
+    "options": [
+     "Farmers burn gas to dry their crops",
+     "Gas is shipped in the same vessels as fertilizer",
+     "Fertilizer producers buy gas only from farmers",
+     "Fertilizer such as ammonia and urea is made from natural gas, so gas is a main input cost"
+    ],
+    "prompt": "Why do fertilizer prices tend to rise when natural gas prices rise?",
+    "sector": "consumer-retail",
+    "storyId": null,
+    "subindustry": "agriculture-food"
+   }
+  ]
  }
 }

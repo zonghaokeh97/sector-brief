@@ -117,6 +117,23 @@
    "ticker": "NYSE: BE",
    "updated": "2026-10-23"
   },
+  "bluescope": {
+   "businessModel": "Makes flat steel and coated steel products, including Colorbond roofing, in Australia, North America and Asia, earning the spread between steel prices and its input costs.",
+   "competitors": [
+    "Nucor",
+    "Steel Dynamics",
+    "Cleveland-Cliffs",
+    "Nippon Steel",
+    "POSCO"
+   ],
+   "hq": "Melbourne, Australia",
+   "name": "BlueScope Steel",
+   "sector": "energy-materials",
+   "size": "FY2026 underlying EBIT about A$1.27B (approx.)",
+   "subindustry": "metals-mining",
+   "ticker": "ASX: BSL",
+   "updated": "2026-10-26"
+  },
   "braze": {
    "businessModel": "Sells a subscription platform that lets brands send personalized messages across apps, email, text and web, priced by customer reach and usage.",
    "competitors": [
@@ -301,6 +318,23 @@
    "subindustry": "asset-wealth",
    "ticker": "STO: EQT",
    "updated": "2026-10-21"
+  },
+  "eqt-corporation": {
+   "businessModel": "Drills natural gas and liquids wells in Appalachia, moves the gas through its own gathering pipelines (added by the 2024 Equitrans Midstream deal) and sells it through a marketing platform.",
+   "competitors": [
+    "Expand Energy",
+    "Antero Resources",
+    "CNX Resources",
+    "Coterra Energy",
+    "Comstock Resources"
+   ],
+   "hq": "Canonsburg, Pennsylvania",
+   "name": "EQT Corporation",
+   "sector": "energy-materials",
+   "size": "One of the largest US natural gas producers; about 6 Bcfe/d (approx., from memory); over 9 Bcfe/d combined with Range",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "NYSE: EQT",
+   "updated": "2026-10-26"
   },
   "ge-aerospace": {
    "businessModel": "Sells jet engines (often at thin margins) and earns most of its profit over decades from spare parts, repairs and service contracts on the installed fleet.",
@@ -765,6 +799,23 @@
    "ticker": "NYSE: DGX",
    "updated": "2026-10-23"
   },
+  "range-resources": {
+   "businessModel": "Produces natural gas, natural gas liquids and some oil from Marcellus shale acreage and sells them to utilities, industrial users and export markets.",
+   "competitors": [
+    "EQT",
+    "Antero Resources",
+    "Expand Energy",
+    "CNX Resources",
+    "Coterra Energy"
+   ],
+   "hq": "Fort Worth, Texas",
+   "name": "Range Resources",
+   "sector": "energy-materials",
+   "size": "Mid-sized Appalachian gas producer; about 27% of the combined company after the EQT deal",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "NYSE: RRC",
+   "updated": "2026-10-26"
+  },
   "rtx": {
    "businessModel": "Three businesses: Collins Aerospace (aircraft systems), Pratt & Whitney (jet engines plus aftermarket service) and Raytheon (missiles, radars and air defense sold mainly to governments).",
    "competitors": [
@@ -1074,6 +1125,22 @@
    "subindustry": "software-cloud",
    "ticker": "NASDAQ: VRNS",
    "updated": "2026-10-19"
+  },
+  "verizon": {
+   "businessModel": "Charges monthly subscriptions for mobile phone service and home broadband (fiber and fixed wireless), and sells phones and business network services.",
+   "competitors": [
+    "AT&T",
+    "T-Mobile US",
+    "Comcast",
+    "Charter Communications"
+   ],
+   "hq": "New York, New York",
+   "name": "Verizon Communications",
+   "sector": "tmt",
+   "size": "Q3 2026 revenue $34.3B; about 93,300 employees",
+   "subindustry": "telecom",
+   "ticker": "NYSE: VZ",
+   "updated": "2026-10-26"
   },
   "visa": {
    "businessModel": "Earns fees for authorizing, clearing and settling card payments between banks, with extra fees on cross-border transactions; banks issue the cards and take the credit risk.",
@@ -1534,7 +1601,7 @@
     "us": "~$30T",
     "usNote": "US GDP, nominal (BEA, 2025)"
    },
-   "operatingModel": "Not a business. Use it to frame cases: is the client's problem demand (growth), cost (inflation, energy), or capital (rates)?",
+   "operatingModel": "Not a business. It is the backdrop for every other sector: is a company's problem weak demand (growth), rising costs (inflation, energy), or expensive capital (rates)?",
    "overview": "The chain to remember: energy and commodity prices feed inflation, inflation sets central bank rates, rates set the cost of capital and valuations, and that drives corporate investment, hiring and M&A.",
    "players": [
     "Central banks: Federal Reserve, ECB, Bank of Japan, People's Bank of China",
