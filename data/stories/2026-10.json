@@ -1908,5 +1908,230 @@
   "subindustry": "metals-mining",
   "summary": "Australian steelmaker BlueScope raised its guidance for first-half pre-tax profit to approaching A$1.1 billion, from a prior range of A$860 million to A$960 million. Its shares rose 2.8% to A$33.26 on Monday. Miners and energy shares led the Australian market higher on the day, and iron ore, a key steelmaking input, was about $90.40 a tonne on Friday.",
   "tags": []
+ },
+ "2026-10-27-01": {
+  "companies": [
+   "anthropic"
+  ],
+  "date": "2026-10-27",
+  "headline": "Anthropic files publicly for a Nasdaq IPO under the ticker ANT",
+  "numbers": [
+   "Exchange and ticker: Nasdaq, ANT",
+   "S-1 filed: October 26, 2026",
+   "Press-reported valuation target: $1.5T to $2T (unconfirmed)",
+   "Price range and share count: not yet set"
+  ],
+  "order": 1,
+  "sector": "tmt",
+  "soWhat": "Training and running frontier AI models takes enormous spending on chips and data centers, and a public listing gives a company access to far more capital than private rounds. For the wider industry, the prospectus is the first detailed look at the economics of an AI model developer, such as margins, compute commitments and customer concentration. Chipmakers, cloud providers and software firms that sell to or compete with AI labs will read it for signs of how durable demand is. The open question is what valuation investors will pay once the price range is set.",
+  "sources": [
+   {
+    "title": "Anthropic: S-1 filing announcement",
+    "url": "https://www.anthropic.com/news/s1-sec"
+   },
+   {
+    "title": "SEC: Anthropic, PBC Form S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002130357/000162828026067168/anthropicpbc-sx1.htm"
+   },
+   {
+    "title": "Cryptobriefing: Anthropic files for Nasdaq IPO",
+    "url": "https://cryptobriefing.com/anthropic-ipo-2-trillion-valuation-nasdaq/"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Anthropic filed a registration statement on Form S-1 with the SEC on October 26 for a proposed initial public offering of its Class A common stock. It plans to list on the Nasdaq Global Select Market under the symbol ANT, with Goldman Sachs and Morgan Stanley named as sources for the preliminary prospectus. The number of shares and the price range have not been set, and the registration is not yet effective, so no shares can be sold yet. Press reports put the target valuation between $1.5 trillion and $2 trillion and point to a mid-November debut, but the company has not confirmed either figure.",
+  "tags": []
+ },
+ "2026-10-27-02": {
+  "companies": [],
+  "date": "2026-10-27",
+  "headline": "Brent holds near $115 as Gulf mediation continues and Hormuz traffic stays a fraction of normal",
+  "numbers": [
+   "Brent settle (Oct 26): $115.81/bbl",
+   "WTI settle (Oct 26): $101.76/bbl",
+   "Hormuz transits (Oct 18): about 4 vs roughly 85 a day pre-war",
+   "US SPR: 282.6M barrels, lowest since 1982"
+  ],
+  "order": 2,
+  "sector": "energy-materials",
+  "soWhat": "The price is set by how much oil can physically reach buyers, not by how much is in the ground, which is why headlines about talks move it by a dollar or two while the supply gap persists. Producers able to ship by other routes and holders of stored barrels gain, while refiners, airlines and chemical makers pay more for fuel and feedstock. The strategic reserve at its lowest level since 1982 also means governments have less room to cushion a further shock. The open question is whether the Tehran talks produce a deal that reopens shipping lanes.",
+  "sources": [
+   {
+    "title": "FinanceFeeds: Brent crude price Tuesday, FOMC day one",
+    "url": "https://financefeeds.com/brent-crude-oil-price-114-68-tuesday-fomc-day-one-after-monday-round-trip-tehran-talks-bull-120-bear-108/"
+   },
+   {
+    "title": "Oil & Gas Middle East: Brent crude slips on Tehran talks",
+    "url": "https://www.oilandgasmiddleeast.com/news/brent-crude-tehran-talks-houthi"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Brent settled Monday at $115.81 a barrel, down 91 cents, and US crude at $101.76. Friday's Brent settle of $116.72 was the highest since late April. Officials from Saudi Arabia, Turkey and Pakistan met Iran's leaders in Tehran, and Iranian state media said the four agreed to keep talking. Iran wants the US to lift its port blockade and oil sanctions, while the US wants Iran to cut nuclear enrichment. Only about 4 ships transited the Strait of Hormuz on October 18, against roughly 85 a day before the war, and the US Strategic Petroleum Reserve has fallen to 282.6 million barrels.",
+  "tags": []
+ },
+ "2026-10-27-03": {
+  "companies": [
+   "boeing"
+  ],
+  "date": "2026-10-27",
+  "headline": "Boeing posts a $0.26 per-share loss in the third quarter but reports record backlog of $745 billion",
+  "numbers": [
+   "Revenue: $24.2B (+4%)",
+   "Commercial deliveries: 161; segment margin -6.5%",
+   "Total backlog: $745B (record)",
+   "Free cash flow: $464M; debt $45.9B"
+  ],
+  "order": 3,
+  "sector": "advanced-industries",
+  "soWhat": "Aircraft makers earn money when they deliver planes at steady rates, so a large backlog is only worth as much as the factory's ability to turn it into deliveries and cash. Boeing is booking orders for over 6,300 airplanes yet still loses money on each commercial quarter, because of delivery mix, supply chain costs and the expense of preparing for higher production rates. Defense and services are the profitable parts today and offset commercial weakness. Airbus gains if Boeing's ramp is slow, and airlines wait longer for planes. The open question is when higher delivery rates turn the backlog into sustained cash.",
+  "sources": [
+   {
+    "title": "Boeing Form 8-K: third quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000012927/000162828026067411/a202609sep308kprex991.htm"
+   }
+  ],
+  "subindustry": "aerospace-defense",
+  "summary": "Boeing reported third-quarter revenue of $24.2 billion, up 4%, and a GAAP loss of $0.26 per share. Commercial Airplanes delivered 161 jets and lost $697 million from operations on revenue of $10.7 billion, a margin of negative 6.5%. Defense, Space & Security revenue rose 15% to $7.9 billion with a 6.2% margin that included a $252 million gain on the sale of HRL Laboratories. Free cash flow was $464 million after about $0.7 billion of Department of Justice settlement payments in operating cash flow. Debt stood at $45.9 billion against $20.7 billion of cash, and the company says the 777X is on track for first delivery in 2027.",
+  "tags": []
+ },
+ "2026-10-27-04": {
+  "companies": [
+   "ups"
+  ],
+  "date": "2026-10-27",
+  "headline": "UPS beats third-quarter estimates and lifts its 2026 outlook as the Amazon volume wind-down continues",
+  "numbers": [
+   "Revenue: $22.9B (+6.7%)",
+   "Adjusted EPS: $1.69 (vs $1.63 expected)",
+   "US domestic margin: 7.0% (+60 bps)",
+   "Cost savings: about $1.8B of $3B target"
+  ],
+  "order": 4,
+  "sector": "infrastructure-logistics",
+  "soWhat": "A parcel network earns more per package on smaller, higher-value shipments than on bulk volume from one very large customer, so UPS is giving up low-margin Amazon volume and cutting hours and buildings to match. The test is whether profit per package rises faster than volume falls, and this quarter suggests it did. FedEx and Amazon's own delivery arm are the main rivals for the volume UPS is shedding. Management expects the Amazon comparison to weigh on volume until the second half of 2027. The open question is whether the remaining savings land as planned in the fourth quarter.",
+  "sources": [
+   {
+    "title": "Investing.com: UPS Q3 2026 earnings call transcript",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ups-beats-q3-2026-estimates-and-lifts-outlook-93CH-4975854"
+   }
+  ],
+  "subindustry": "transport-logistics",
+  "summary": "UPS reported third-quarter revenue of $22.9 billion, up 6.7%, with adjusted EPS of $1.69 against $1.63 expected. Operating profit was $2.1 billion at a 9.0% margin. In the US, average daily volume fell 3.3% because of deliberate reductions in Amazon deliveries, yet domestic margin rose 60 basis points to 7.0%. International operating profit of $746 million was the first year-over-year gain in six quarters. UPS now expects full-year revenue of about $92.6 billion and free cash flow of about $6.1 billion, and has achieved about $1.8 billion of a $3 billion cost-savings target.",
+  "tags": []
+ },
+ "2026-10-27-05": {
+  "companies": [
+   "ares-capital",
+   "midcap-financial"
+  ],
+  "date": "2026-10-27",
+  "headline": "Ares Capital agrees to buy MidCap Financial Investment in a roughly $2.6 billion stock-and-cash deal",
+  "numbers": [
+   "Enterprise value: about $2.6B",
+   "Price per MidCap share: $10.88 ($1.21 cash + $9.67 stock)",
+   "Premium: 30.1% to Monday close",
+   "Pro forma portfolio: over $31B, 800+ companies"
+  ],
+  "order": 5,
+  "sector": "financial-services",
+  "soWhat": "Business development companies lend to mid-sized private companies and pass most income to shareholders, so size matters: a bigger portfolio spreads risk, and a bigger company can borrow more cheaply and bid for larger loans. The $10.88 price is below MidCap's preliminary net asset value of about $12.86 per share, which shows that smaller lenders can trade at a discount to the value of their loans. The deal also lifts Ares Capital's sponsor relationships above 600. The open question is whether more small lenders sell to larger ones if they keep trading below book value.",
+  "sources": [
+   {
+    "title": "Ares Capital Form 8-K: merger announcement",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001287750/000110465926118958/tm2628314d1_ex99-1.htm"
+   }
+  ],
+  "subindustry": "asset-wealth",
+  "summary": "Ares Capital will acquire MidCap Financial Investment Corp., a business development company managed by Apollo, in a deal with an enterprise value of about $2.6 billion. MidCap holders would receive $10.88 per share, made up of about $1.21 in cash and $9.67 in Ares Capital stock, a 30.1% premium to Monday's close. Pro forma, Ares Capital would hold over $31 billion of investments across more than 800 portfolio companies. Wells Fargo has agreed to provide $750 million of extra secured financing, and closing is expected in the first half of 2027, subject to MidCap shareholder approval.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-27-06": {
+  "companies": [
+   "guidewire",
+   "hyperexponential"
+  ],
+  "date": "2026-10-27",
+  "headline": "Guidewire to buy insurance pricing software maker hyperexponential for $1.7 billion in cash",
+  "numbers": [
+   "Cash price: $1.7B",
+   "Contingent payment: up to $400M",
+   "Debt commitment: $1.0B term loan",
+   "Expected close: Q2 fiscal 2027"
+  ],
+  "order": 6,
+  "sector": "tmt",
+  "soWhat": "Guidewire sells core software that insurers use to run policies, claims and billing, and pricing is the decision that sets an insurer's profit. Owning a pricing tool lets Guidewire sell a wider package to the same customers and makes switching harder for them. It also moves the company into a function where specialist rivals compete. The deal is paid mostly in cash and partly with new debt, so the open question is whether hyperexponential's customers stay and grow after the sale.",
+  "sources": [
+   {
+    "title": "Guidewire Form 8-K: hyperexponential acquisition",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001528396/000119312526432656/d121813d8k.htm"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Guidewire Software agreed to acquire London-based hyperexponential for $1.7 billion in cash, with up to $400 million more depending on recurring revenue targets after closing. Bank of America and Citibank committed a $1.0 billion term loan to help fund it, priced at SOFR plus 1.00% to 2.00%. Guidewire says the deal has no closing conditions and is expected to close in the second quarter of its fiscal 2027. It does not expect an effect on first-quarter fiscal 2027 guidance, and will update full-year guidance in December.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-27-07": {
+  "companies": [
+   "applied-materials",
+   "besi"
+  ],
+  "date": "2026-10-27",
+  "headline": "Applied Materials moves to raise its stake in chip-packaging equipment maker Besi to about 20%",
+  "numbers": [
+   "Target stake after purchase: about 20%",
+   "Earlier stake (April 2025): 9%",
+   "Approval needed: US HSR waiting period",
+   "Price: not disclosed"
+  ],
+  "order": 7,
+  "sector": "tmt",
+  "soWhat": "Chip makers are stacking dies and joining them directly with copper, called hybrid bonding, to get more AI performance out of each package, and that step needs precise placement equipment. Applied and Besi have worked together on a hybrid bonding system since 2020, and a larger stake ties the two together without a full takeover. Rivals in chip equipment and other packaging toolmakers now face a closer partnership. The open question is whether Applied later seeks full control.",
+  "sources": [
+   {
+    "title": "Applied Materials Form 8-K: Besi accelerated share purchase",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000006951/000162828026067303/amat-20261026.htm"
+   },
+   {
+    "title": "Applied Materials press release (Exhibit 99.1)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000006951/000162828026067303/ex991prforprojectbasil.htm"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Applied Materials disclosed on October 26 that it has entered an accelerated share purchase agreement for shares of BE Semiconductor Industries, the Dutch maker of die-attach equipment. Together with its existing holding, which began as a 9% stake bought in April 2025, the purchase would bring Applied to about 20% of Besi's shares. Delivery depends on expiry of the US Hart-Scott-Rodino waiting period. The price and share count were not disclosed in the filing, and Applied says it views the stake as a long-term investment.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-27-08": {
+  "companies": [],
+  "date": "2026-10-27",
+  "headline": "Fed meets with a hold expected this week and markets already leaning toward a December hike",
+  "numbers": [
+   "Hold odds this week: about 89% (hike about 11%)",
+   "December hike odds: about 82%",
+   "10-year Treasury yield (Oct 23): 4.99%",
+   "Decision: Oct 28, 2 p.m. ET"
+  ],
+  "order": 8,
+  "sector": "macro",
+  "soWhat": "Central banks are weighing energy-driven inflation against slowing growth, and a Fed that holds now but signals a hike keeps borrowing costs high for companies and households. Banks earn more on loans but face more credit risk, while rate-sensitive sectors such as housing, utilities and long-duration technology stocks feel pressure from higher yields. The inflation data on Thursday will shape how firmly markets expect a December move. The open question is whether the Fed's statement points to a hike in December.",
+  "sources": [
+   {
+    "title": "FinanceFeeds: Brent crude price Tuesday, FOMC day one",
+    "url": "https://financefeeds.com/brent-crude-oil-price-114-68-tuesday-fomc-day-one-after-monday-round-trip-tehran-talks-bull-120-bear-108/"
+   },
+   {
+    "title": "Global Banking & Finance: Currency markets calm as central bank decisions awaited",
+    "url": "https://www.globalbankingandfinance.com/currency-markets-subdued-ahead-pivotal-central-bank-week/"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "The Federal Open Market Committee meets October 27 to 28, with the decision due Wednesday at 2 p.m. Eastern. Traders price about 11% odds of a rate hike this week and about 82% for one in December, according to Reuters figures. The 10-year Treasury yield was 4.99% on October 23. September PCE inflation and third-quarter GDP are due Thursday. The ECB, Bank of Japan, Bank of Canada and Reserve Bank of New Zealand also decide this week, and oil near $115 is the main inflation worry.",
+  "tags": []
  }
 }

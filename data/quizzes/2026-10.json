@@ -1887,5 +1887,252 @@
     "subindustry": "agriculture-food"
    }
   ]
+ },
+ "2026-10-27": {
+  "date": "2026-10-27",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "Earn-out payments depend on recurring revenue targets after closing, so the buyer pays more only if the business performs. The base price is $1.7B in cash, partly funded by a $1.0B term loan.",
+    "id": "2026-10-27:x01",
+    "kind": "today",
+    "options": [
+     "To cover Guidewire's tax bill",
+     "To tie part of the price to the acquired business actually growing after the sale",
+     "To pay hyperexponential's customers",
+     "To fund a share buyback"
+    ],
+    "prompt": "Guidewire is paying $1.7B in cash plus up to $400M tied to recurring revenue targets for hyperexponential. What is the purpose of the contingent part?",
+    "sector": "tmt",
+    "storyId": "2026-10-27-06",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 1,
+    "explanation": "A hold with a hike expected later keeps financing expensive. Housing, utilities and long-duration growth stocks are most sensitive, while energy-driven inflation is the main worry.",
+    "id": "2026-10-27:x02",
+    "kind": "today",
+    "options": [
+     "Costs fall soon",
+     "Costs stay high and may rise, pressuring rate-sensitive sectors",
+     "Costs are fixed by law",
+     "Only banks are affected"
+    ],
+    "prompt": "The Fed is expected to hold this week, with about 82% odds of a hike in December. What does this mean for borrowing costs?",
+    "sector": "macro",
+    "storyId": "2026-10-27-08",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 2,
+    "explanation": "Global Services earned $1.0B at an 18.3% margin on $5.6B of revenue. Defense made 6.2% and Commercial lost money, which shows how aftermarket work carries the profit.",
+    "id": "2026-10-27:x03",
+    "kind": "today",
+    "options": [
+     "Commercial Airplanes",
+     "Defense, Space & Security",
+     "Global Services",
+     "Corporate"
+    ],
+    "prompt": "Which Boeing segment earned the highest margin in Q3, at 18.3%?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-27-03",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 2,
+    "explanation": "Management said the Amazon comparison persists until the second half of 2027, even as core volume outside Amazon grew nearly 2% in Q3.",
+    "id": "2026-10-27:x04",
+    "kind": "today",
+    "options": [
+     "Q4 2026",
+     "Early 2027",
+     "The second half of 2027",
+     "2029"
+    ],
+    "prompt": "UPS expects its Amazon volume comparison to weigh on total US volume until when?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-10-27-04",
+    "subindustry": "transport-logistics"
+   },
+   {
+    "answer": 0,
+    "explanation": "Orders divided by sales is the book-to-bill ratio, and above 1 means backlog is growing. It is a leading indicator of future revenue for defense firms.",
+    "id": "2026-10-27:x05",
+    "kind": "profile",
+    "options": [
+     "Book-to-bill; backlog is growing",
+     "Operating ratio; costs are high",
+     "Churn; customers are leaving",
+     "Rule of 40; growth is weak"
+    ],
+    "prompt": "A defense contractor wins $16B of awards on $11.1B of sales. Which ratio does that describe, and what does 1.5 signal?",
+    "sector": "advanced-industries",
+    "storyId": null,
+    "subindustry": "aerospace-defense"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 2,
+    "explanation": "Frontier AI development depends on huge compute spending, so raising capital in public markets is the main benefit. A listing adds disclosure obligations rather than removing them, and the valuation is set by investors, not guaranteed.",
+    "id": "2026-10-27:q01",
+    "kind": "today",
+    "options": [
+     "It removes the need to buy chips and cloud capacity",
+     "It guarantees a higher valuation than private rounds",
+     "It opens access to far more capital for compute spending, and exposes its economics to investors",
+     "It lets the company stop reporting financial results"
+    ],
+    "prompt": "Anthropic filed an S-1 but has not set a price range. Why does a public listing matter most for an AI model developer?",
+    "sector": "tmt",
+    "storyId": "2026-10-27-01",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 0,
+    "explanation": "Prices follow the barrels that can reach buyers. With the strait carrying a small fraction of its normal traffic and the US reserve at 282.6 million barrels, talks alone shift the price by a dollar or two, not back to prewar levels.",
+    "id": "2026-10-27:q02",
+    "kind": "today",
+    "options": [
+     "Hormuz traffic of about 4 transits a day against roughly 85 before the war",
+     "A surge in demand from new refineries",
+     "A cut in OPEC+ quotas announced Monday",
+     "Record US shale output"
+    ],
+    "prompt": "Brent is near $115 even while mediators talk in Tehran. What mainly keeps the price high?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-27-02",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 3,
+    "explanation": "Backlog is future revenue, not current profit. Commercial lost $697 million on 161 deliveries because of mix, supply chain costs and production-rate preparation, while defense (6.2% margin) and services (18.3%) earned the profit.",
+    "id": "2026-10-27:q03",
+    "kind": "today",
+    "options": [
+     "Customers are cancelling orders",
+     "Defense work is losing money",
+     "Boeing has too few orders to fill its factories",
+     "Backlog turns into profit only when deliveries and costs improve"
+    ],
+    "prompt": "Boeing has a record $745B backlog but a negative 6.5% margin in Commercial Airplanes. What does this show?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-27-03",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 1,
+    "explanation": "UPS is trading lower volume for better profit per package, cutting hours and buildings as Amazon deliveries leave. About $1.8B of a $3B savings target is already achieved, which is why margin rose as volume fell.",
+    "id": "2026-10-27:q04",
+    "kind": "today",
+    "options": [
+     "It raised prices on every customer by 10%",
+     "It deliberately shed low-margin Amazon volume and cut matching costs",
+     "It sold its delivery network",
+     "Fuel costs fell sharply this quarter"
+    ],
+    "prompt": "UPS's US average daily volume fell 3.3%, yet its domestic margin rose 60 bps to 7.0%. What best explains this?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-10-27-04",
+    "subindustry": "transport-logistics"
+   },
+   {
+    "answer": 1,
+    "explanation": "A price below net asset value, even with a 30.1% premium to the market price, shows MidCap traded at a discount to book. Larger lenders gain scale with over $31B of investments and 800+ portfolio companies. The deal is mostly stock, with about $1.21 per share in cash.",
+    "id": "2026-10-27:q05",
+    "kind": "today",
+    "options": [
+     "Business development companies cannot lend to mid-sized firms",
+     "Smaller lenders can trade below book value, so scale buyers can combine them",
+     "Ares Capital expects MidCap's loans to default",
+     "The deal will be paid entirely in cash"
+    ],
+    "prompt": "Ares Capital is buying MidCap Financial, a smaller lender, at $10.88 per share against a reported NAV of about $12.86. What does this suggest?",
+    "sector": "financial-services",
+    "storyId": "2026-10-27-05",
+    "subindustry": "asset-wealth"
+   },
+   {
+    "answer": 0,
+    "explanation": "Applied built a 9% stake in April 2025 and is moving to about 20% through an accelerated share purchase, subject to US antitrust waiting periods. A minority stake secures a strategic partner without paying for control.",
+    "id": "2026-10-27:q06",
+    "kind": "today",
+    "options": [
+     "Buying a minority stake of about 20% to tie a key partner closer",
+     "Selling its own shares to fund a dividend",
+     "Exiting the packaging market",
+     "Licensing Besi's patents for a one-time fee"
+    ],
+    "prompt": "A chip-equipment maker works with a packaging partner on hybrid bonding and wants influence without a full takeover. What does Applied Materials' approach to Besi illustrate?",
+    "sector": "tmt",
+    "storyId": "2026-10-27-07",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 3,
+    "explanation": "Octus sells credit data and workflow tools on subscription, which complements LSEG's fixed-income data and private markets products. It is not a lender, trading venue or broker.",
+    "id": "2026-10-22:q04",
+    "kind": "review",
+    "options": [
+     "It lets LSEG launch a lending business",
+     "It gives LSEG a bond trading venue",
+     "It lets LSEG start a retail brokerage",
+     "It adds credit intelligence subscriptions for 44,000+ customers to LSEG's fixed-income data"
+    ],
+    "prompt": "LSEG agreed to pay over $3.5B for Octus, which Permira bought into for $1.3B in 2022. What is the business logic?",
+    "sector": "financial-services",
+    "storyId": "2026-10-22-05",
+    "subindustry": "asset-wealth"
+   },
+   {
+    "answer": 2,
+    "explanation": "Shares had risen sharply since the August topline news and analysts expected a 40-50% benefit, so a 42% result left no room for surprise. The trial did meet its goals, which rules out failure, and Merck fell far less than Moderna.",
+    "id": "2026-10-23:q02",
+    "kind": "review",
+    "options": [
+     "The trial failed its main goal",
+     "Merck withdrew from the partnership",
+     "The stock had run up on hopes of an even better result, so good data disappointed",
+     "The vaccine was found to be unsafe"
+    ],
+    "prompt": "Moderna's vaccine cut melanoma recurrence or death risk by 42%, yet its stock fell about 18%. What best explains the fall?",
+    "sector": "healthcare",
+    "storyId": "2026-10-23-03",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 1,
+    "explanation": "Service firms are paid for wells drilled and completed, so revenue follows producers' activity plans rather than the spot price. Halliburton's $2.2B North America figure and weaker pressure pumping show spending restraint, while international work grew.",
+    "id": "2026-10-21:q03",
+    "kind": "review",
+    "options": [
+     "Oilfield service firms are paid based on the oil price in each barrel produced",
+     "US producers are not adding drilling and completion work in proportion to the price rise, and service demand follows that activity",
+     "Halliburton stopped working in North America",
+     "Higher oil prices always reduce drilling activity immediately"
+    ],
+    "prompt": "Brent is near $110, yet Halliburton's North America revenue fell 5% from the prior quarter. What is the most likely explanation?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-21-03",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 3,
+    "explanation": "The Rule of 40 adds growth and profit margin: 30 + 15 = 45, above 40. Software firms with high gross margins and low marginal cost are judged on that balance.",
+    "id": "2026-10-27:q10",
+    "kind": "profile",
+    "options": [
+     "It scores 15, so it is unprofitable",
+     "It scores 30, so it fails the benchmark",
+     "It scores 450, so it is overvalued",
+     "It scores 45, above the 40 benchmark, which is a strong balance of growth and profit"
+    ],
+    "prompt": "A software company grows revenue 30% with a 15% profit margin. What does the Rule of 40 say about it?",
+    "sector": "tmt",
+    "storyId": null,
+    "subindustry": "software-cloud"
+   }
+  ]
  }
 }

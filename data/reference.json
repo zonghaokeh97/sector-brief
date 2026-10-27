@@ -85,6 +85,56 @@
    "ticker": "NYSE: AXP",
    "updated": "2026-10-25"
   },
+  "anthropic": {
+   "businessModel": "Builds Claude AI models and sells access through subscriptions, API usage fees and enterprise contracts, paying heavily for chips and cloud compute.",
+   "competitors": [
+    "OpenAI",
+    "Google DeepMind",
+    "Meta",
+    "xAI",
+    "Mistral AI"
+   ],
+   "hq": "San Francisco, California",
+   "name": "Anthropic",
+   "sector": "tmt",
+   "size": "Run-rate revenue above $47B in May 2026; last private valuation $965B (press reports)",
+   "subindustry": "software-cloud",
+   "ticker": "Private (filed for Nasdaq IPO as ANT)",
+   "updated": "2026-10-27"
+  },
+  "applied-materials": {
+   "businessModel": "Sells chipmaking equipment and services to foundries and memory makers, with recurring service revenue on installed tools.",
+   "competitors": [
+    "Lam Research",
+    "Tokyo Electron",
+    "KLA",
+    "ASML"
+   ],
+   "hq": "Santa Clara, California",
+   "name": "Applied Materials",
+   "sector": "tmt",
+   "size": "Approx. $28B annual revenue (fiscal 2025, approx.)",
+   "subindustry": "semiconductors",
+   "ticker": "Nasdaq: AMAT",
+   "updated": "2026-10-27"
+  },
+  "ares-capital": {
+   "businessModel": "A business development company that lends to middle-market companies and pays most of its income to shareholders, managed externally by Ares.",
+   "competitors": [
+    "Blue Owl Capital Corp",
+    "FS KKR Capital",
+    "Blackstone Secured Lending",
+    "Golub Capital BDC",
+    "Main Street Capital"
+   ],
+   "hq": "New York, New York",
+   "name": "Ares Capital Corporation",
+   "sector": "financial-services",
+   "size": "Over $31B of investments pro forma for the MidCap deal (Sept 30, 2026)",
+   "subindustry": "asset-wealth",
+   "ticker": "Nasdaq: ARCC",
+   "updated": "2026-10-27"
+  },
   "bank-of-america": {
    "businessModel": "Earns net interest income on its huge low-cost deposit base, plus fees from wealth management (Merrill), investment banking and trading.",
    "competitors": [
@@ -99,6 +149,22 @@
    "subindustry": "banking",
    "ticker": "NYSE: BAC",
    "updated": "2026-10-19"
+  },
+  "besi": {
+   "businessModel": "Sells die-attach and hybrid bonding equipment used to assemble advanced chip packages.",
+   "competitors": [
+    "ASM Pacific Technology",
+    "Kulicke & Soffa",
+    "Hanmi Semiconductor",
+    "Disco"
+   ],
+   "hq": "Duiven, Netherlands",
+   "name": "BE Semiconductor Industries (Besi)",
+   "sector": "tmt",
+   "size": "Approx. EUR 0.6B annual revenue (2025, approx.)",
+   "subindustry": "semiconductors",
+   "ticker": "Euronext Amsterdam: BESI",
+   "updated": "2026-10-27"
   },
   "bloom-energy": {
    "businessModel": "Manufactures solid-oxide fuel cell systems that generate electricity on site from natural gas or hydrogen, mainly for data centers and large commercial customers.",
@@ -133,6 +199,23 @@
    "subindustry": "metals-mining",
    "ticker": "ASX: BSL",
    "updated": "2026-10-26"
+  },
+  "boeing": {
+   "businessModel": "Builds commercial jets, defense aircraft and space systems, and earns recurring revenue from services and spare parts.",
+   "competitors": [
+    "Airbus",
+    "Lockheed Martin",
+    "Northrop Grumman",
+    "Embraer",
+    "COMAC"
+   ],
+   "hq": "Arlington, Virginia",
+   "name": "The Boeing Company",
+   "sector": "advanced-industries",
+   "size": "Q3 2026 revenue $24.2B; backlog $745B",
+   "subindustry": "aerospace-defense",
+   "ticker": "NYSE: BA",
+   "updated": "2026-10-27"
   },
   "braze": {
    "businessModel": "Sells a subscription platform that lets brands send personalized messages across apps, email, text and web, priced by customer reach and usage.",
@@ -370,6 +453,23 @@
    "ticker": "NYSE: GM",
    "updated": "2026-10-20"
   },
+  "guidewire": {
+   "businessModel": "Sells subscription software that property and casualty insurers use to run policies, claims and billing.",
+   "competitors": [
+    "Duck Creek",
+    "Majesco",
+    "Sapiens",
+    "Insurity",
+    "Applied Systems"
+   ],
+   "hq": "San Mateo, California",
+   "name": "Guidewire Software",
+   "sector": "tmt",
+   "size": "Approx. $1B+ annual revenue (fiscal 2025, approx.)",
+   "subindustry": "software-cloud",
+   "ticker": "NYSE: GWRE",
+   "updated": "2026-10-27"
+  },
   "halliburton": {
    "businessModel": "Provides drilling, hydraulic fracturing, well completion and production services to oil and gas producers and is paid per job and per day of equipment use.",
    "competitors": [
@@ -402,6 +502,23 @@
    "subindustry": "real-estate-construction",
    "ticker": "NYSE: HPP",
    "updated": "2026-10-20"
+  },
+  "hyperexponential": {
+   "businessModel": "Sells software that helps insurers build and run pricing models, charging subscription fees.",
+   "competitors": [
+    "Earnix",
+    "Akur8",
+    "WTW (Radar)",
+    "Guidewire",
+    "Duck Creek"
+   ],
+   "hq": "London, United Kingdom",
+   "name": "hyperexponential",
+   "sector": "tmt",
+   "size": "Private; acquired for $1.7B cash plus up to $400M contingent",
+   "subindustry": "software-cloud",
+   "ticker": "Private",
+   "updated": "2026-10-27"
   },
   "ibm": {
    "businessModel": "Sells software (including Red Hat and automation tools) on subscription, mainframe and other infrastructure hardware, and a services segment that helps companies build and run technology. Software and mainframe produce most of the profit and cash.",
@@ -593,6 +710,23 @@
    "subindustry": "software-cloud",
    "ticker": "NASDAQ: MSFT",
    "updated": "2026-10-20"
+  },
+  "midcap-financial": {
+   "businessModel": "A business development company managed by Apollo that lends to middle-market companies and distributes most of its income to shareholders.",
+   "competitors": [
+    "Ares Capital",
+    "Blue Owl Capital Corp",
+    "Golub Capital BDC",
+    "FS KKR Capital",
+    "Goldman Sachs BDC"
+   ],
+   "hq": "New York, New York",
+   "name": "MidCap Financial Investment Corporation",
+   "sector": "financial-services",
+   "size": "Net asset value about $12.86 per share (Sept 30, 2026, preliminary)",
+   "subindustry": "asset-wealth",
+   "ticker": "Nasdaq: MFIC",
+   "updated": "2026-10-27"
   },
   "moderna": {
    "businessModel": "Develops mRNA medicines, selling respiratory vaccines and partnering with Merck on a personalized cancer vaccine.",
@@ -1108,6 +1242,22 @@
    "subindustry": "transport-logistics",
    "ticker": "NYSE: UNP",
    "updated": "2026-10-23"
+  },
+  "ups": {
+   "businessModel": "Charges per package and for supply chain services, running a network of planes, trucks and sorting hubs.",
+   "competitors": [
+    "FedEx",
+    "Amazon Logistics",
+    "DHL",
+    "US Postal Service"
+   ],
+   "hq": "Atlanta, Georgia",
+   "name": "United Parcel Service",
+   "sector": "infrastructure-logistics",
+   "size": "Q3 2026 revenue $22.9B; 2026 revenue guidance about $92.6B",
+   "subindustry": "transport-logistics",
+   "ticker": "NYSE: UPS",
+   "updated": "2026-10-27"
   },
   "varonis": {
    "businessModel": "Data-security software that finds sensitive data, shows who can access it and flags misuse. Moving customers from on-premises licenses to SaaS subscriptions.",
