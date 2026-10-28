@@ -1553,11 +1553,34 @@
    ]
   },
   "banking": {
+   "economicsOn": "segments",
+   "keyFigures": [
+    {
+     "label": "Global banking revenue",
+     "note": "2025 · McKinsey Global Banking Review",
+     "value": "~$6.4T"
+    },
+    {
+     "label": "Global net income",
+     "note": "2025, up 7% · McKinsey",
+     "value": "~$1.3T"
+    },
+    {
+     "label": "US bank net income",
+     "note": "Q2 2026, FDIC-insured banks · FDIC",
+     "value": "~$90B"
+    },
+    {
+     "label": "US bank ROA",
+     "note": "Q2 2026 · FDIC",
+     "value": "~1.37%"
+    }
+   ],
    "kpis": [
     "Net interest margin: ~2.5–3% for large US banks",
-    "ROTCE: 15%+ is strong",
-    "CET1 ratio: ~11–13% at big banks",
-    "Efficiency ratio: ~55–65%"
+    "ROTCE: 15%+ is strong; global average ~11.8% in 2025 (McKinsey)",
+    "CET1 capital ratio: ~11–13% at big banks",
+    "Efficiency ratio (costs ÷ revenue): ~55–65%"
    ],
    "marketSize": {
     "global": "~$7T",
@@ -1573,8 +1596,59 @@
     "Global: HSBC, BNP Paribas, MUFG, ICBC (largest by assets)",
     "The four largest US banks hold roughly 40% of US deposits"
    ],
-   "profileUpdated": "2026-10-19",
+   "profileUpdated": "2026-10-27",
    "sector": "financial-services",
+   "segments": {
+    "items": [
+     {
+      "cost": "branches, staff, technology and credit losses",
+      "highlight": true,
+      "leaders": "JPMorgan Chase · Bank of America · Wells Fargo",
+      "name": "Retail & small business",
+      "revenue": "net interest income (loan rate minus deposit rate), card fees",
+      "takeaway": {
+       "label": "Largest and steadiest pool",
+       "why": "Cheap, sticky deposits fund loans at a wide spread, especially when rates are higher."
+      },
+      "what": "Checking, savings, mortgages, cards and small-business loans."
+     },
+     {
+      "cost": "technology, compliance and credit losses",
+      "leaders": "JPMorgan · Citi · HSBC",
+      "name": "Commercial & transaction banking",
+      "revenue": "lending spread plus payment and cash-management fees",
+      "takeaway": {
+       "label": "Stable and highly valued",
+       "why": "Transaction banking and distribution earn ~57% of bank profits on 47% of revenue (McKinsey, 2025)."
+      },
+      "what": "Corporate loans, payments, cash management and trade finance."
+     },
+     {
+      "cost": "pay (often ~30–40% of revenue) and capital",
+      "leaders": "Goldman Sachs · Morgan Stanley · JPMorgan",
+      "name": "Investment banking & markets",
+      "revenue": "advisory and underwriting fees, trading spreads",
+      "takeaway": {
+       "label": "Volatile",
+       "why": "Fees rise and fall with deal activity and market swings."
+      },
+      "what": "Advising on M&A, underwriting stocks and bonds, and trading."
+     },
+     {
+      "cost": "advisor pay and platforms",
+      "leaders": "Morgan Stanley · UBS · Merrill",
+      "name": "Wealth management",
+      "revenue": "fees as a percentage of client assets",
+      "takeaway": {
+       "label": "Steady growth",
+       "why": "Fee income grows with markets and needs little capital."
+      },
+      "what": "Advice and investment management for wealthy households."
+     }
+    ],
+    "title": "Main bank businesses"
+   },
+   "summary": "Banks take deposits, lend money, move payments and help companies raise capital. Most profit comes from the spread between what banks pay depositors and what they charge borrowers, with fees from payments, wealth and dealmaking on top. Banking earned about $1.3T in 2025, more than any other industry, but returns are capped by the capital regulators require and banks face growing competition from private credit and fintechs.",
    "threats": [
     "Credit losses in commercial real estate and consumer loans",
     "Deposit flight to money-market funds",
@@ -1587,6 +1661,60 @@
     "AML and sanctions enforcement is stepping up, with record fines",
     "US capital rules are being eased, freeing capital for buybacks",
     "AI for fraud detection, operations and advice"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "Higher rates support net interest income; US bank profit rose ~12% quarter on quarter in Q2 2026 (FDIC)."
+    },
+    {
+     "kind": "tailwind",
+     "text": "US capital rules are being eased, freeing capital for lending and buybacks."
+    },
+    {
+     "kind": "tailwind",
+     "text": "AI is cutting costs in operations, fraud detection and software development."
+    },
+    {
+     "kind": "headwind",
+     "text": "Banks' share of financial assets fell to ~40% from 44% in 2022 as private credit and funds grow (McKinsey)."
+    },
+    {
+     "kind": "headwind",
+     "text": "Credit losses could rise in commercial real estate and consumer loans if growth slows."
+    },
+    {
+     "kind": "headwind",
+     "text": "Fintechs and stablecoins are competing for payments and deposits."
+    }
+   ],
+   "valueChain": [
+    {
+     "name": "Funding",
+     "players": "JPMorgan Chase · Bank of America · Wells Fargo",
+     "what": "Banks gather deposits and borrow in wholesale markets."
+    },
+    {
+     "highlight": true,
+     "name": "Lending & credit",
+     "players": "JPMorgan Chase · Citi · regional banks",
+     "what": "They lend to households and businesses and hold loans or sell them on."
+    },
+    {
+     "name": "Payments & cash management",
+     "players": "JPMorgan · Citi · HSBC",
+     "what": "They move money for consumers and companies, here and across borders."
+    },
+    {
+     "name": "Capital markets",
+     "players": "Goldman Sachs · Morgan Stanley · JPMorgan",
+     "what": "They underwrite stocks and bonds, advise on deals and trade securities."
+    },
+    {
+     "name": "Wealth & advice",
+     "players": "Morgan Stanley · UBS · Bank of America (Merrill)",
+     "what": "They manage money for wealthy clients."
+    }
    ]
   },
   "cpg": {
@@ -1738,12 +1866,35 @@
    ]
   },
   "macro": {
+   "economicsOn": "valueChain",
+   "keyFigures": [
+    {
+     "label": "World GDP",
+     "note": "Nominal, 2025 · IMF",
+     "value": "~$115T"
+    },
+    {
+     "label": "Global growth",
+     "note": "2026 forecast, cut in July · IMF WEO update",
+     "value": "~3.0%"
+    },
+    {
+     "label": "Global inflation",
+     "note": "2026 forecast · IMF WEO update, Jul 2026",
+     "value": "~4.7%"
+    },
+    {
+     "label": "Fed funds rate",
+     "note": "Raised 0.25 pt, Sep 16 2026 · Federal Reserve",
+     "value": "3.75–4.00%"
+    }
+   ],
    "kpis": [
-    "Fed funds rate and 10-year Treasury yield",
-    "CPI and PCE inflation (Fed target: 2%)",
-    "Unemployment and weekly jobless claims",
+    "Fed funds rate and the 10-year Treasury yield",
+    "CPI and PCE inflation versus the Fed's 2% target",
+    "Unemployment rate and payrolls",
     "PMIs: above 50 means expansion",
-    "Brent oil and the US dollar index"
+    "Brent oil price and the US dollar index"
    ],
    "marketSize": {
     "global": "~$115T+",
@@ -1758,8 +1909,38 @@
     "Fiscal and trade policy: US Treasury and Commerce, EU Commission, China's State Council",
     "Multilaterals: IMF, World Bank, OECD, IEA"
    ],
-   "profileUpdated": "2026-10-19",
+   "profileUpdated": "2026-10-27",
    "sector": "macro",
+   "segments": {
+    "items": [
+     {
+      "name": "United States",
+      "share": "~26%",
+      "sharePct": 26,
+      "what": "About $30T of output; consumer spending and AI-related investment drive growth."
+     },
+     {
+      "name": "China",
+      "share": "~17%",
+      "sharePct": 17,
+      "what": "About $19.5T; leaning on exports while property and household demand stay weak."
+     },
+     {
+      "name": "Germany, Japan, India",
+      "share": "~12%",
+      "sharePct": 12,
+      "what": "About $4–5T each; India is the fastest-growing large economy."
+     },
+     {
+      "name": "Rest of world",
+      "share": "~45%",
+      "sharePct": 45,
+      "what": "Includes the rest of Europe, the Gulf producers and emerging markets most exposed to energy and food prices."
+     }
+    ],
+    "title": "Share of world GDP, nominal (2025, IMF)"
+   },
+   "summary": "Macro is the backdrop every industry sits on: energy and commodity prices feed inflation, inflation sets central bank rates, and rates set the cost of capital that drives investment, hiring and deal-making. In 2026 that chain is under strain, as the Middle East conflict that began on February 28 cut Gulf energy supply and pushed inflation back up. The Fed has turned to raising rates again while AI investment keeps US growth going.",
    "threats": [
     "Stagflation: slowing growth with rising inflation",
     "A disorderly bond sell-off from high government debt",
@@ -1772,6 +1953,80 @@
     "China is leaning on exports while domestic demand stays weak",
     "Tariffs and industrial policy are reshaping trade flows",
     "AI investment is a major driver of US capex and equity gains"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "AI and data center investment is offsetting part of the energy shock, according to the IMF (Jul 2026)."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Gulf oil exports partly recovered in September 2026 as shipping routes reopened (IEA, Oct 2026)."
+    },
+    {
+     "kind": "tailwind",
+     "text": "US jobs growth has kept pace with the labor force and unemployment is little changed (Fed, Sep 2026)."
+    },
+    {
+     "kind": "headwind",
+     "text": "Energy-driven inflation has pushed the Fed into hiking again, raising borrowing costs."
+    },
+    {
+     "kind": "headwind",
+     "text": "Global trade growth is forecast to slow to ~3.5% in 2026 from ~5.0% in 2025 as tariffs bite (IMF)."
+    },
+    {
+     "kind": "headwind",
+     "text": "Renewed attacks on Gulf energy infrastructure could reverse the supply recovery."
+    }
+   ],
+   "valueChain": [
+    {
+     "name": "Energy & commodities",
+     "players": "OPEC+ · IEA · commodity exchanges",
+     "takeaway": {
+      "label": "Where 2026's shock started",
+      "why": "Gulf supply losses kept energy about 25% above pre-conflict levels in mid-2026 (IMF, Jul 2026), lifting costs everywhere."
+     },
+     "what": "Oil, gas, food and metals prices set the input costs for almost every business."
+    },
+    {
+     "name": "Inflation",
+     "players": "BLS (CPI) · BEA (PCE) · Eurostat",
+     "takeaway": {
+      "label": "The variable central banks target",
+      "why": "The Fed aims for 2%; persistent energy-driven inflation forces tighter policy."
+     },
+     "what": "Higher input costs pass through to consumer prices, wages and expectations."
+    },
+    {
+     "highlight": true,
+     "name": "Central bank rates",
+     "players": "Federal Reserve · ECB · Bank of Japan · PBoC",
+     "takeaway": {
+      "label": "The main lever",
+      "why": "One rate decision reprices borrowing for governments, companies and households at once."
+     },
+     "what": "Central banks raise or cut short-term rates to steer inflation and jobs."
+    },
+    {
+     "name": "Cost of capital",
+     "players": "Bond markets · banks · private credit",
+     "takeaway": {
+      "label": "Sets which projects pay",
+      "why": "Higher rates raise the hurdle for long-lived investments like utilities, real estate and infrastructure."
+     },
+     "what": "Bond yields, credit spreads and equity valuations move with policy rates."
+    },
+    {
+     "name": "Investment, hiring & M&A",
+     "players": "Corporates · private equity",
+     "takeaway": {
+      "label": "Where it shows up in the news",
+      "why": "Capex plans, layoffs and deal volumes are the end result of the chain."
+     },
+     "what": "Companies decide what to build, who to hire and what to buy."
+    }
    ]
   },
   "media-entertainment": {
@@ -1850,11 +2105,35 @@
    ]
   },
   "metals-mining": {
+   "economicsOn": "segments",
+   "keyFigures": [
+    {
+     "label": "World crude steel",
+     "note": "2025, down 2% · worldsteel",
+     "value": "~1,849 Mt"
+    },
+    {
+     "label": "China's share of steel",
+     "note": "~961 Mt, 2025 · worldsteel",
+     "value": "~52%"
+    },
+    {
+     "label": "Copper price",
+     "note": "LME record, Sep 2026",
+     "value": "~$14,500/t"
+    },
+    {
+     "label": "US crude steel",
+     "note": "2025, up 3% · worldsteel",
+     "value": "~82 Mt"
+    }
+   ],
    "kpis": [
-    "Hot-rolled coil price ($/ton)",
+    "LME copper and iron ore prices",
+    "Hot-rolled coil steel price ($/ton)",
+    "Cost curve position (which quartile a mine sits in)",
     "Mill capacity utilization",
-    "Cost curve position (quartile)",
-    "LME copper and iron ore prices"
+    "China steel output and exports"
    ],
    "marketSize": {
     "global": "~1.9B t steel/yr",
@@ -1869,8 +2148,59 @@
     "Diversified miners: BHP, Rio Tinto, Glencore, Vale, Anglo American",
     "Copper: Freeport-McMoRan, Codelco; Gold: Newmont"
    ],
-   "profileUpdated": "2026-10-19",
+   "profileUpdated": "2026-10-27",
    "sector": "energy-materials",
+   "segments": {
+    "items": [
+     {
+      "cost": "iron ore, coking coal or scrap, and energy",
+      "leaders": "China Baowu · ArcelorMittal · Nucor · Vale",
+      "name": "Iron ore & steel",
+      "revenue": "steel or ore price × tonnes",
+      "takeaway": {
+       "label": "Cyclical and crowded",
+       "why": "Chinese oversupply depresses prices outside protected markets like the US."
+      },
+      "what": "The largest metal by volume; China made ~961 Mt of the world's ~1,849 Mt in 2025 (worldsteel)."
+     },
+     {
+      "cost": "mining ever-lower-grade ore, energy and water",
+      "highlight": true,
+      "leaders": "Freeport-McMoRan · Codelco · BHP · Southern Copper",
+      "name": "Copper",
+      "revenue": "LME copper price × tonnes, plus gold and other by-products",
+      "takeaway": {
+       "label": "Tightest market, best margins",
+       "why": "Demand from electrification and data centers is outrunning slow-to-build mine supply."
+      },
+      "what": "The key metal for wires, motors and grids; LME prices hit records near $14,500/t in Sep 2026."
+     },
+     {
+      "cost": "power is often ~30–40% of smelting cost",
+      "leaders": "Chalco · Rio Tinto · Alcoa · Rusal",
+      "name": "Aluminum",
+      "revenue": "LME price plus regional premiums (high in the US due to tariffs)",
+      "takeaway": {
+       "label": "Power price decides winners",
+       "why": "Smelters with cheap hydro or coal power profit; high energy prices close plants."
+      },
+      "what": "Light metal for packaging, cars and aircraft; smelting uses huge amounts of electricity."
+     },
+     {
+      "cost": "mining and processing; lithium costs vary widely",
+      "leaders": "Newmont · Barrick · Albemarle · SQM",
+      "name": "Gold & battery metals",
+      "revenue": "spot price × ounces or tonnes",
+      "takeaway": {
+       "label": "Gold strong, lithium volatile",
+       "why": "Gold rises in uncertain times; lithium swung from boom to glut as Chinese supply surged."
+      },
+      "what": "Gold is a store of value; lithium, nickel and cobalt feed batteries."
+     }
+    ],
+    "title": "Main commodity businesses"
+   },
+   "summary": "Miners dig up iron ore, copper, aluminum ore, gold and battery metals, and metal makers turn them into steel, aluminum and refined metal. These are commodity businesses: everyone sells at the market price, so the lowest-cost producers make the most money and survive downturns. China dominates steel, while copper is the metal of the moment because grids, data centers and electric vehicles all need it and new mines are slow to arrive.",
    "threats": [
     "Chinese oversupply and price dumping",
     "Tariff policy reversals",
@@ -1883,6 +2213,60 @@
     "Copper is tight from electrification and data center demand (~$14,400/t on LME)",
     "Critical minerals (lithium, rare earths) are now a national-security policy issue",
     "Shift from blast furnaces to electric arc furnaces lowers emissions"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "Copper demand from grids, data centers and EVs keeps the market tight and prices near records (LME, Sep 2026)."
+    },
+    {
+     "kind": "tailwind",
+     "text": "US tariffs on steel, aluminum and proposed copper tariffs support domestic prices and producers."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Critical minerals are now a national-security priority, bringing government funding and offtake deals."
+    },
+    {
+     "kind": "headwind",
+     "text": "China's weak construction market pushes cheap steel exports onto world markets."
+    },
+    {
+     "kind": "headwind",
+     "text": "Chile's copper output fell to its weakest in at least 19 years in Q2 2026, showing how hard supply growth is."
+    },
+    {
+     "kind": "headwind",
+     "text": "High energy prices squeeze smelters, and new mines face permitting delays of a decade or more."
+    }
+   ],
+   "valueChain": [
+    {
+     "name": "Exploration",
+     "players": "Junior explorers · BHP · Rio Tinto",
+     "what": "Geologists and junior miners find and test deposits; a new mine often takes 10–15 years to open."
+    },
+    {
+     "highlight": true,
+     "name": "Mining",
+     "players": "BHP · Rio Tinto · Vale · Freeport-McMoRan · Codelco",
+     "what": "Open-pit and underground mines extract ore."
+    },
+    {
+     "name": "Processing & smelting",
+     "players": "Jiangxi Copper · Glencore · Chinalco",
+     "what": "Ore is concentrated, smelted and refined into pure metal; China does most of this."
+    },
+    {
+     "name": "Metal making",
+     "players": "China Baowu · ArcelorMittal · Nucor · Nippon Steel",
+     "what": "Steel mills and aluminum smelters turn raw material into sheet, bar and plate."
+    },
+    {
+     "name": "Customers",
+     "players": "Builders · automakers · utilities",
+     "what": "Construction, autos, machinery, grids and packaging buy the finished metal."
+    }
    ]
   },
   "midstream-lng": {
@@ -2057,11 +2441,34 @@
    ]
   },
   "oil-gas-upstream": {
+   "economicsOn": "segments",
+   "keyFigures": [
+    {
+     "label": "US crude output",
+     "note": "Record, world's largest, 2025 · EIA",
+     "value": "~13.6 mb/d"
+    },
+    {
+     "label": "World oil demand",
+     "note": "2026 forecast, down ~2.6 mb/d · IEA, Oct 2026",
+     "value": "~102.4 mb/d"
+    },
+    {
+     "label": "Oil supply investment",
+     "note": "2026, third yearly fall · IEA WEI",
+     "value": "~$500B"
+    },
+    {
+     "label": "Permian new-well breakeven",
+     "note": "Q1 2026 · Dallas Fed survey",
+     "value": "~$63–70/bbl"
+    }
+   ],
    "kpis": [
-    "Brent and WTI prices; Brent–WTI spread",
-    "Breakeven for new US shale wells: ~$60–65/bbl",
+    "Brent and WTI prices; the Brent–WTI spread",
+    "New-well breakeven for US shale: ~$63–70/bbl in the Permian (Q1 2026)",
     "Reserve replacement ratio (>100% means reserves are growing)",
-    "OPEC+ spare capacity",
+    "OPEC+ output and spare capacity",
     "US rig count (Baker Hughes, weekly)"
    ],
    "marketSize": {
@@ -2079,8 +2486,58 @@
     "Oilfield services: SLB, Halliburton, Baker Hughes",
     "OPEC+ (led by Saudi Arabia and Russia) supplies about 40% of world oil"
    ],
-   "profileUpdated": "2026-10-19",
+   "profileUpdated": "2026-10-27",
    "sector": "energy-materials",
+   "segments": {
+    "items": [
+     {
+      "cost": "very low lifting costs, but national budgets need high prices",
+      "leaders": "Saudi Aramco · ADNOC · QatarEnergy",
+      "name": "Middle East conventional",
+      "revenue": "oil price × volume, often set by OPEC+ quotas",
+      "takeaway": {
+       "label": "Lowest cost, highest political risk",
+       "why": "Profitable at almost any price, but 2026 showed how exposed Gulf exports are to the Strait of Hormuz."
+      },
+      "what": "Huge, cheap onshore and shallow fields owned by national oil companies. Saudi Arabia produced ~9.6 mb/d in 2025 (EIA)."
+     },
+     {
+      "cost": "drilling and fracking each new well, which declines steeply",
+      "leaders": "ExxonMobil · Chevron · EOG · Diamondback",
+      "name": "US shale",
+      "revenue": "WTI price × volume, plus gas and natural gas liquids",
+      "takeaway": {
+       "label": "Flexible but needs ~$65/bbl",
+       "why": "New Permian wells break even around $63–70 (Dallas Fed, Q1 2026), so output responds quickly to price."
+      },
+      "what": "Short-cycle wells drilled and producing within months; the Permian makes ~48% of US crude (EIA, 2025)."
+     },
+     {
+      "cost": "billions up front for platforms and wells; low running costs after",
+      "leaders": "Petrobras · Shell · ExxonMobil (Guyana)",
+      "name": "Deepwater offshore",
+      "revenue": "oil price × large, steady volumes for decades",
+      "takeaway": {
+       "label": "Long-cycle growth engine",
+       "why": "High up-front cost, but once running these fields produce cheaply for 20+ years."
+      },
+      "what": "Large fields in Brazil, Guyana, the Gulf of Mexico and West Africa that take 5–10 years to build."
+     },
+     {
+      "cost": "field development plus pipeline or LNG plant capacity",
+      "leaders": "QatarEnergy · Woodside · PETRONAS",
+      "name": "Gas & LNG-linked fields",
+      "revenue": "gas sold at hub prices or under oil-linked LNG contracts",
+      "takeaway": {
+       "label": "Where spending is growing",
+       "why": "Upstream gas spending is set to rise ~8% in 2026 while oil spending falls (IEA)."
+      },
+      "what": "Gas fields that feed pipelines or LNG plants, often under long-term contracts."
+     }
+    ],
+    "title": "Main types of upstream asset"
+   },
+   "summary": "Upstream companies find and produce crude oil and natural gas, from Middle East giant fields and US shale to deep offshore wells. Profit is simply the oil or gas price minus the cost of getting it out, so earnings swing with the barrel. In 2026 the conflict in the Gulf cut world supply sharply, pushing prices up, while the US remains the largest producer and companies keep spending cautiously.",
    "threats": [
     "Demand destruction if prices stay high",
     "OPEC+ price wars",
@@ -2093,6 +2550,55 @@
     "Consolidation built larger shale players (Exxon–Pioneer, Chevron–Hess, Diamondback–Endeavor)",
     "Majors are refocusing capital on oil and gas and cutting low-return renewables",
     "Long-lead deepwater projects (Guyana, Brazil, Namibia) drive non-OPEC supply growth"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "Gulf supply losses and low inventories have kept prices high: global stocks were ~509M barrels below end-February levels (IEA, Oct 2026)."
+    },
+    {
+     "kind": "tailwind",
+     "text": "US output hit a record ~13.6 mb/d in 2025 and EIA expects further growth."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Gas investment is at a ten-year high of ~$330B in 2026 (IEA)."
+    },
+    {
+     "kind": "headwind",
+     "text": "High prices are destroying demand: the IEA expects 2026 oil demand to fall ~2.6 mb/d."
+    },
+    {
+     "kind": "headwind",
+     "text": "Supply could flood back as Gulf exports recover, with IEA forecasting ~7.7 mb/d supply growth in 2027."
+    },
+    {
+     "kind": "headwind",
+     "text": "US shale spending is set to drop ~7% in 2026 as costs rise and investors demand payouts (IEA)."
+    }
+   ],
+   "valueChain": [
+    {
+     "name": "Exploration",
+     "players": "ExxonMobil · TotalEnergies · Petrobras",
+     "what": "Seismic surveys and test wells find and size new oil and gas fields."
+    },
+    {
+     "name": "Development",
+     "players": "SLB · Halliburton · Baker Hughes",
+     "what": "Companies drill production wells and build platforms, pipelines and processing."
+    },
+    {
+     "highlight": true,
+     "name": "Production",
+     "players": "Saudi Aramco · ExxonMobil · ConocoPhillips",
+     "what": "Wells are run and maintained for years; output naturally declines over time."
+    },
+    {
+     "name": "Sale at the wellhead",
+     "players": "Shell · Vitol · Trafigura",
+     "what": "Crude and gas are sold at benchmark prices (Brent, WTI, Henry Hub) to refiners, pipelines and traders."
+    }
    ]
   },
   "payers-providers": {
@@ -2206,11 +2712,34 @@
    ]
   },
   "power-utilities": {
+   "economicsOn": "valueChain",
+   "keyFigures": [
+    {
+     "label": "US generation",
+     "note": "Record, 2025 · EIA",
+     "value": "~4,430 TWh"
+    },
+    {
+     "label": "Utility capex",
+     "note": "US investor-owned, record, 2025 · EEI",
+     "value": "~$208B"
+    },
+    {
+     "label": "Five-year capex plan",
+     "note": "US utilities, 2025–2029 · EEI",
+     "value": "$1.1T+"
+    },
+    {
+     "label": "Residential price",
+     "note": "US average, 2026 forecast, up from ~17.3¢ · EIA STEO, Oct 2026",
+     "value": "~18.2¢/kWh"
+    }
+   ],
    "kpis": [
-    "Allowed ROE: about 9-10% for US regulated utilities",
-    "Rate base growth: 6-9% a year for fast growers",
-    "US electricity demand: about 4,400 TWh a year",
-    "Interconnection queue: often 4-5+ years"
+    "Allowed ROE: about 9–10% for US regulated utilities",
+    "Rate base growth: 6–9% a year for fast growers",
+    "Capacity auction prices (e.g., PJM) and wholesale power prices",
+    "Interconnection queue wait: often 4–5+ years"
    ],
    "marketSize": {
     "global": "~$3T+",
@@ -2226,8 +2755,38 @@
     "European integrated players: Iberdrola, Enel, EDF, RWE",
     "Structure: local monopolies for wires; competitive wholesale generation in many regions"
    ],
-   "profileUpdated": "2026-10-20",
+   "profileUpdated": "2026-10-27",
    "sector": "energy-materials",
+   "segments": {
+    "items": [
+     {
+      "name": "Natural gas",
+      "share": "~40%",
+      "sharePct": 40,
+      "what": "The largest source and the plant type most often added to meet new data center demand."
+     },
+     {
+      "name": "Renewables",
+      "share": "~26%",
+      "sharePct": 26,
+      "what": "Wind ~10%, solar ~9% (incl. rooftop) and hydro ~5%; solar output rose ~28% in 2025."
+     },
+     {
+      "name": "Nuclear",
+      "share": "~17%",
+      "sharePct": 17,
+      "what": "Steady carbon-free baseload, now prized by tech companies signing long-term deals."
+     },
+     {
+      "name": "Coal",
+      "share": "~16%",
+      "sharePct": 16,
+      "what": "Rose ~13% in 2025 as planned plant retirements were delayed."
+     }
+    ],
+    "title": "US electricity generation by source (2025, EIA data)"
+   },
+   "summary": "Power companies generate electricity and deliver it, along with gas and water, to homes and businesses. In much of the US the wires business is a regulated monopoly that earns an allowed return on what it builds, while power plants compete on price in many regions. Data centers have brought the first sustained US demand growth in decades, so utilities are spending record sums on grids and new plants, and customer bills are rising.",
    "threats": [
     "Regulators refusing rate increases as bills rise",
     "Wildfire and storm liabilities",
@@ -2240,6 +2799,90 @@
     "Grid connection queues and transmission shortages delay new projects by years",
     "Utilities are adding gas plants and batteries alongside renewables to keep supply firm",
     "Higher interest rates raise the cost of funding large capital programs"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "Data centers and industry drive record demand: EIA expects ~4,545 TWh of generation in 2026."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Record capex grows the rate base that regulated utilities earn on: $1.1T+ planned over 2025–2029 (EEI)."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Developers plan a record ~86 GW of new US capacity in 2026, more than half solar (EIA)."
+    },
+    {
+     "kind": "headwind",
+     "text": "Rising bills (~18.2¢/kWh expected in 2026) make regulators more reluctant to approve rate increases."
+    },
+    {
+     "kind": "headwind",
+     "text": "Higher interest rates raise the cost of funding large capital programs."
+    },
+    {
+     "kind": "headwind",
+     "text": "Wildfire and storm liabilities, plus long grid connection queues, add risk and delay."
+    }
+   ],
+   "valueChain": [
+    {
+     "cost": "production and transport",
+     "name": "Fuel",
+     "players": "EQT · Peabody · Cameco",
+     "revenue": "commodity price × volume",
+     "takeaway": {
+      "label": "Volatile",
+      "why": "Fuel costs swing with gas prices and are usually passed through to customers."
+     },
+     "what": "Gas, coal and uranium are bought to run thermal plants; wind and sun are free."
+    },
+    {
+     "cost": "fuel, plant upkeep and financing",
+     "name": "Generation",
+     "players": "Vistra · Constellation · NextEra Energy Resources",
+     "revenue": "wholesale power price × MWh, plus capacity payments and long-term contracts",
+     "takeaway": {
+      "label": "Volatile, now the fastest-growing pool",
+      "why": "Data center demand has pushed up capacity prices and the value of nuclear and gas plants."
+     },
+     "what": "Power plants sell electricity into wholesale markets or under contracts."
+    },
+    {
+     "cost": "building lines, then depreciation and financing",
+     "name": "Transmission",
+     "players": "AEP · National Grid · ITC",
+     "revenue": "regulated return on the grid assets (rate base)",
+     "takeaway": {
+      "label": "Stable",
+      "why": "Federally regulated returns on a growing asset base, with a long backlog of needed lines."
+     },
+     "what": "High-voltage lines move bulk power across regions."
+    },
+    {
+     "cost": "poles, wires, storm and wildfire hardening",
+     "highlight": true,
+     "name": "Distribution",
+     "players": "Duke · Southern · Dominion · PG&E",
+     "revenue": "allowed return (often ~9–10% ROE) on rate base, set by state regulators",
+     "takeaway": {
+      "label": "Largest and steadiest profit pool",
+      "why": "Profit grows with every dollar invested, as long as regulators approve rate increases."
+     },
+     "what": "Local wires, substations and meters deliver power to each customer."
+    },
+    {
+     "cost": "buying wholesale power and hedging",
+     "name": "Retail supply",
+     "players": "NRG · Vistra (TXU) · utilities",
+     "revenue": "per-kWh tariffs and fixed charges",
+     "takeaway": {
+      "label": "Thin margins",
+      "why": "Retailers are squeezed when wholesale prices spike faster than contracts reset."
+     },
+     "what": "Selling power to end customers, by the utility or by competitive retailers in some states."
+    }
    ]
   },
   "public-sector": {
