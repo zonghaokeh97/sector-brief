@@ -2134,5 +2134,252 @@
     "subindustry": "software-cloud"
    }
   ]
+ },
+ "2026-10-28": {
+  "date": "2026-10-28",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "Coca-Cola sells concentrate and syrup, and bottling partners own the capital-heavy plants and fleets. That keeps its costs and capital low. Owning plants and trucks would lower margin, not raise it.",
+    "id": "2026-10-28:x01",
+    "kind": "today",
+    "options": [
+     "It owns all of its bottling plants and trucks",
+     "It sells concentrate to bottlers who carry the plants and distribution",
+     "It sells only premium products",
+     "It does not advertise"
+    ],
+    "prompt": "Coca-Cola's comparable operating margin is about 33%, higher than most packaged-goods makers. What is the main structural reason?",
+    "sector": "consumer-retail",
+    "storyId": "2026-10-28-07",
+    "subindustry": "cpg"
+   },
+   {
+    "answer": 2,
+    "explanation": "High yields raise the cost of debt and mortgages, hurting borrowers most. Cash-rich firms and savers benefit from higher rates, and banks often earn more on loans.",
+    "id": "2026-10-28:x02",
+    "kind": "today",
+    "options": [
+     "Savers holding short-term deposits",
+     "Companies with large cash balances",
+     "Companies with large debt and homebuyers financing with mortgages",
+     "Banks that earn on loans"
+    ],
+    "prompt": "The 10-year Treasury yield is about 5% and markets weigh Fed hikes. Who is hurt most when borrowing costs stay high?",
+    "sector": "macro",
+    "storyId": "2026-10-28-09",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "Gas engines serve sites that need power quickly, so rapid growth suggests customers cannot wait for grid connections. The options claiming free grid power or bans contradict the demand growth INNIO reports.",
+    "id": "2026-10-28:x03",
+    "kind": "today",
+    "options": [
+     "Demand for fast, on-site power is strong while grid connections are slow",
+     "Grid power has become free",
+     "Gas engines are being banned",
+     "Utilities are building no new plants"
+    ],
+    "prompt": "INNIO's revenue rose 57% and it raised guidance. What does this suggest about power markets?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-28-08",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 3,
+    "explanation": "Insurers earn the difference between premiums and claims, and claims are often 85% or more of premiums. Premiums are set in advance, so higher usage squeezes the margin quickly.",
+    "id": "2026-10-28:x04",
+    "kind": "profile",
+    "options": [
+     "Insurers do not pay claims",
+     "Insurers are paid per procedure",
+     "Premiums rise automatically with every claim",
+     "Insurers keep only the small gap between premiums and claims, so higher claims cut profit fast"
+    ],
+    "prompt": "In the payers-and-providers chain, why is a rise in medical usage hard for an insurer to absorb?",
+    "sector": "healthcare",
+    "storyId": null,
+    "subindustry": "payers-providers"
+   },
+   {
+    "answer": 1,
+    "explanation": "Brand owners can charge more than production cost because of brands and advertising, giving gross margins of roughly 35% to 50%. Suppliers mostly pass through commodity costs and have thinner pricing power.",
+    "id": "2026-10-28:x05",
+    "kind": "profile",
+    "options": [
+     "Packaging suppliers",
+     "Brand owners, whose brands justify gross margins of roughly 35 to 50%",
+     "Retailers' trucking",
+     "Raw commodity farms"
+    ],
+    "prompt": "Which step in the packaged-goods chain is the largest profit pool, thanks to pricing power?",
+    "sector": "consumer-retail",
+    "storyId": null,
+    "subindustry": "cpg"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 2,
+    "explanation": "Care is moving to outpatient settings where procedures are cheaper and insurers prefer to send patients. Owning the network gives the system lower-cost capacity and surgeon relationships. The other options are wrong because surgery centers are paid by insurers and Medicare and do not rely on inpatient beds.",
+    "id": "2026-10-28:q01",
+    "kind": "today",
+    "options": [
+     "Surgery centers are mostly inpatient and need more beds",
+     "Surgery centers are paid by patients only, not insurers",
+     "Same-day procedures are cheaper to deliver outside hospitals, and the network ties surgeons to the system",
+     "The deal removes the need for any insurance contracts"
+    ],
+    "prompt": "A nonprofit health system is buying Surgery Partners, which runs 200+ surgery centers, for about $5.7B. What is the main business logic?",
+    "sector": "healthcare",
+    "storyId": "2026-10-28-01",
+    "subindustry": "payers-providers"
+   },
+   {
+    "answer": 3,
+    "explanation": "Visa earns fees per payment, and cross-border payments carry extra fees, so faster growth there lifts revenue above domestic volume. Visa does not lend, as banks take the credit risk, and processed transactions rose 10%, not fell.",
+    "id": "2026-10-28:q02",
+    "kind": "today",
+    "options": [
+     "Visa raised interest rates on cardholders",
+     "Processed transactions fell 10%",
+     "Visa lends money directly to merchants",
+     "Cross-border volume grew 14% and carries higher fees than domestic payments"
+    ],
+    "prompt": "Visa's revenue grew 13% in Q4 while payments volume grew 9%. What best explains the gap?",
+    "sector": "financial-services",
+    "storyId": "2026-10-28-02",
+    "subindustry": "payments-fintech"
+   },
+   {
+    "answer": 0,
+    "explanation": "Cadence's tools are licensed on multi-year contracts, so backlog counts work already committed. The $8.2B is nearly twice the revenue due in the next year, which gives good visibility. It is contracted revenue, not cash on hand.",
+    "id": "2026-10-28:q03",
+    "kind": "today",
+    "options": [
+     "It shows customers sign multi-year contracts, so future revenue is more predictable",
+     "It means customers have not yet paid any money",
+     "It proves chip makers will build fewer chips",
+     "It is the same as the company's cash balance"
+    ],
+    "prompt": "Cadence's backlog is a record $8.2B, against $4.2B of revenue expected in 12 months. Why does a large backlog matter for a chip design software firm?",
+    "sector": "tmt",
+    "storyId": "2026-10-28-03",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 2,
+    "explanation": "Appliance makers carry large fixed costs, so fewer units sold leave the same cost base to cover. Whirlpool's filing also points to tariff costs and inflation. Dividends are a payout of profit, not an operating expense.",
+    "id": "2026-10-28:q04",
+    "kind": "today",
+    "options": [
+     "Appliances are sold below cost in every quarter",
+     "Whirlpool cuts prices when sales rise",
+     "Fixed factory and distribution costs spread over fewer units, and tariffs and inflation add costs",
+     "Dividends are counted as an expense"
+    ],
+    "prompt": "Whirlpool's sales fell 8.8% but ongoing EPS swung from a $2.09 profit to a $0.21 loss. Why does a sales decline hurt profit so much?",
+    "sector": "consumer-retail",
+    "storyId": "2026-10-28-04",
+    "subindustry": "cpg"
+   },
+   {
+    "answer": 0,
+    "explanation": "Acreage next to existing operations lets a producer reuse infrastructure and remove duplicate overhead, which is how deals like this save money. The savings do not depend on oil prices, which could fall if Hormuz reopens.",
+    "id": "2026-10-28:q05",
+    "kind": "today",
+    "options": [
+     "Using shared roads, oil batteries and processing and cutting overlapping overhead",
+     "A guaranteed higher oil price",
+     "Lower taxes on the sale",
+     "Selling the acreage after closing"
+    ],
+    "prompt": "Ovintiv is paying about $890M for Logan Energy, whose acreage sits next to its own Montney wells. Where do the expected $60M of annual savings mainly come from?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-28-05",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 2,
+    "explanation": "Profit looks 32% higher partly because Q3 2025 included $1.4B of legal provisions that did not recur. Excluding such items the gain is about 10%, the better guide to underlying trends. Credit losses actually fell 17% to $0.8B.",
+    "id": "2026-10-28:q06",
+    "kind": "today",
+    "options": [
+     "Loan losses rose sharply",
+     "HSBC sold its Asian business",
+     "A $1.4B legal provision in the year-ago quarter was not repeated",
+     "Interest rates were cut"
+    ],
+    "prompt": "HSBC's Q3 pre-tax profit rose 32% to $9.6B, but excluding notable items it rose only about $0.9B to $10.0B. What explains the difference?",
+    "sector": "financial-services",
+    "storyId": "2026-10-28-06",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 3,
+    "explanation": "Utilities often cannot connect new large loads quickly, so on-site generation fills the gap. Fuel cells still run on natural gas, so they are not free of fuel cost, and they are not always cheaper.",
+    "id": "2026-10-23:q04",
+    "kind": "review",
+    "options": [
+     "Fuel cells are far cheaper than grid power in every case",
+     "Regulations ban data centers from the grid",
+     "Fuel cells use no fuel",
+     "Grid connections can take years, and on-site power can arrive faster"
+    ],
+    "prompt": "Why are data center operators buying on-site fuel cells from companies like Bloom Energy, whose revenue grew 138%?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-23-04",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 1,
+    "explanation": "Operating ratio is operating costs divided by revenue, so 59.1% leaves roughly 41 cents of each dollar as operating profit. It is not a profit margin of 59%, which is the tempting misreading.",
+    "id": "2026-10-23:q05",
+    "kind": "review",
+    "options": [
+     "Cars carried are 59.1% full",
+     "About 59 cents of each revenue dollar goes to operating costs, so lower is better",
+     "Profit margin is 59.1%",
+     "Fuel is 59% of costs"
+    ],
+    "prompt": "Union Pacific's operating ratio was 59.1%. What does that number tell you?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-10-23-05",
+    "subindustry": "transport-logistics"
+   },
+   {
+    "answer": 3,
+    "explanation": "$12.1B divided by $728M is about 16.6 times EBITDA. Buyers pay that for revenue that customers reorder with every test, which is predictable and high margin.",
+    "id": "2026-10-25:q03",
+    "kind": "review",
+    "options": [
+     "About 2 times EBITDA, a distressed price",
+     "About 5 times EBITDA, a typical industrial price",
+     "About 10 times EBITDA, matching the stock market average",
+     "About 17 times EBITDA, a high price for steady, recurring consumables revenue"
+    ],
+    "prompt": "EQT's offer values QIAGEN at about $12.1B against 2025 EBITDA of $728M. What does the price imply?",
+    "sector": "healthcare",
+    "storyId": "2026-10-25-03",
+    "subindustry": "medtech"
+   },
+   {
+    "answer": 1,
+    "explanation": "A combined ratio below 100% means claims plus expenses were less than premiums collected, so underwriting made money. Investment income on the float is earned on top, which is why a ratio above 100% can still be profitable overall.",
+    "id": "2026-10-28:q10",
+    "kind": "profile",
+    "options": [
+     "It lost money on underwriting",
+     "It earned an underwriting profit, since claims and expenses were 96% of premiums",
+     "Its investments earned 96%",
+     "It paid out 96% of profit as dividends"
+    ],
+    "prompt": "An insurer reports a combined ratio of 96%. What does that tell you?",
+    "sector": "financial-services",
+    "storyId": null,
+    "subindustry": "insurance"
+   }
+  ]
  }
 }

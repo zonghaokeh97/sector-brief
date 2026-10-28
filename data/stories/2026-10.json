@@ -2133,5 +2133,251 @@
   "subindustry": "macro",
   "summary": "The Federal Open Market Committee meets October 27 to 28, with the decision due Wednesday at 2 p.m. Eastern. Traders price about 11% odds of a rate hike this week and about 82% for one in December, according to Reuters figures. The 10-year Treasury yield was 4.99% on October 23. September PCE inflation and third-quarter GDP are due Thursday. The ECB, Bank of Japan, Bank of Canada and Reserve Bank of New Zealand also decide this week, and oil near $115 is the main inflation worry.",
   "tags": []
+ },
+ "2026-10-28-01": {
+  "companies": [
+   "surgery-partners",
+   "bon-secours-mercy-health"
+  ],
+  "date": "2026-10-28",
+  "headline": "Bon Secours Mercy Health agrees to buy Surgery Partners in a $5.7 billion all-cash deal",
+  "numbers": [
+   "Enterprise value: about $5.7B",
+   "Price: $23.50 per share in cash",
+   "Footprint: 200+ locations in 30 states",
+   "Affiliated physicians: about 5,000",
+   "Expected close: Q1 2027"
+  ],
+  "order": 1,
+  "sector": "healthcare",
+  "soWhat": "Care keeps moving out of hospitals into outpatient settings, where procedures such as joint replacements, colonoscopies and cataract surgery are done in a day. Owning a large surgery-center network gives a hospital system a lower-cost site for those cases and a closer tie to the surgeons who send patients. It also puts a nonprofit system in a business that private equity has built up for years. The open question is whether the combined group can keep its physician partners aligned and clear regulatory review.",
+  "sources": [
+   {
+    "title": "Surgery Partners Form 8-K: merger announcement",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001638833/000110465926118643/tm2628254d1_ex99-1.htm"
+   }
+  ],
+  "subindustry": "payers-providers",
+  "summary": "HealthSpan Partners, an affiliate of the nonprofit Bon Secours Mercy Health system, will take Surgery Partners private at an enterprise value of about $5.7 billion. Shareholders other than Bain Capital get $23.50 in cash per share, while Bain, the largest holder with about 39%, rolls its stake into the buyer. Surgery Partners runs more than 200 surgery centers, surgical hospitals and physician partnerships in 30 states with about 5,000 affiliated physicians. The deal is funded with cash and new debt and is expected to close in the first quarter of 2027, subject to shareholder and regulatory approval.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-28-02": {
+  "companies": [
+   "visa"
+  ],
+  "date": "2026-10-28",
+  "headline": "Visa ends its fiscal year with $45.9 billion in revenue, up 15%, as cross-border volume grows fastest",
+  "numbers": [
+   "Full-year net revenue: $45.9B, +15%",
+   "Q4 net revenue: $12.1B, +13%",
+   "Q4 cross-border volume: +14%",
+   "Processed transactions: 74.2B in Q4, +10%",
+   "Dividend: raised 16% to $0.78"
+  ],
+  "order": 2,
+  "sector": "financial-services",
+  "soWhat": "Visa earns small fees on every card payment it processes and larger fees on cross-border payments that involve currency conversion, so revenue grows faster than payments volume when travel and international e-commerce are strong. Revenue up 13% against volume up 9% shows that gap. Almost no cost rises with each extra transaction, which turns that growth into high margins and large buyback and dividend payouts. The BioCatch deal reflects a push to sell fraud tools to banks, a less cyclical line than payment fees.",
+  "sources": [
+   {
+    "title": "Visa fiscal Q4 and full-year 2026 earnings release (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001403161/000140316126000126/q42026earningsrelease.htm"
+   }
+  ],
+  "subindustry": "payments-fintech",
+  "summary": "Visa reported fiscal fourth-quarter net revenue of $12.1 billion, up 13%, and full-year net revenue of $45.9 billion, up 15%. Payments volume grew 9% in the quarter, cross-border volume grew 14% and processed transactions rose 10% to 74.2 billion. Non-GAAP earnings per share were $3.48 for the quarter and $13.27 for the year. The board raised the quarterly dividend 16% to $0.78, and Visa also confirmed its pending $2.4 billion cash purchase of fraud-detection firm BioCatch, expected to close by the end of fiscal Q2 2027.",
+  "tags": []
+ },
+ "2026-10-28-03": {
+  "companies": [
+   "cadence-design-systems"
+  ],
+  "date": "2026-10-28",
+  "headline": "Cadence lifts its 2026 outlook after revenue jumps 22% to $1.63 billion on AI chip design demand",
+  "numbers": [
+   "Q3 revenue: $1.633B, +22%",
+   "Backlog: record $8.2B",
+   "Non-GAAP operating margin: 44.1%",
+   "2026 revenue growth outlook: about 21%",
+   "2026 non-GAAP EPS outlook: about $8.40"
+  ],
+  "order": 3,
+  "sector": "tmt",
+  "soWhat": "Every advanced chip has to be designed and verified with electronic design automation (EDA) software before a factory can make it, and Cadence and Synopsys supply most of it. More custom AI chips from cloud and device makers means more designs to verify, and verification also needs large emulation hardware. Customers sign multi-year contracts, so backlog of $8.2 billion against $4.2 billion expected within 12 months gives unusually good visibility. The lower margin shows the cost of selling hardware and funding AI tools, and the open question is how long chip design budgets keep rising.",
+  "sources": [
+   {
+    "title": "Cadence Q3 2026 earnings release (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000813672/000081367226000116/cdns10262026ex9901.htm"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Cadence Design Systems reported third-quarter revenue of $1.633 billion, up 22% from $1.339 billion a year earlier, with record backlog of $8.2 billion. Core design software grew 20%, its IP business 24% and system design and analysis 30%, and its hardware emulation business had another record quarter. Non-GAAP operating margin was 44.1%, down from 47.6%. Cadence raised its full-year revenue growth outlook to about 21% and non-GAAP EPS to about $8.40, and added $2.5 billion to its buyback authorization.",
+  "tags": []
+ },
+ "2026-10-28-04": {
+  "companies": [
+   "whirlpool"
+  ],
+  "date": "2026-10-28",
+  "headline": "Whirlpool swings to a $249 million quarterly loss, skips its dividend and guides to a full-year loss",
+  "numbers": [
+   "Q3 net sales: $3.68B, down 8.8%",
+   "Q3 ongoing EPS: -$0.21 vs $2.09",
+   "2026 ongoing EPS outlook: about -$1.30",
+   "2026 sales outlook: about $14.5B vs $15.5B in 2025",
+   "Dividend declared in Q3: $0 vs $0.90"
+  ],
+  "order": 4,
+  "sector": "consumer-retail",
+  "soWhat": "Appliance makers carry large fixed costs in factories and distribution, so when volumes fall the loss of sales hits profit much harder than the sales decline itself. Whirlpool's filing points to weak North American demand, tariff costs and cost inflation, and housing turnover and big-ticket purchases tend to fall together when mortgage rates are high. Cutting the dividend preserves cash while cost cuts take effect. The open question is whether demand returns before the restructuring is done.",
+  "sources": [
+   {
+    "title": "Whirlpool Q3 2026 earnings release (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000106640/000010664026000070/exhibit991pressrelease0930.htm"
+   },
+   {
+    "title": "Whirlpool Form 10-Q for the quarter ended September 30, 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000106640/000010664026000077/whr-20260930.htm"
+   }
+  ],
+  "subindustry": "cpg",
+  "summary": "Whirlpool reported third-quarter net sales of $3.68 billion, down 8.8%, with organic sales down 5.4% and North America sales down 8.3%. Ongoing earnings were a loss of $0.21 per share against a $2.09 profit a year earlier, and the GAAP loss was $249 million, or $3.80 per share. For 2026 it now expects about $14.5 billion of sales and an ongoing loss of about $1.30 per share, compared with ongoing EPS of $6.23 in 2025. It declared no dividend for the quarter, against $0.90 a year earlier, and expects about $170 million of restructuring costs this year.",
+  "tags": []
+ },
+ "2026-10-28-05": {
+  "companies": [
+   "ovintiv",
+   "logan-energy"
+  ],
+  "date": "2026-10-28",
+  "headline": "Ovintiv agrees to buy Canadian Montney producer Logan Energy for about $890 million",
+  "numbers": [
+   "Deal value: about $890M (C$1.26B) incl. net debt",
+   "Price: C$1.40 per Logan share, cash",
+   "Acreage: about 266,000 net acres",
+   "Production: about 20,000 boe/d",
+   "Annual cost savings: about $60M"
+  ],
+  "order": 5,
+  "sector": "energy-materials",
+  "soWhat": "With oil near $110, producers have every reason to add drilling inventory, and buying a neighbor is cheaper and lower risk than exploring. The acreage sits next to Ovintiv's existing wells and gas plants, so it can reuse roads, batteries and processing, which is where the savings come from. Oil-rich Montney acreage also earns more per barrel than dry gas. The open question is whether prices stay high enough to justify drilling the undeveloped 80%, since a Hormuz reopening would cut oil prices sharply.",
+  "sources": [
+   {
+    "title": "Ovintiv Form 8-K: Logan Energy acquisition",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001792580/000095014226002834/eh260846976_ex9901.htm"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Ovintiv will acquire Logan Energy for C$1.40 per share in cash, a value of about US$890 million (C$1.26 billion) including net debt. The deal adds about 266,000 net acres in the oil-rich Montney, roughly 200,000 of them core and 80% undeveloped, and about 20,000 barrels of oil equivalent per day of production. That lifts Ovintiv's core Montney position to about 720,000 net acres. Ovintiv expects about $60 million of annual cost savings, 5% accretion to 2027 cash flow per share and net debt below $4 billion after closing in early 2027.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-28-06": {
+  "companies": [
+   "hsbc"
+  ],
+  "date": "2026-10-28",
+  "headline": "HSBC's third-quarter pre-tax profit rises 32% to $9.6 billion, helped by a year-ago legal charge not repeating",
+  "numbers": [
+   "Q3 profit before tax: $9.6B, +32%",
+   "Excluding notable items: $10.0B, +$0.9B",
+   "Revenue: $18.6B",
+   "CET1 ratio: 13.9%",
+   "New buyback: up to $1B"
+  ],
+  "order": 6,
+  "sector": "financial-services",
+  "soWhat": "Banks earn most of their profit from net interest income, the gap between what they charge on loans and pay on deposits, and from fees on wealth management and payments. HSBC's headline jump is mostly a base effect, since the underlying gain was about 10%, which is the better guide to the business. A return near 18% and regular buybacks show how much capital a large bank can return when credit losses stay moderate. The open question is whether wealth and trade-finance fees keep growing if interest rates stay high.",
+  "sources": [
+   {
+    "title": "HSBC Q3 2026 earnings release (via EuropaWire)",
+    "url": "https://news.europawire.eu/hsbc-reports-9-6bn-third-quarter-pre-tax-profit-and-plans-further-share-buy-back-of-up-to-1bn/eu-press-release/2026/10/27/10/56/03/184568/"
+   }
+  ],
+  "subindustry": "banking",
+  "summary": "HSBC reported third-quarter profit before tax of $9.6 billion, up $2.3 billion, with revenue of $18.6 billion and net interest income up 6% to $9.3 billion. Excluding notable items the profit was $10.0 billion, up $0.9 billion, because the year-earlier quarter included $1.4 billion of legal provisions. Return on tangible equity was 17.7% annualised and the capital ratio (CET1) was 13.9%. HSBC announced a new buyback of up to $1 billion, reaffirmed its 2026 targets including banking net interest income of at least $46 billion, and said new Basel 3.1 rules should add about 40 to 50 basis points to CET1 from January 2027.",
+  "tags": []
+ },
+ "2026-10-28-07": {
+  "companies": [
+   "coca-cola"
+  ],
+  "date": "2026-10-28",
+  "headline": "Coca-Cola raises its 2026 outlook as third-quarter organic revenue grows 7%",
+  "numbers": [
+   "Net revenue: $13.4B, +7%",
+   "Unit case volume: +5%",
+   "Comparable operating margin: 32.9%",
+   "Comparable EPS: $0.91, +11%",
+   "2026 free cash flow outlook: at least $13.0B"
+  ],
+  "order": 7,
+  "sector": "consumer-retail",
+  "soWhat": "Coca-Cola mostly sells concentrate and syrup to bottlers, who own the plants and trucks, so it earns operating margins above 30% that most packaged-goods makers cannot match. Growth now comes from emerging markets, where more people can afford a drink each week, while North America volume is flat and growth there depends on price and mix. Price and mix added only 1 point, a sign that the company is relying on volume rather than price increases. The open question is whether weaker lower-income consumers eventually slow volume.",
+  "sources": [
+   {
+    "title": "Coca-Cola Q3 2026 earnings release (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000021344/000162828026067403/a2026q3earningsreleaseex-9.htm"
+   }
+  ],
+  "subindustry": "cpg",
+  "summary": "Coca-Cola reported third-quarter net revenue of $13.4 billion, up 7%, with organic revenue also up 7% and global unit case volume up 5%, led by India, China, Mexico and Brazil. Comparable operating margin rose to 32.9% from 31.9%, and comparable EPS rose 11% to $0.91. The company now expects organic revenue growth of at least 5%, comparable EPS growth of at least 11% (up from 9% to 10%) and free cash flow of at least $13.0 billion. North America volume was flat, while Latin America and Asia Pacific gained value share.",
+  "tags": []
+ },
+ "2026-10-28-08": {
+  "companies": [
+   "innio"
+  ],
+  "date": "2026-10-28",
+  "headline": "Gas-engine maker INNIO reports revenue up 57% and raises its 2026 guidance to $3.9 to $4.0 billion",
+  "numbers": [
+   "Q3 revenue: +57%",
+   "Q3 net income: +176%",
+   "Q3 adjusted EBITDA: +70%",
+   "2026 revenue guidance: $3.9B to $4.0B",
+   "Guidance raise: +$100M revenue, +$60M EBITDA"
+  ],
+  "order": 8,
+  "sector": "energy-materials",
+  "soWhat": "Gas engines are sold to sites that need electricity quickly and cannot wait for a grid connection, such as data centers, factories and remote operations, and they also serve as backup and grid-support power. Growth of this size suggests demand for on-site generation is strong while utilities struggle to connect large new loads. Equipment makers earn more when order books are full and capacity is tight, so pricing power is a thing to watch. The open question is how long engine and turbine supply stays scarce.",
+  "sources": [
+   {
+    "title": "INNIO Q3 2026 results release (GlobeNewswire)",
+    "url": "https://globenewswire.com/news-release/2026/10/27/3388791/0/en/innio-reports-record-third-quarter-2026-financial-results-with-revenue-up-57-net-income-up-176-and-adjusted-ebitda-up-70-raises-2026-full-year-guidance.html"
+   }
+  ],
+  "subindustry": "power-utilities",
+  "summary": "INNIO, which makes gas engines and power-generation equipment, reported record third-quarter results with revenue up 57%, net income up 176% and adjusted EBITDA up 70%. It raised its 2026 revenue guidance by $100 million to a range of $3.9 billion to $4.0 billion and raised adjusted EBITDA guidance by $60 million. The figures come from the company's headline results release.",
+  "tags": []
+ },
+ "2026-10-28-09": {
+  "companies": [],
+  "date": "2026-10-28",
+  "headline": "US stocks rise as oil eases and the Fed begins a meeting where markets debate hikes, not cuts",
+  "numbers": [
+   "S&P 500 ETF: +0.56%",
+   "Nasdaq 100 ETF: +1.27%",
+   "Brent: about $114, -1.5%",
+   "10-year Treasury yield: about 5.00%",
+   "Odds of Fed hold: about 99%"
+  ],
+  "order": 9,
+  "sector": "macro",
+  "soWhat": "When the debate is about how many hikes to expect, not cuts, borrowing costs stay high for companies, homebuyers and governments. Oil is the main reason: with Brent above $100, fuel and input costs keep inflation elevated, which limits how fast the Fed can ease. Companies with strong cash flow, such as those reporting this week, are favored over those that rely on debt. The open question is whether a Hormuz reopening brings oil down fast enough to change the Fed's path.",
+  "sources": [
+   {
+    "title": "Stock Market Today (Oct. 27, 2026), Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-27-135043351.html"
+   },
+   {
+    "title": "Stock Market Wrap: SPY, QQQ boosted by oil weakness ahead of Fed decision, TipRanks",
+    "url": "https://www.tipranks.com/news/stock-market-wrap-spy-qqq-boosted-by-oil-weakness-ahead-of-fed-rate-decision"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "US stocks gained on Tuesday as oil eased on hopes of Middle East talks: the S&P 500 ETF rose 0.56% and the Nasdaq 100 ETF 1.27%, while Brent fell about 1.5% to near $114 after Iran's envoy said Tehran had proposed a seven-day plan to reopen the Strait of Hormuz. The Federal Reserve began a two-day meeting with a decision due Wednesday afternoon, and markets priced nearly 99% odds of no change. Futures also implied roughly a 56% chance of at least 75 basis points of rate hikes by September 2027. The 10-year Treasury yield was about 5.00%.",
+  "tags": []
  }
 }

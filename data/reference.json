@@ -217,6 +217,23 @@
    "ticker": "NYSE: BA",
    "updated": "2026-10-27"
   },
+  "bon-secours-mercy-health": {
+   "businessModel": "Runs hospitals, clinics and physician groups and earns patient-care payments from insurers and government programs; as a nonprofit it reinvests surpluses in care and facilities.",
+   "competitors": [
+    "CommonSpirit Health",
+    "Ascension",
+    "Trinity Health",
+    "HCA Healthcare",
+    "Providence"
+   ],
+   "hq": "Cincinnati, OH",
+   "name": "Bon Secours Mercy Health",
+   "sector": "healthcare",
+   "size": "Revenue about $13B (approx.)",
+   "subindustry": "payers-providers",
+   "ticker": "Private (nonprofit Catholic health system)",
+   "updated": "2026-10-28"
+  },
   "braze": {
    "businessModel": "Sells a subscription platform that lets brands send personalized messages across apps, email, text and web, priced by customer reach and usage.",
    "competitors": [
@@ -248,6 +265,22 @@
    "subindustry": "internet-platforms",
    "ticker": "NASDAQ: BMBL (going private)",
    "updated": "2026-10-19"
+  },
+  "cadence-design-systems": {
+   "businessModel": "Sells electronic design automation software, chip design IP and emulation hardware under multi-year licences that chip and system designers need to design and verify chips.",
+   "competitors": [
+    "Synopsys",
+    "Siemens EDA",
+    "Keysight",
+    "Arm"
+   ],
+   "hq": "San Jose, CA",
+   "name": "Cadence Design Systems",
+   "sector": "tmt",
+   "size": "Revenue about $6.4B (2026 guidance)",
+   "subindustry": "semiconductors",
+   "ticker": "Nasdaq: CDNS",
+   "updated": "2026-10-28"
   },
   "challenger": {
    "businessModel": "Sells annuities that pay guaranteed retirement income and invests the premiums in bonds and loans, earning the spread; it also runs an asset management arm for fees.",
@@ -298,6 +331,23 @@
    "subindustry": "metals-mining",
    "ticker": "NYSE: CLF",
    "updated": "2026-10-19"
+  },
+  "coca-cola": {
+   "businessModel": "Sells beverage concentrates and syrups to bottling partners, which package and distribute the drinks, so it earns high margins on brands and marketing with little capital tied up in plants.",
+   "competitors": [
+    "PepsiCo",
+    "Keurig Dr Pepper",
+    "Nestle",
+    "Danone",
+    "Monster Beverage"
+   ],
+   "hq": "Atlanta, GA",
+   "name": "The Coca-Cola Company",
+   "sector": "consumer-retail",
+   "size": "Revenue about $13.4B per quarter (Q3 2026)",
+   "subindustry": "cpg",
+   "ticker": "NYSE: KO",
+   "updated": "2026-10-28"
   },
   "comcast": {
    "businessModel": "Sells home broadband, wireless and cable TV, and earns from NBCUniversal's studios, Peacock streaming and Universal theme parks.",
@@ -487,6 +537,23 @@
    "ticker": "NYSE: HAL",
    "updated": "2026-10-21"
   },
+  "hsbc": {
+   "businessModel": "Global bank earning net interest income on loans and deposits, plus fees from wealth management, payments, trade finance and markets, with a large Asia and Hong Kong franchise.",
+   "competitors": [
+    "JPMorgan Chase",
+    "Standard Chartered",
+    "BNP Paribas",
+    "Citigroup",
+    "Barclays"
+   ],
+   "hq": "London, UK",
+   "name": "HSBC Holdings",
+   "sector": "financial-services",
+   "size": "Profit before tax $29.2B for the first nine months of 2026",
+   "subindustry": "banking",
+   "ticker": "LSE: HSBA; NYSE: HSBC",
+   "updated": "2026-10-28"
+  },
   "hudson-pacific": {
    "businessModel": "Owns and leases West Coast office buildings and film/TV studio space, earning rent; heavily exposed to tech-tenant demand and to refinancing costs.",
    "competitors": [
@@ -538,6 +605,23 @@
    "ticker": "NYSE: IBM",
    "updated": "2026-10-22"
   },
+  "innio": {
+   "businessModel": "Builds natural gas and hydrogen-ready engines and power systems, selling equipment and then earning long-term service and parts revenue on the installed fleet.",
+   "competitors": [
+    "Caterpillar",
+    "Wartsila",
+    "Cummins",
+    "Rolls-Royce (mtu)",
+    "Mitsubishi Heavy Industries"
+   ],
+   "hq": "Jenbach, Austria",
+   "name": "INNIO Group",
+   "sector": "energy-materials",
+   "size": "Revenue guidance $3.9B to $4.0B (2026)",
+   "subindustry": "power-utilities",
+   "ticker": "Private (Advent International-backed, approx.)",
+   "updated": "2026-10-28"
+  },
   "intuitive-surgical": {
    "businessModel": "Sells da Vinci robotic surgery systems and earns most revenue from instruments, accessories and service used on every procedure, plus leasing and system sales.",
    "competitors": [
@@ -572,6 +656,22 @@
    "subindustry": "pharma-biotech",
    "ticker": "NYSE: JNJ",
    "updated": "2026-10-19"
+  },
+  "logan-energy": {
+   "businessModel": "Canadian producer that develops oil-rich Montney acreage in Alberta and sells oil, condensate and gas.",
+   "competitors": [
+    "Tourmaline Oil",
+    "ARC Resources",
+    "Whitecap Resources",
+    "Birchcliff Energy"
+   ],
+   "hq": "Calgary, AB",
+   "name": "Logan Energy",
+   "sector": "energy-materials",
+   "size": "About 20,000 boe/d; about 266,000 net Montney acres",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "TSX Venture-listed (being acquired by Ovintiv)",
+   "updated": "2026-10-28"
   },
   "lseg": {
    "businessModel": "Earns subscription fees for financial data, analytics and workflow tools (including Refinitiv), plus fees from trading, clearing (LCH) and index licensing. Data and analytics make up the largest share of revenue.",
@@ -848,6 +948,23 @@
    "ticker": "EPA: ORA",
    "updated": "2026-10-20"
   },
+  "ovintiv": {
+   "businessModel": "Drills for oil, natural gas liquids and gas in North American basins and sells the output at market prices, returning most free cash flow to shareholders.",
+   "competitors": [
+    "EOG Resources",
+    "Devon Energy",
+    "Diamondback Energy",
+    "Coterra",
+    "Canadian Natural Resources"
+   ],
+   "hq": "Denver, CO",
+   "name": "Ovintiv",
+   "sector": "energy-materials",
+   "size": "Core Montney position about 720,000 net acres after the Logan deal; net debt below $4B",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "NYSE: OVV",
+   "updated": "2026-10-28"
+  },
   "procter-gamble": {
    "businessModel": "Makes and sells branded household and personal-care products (Tide, Pampers, Gillette, Oral-B, Olay) through retailers worldwide. Profit comes from brand strength, scale in manufacturing and advertising, and regular price increases.",
    "competitors": [
@@ -1105,6 +1222,22 @@
    "ticker": "Private (founder- and VC-owned)",
    "updated": "2026-10-20"
   },
+  "surgery-partners": {
+   "businessModel": "Owns or co-owns surgery centers, surgical hospitals and physician practices, earning fees from insurers and Medicare for procedures done in a day, with physician partners sharing ownership.",
+   "competitors": [
+    "USPI (Tenet)",
+    "SCA Health (Optum)",
+    "HCA Healthcare",
+    "Ardent Health"
+   ],
+   "hq": "Brentwood, TN",
+   "name": "Surgery Partners",
+   "sector": "healthcare",
+   "size": "Revenue about $3B (approx.); EV about $5.7B in the 2026 deal; 200+ locations",
+   "subindustry": "payers-providers",
+   "ticker": "Nasdaq: SGRY (to be taken private)",
+   "updated": "2026-10-28"
+  },
   "telefonica": {
    "businessModel": "Sells mobile and fixed telecom services in Spain, Germany, the UK (via Virgin Media O2) and Brazil, earning recurring subscription revenue.",
    "competitors": [
@@ -1359,6 +1492,23 @@
    "subindustry": "semiconductors",
    "ticker": "NASDAQ: WDC",
    "updated": "2026-10-20"
+  },
+  "whirlpool": {
+   "businessModel": "Makes major home appliances such as washers, dryers and refrigerators and sells them through retailers and to builders, earning margin from brand, scale and replacement demand.",
+   "competitors": [
+    "Electrolux",
+    "Samsung",
+    "LG Electronics",
+    "Haier (GE Appliances)",
+    "BSH"
+   ],
+   "hq": "Benton Harbor, MI",
+   "name": "Whirlpool",
+   "sector": "consumer-retail",
+   "size": "Revenue about $14.5B (2026 outlook)",
+   "subindustry": "cpg",
+   "ticker": "NYSE: WHR",
+   "updated": "2026-10-28"
   }
  },
  "sectors": {
@@ -1718,9 +1868,33 @@
    ]
   },
   "cpg": {
+   "economicsOn": "valueChain",
+   "keyFigures": [
+    {
+     "label": "Global packaged food",
+     "note": "2025; estimates vary by definition · Ken Research, Mordor Intelligence",
+     "value": "~$3-6T"
+    },
+    {
+     "label": "Forecast growth",
+     "note": "Packaged food, to 2034 · Straits Research, Fortune Business Insights",
+     "value": "~4-5% a year"
+    },
+    {
+     "label": "Coca-Cola operating margin",
+     "note": "Comparable, Q3 2026 · Coca-Cola",
+     "value": "~33%"
+    },
+    {
+     "label": "Coca-Cola's US soda share",
+     "note": "Retail carbonated soft drinks, 2024 · Beverage Digest",
+     "value": "~40%"
+    }
+   ],
    "kpis": [
     "Organic sales growth split into price and volume",
     "Gross margin: about 35-50%",
+    "Comparable operating margin: about 33% at Coca-Cola, Q3 2026",
     "Market share by category",
     "Advertising spend as % of sales"
    ],
@@ -1731,15 +1905,49 @@
     "usNote": "US CPG retail sales (est., 2024)"
    },
    "operatingModel": "CPG firms earn gross margins of roughly 35-50% because brands let them charge more than production costs, then spend heavily on advertising and retailer promotions. Growth comes from price increases, volume, and shifting the mix toward premium products.",
-   "overview": "Consumer packaged goods are the everyday branded products people buy often, such as food, drinks, cleaning products, cosmetics and pet food. CPG companies make or outsource production and sell through retailers, relying on brands and advertising to charge more than store brands. The supply chain behind them includes ingredient suppliers, packaging makers and distributors.",
+   "overview": "Consumer packaged goods (CPG) are the everyday branded products people buy often, such as drinks, snacks, cleaning products and personal care. Brand owners design and market the products, rely on suppliers for ingredients and packaging, and sell through retailers and bottlers, so their margin comes from brands that let them charge more than production costs. Some, like Coca-Cola, sell concentrate and let partners carry the factories, which lifts margins above 30%. Volume is flat in rich markets while emerging markets grow, and store brands and cost inflation are the main pressures.",
    "players": [
     "Global leaders: Procter & Gamble, Nestle, Unilever, PepsiCo, Coca-Cola",
     "Packaged food: Mondelez, Kraft Heinz, General Mills",
     "Packaging suppliers: Crown, Ball, Silgan, Amcor",
     "Structure: big brands dominate shelf space, but retailers hold growing bargaining power"
    ],
-   "profileUpdated": "2026-10-20",
+   "profileUpdated": "2026-10-28",
    "sector": "consumer-retail",
+   "segments": {
+    "items": [
+     {
+      "leaders": "Coca-Cola · Sprite · Fanta",
+      "name": "Coca-Cola",
+      "share": "~40%",
+      "sharePct": 40,
+      "what": "The largest seller, using the concentrate model."
+     },
+     {
+      "leaders": "Pepsi · Mountain Dew",
+      "name": "PepsiCo",
+      "share": "~27%",
+      "sharePct": 27,
+      "what": "Makes and distributes much of its own product, alongside its snack business."
+     },
+     {
+      "leaders": "Dr Pepper · 7UP",
+      "name": "Keurig Dr Pepper",
+      "share": "~24.5%",
+      "sharePct": 24.5,
+      "what": "A third large player that also owns coffee brands."
+     },
+     {
+      "leaders": "Private label · smaller brands",
+      "name": "Others and store brands",
+      "share": "~8.5%",
+      "sharePct": 8.5,
+      "what": "Store brands are gaining as shoppers trade down."
+     }
+    ],
+    "title": "Share of US retail carbonated soft drinks, by company (first nine months of 2024)"
+   },
+   "summary": "Consumer packaged goods (CPG) are the everyday branded products people buy often, such as drinks, snacks, cleaning products and personal care. Brand owners design and market the products, rely on suppliers for ingredients and packaging, and sell through retailers and bottlers, so their margin comes from brands that let them charge more than production costs. Some, like Coca-Cola, sell concentrate and let partners carry the factories, which lifts margins above 30%. Volume is flat in rich markets while emerging markets grow, and store brands and cost inflation are the main pressures.",
    "threats": [
     "Private-label competition",
     "Retailer pushback on prices",
@@ -1752,6 +1960,79 @@
     "Weight-loss drugs are changing demand for snacks and sugary drinks",
     "Portfolio reshaping through spin-offs and acquisitions",
     "Rising input, energy and packaging costs squeeze margins"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "Emerging markets drive growth: Coca-Cola's unit case volume rose 5% in Q3 2026, led by India, China, Mexico and Brazil."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Portfolio reshaping through spin-offs and acquisitions refocuses companies on stronger brands."
+    },
+    {
+     "kind": "headwind",
+     "text": "Volumes are flat or falling in rich markets after years of price increases."
+    },
+    {
+     "kind": "headwind",
+     "text": "Store brands are taking share from national brands."
+    },
+    {
+     "kind": "headwind",
+     "text": "Weight-loss drugs are changing demand for snacks and sugary drinks."
+    },
+    {
+     "kind": "headwind",
+     "text": "Rising input, energy and packaging costs squeeze margins."
+    }
+   ],
+   "valueChain": [
+    {
+     "cost": "raw materials and energy",
+     "name": "Ingredients and packaging",
+     "players": "Crown · Ball · Silgan",
+     "revenue": "supply contracts priced off commodities such as aluminum, resin and crops",
+     "takeaway": {
+      "label": "Pass-through",
+      "why": "Commodity swings are usually passed on to brand owners, with a delay."
+     },
+     "what": "Farms, chemical makers and packaging firms supply raw materials, cans, bottles and cartons."
+    },
+    {
+     "cost": "ingredients, packaging, advertising and retailer promotions",
+     "highlight": true,
+     "name": "Brand owners",
+     "players": "Procter & Gamble · Nestle · Unilever · PepsiCo",
+     "revenue": "branded product sales, from price, volume and mix",
+     "takeaway": {
+      "label": "Brand premium",
+      "why": "Brands let firms charge above production cost, giving gross margins of roughly 35% to 50%."
+     },
+     "what": "Design, make or outsource and market the products."
+    },
+    {
+     "cost": "plants, trucks and labor",
+     "name": "Bottlers and distributors",
+     "players": "Coca-Cola bottling partners · PepsiCo (self-distributes)",
+     "revenue": "per-case fees or product sales",
+     "takeaway": {
+      "label": "Capital heavy",
+      "why": "Coca-Cola sells concentrate and leaves factories and trucks to bottlers, which is why its margin is about 33%."
+     },
+     "what": "Package drinks and deliver products to stores and restaurants."
+    },
+    {
+     "cost": "stores, labor and rent",
+     "name": "Retailers",
+     "players": "Walmart · Costco · Kroger",
+     "revenue": "the margin on each item plus higher-margin store brands",
+     "takeaway": {
+      "label": "Rising leverage",
+      "why": "Store brands take share from national brands when shoppers trade down."
+     },
+     "what": "Stores and online sellers that control shelf space and prices."
+    }
    ]
   },
   "industrial-machinery": {
@@ -2602,11 +2883,35 @@
    ]
   },
   "payers-providers": {
+   "economicsOn": "valueChain",
+   "keyFigures": [
+    {
+     "label": "US health spending",
+     "note": "2024, about 18% of GDP · CMS",
+     "value": "~$5.3T"
+    },
+    {
+     "label": "Hospital care",
+     "note": "About 31% of spending, 2024 · CMS",
+     "value": "~$1.6T"
+    },
+    {
+     "label": "Physician and clinical services",
+     "note": "About 21% of spending, 2024 · CMS",
+     "value": "~$1.1T"
+    },
+    {
+     "label": "UnitedHealth's Medicare Advantage share",
+     "note": "9.9M enrollees, 2025 · KFF",
+     "value": "~29%"
+    }
+   ],
    "kpis": [
-    "US health spending: about $4.9T, 17-18% of GDP",
-    "Medical loss ratio (often 85%+)",
-    "Medicare Advantage enrollment: about half of Medicare",
-    "Hospital operating margin"
+    "US health spending: ~$5.3T, about 18% of GDP (CMS, 2024)",
+    "Medical loss ratio: claims as a share of premiums, often 85% or more",
+    "Medicare Advantage: UnitedHealth ~29% and Humana ~17% of enrollment (KFF, 2025)",
+    "Hospital operating margin",
+    "Share of procedures done in outpatient settings"
    ],
    "marketSize": {
     "global": "~$10T",
@@ -2615,15 +2920,42 @@
     "usNote": "US national health expenditure, about 17-18% of GDP (CMS, 2023)"
    },
    "operatingModel": "Insurers earn the gap between premiums and medical costs, usually a low single-digit net margin. Providers earn fee-for-service payments or capped payments per patient, and PBMs earn fees plus a share of drug rebates and price spreads.",
-   "overview": "Payers and providers make up the business of delivering and paying for healthcare. Providers such as hospitals, physician groups and clinics deliver care, while payers such as insurers, employers and government programs like Medicare and Medicaid pay for it. In the US, pharmacy benefit managers sit in between, negotiating drug prices for insurers.",
+   "overview": "Payers and providers are the two sides of healthcare money: providers such as hospitals, surgery centers and physician groups deliver care, and payers such as employers, insurers and government programs pay for it. The US spent about $5.3 trillion on health in 2024, roughly 18% of GDP, and nearly half went to hospitals and physicians. Insurers keep only the gap between premiums and claims, providers are paid per service or per patient, and pharmacy benefit managers sit between insurers and drug makers. Care is moving to cheaper outpatient settings while rising medical costs squeeze insurer margins.",
    "players": [
     "Insurers: UnitedHealth, Elevance, CVS (Aetna), Cigna, Humana",
     "PBMs: CVS Caremark, Express Scripts (Cigna), Optum Rx (UnitedHealth), about 80% of the market together",
     "Hospitals: HCA, Tenet, CommonSpirit, plus nonprofit systems",
     "Structure: concentrated payers and PBMs, fragmented but consolidating providers"
    ],
-   "profileUpdated": "2026-10-20",
+   "profileUpdated": "2026-10-28",
    "sector": "healthcare",
+   "segments": {
+    "items": [
+     {
+      "leaders": "UnitedHealthcare",
+      "name": "UnitedHealth Group",
+      "share": "~29%",
+      "sharePct": 29,
+      "what": "The largest Medicare Advantage insurer, with about 9.9 million enrollees."
+     },
+     {
+      "leaders": "Humana",
+      "name": "Humana",
+      "share": "~17%",
+      "sharePct": 17,
+      "what": "The second-largest, and more dependent on Medicare Advantage than its rivals."
+     },
+     {
+      "leaders": "CVS (Aetna) · Elevance · Blue Cross plans",
+      "name": "All other insurers",
+      "share": "~54%",
+      "sharePct": 54,
+      "what": "Many smaller and regional plans share the rest; two insurers hold nearly half of enrollment."
+     }
+    ],
+    "title": "Share of Medicare Advantage enrollment, by insurer (2025)"
+   },
+   "summary": "Payers and providers are the two sides of healthcare money: providers such as hospitals, surgery centers and physician groups deliver care, and payers such as employers, insurers and government programs pay for it. The US spent about $5.3 trillion on health in 2024, roughly 18% of GDP, and nearly half went to hospitals and physicians. Insurers keep only the gap between premiums and claims, providers are paid per service or per patient, and pharmacy benefit managers sit between insurers and drug makers. Care is moving to cheaper outpatient settings while rising medical costs squeeze insurer margins.",
    "threats": [
     "Rising utilization and medical costs",
     "Medicare Advantage payment cuts",
@@ -2636,6 +2968,90 @@
     "Vertical integration: insurers owning PBMs, pharmacies and physician groups",
     "Shift of care from hospitals to outpatient and home settings",
     "GLP-1 obesity drugs raising pharmacy spending"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "headwind",
+     "text": "Rising medical costs and higher usage are squeezing insurer margins, especially in Medicare Advantage."
+    },
+    {
+     "kind": "headwind",
+     "text": "Regulators are examining PBM rebates and pricing."
+    },
+    {
+     "kind": "headwind",
+     "text": "Labor shortages and wage growth raise hospital costs."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Care is shifting from hospitals to outpatient and home settings, which are cheaper and growing."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Insurers and hospital systems are integrating by buying PBMs, physician groups and surgery centers."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Ageing populations keep Medicare enrollment, and demand for care, rising."
+    }
+   ],
+   "valueChain": [
+    {
+     "cost": "the medical bills passed through to insurers and providers",
+     "name": "Funders",
+     "players": "Medicare · Medicaid · large employers",
+     "revenue": "payroll taxes, premiums and general tax revenue",
+     "takeaway": {
+      "label": "Government sets the pace",
+      "why": "Medicare ($1.1T) and Medicaid ($0.9T) together fund about 40% of spending, so their payment rates shape the whole system."
+     },
+     "what": "Employers, households and government programs supply the money through premiums and taxes."
+    },
+    {
+     "cost": "medical claims paid to providers (the medical loss ratio, often 85% or more of premiums)",
+     "name": "Insurers",
+     "players": "UnitedHealth · Elevance · CVS (Aetna)",
+     "revenue": "premiums and per-member government payments",
+     "takeaway": {
+      "label": "Thin margins",
+      "why": "They keep only the small gap between premiums and claims, so a rise in medical usage cuts profit quickly."
+     },
+     "what": "Collect premiums or government payments per member and pay claims to providers."
+    },
+    {
+     "cost": "pharmacy network and administration",
+     "name": "Pharmacy benefit managers",
+     "players": "CVS Caremark · Express Scripts · Optum Rx",
+     "revenue": "fees plus a share of drug rebates and price spreads",
+     "takeaway": {
+      "label": "Under scrutiny",
+      "why": "Rebate and spread income is the target of regulators and employers, so the model may change."
+     },
+     "what": "Negotiate drug prices and run pharmacy networks for insurers and employers."
+    },
+    {
+     "cost": "labor, mainly nurses and physicians",
+     "name": "Hospitals and physician groups",
+     "players": "HCA · Tenet · CommonSpirit",
+     "revenue": "fee-for-service payments per stay or procedure, plus capped payments per patient",
+     "takeaway": {
+      "label": "Labor heavy",
+      "why": "Wages are the largest cost, so staffing shortages and wage increases squeeze margins."
+     },
+     "what": "Deliver inpatient, emergency and specialist care."
+    },
+    {
+     "cost": "clinical staff and equipment, with no overnight beds to staff",
+     "highlight": true,
+     "name": "Outpatient and home care",
+     "players": "USPI (Tenet) · SCA Health (Optum) · Surgery Partners",
+     "revenue": "procedure and visit fees from insurers and Medicare",
+     "takeaway": {
+      "label": "Growing share",
+      "why": "Insurers push procedures to cheaper settings, and hospital systems are buying in, as the $5.7B Surgery Partners deal shows."
+     },
+     "what": "Surgery centers, clinics and home services that handle care without a hospital stay."
+    }
    ]
   },
   "payments-fintech": {
