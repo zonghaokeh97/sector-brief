@@ -228,6 +228,64 @@ footer button{font-size:12.5px;color:var(--muted);text-decoration:underline}
 .navitem.sub[aria-current="true"]{font-weight:700}
 .navgroup{font-family:var(--sans);font-size:12.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--ink);padding:11px 10px;border-bottom:1px solid var(--rule)}
 .recap h2,.result .big{font-family:var(--display)}
+/* Industry profile v2: summary, key figures, value chain roadmap, segment cards */
+.wrap.wide{max-width:1080px}
+.pv2{display:flex;flex-direction:column;gap:34px}
+.pv2 h3.sh{font-family:var(--head);font-size:24px;font-weight:700;margin:0;padding-bottom:8px;border-bottom:1px solid var(--rule)}
+.pv2 .stamp{font-family:var(--sans);font-size:12.5px;color:var(--muted)}
+.pv2 .brief{display:flex;flex-direction:column;gap:6px}
+.pv2 .brief p{margin:0;font-size:19.5px;line-height:1.55;max-width:66ch}
+.figs{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));border-top:2px solid var(--rule-strong);border-bottom:1px solid var(--rule)}
+.figs>div{padding:14px 16px;border-left:1px solid var(--rule);display:flex;flex-direction:column;gap:2px;min-width:0}
+.figs>div:first-child{border-left:0;padding-left:0}
+.figs .k{font-family:var(--sans);font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.figs b{font-family:var(--display);font-size:28px;line-height:1.15;font-weight:700}
+.figs .n{font-family:var(--sans);font-size:12px;color:var(--muted)}
+@media (max-width:640px){.figs{grid-template-columns:repeat(2,minmax(0,1fr))!important}.figs>div:nth-child(3){border-left:0;padding-left:0}.figs>div:nth-child(n+3){border-top:1px solid var(--rule)}}
+.vcw{container-type:inline-size;display:flex;flex-direction:column;gap:14px}
+.vc{display:grid;grid-template-columns:repeat(var(--n),minmax(0,1fr));align-items:start}
+.vc .st{display:flex;flex-direction:column;gap:9px;padding:0 14px 12px;min-width:0}
+.vc .st:first-child{padding-left:0}
+.vc .st.hi{background:var(--soft);padding-left:12px}
+.vc .rail{display:flex;align-items:center;gap:8px;padding-top:2px}
+.vc .dot{width:28px;height:28px;border-radius:50%;background:var(--ink);color:var(--ground);font-family:var(--sans);font-size:13px;font-weight:700;display:inline-flex;align-items:center;justify-content:center;flex:none}
+.vc .line{flex:1;height:2px;background:var(--ink)}
+.vc .st:last-child .line{display:none}
+.vc .nm{font-family:var(--head);font-weight:700;font-size:18.5px;line-height:1.2}
+.vc .ds{font-size:14.5px;line-height:1.45;color:var(--muted)}
+.vc .pl{font-family:var(--sans);font-size:12px;color:var(--muted)}
+.econ{border-top:1px solid var(--rule);padding-top:8px;display:flex;flex-direction:column;gap:4px;font-family:var(--sans);font-size:12.5px;line-height:1.45}
+.take{border-top:1px solid var(--rule-strong);padding-top:8px;font-size:13.5px;line-height:1.45}
+.take b{font-family:var(--sans);font-size:13px}
+.take span{color:var(--muted)}
+@container (max-width:860px){
+  .vc{grid-template-columns:minmax(0,1fr)}
+  .vc .st,.vc .st:first-child{display:grid;grid-template-columns:28px minmax(0,1fr);column-gap:14px;row-gap:6px;padding:0 0 18px 0}
+  .vc .st.hi{padding:10px 12px 18px 0}
+  .vc .st>*:not(.rail){grid-column:2}
+  .vc .rail{grid-column:1;grid-row:1 / span 7;flex-direction:column;align-self:stretch;padding:0}
+  .vc .line{width:2px;height:auto;flex:1}
+}
+.segtitle{font-family:var(--sans);font-size:14px;font-weight:700;margin:2px 0 0}
+.segs{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px}
+.seg{border:1px solid var(--rule);padding:16px 18px;display:flex;flex-direction:column;gap:9px;min-width:0}
+.seg.hi{border-top:3px solid var(--rule-strong);background:var(--soft)}
+.seg .top{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+.seg .nm{font-family:var(--head);font-weight:700;font-size:20px;line-height:1.2}
+.seg .sh{font-family:var(--display);font-size:24px;font-weight:700;white-space:nowrap}
+.segbar{height:6px;background:var(--rule)}
+.segbar>i{display:block;height:100%;background:var(--ink)}
+.seg .meta{display:flex;flex-wrap:wrap;gap:4px 14px;font-family:var(--sans);font-size:12px;color:var(--muted)}
+.seg .ds{font-size:14.5px;line-height:1.45;color:var(--muted)}
+.tt{display:flex;flex-direction:column}
+.tt>div{display:grid;grid-template-columns:112px minmax(0,1fr);gap:14px;padding:10px 0;border-bottom:1px solid var(--rule)}
+.tt .k{font-family:var(--sans);font-size:11px;font-weight:700;letter-spacing:.06em;padding-top:3px}
+.tt .up{color:var(--good)} .tt .dn{color:var(--bad)}
+@media (max-width:520px){.tt>div{grid-template-columns:minmax(0,1fr);gap:2px}}
+.kpis2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 32px;font-family:var(--sans);font-size:14.5px}
+.kpis2 div{padding:9px 0;border-bottom:1px solid var(--rule)}
+@media (max-width:560px){.kpis2{grid-template-columns:minmax(0,1fr)}}
+
 </style>
 </head>
 <body>
@@ -369,7 +427,23 @@ function sectorsIndex(){
 }
 
 function listBlock(title,arr){ return arr&&arr.length?`<div class="block"><h4>${esc(title)}</h4><ul>${arr.map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>`:""; }
+function econHtml(x){ return (x.revenue||x.cost)?`<div class="econ">${x.revenue?`<span><b>Revenue:</b> ${esc(x.revenue)}</span>`:""}${x.cost?`<span><b>Cost:</b> ${esc(x.cost)}</span>`:""}</div>`:""; }
+function takeHtml(x){ return x.takeaway&&x.takeaway.label?`<div class="take"><b>${esc(x.takeaway.label)}.</b> <span>${esc(x.takeaway.why||"")}</span></div>`:""; }
+function profileV2(p){
+  const figs=(p.keyFigures||[]).slice(0,4);
+  const vc=p.valueChain||[]; const sg=p.segments||{}; const items=sg.items||[];
+  let h=`<div class="pv2">`;
+  h+=`<section class="brief"><span class="label">In brief</span><p>${esc(p.summary)}</p>${p.profileUpdated?`<span class="stamp">Profile written ${esc(shortDate(p.profileUpdated))} · refreshed quarterly · figures approximate</span>`:""}</section>`;
+  if(figs.length) h+=`<section class="figs" style="grid-template-columns:repeat(${figs.length},minmax(0,1fr))">${figs.map(f=>`<div><span class="k">${esc(f.label)}</span><b>${esc(f.value)}</b><span class="n">${esc(f.note||"")}</span></div>`).join("")}</section>`;
+  if(vc.length) h+=`<section class="vcw"><h3 class="sh">Value chain</h3><div class="vc" style="--n:${vc.length}">${vc.map((st,i)=>`<div class="st${st.highlight?" hi":""}"><div class="rail"><span class="dot">${i+1}</span><span class="line"></span></div><div class="nm">${esc(st.name)}</div>${st.what?`<div class="ds">${esc(st.what)}</div>`:""}${st.players?`<div class="pl">${esc(st.players)}</div>`:""}${econHtml(st)}${takeHtml(st)}</div>`).join("")}</div></section>`;
+  if(items.length) h+=`<section style="display:flex;flex-direction:column;gap:12px"><h3 class="sh">Segments</h3>${sg.title?`<div class="segtitle">${esc(sg.title)}</div>`:""}<div class="segs">${items.map(it=>`<div class="seg${it.highlight?" hi":""}"><div class="top"><span class="nm">${esc(it.name)}</span>${it.share?`<span class="sh">${esc(it.share)}</span>`:""}</div>${typeof it.sharePct==="number"?`<div class="segbar"><i style="width:${Math.max(1,Math.min(100,it.sharePct))}%"></i></div>`:""}${(it.growth||it.leaders)?`<div class="meta">${it.growth?`<span>Growth: ${esc(it.growth)}</span>`:""}${it.leaders?`<span>Leaders: ${esc(it.leaders)}</span>`:""}</div>`:""}${it.what?`<div class="ds">${esc(it.what)}</div>`:""}${econHtml(it)}${takeHtml(it)}</div>`).join("")}</div></section>`;
+  const tt=p.trendsThreats||[];
+  if(tt.length) h+=`<section style="display:flex;flex-direction:column;gap:6px"><h3 class="sh">Trends &amp; threats</h3><div class="tt">${tt.map(x=>`<div><span class="k ${x.kind==="headwind"?"dn":"up"}">${x.kind==="headwind"?"▼ HEADWIND":"▲ TAILWIND"}</span><span>${esc(x.text)}</span></div>`).join("")}</div></section>`;
+  if((p.kpis||[]).length) h+=`<section style="display:flex;flex-direction:column;gap:6px"><h3 class="sh">Numbers to know</h3><div class="kpis2">${p.kpis.map(k=>`<div>${esc(k)}</div>`).join("")}</div></section>`;
+  return h+`</div>`;
+}
 function profileCard(p,name,eyebrow){
+  if(p.summary) return profileV2(p);
   return `<section class="card"><div class="tags"><span class="label">${esc(eyebrow)}</span>${p.profileUpdated?`<span class="date">Written ${esc(shortDate(p.profileUpdated))} · refreshed quarterly</span>`:""}</div>
     <p>${esc(p.overview)}</p>
     ${p.marketSize?`<div class="size"><div><span>Global</span><b>${esc(p.marketSize.global)}</b><span>${esc(p.marketSize.globalNote||"")}</span></div><div><span>United States</span><b>${esc(p.marketSize.us)}</b><span>${esc(p.marketSize.usNote||"")}</span></div></div>`:""}
@@ -415,7 +489,8 @@ function subView(id){
   const sub=SUB[id]; if(!sub) return `<div class="empty">Unknown sub-industry.</div>`;
   const p=S.subs[id]; const stories=S.stories.filter(s=>s.subindustry===id).sort(byOrder);
   let h=`<div class="crumb"><button type="button" data-go="sectors" style="color:var(--accent)">Sectors</button><span class="muted">›</span><button type="button" data-go="s:${sub.sector}" style="color:var(--accent)">${esc(secName(sub.sector))}</button><span class="muted">›</span><span>${esc(sub.name)}</span></div>`;
-  h+=p?profileCard(p,sub.name,"Industry profile"):`<section class="card"><span class="label">Industry profile</span><p class="muted" style="margin:0">Profile coming with the first story filed here.</p></section>`;
+  if(p&&p.summary) h+=profileV2(p)+(stories.length?`<h3 style="font-family:var(--head);font-size:24px;margin:10px 0 0;padding-bottom:8px;border-bottom:1px solid var(--rule)">Companies &amp; news</h3>`:"");
+  else h+=p?profileCard(p,sub.name,"Industry profile"):`<section class="card"><span class="label">Industry profile</span><p class="muted" style="margin:0">Profile coming with the first story filed here.</p></section>`;
   if(!stories.length) return h+`<div class="empty">No stories filed in ${esc(sub.name)} yet.</div>`;
   return h+companiesAndNews(stories);
 }
@@ -431,6 +506,7 @@ function render(){
   const v=S.view;
   const T=v==="today"?["Today's News","Updated daily at 7:00 am PT"]:v==="sectors"?["Sectors","Recaps updated weekly"]:v==="deals"?["Deals","Updated daily"]:(v==="quiz"||v==="progress")?["Daily Quiz","New quiz daily at 7:00 am PT"]:v==="practice"?["More Quizzes","New questions daily"]:v==="search"?["Search",""]:v.startsWith("s:")?[secName(v.slice(2)),"Recap updated weekly · news daily"]:[subName(v.slice(2)),"Profile updated quarterly · news daily"];
   $("#viewTitle").textContent=T[0]; $("#cadence").textContent=T[1];
+  const wrapEl=document.querySelector(".wrap"); if(wrapEl) wrapEl.classList.toggle("wide",v.startsWith("i:")&&!!(S.subs[v.slice(2)]&&S.subs[v.slice(2)].summary));
   m.innerHTML=v==="quiz"?quizView():v==="practice"?practiceView():v==="progress"?quizView():v==="search"?searchView():v==="today"?today():v==="deals"?deals():v==="sectors"?sectorsIndex():v.startsWith("s:")?sectorView(v.slice(2)):subView(v.slice(2));
 }
 

@@ -1886,11 +1886,34 @@
    ]
   },
   "midstream-lng": {
+   "economicsOn": "valueChain",
+   "keyFigures": [
+    {
+     "label": "Global LNG trade",
+     "note": "Record, 2025 · IGU",
+     "value": "~437 Mt"
+    },
+    {
+     "label": "Growth",
+     "note": "2025 vs 2024 · GIIGNL, IGU",
+     "value": "+5–6%"
+    },
+    {
+     "label": "US exports",
+     "note": "~26% of world supply, 2025",
+     "value": "~111 Mt"
+    },
+    {
+     "label": "Asia's share of imports",
+     "note": "2025 · GIIGNL",
+     "value": "~63%"
+    }
+   ],
    "kpis": [
-    "JKM (Asia), TTF (Europe), Henry Hub (US) prices",
+    "JKM (Asia), TTF (Europe) and Henry Hub (US) gas prices",
     "European storage fill % before winter",
-    "Liquefaction capacity in Mtpa",
-    "Tolling fee per MMBtu"
+    "Liquefaction capacity, in million tonnes per year",
+    "Contract pricing: about Henry Hub × 115% plus a fixed fee"
    ],
    "marketSize": {
     "global": "~410 Mt LNG/yr",
@@ -1906,8 +1929,35 @@
     "Buyers: JERA, KOGAS, CNOOC, European utilities",
     "US pipelines: Enterprise Products, Kinder Morgan, Williams, Energy Transfer"
    ],
-   "profileUpdated": "2026-10-19",
+   "profileUpdated": "2026-10-27",
    "sector": "energy-materials",
+   "segments": {
+    "items": [
+     {
+      "leaders": "Japan · China · Korea · India",
+      "name": "Asia",
+      "share": "~63%",
+      "sharePct": 63,
+      "what": "The largest and most contract-based market. China cut purchases about 15% in 2025 as it leaned on pipeline gas and domestic output."
+     },
+     {
+      "leaders": "Germany · France · Italy · UK",
+      "name": "Europe",
+      "share": "~30%",
+      "sharePct": 30,
+      "what": "Imports jumped about 29% in 2025 as Europe kept replacing Russian pipeline gas, buying flexibly and often from the US."
+     },
+     {
+      "leaders": "Egypt · Turkey · Latin America",
+      "name": "Rest of world",
+      "share": "~7%",
+      "sharePct": 7,
+      "what": "Smaller, price-sensitive importers, often using floating terminals. Egypt quadrupled imports in 2025."
+     }
+    ],
+    "title": "Share of global LNG imports, by region (2025)"
+   },
+   "summary": "Midstream moves gas from the wellhead to the buyer: pipelines carry it overland, and LNG plants chill it into a liquid so it can cross oceans by ship. Most of the money is made in long-term, fee-based contracts at liquefaction plants and pipelines, while traders earn volatile spreads between regional gas prices. Asia buys most of the world's LNG and Europe is the fastest-growing buyer, while the US has become the largest supplier and new US and Qatari capacity keeps arriving.",
    "threats": [
     "Chokepoint disruption (Hormuz, Red Sea, Panama)",
     "A future LNG supply glut as new capacity arrives late decade",
@@ -1920,6 +1970,90 @@
     "Buyers are signing long-term contracts to secure supply after two crises in four years",
     "Floating LNG (FLNG) speeds up development of smaller offshore gas fields",
     "Pipeline buildout for data center gas demand in the US"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "A wave of new US and Qatari liquefaction capacity is coming online through the late 2020s."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Buyers are signing 15–20 year contracts again after two supply crises in four years."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Gas demand for US power plants and data centers is pulling on pipelines and supply."
+    },
+    {
+     "kind": "headwind",
+     "text": "Chokepoint disruption at Hormuz, the Red Sea and Panama raises freight and insurance costs."
+    },
+    {
+     "kind": "headwind",
+     "text": "New plants arriving together could create a supply glut later this decade."
+    },
+    {
+     "kind": "headwind",
+     "text": "Permitting delays and long-run demand decline in Europe add risk to new projects."
+    }
+   ],
+   "valueChain": [
+    {
+     "cost": "drilling and well completion, then operating (lifting) costs",
+     "name": "Gas supply",
+     "players": "ExxonMobil · EQT · QatarEnergy",
+     "revenue": "realized gas price × production volume",
+     "takeaway": {
+      "label": "Volatile",
+      "why": "Profits rise and fall with hub gas prices, which producers don't control."
+     },
+     "what": "Producers drill and process gas, then sell it to pipelines and plants at a hub price."
+    },
+    {
+     "cost": "building the pipe, then depreciation and financing",
+     "name": "Pipelines",
+     "players": "Kinder Morgan · Williams · Energy Transfer",
+     "revenue": "reserved-capacity fees, paid even when no gas flows, plus regulated tariffs",
+     "takeaway": {
+      "label": "Stable",
+      "why": "Most revenue is fixed capacity fees locked in for years."
+     },
+     "what": "Carry gas from fields to coastal plants and cities for a contracted or regulated toll."
+    },
+    {
+     "cost": "$10B+ construction and its financing, plus energy to run the plant",
+     "highlight": true,
+     "name": "Liquefaction",
+     "players": "Cheniere · QatarEnergy · Venture Global",
+     "revenue": "fixed liquefaction fees under 20-year contracts; feed gas is passed through at about Henry Hub × 115%",
+     "takeaway": {
+      "label": "Largest and steadiest profit pool",
+      "why": "Buyers owe the fixed fee even if they cancel cargoes, so plants earn through price cycles."
+     },
+     "what": "Plants chill gas to −162°C, shrinking it about 600 times so it can be shipped."
+    },
+    {
+     "cost": "buying the cargo, plus shipping and insurance",
+     "name": "Shipping & trading",
+     "players": "Shell · TotalEnergies · BP",
+     "revenue": "the spread between regional gas prices (traders) and charter rates (ship owners)",
+     "takeaway": {
+      "label": "Volatile",
+      "why": "Margins depend on the gap between US, European and Asian prices, which can swing from almost nothing to over $20/MMBtu."
+     },
+     "what": "Tankers and portfolio traders move cargoes to whichever market pays most."
+    },
+    {
+     "cost": "the price of the LNG cargo itself",
+     "name": "Regas & buyers",
+     "players": "JERA · KOGAS · Uniper",
+     "revenue": "terminal capacity fees; for utilities, retail gas and power tariffs",
+     "takeaway": {
+      "label": "Stable for terminals, squeezed for buyers",
+      "why": "Terminals earn fixed fees, while utilities absorb price spikes when tariffs lag."
+     },
+     "what": "Import terminals turn LNG back into gas for utilities and industry."
+    }
    ]
   },
   "oil-gas-upstream": {
