@@ -2381,5 +2381,252 @@
     "subindustry": "insurance"
    }
   ]
+ },
+ "2026-10-29": {
+  "date": "2026-10-29",
+  "extra": [
+   {
+    "answer": 3,
+    "explanation": "Mastercard's revenue is $9.8B from network fees on volume and value-added services; it does not lend. Interest income belongs to the banks that issue the cards.",
+    "id": "2026-10-29:x01",
+    "kind": "today",
+    "options": [
+     "Interest on card balances it lends to consumers",
+     "Annual fees paid by merchants for each terminal",
+     "Commissions on the goods sold",
+     "Small fees on transactions and cross-border volume, plus services such as fraud tools"
+    ],
+    "prompt": "How does a card payment network such as Mastercard mainly earn money?",
+    "sector": "financial-services",
+    "storyId": "2026-10-29-10",
+    "subindustry": "payments-fintech"
+   },
+   {
+    "answer": 0,
+    "explanation": "Claims costs rose from $33.0M to $55.3M, and legal risk on broker liability is a pressure point. Revenue per load rose about 25% and it added 165 truck owners, so the other options do not fit.",
+    "id": "2026-10-29:x02",
+    "kind": "today",
+    "options": [
+     "Insurance and claims costs of $55.3M weighed on earnings",
+     "Truck volumes fell sharply",
+     "It lost truck owners",
+     "Revenue per load fell"
+    ],
+    "prompt": "Landstar's revenue rose 25%, yet its shares fell about 18%. What most explains the reaction?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-10-29-13",
+    "subindustry": "transport-logistics"
+   },
+   {
+    "answer": 2,
+    "explanation": "Teradyne's revenue rose 70% to $1.31B as AI chips and memory set test records. Complex chips need more testing, not less.",
+    "id": "2026-10-29:x03",
+    "kind": "today",
+    "options": [
+     "Lower revenue, because AI chips are simpler",
+     "No effect, since test is a fixed cost",
+     "Higher revenue, because more complex chips need more test time and costlier machines",
+     "Lower revenue, because testing is no longer needed"
+    ],
+    "prompt": "A maker of chip-test machines sees its customers shift to AI processors and high-bandwidth memory. What is the most likely effect on its business?",
+    "sector": "tmt",
+    "storyId": "2026-10-29-08",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 1,
+    "explanation": "Solar PV added 605 GW of roughly 800 GW (IEA), about 76%. Wind added 159 GW, around a fifth.",
+    "id": "2026-10-29:x04",
+    "kind": "profile",
+    "options": [
+     "Wind",
+     "Solar PV",
+     "Hydropower",
+     "Bioenergy"
+    ],
+    "prompt": "Which technology accounted for about three-quarters of global renewable capacity added in 2025?",
+    "sector": "energy-materials",
+    "storyId": null,
+    "subindustry": "renewables-transition"
+   },
+   {
+    "answer": 3,
+    "explanation": "Advance purchases pull sales forward, so later quarters may be weaker. It does not show permanent demand, and Merck still raised its guidance.",
+    "id": "2026-10-29:x05",
+    "kind": "today",
+    "options": [
+     "It proves demand is permanent",
+     "It lowers the price of Keytruda",
+     "It reduces expected profit this year",
+     "It may borrow sales from future quarters"
+    ],
+    "prompt": "About $550M of Merck's quarterly growth came from customers buying ahead of time. Why does this matter for later results?",
+    "sector": "healthcare",
+    "storyId": "2026-10-29-09",
+    "subindustry": "pharma-biotech"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 2,
+    "explanation": "Both dissenters wanted a quarter-point hike and futures priced about 85% odds of one in December, so the debate is about more tightening. Cuts and 'finished' do not fit those facts, and the Fed said inflation is too high.",
+    "id": "2026-10-29:q01",
+    "kind": "today",
+    "options": [
+     "Markets expect rate cuts early next year",
+     "The Fed has finished its policy changes for good",
+     "Markets expect further tightening, not near-term cuts",
+     "The Fed is worried about falling inflation"
+    ],
+    "prompt": "The Fed held at 3.75% to 4% in a 10-2 vote, with both dissenters wanting a hike and futures pricing about an 85% chance of a December hike. What does this signal?",
+    "sector": "macro",
+    "storyId": "2026-10-29-01",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 3,
+    "explanation": "The finance chief said demand still exceeds supply and blamed delays in third-party capacity deliveries for the lower spend. Weak demand does not fit 48% growth and guidance for more than $50B of capex next quarter.",
+    "id": "2026-10-29:q02",
+    "kind": "today",
+    "options": [
+     "Demand weakened, so it cut back on data centers",
+     "It moved all computing to older data centers",
+     "It sold part of its cloud business",
+     "Some third-party capacity deliveries slipped, while demand still exceeds supply"
+    ],
+    "prompt": "Microsoft's Azure grew 48%, above its 44% to 45% forecast, yet capital spending of $45.2B came in below expectations. What best explains the lower spending?",
+    "sector": "tmt",
+    "storyId": "2026-10-29-02",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 0,
+    "explanation": "Investors focused on slowing search growth (12% from 17%), an earnings miss and negative free cash flow, as AI spending of $195-205B a year strains cash. Cloud was a strength, not the problem, and capex guidance was unchanged.",
+    "id": "2026-10-29:q03",
+    "kind": "today",
+    "options": [
+     "Search growth slowed to 12%, earnings missed and free cash flow was -$9.1B",
+     "Cloud revenue was below forecasts",
+     "The company cut its capital spending plan",
+     "Advertising revenue fell"
+    ],
+    "prompt": "Google Cloud revenue more than doubled to about $30.7B, yet Alphabet's shares fell roughly 10% after hours. What best explains the reaction?",
+    "sector": "tmt",
+    "storyId": "2026-10-29-03",
+    "subindustry": "internet-platforms"
+   },
+   {
+    "answer": 1,
+    "explanation": "Utilities need more transmission for new generation and data centers, and high-voltage equipment is a bottleneck. Buying Trench adds grid products to a turbine business. The deal is half debt, so it raises borrowing, not cuts it.",
+    "id": "2026-10-29:q04",
+    "kind": "today",
+    "options": [
+     "Trench gives it a new line of gas turbines",
+     "It captures more of the spending on moving power, where equipment is a bottleneck",
+     "It lets it exit the grid business",
+     "It cuts its debt by half"
+    ],
+    "prompt": "GE Vernova agreed to pay $9.0B for Trench Group, a maker of high-voltage grid equipment. What is the main business logic?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-29-04",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 2,
+    "explanation": "A 53% rise in volume outweighed the 15% drop in realized price, giving 39% growth. One-time items were only about $900M of $24.4B, so they were not the main driver.",
+    "id": "2026-10-29:q05",
+    "kind": "today",
+    "options": [
+     "Prices rose in other regions",
+     "Lilly stopped paying rebates",
+     "Volume grew 53%, more than offsetting lower prices",
+     "One-time items made up most of the growth"
+    ],
+    "prompt": "Lilly's revenue grew 39% while realized prices fell 15%. What made that possible?",
+    "sector": "healthcare",
+    "storyId": "2026-10-29-05",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 3,
+    "explanation": "Volume added $2.2B and pricing $663M, which more than covered tariff-related costs. Power and Energy, which grew 18%, was the highest-margin segment, so lower power sales would not help.",
+    "id": "2026-10-29:q06",
+    "kind": "today",
+    "options": [
+     "Cutting prices to win share",
+     "Selling the construction division",
+     "Lower sales of power equipment",
+     "Higher volume (+$2.2B) and price realization (+$663M) outpacing tariff costs"
+    ],
+    "prompt": "Caterpillar's operating margin rose to 20.4% from 17.3% on 17% sales growth. What mainly drove the improvement?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-29-07",
+    "subindustry": "industrial-machinery"
+   },
+   {
+    "answer": 1,
+    "explanation": "Operating ratio is operating costs divided by revenue, so 59.1% leaves roughly 41 cents of each dollar as operating profit. It is not a profit margin of 59%, which is the tempting misreading.",
+    "id": "2026-10-23:q05",
+    "kind": "review",
+    "options": [
+     "Cars carried are 59.1% full",
+     "About 59 cents of each revenue dollar goes to operating costs, so lower is better",
+     "Profit margin is 59.1%",
+     "Fuel is 59% of costs"
+    ],
+    "prompt": "Union Pacific's operating ratio was 59.1%. What does that number tell you?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-10-23-05",
+    "subindustry": "transport-logistics"
+   },
+   {
+    "answer": 1,
+    "explanation": "Steel profit is the selling price minus production cost, so a modest move in either one changes earnings a lot. The new guidance sits roughly 15% to 28% above the old range.",
+    "id": "2026-10-26:q06",
+    "kind": "review",
+    "options": [
+     "Headcount and payroll costs",
+     "The gap between steel prices and the cost of inputs and energy",
+     "Government subsidy payments",
+     "Interest on its debt"
+    ],
+    "prompt": "BlueScope raised first-half profit guidance to about A$1.1B from A$860 to 960 million. What mainly drives such swings in steelmaker profit?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-26-05",
+    "subindustry": "metals-mining"
+   },
+   {
+    "answer": 2,
+    "explanation": "Shares had risen sharply since the August topline news and analysts expected a 40-50% benefit, so a 42% result left no room for surprise. The trial did meet its goals, which rules out failure, and Merck fell far less than Moderna.",
+    "id": "2026-10-23:q02",
+    "kind": "review",
+    "options": [
+     "The trial failed its main goal",
+     "Merck withdrew from the partnership",
+     "The stock had run up on hopes of an even better result, so good data disappointed",
+     "The vaccine was found to be unsafe"
+    ],
+    "prompt": "Moderna's vaccine cut melanoma recurrence or death risk by 42%, yet its stock fell about 18%. What best explains the fall?",
+    "sector": "healthcare",
+    "storyId": "2026-10-23-03",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 0,
+    "explanation": "Sales usually fall sharply after exclusivity ends, so companies buy biotechs and develop new drugs, and sometimes reformulate, as Merck is doing with Keytruda Qlex. Cutting research makes the gap worse.",
+    "id": "2026-10-29:q10",
+    "kind": "profile",
+    "options": [
+     "Buy or develop replacement drugs and reformulate the product to defend sales",
+     "Cut research spending to protect profit",
+     "Raise the price of the drug before expiry",
+     "Wait, since sales usually stay stable after expiry"
+    ],
+    "prompt": "A drugmaker's best-selling product loses patent protection in 2028. Which response best fits how the industry works?",
+    "sector": "healthcare",
+    "storyId": null,
+    "subindustry": "pharma-biotech"
+   }
+  ]
  }
 }

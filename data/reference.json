@@ -34,6 +34,23 @@
    "ticker": "Private (Enlightenment Capital; Maximus deal pending)",
    "updated": "2026-10-25"
   },
+  "alphabet": {
+   "businessModel": "Earns most revenue from advertising on Google Search and YouTube, and sells cloud computing, AI tools and subscriptions. Also funds long-term bets such as Waymo.",
+   "competitors": [
+    "Meta",
+    "Microsoft",
+    "Amazon",
+    "Apple",
+    "OpenAI"
+   ],
+   "hq": "Mountain View, CA",
+   "name": "Alphabet",
+   "sector": "tmt",
+   "size": "Q3 2026 revenue $127.6B; revenue about $400B/yr run-rate",
+   "subindustry": "internet-platforms",
+   "ticker": "NASDAQ: GOOGL",
+   "updated": "2026-10-29"
+  },
   "amazon": {
    "businessModel": "Earns revenue from online retail, third-party seller fees, advertising and subscriptions (Prime), while most operating profit comes from AWS cloud computing.",
    "competitors": [
@@ -282,6 +299,23 @@
    "ticker": "Nasdaq: CDNS",
    "updated": "2026-10-28"
   },
+  "caterpillar": {
+   "businessModel": "Builds construction, mining and power equipment, then earns from parts, service and financing on the machines it has sold.",
+   "competitors": [
+    "Komatsu",
+    "Deere",
+    "Volvo Construction Equipment",
+    "Cummins",
+    "Hitachi Construction Machinery"
+   ],
+   "hq": "Irving, TX",
+   "name": "Caterpillar",
+   "sector": "advanced-industries",
+   "size": "Q3 2026 sales and revenues $20.7B",
+   "subindustry": "industrial-machinery",
+   "ticker": "NYSE: CAT",
+   "updated": "2026-10-29"
+  },
   "challenger": {
    "businessModel": "Sells annuities that pay guaranteed retirement income and invests the premiums in bonds and loans, earning the spread; it also runs an asset management arm for fees.",
    "competitors": [
@@ -435,6 +469,56 @@
    "ticker": "ETR: DTE",
    "updated": "2026-10-20"
   },
+  "eli-lilly": {
+   "businessModel": "Develops and sells patented prescription drugs, led by the Mounjaro and Zepbound obesity and diabetes medicines, and earns high margins until patents expire.",
+   "competitors": [
+    "Novo Nordisk",
+    "Pfizer",
+    "Merck",
+    "AbbVie",
+    "Roche"
+   ],
+   "hq": "Indianapolis, IN",
+   "name": "Eli Lilly",
+   "sector": "healthcare",
+   "size": "2026 revenue guidance $91-92B",
+   "subindustry": "pharma-biotech",
+   "ticker": "NYSE: LLY",
+   "updated": "2026-10-29"
+  },
+  "enphase-energy": {
+   "businessModel": "Sells microinverters, batteries and software for home solar systems, mostly through installers and distributors.",
+   "competitors": [
+    "SolarEdge",
+    "Tesla Energy",
+    "SMA Solar",
+    "Sungrow",
+    "Huawei"
+   ],
+   "hq": "Fremont, CA",
+   "name": "Enphase Energy",
+   "sector": "energy-materials",
+   "size": "Q3 2026 revenue $293.3M",
+   "subindustry": "renewables-transition",
+   "ticker": "NASDAQ: ENPH",
+   "updated": "2026-10-29"
+  },
+  "enstar-group": {
+   "businessModel": "Buys run-off insurance and reinsurance portfolios and earns by settling claims for less than reserved and investing the assets.",
+   "competitors": [
+    "RiverStone",
+    "Compre",
+    "Fortitude Re",
+    "Resolute"
+   ],
+   "hq": "Hamilton, Bermuda",
+   "name": "Enstar Group",
+   "sector": "financial-services",
+   "size": "Not confirmed from sources",
+   "subindustry": "insurance",
+   "ticker": "Private (Sixth Street, since 2025; approx.)",
+   "updated": "2026-10-29"
+  },
   "eqt": {
    "businessModel": "Raises funds from pension plans and other investors, buys companies and infrastructure assets, and earns management fees plus a share of profits when assets are sold.",
    "competitors": [
@@ -484,6 +568,23 @@
    "subindustry": "aerospace-defense",
    "ticker": "NYSE: GE",
    "updated": "2026-10-20"
+  },
+  "ge-vernova": {
+   "businessModel": "Makes gas turbines, wind turbines and grid equipment for utilities, and earns recurring revenue from servicing the installed base.",
+   "competitors": [
+    "Siemens Energy",
+    "Mitsubishi Heavy Industries",
+    "Hitachi Energy",
+    "Schneider Electric",
+    "Vestas"
+   ],
+   "hq": "Cambridge, MA",
+   "name": "GE Vernova",
+   "sector": "energy-materials",
+   "size": "Q3 2026 orders $29.3B; cash about $17B",
+   "subindustry": "power-utilities",
+   "ticker": "NYSE: GEV",
+   "updated": "2026-10-29"
   },
   "general-motors": {
    "businessModel": "Designs, builds and sells cars, trucks and SUVs (Chevrolet, GMC, Buick, Cadillac), with most profit from full-size pickups and SUVs in North America. GM Financial earns interest on auto loans and leases.",
@@ -657,6 +758,23 @@
    "ticker": "NYSE: JNJ",
    "updated": "2026-10-19"
   },
+  "landstar-system": {
+   "businessModel": "Runs an asset-light freight network where independent truck owners haul loads it brokers, keeping a share of each shipment's revenue.",
+   "competitors": [
+    "C.H. Robinson",
+    "J.B. Hunt",
+    "XPO",
+    "Knight-Swift",
+    "Schneider"
+   ],
+   "hq": "Jacksonville, FL",
+   "name": "Landstar System",
+   "sector": "infrastructure-logistics",
+   "size": "Q3 2026 revenue $1.51B",
+   "subindustry": "transport-logistics",
+   "ticker": "NASDAQ: LSTR",
+   "updated": "2026-10-29"
+  },
   "logan-energy": {
    "businessModel": "Canadian producer that develops oil-rich Montney acreage in Alberta and sells oil, condensate and gas.",
    "competitors": [
@@ -690,6 +808,23 @@
    "subindustry": "payments-fintech",
    "ticker": "LSE: LSEG",
    "updated": "2026-10-22"
+  },
+  "markel-group": {
+   "businessModel": "Underwrites specialty insurance and reinsurance, invests the premiums, and owns a group of non-insurance businesses.",
+   "competitors": [
+    "W. R. Berkley",
+    "Chubb",
+    "Arch Capital",
+    "Travelers",
+    "AIG"
+   ],
+   "hq": "Richmond, VA",
+   "name": "Markel Group",
+   "sector": "financial-services",
+   "size": "Not confirmed from sources",
+   "subindustry": "insurance",
+   "ticker": "NYSE: MKL",
+   "updated": "2026-10-29"
   },
   "mastercard": {
    "businessModel": "Runs a card payment network and charges small fees on each transaction and on cross-border volume; it does not lend money. Also sells fraud, data and security services.",
@@ -1255,6 +1390,22 @@
    "ticker": "BME: TEF",
    "updated": "2026-10-20"
   },
+  "teradyne": {
+   "businessModel": "Makes automated test equipment for semiconductors and electronics, plus industrial robots, and earns from machine sales and service.",
+   "competitors": [
+    "Advantest",
+    "Cohu",
+    "FormFactor",
+    "National Instruments (Emerson)"
+   ],
+   "hq": "North Reading, MA",
+   "name": "Teradyne",
+   "sector": "tmt",
+   "size": "Q3 2026 revenue $1.31B",
+   "subindustry": "semiconductors",
+   "ticker": "NASDAQ: TER",
+   "updated": "2026-10-29"
+  },
   "tesla": {
    "businessModel": "Sells electric cars and SUVs directly to buyers, plus battery energy storage, solar, charging, software subscriptions such as Full Self-Driving, and services. It is investing heavily in robotaxis and the Optimus humanoid robot.",
    "competitors": [
@@ -1325,6 +1476,23 @@
    "subindustry": "payments-fintech",
    "ticker": "NASDAQ: TW",
    "updated": "2026-10-25"
+  },
+  "trench-group": {
+   "businessModel": "Makes high-voltage grid equipment for utilities and grid operators, such as instrument transformers and bushings, and sells it by project.",
+   "competitors": [
+    "Hitachi Energy",
+    "Siemens Energy",
+    "GE Vernova",
+    "ABB",
+    "Arteche"
+   ],
+   "hq": "Germany",
+   "name": "Trench Group",
+   "sector": "energy-materials",
+   "size": "Deal value $9.0B (~EUR 8B)",
+   "subindustry": "power-utilities",
+   "ticker": "Private (owner not stated in sources)",
+   "updated": "2026-10-29"
   },
   "trivium-packaging": {
    "businessModel": "Makes metal packaging such as food, seafood and pet food cans and aerosol containers for food, beauty and personal care brands in Europe and the Americas.",
@@ -1425,6 +1593,23 @@
    "ticker": "NYSE: VZ",
    "updated": "2026-10-26"
   },
+  "vertiv": {
+   "businessModel": "Sells power, cooling and monitoring equipment and services for data centers, earning from product sales and recurring service contracts.",
+   "competitors": [
+    "Schneider Electric",
+    "Eaton",
+    "ABB",
+    "Siemens",
+    "Johnson Controls"
+   ],
+   "hq": "Westerville, OH",
+   "name": "Vertiv",
+   "sector": "advanced-industries",
+   "size": "2026 net sales guidance $14.45-14.85B",
+   "subindustry": "industrial-machinery",
+   "ticker": "NYSE: VRT",
+   "updated": "2026-10-29"
+  },
   "visa": {
    "businessModel": "Earns fees for authorizing, clearing and settling card payments between banks, with extra fees on cross-border transactions; banks issue the cards and take the credit risk.",
    "competitors": [
@@ -1476,6 +1661,23 @@
    "subindustry": "insurance",
    "ticker": "NYSE: WRB",
    "updated": "2026-10-20"
+  },
+  "wendys": {
+   "businessModel": "Franchises fast-food restaurants, earning royalties and rent from franchisees and sales from a small number of company-owned restaurants.",
+   "competitors": [
+    "McDonald's",
+    "Burger King (Restaurant Brands)",
+    "Chick-fil-A",
+    "Jack in the Box",
+    "Shake Shack"
+   ],
+   "hq": "Dublin, OH",
+   "name": "Wendy's",
+   "sector": "consumer-retail",
+   "size": "Revenue about $2B/yr (approx., 2025)",
+   "subindustry": "travel-hospitality",
+   "ticker": "NASDAQ: WEN",
+   "updated": "2026-10-29"
   },
   "western-digital": {
    "businessModel": "Makes hard disk drives, mostly high-capacity drives sold to cloud data centers for storing data cheaply at scale.",
@@ -2036,9 +2238,32 @@
    ]
   },
   "industrial-machinery": {
+   "economicsOn": "valueChain",
+   "keyFigures": [
+    {
+     "label": "Global machine-tool market",
+     "note": "+5% in 2025 · VDW",
+     "value": "~EUR 25B"
+    },
+    {
+     "label": "China's share of machine-tool consumption",
+     "note": "2025 · VDW",
+     "value": "~32%"
+    },
+    {
+     "label": "China, Germany and Japan share of machine-tool output",
+     "note": "2025 · VDW",
+     "value": "~58%"
+    },
+    {
+     "label": "Global machinery production",
+     "note": "Change in 2024 · industry survey",
+     "value": "-2.1%"
+    }
+   ],
    "kpis": [
     "Organic growth",
-    "Operating margin (often 15-25% for top players)",
+    "Operating margin; often 15-25% for top players",
     "Book-to-bill and backlog",
     "Aftermarket share of revenue"
    ],
@@ -2049,15 +2274,49 @@
     "usNote": "US machinery shipments (est., 2024)"
    },
    "operatingModel": "Companies earn margins on equipment sales and higher, steadier margins on aftermarket parts and service. Pricing power comes from engineering know-how and installed base, and productivity programs drive margin expansion.",
-   "overview": "Industrial machinery covers companies that make equipment and components used by factories, construction, mining, energy and data centers, from engines and pumps to robots, tools and specialty materials. Customers buy this equipment when they invest, so sales follow the capital spending cycle. Many firms earn steady extra revenue from parts and service on the machines they have already sold.",
+   "overview": "Industrial machinery covers companies that make equipment and components for factories, construction, mining, energy and data centers. Customers buy it when they invest, so sales follow the capital spending cycle. The best businesses earn steadier, higher-margin revenue from parts and service on machines already installed. Data center power and cooling are the current growth driver, while tariffs and weak investment in other markets are the main drags.",
    "players": [
     "Diversified industrials: Honeywell, 3M, Siemens, ABB, Emerson",
     "Heavy equipment: Caterpillar, Deere, Komatsu",
     "Electrical and power equipment: Eaton, Schneider Electric, Vertiv",
     "Structure: fragmented across niches, each often led by 2-3 global players"
    ],
-   "profileUpdated": "2026-10-20",
+   "profileUpdated": "2026-10-29",
    "sector": "advanced-industries",
+   "segments": {
+    "items": [
+     {
+      "leaders": "Domestic makers · DMG Mori · Mazak",
+      "name": "China",
+      "share": "~32%",
+      "sharePct": 32,
+      "what": "The largest buyer and producer, with domestic firms gaining ground."
+     },
+     {
+      "leaders": "Mazak · Haas · DMG Mori",
+      "name": "United States",
+      "share": "~14%",
+      "sharePct": 14,
+      "what": "Second-largest market at EUR 11.1 billion, helped by reshoring."
+     },
+     {
+      "leaders": "Trumpf · DMG Mori · Chiron",
+      "name": "Germany",
+      "share": "~6%",
+      "sharePct": 6,
+      "what": "A leading exporter, but a smaller home market."
+     },
+     {
+      "leaders": "Imports · Indian makers",
+      "name": "India",
+      "share": "~5%",
+      "sharePct": 5,
+      "what": "A fast-growing buyer as manufacturing expands."
+     }
+    ],
+    "title": "Share of global machine-tool consumption, by country (2025, VDW)"
+   },
+   "summary": "Industrial machinery covers companies that make equipment and components for factories, construction, mining, energy and data centers. Customers buy it when they invest, so sales follow the capital spending cycle. The best businesses earn steadier, higher-margin revenue from parts and service on machines already installed. Data center power and cooling are the current growth driver, while tariffs and weak investment in other markets are the main drags.",
    "threats": [
     "A capital spending downturn",
     "Tariffs on imported components",
@@ -2070,6 +2329,90 @@
     "Automation and robotics to offset labor shortages",
     "Conglomerates are breaking up into focused companies",
     "Shift toward recurring service and software revenue"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "Data center buildouts are lifting demand for power generation, cooling and electrical equipment: Vertiv's sales rose 61% and Caterpillar's power generation sales 30% in the latest quarter."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Record backlogs let makers raise prices; Caterpillar's pricing added $663 million in a quarter."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Reshoring and US factory investment support domestic demand."
+    },
+    {
+     "kind": "headwind",
+     "text": "Global machinery production fell 2.1% in 2024, showing the cycle can turn."
+    },
+    {
+     "kind": "headwind",
+     "text": "Tariffs raise material costs for makers such as Caterpillar's mining segment."
+    },
+    {
+     "kind": "headwind",
+     "text": "Reliance on a few AI spenders concentrates risk if they slow."
+    }
+   ],
+   "valueChain": [
+    {
+     "cost": "metal and electronics prices, tariffs",
+     "name": "Materials and components",
+     "players": "Cummins · Bosch Rexroth · Parker Hannifin",
+     "revenue": "component sales to machine builders",
+     "takeaway": {
+      "label": "Exposed to input costs",
+      "why": "Steel and tariffs move margin and are hard to pass on at once."
+     },
+     "what": "Steel, castings, electronics and engines go into the machine."
+    },
+    {
+     "cost": "materials, labor and R&D",
+     "name": "Machine builders",
+     "players": "Caterpillar · Deere · Siemens",
+     "revenue": "equipment sales, priced by project or model",
+     "takeaway": {
+      "label": "Cyclical",
+      "why": "Customers cut orders fast when profits or credit tighten."
+     },
+     "what": "Design, assemble and sell the equipment."
+    },
+    {
+     "cost": "inventory and service staff",
+     "name": "Dealers and distribution",
+     "players": "Caterpillar dealers · Finning · Toromont",
+     "revenue": "sale margins, rental and financing",
+     "takeaway": {
+      "label": "Steady",
+      "why": "Service and rental smooth out sales swings."
+     },
+     "what": "Local sellers deliver, finance and support machines."
+    },
+    {
+     "cost": "technicians and parts inventory",
+     "highlight": true,
+     "name": "Aftermarket parts and service",
+     "players": "Caterpillar · Vertiv · Honeywell",
+     "revenue": "parts and service contracts over a decades-long life",
+     "takeaway": {
+      "label": "Largest profit pool",
+      "why": "Revenue repeats for years and margins are higher than on new machines."
+     },
+     "what": "Sell parts, repairs and upgrades over the machine's life."
+    },
+    {
+     "cost": "equipment is a large capital outlay",
+     "name": "End customers",
+     "players": "Hyperscalers · mining groups · contractors",
+     "revenue": "their own sales fund orders",
+     "takeaway": {
+      "label": "Capex driven",
+      "why": "Orders follow their investment plans, such as data center buildouts."
+     },
+     "what": "Factories, miners, builders, utilities and data center operators."
+    }
    ]
   },
   "insurance": {
@@ -3092,11 +3435,34 @@
    ]
   },
   "pharma-biotech": {
+   "economicsOn": "segments",
+   "keyFigures": [
+    {
+     "label": "Global medicine spending",
+     "note": "2024, approx. · IQVIA",
+     "value": "~$1.6T"
+    },
+    {
+     "label": "Forecast for 2030",
+     "note": "Growth of 5-8% a year · IQVIA, 2026",
+     "value": ">$2.6T"
+    },
+    {
+     "label": "US net price growth forecast",
+     "note": "Through 2030 · IQVIA, 2026",
+     "value": "4-7%/yr"
+    },
+    {
+     "label": "US rebates and concessions",
+     "note": "Of invoice value · IQVIA, 2026",
+     "value": "~46%"
+    }
+   ],
    "kpis": [
-    "R&D as % of sales",
-    "Loss of exclusivity (LOE) dates",
-    "Phase success rates (~10% of drugs entering trials reach approval)",
-    "Pipeline value per late-stage asset"
+    "R&D as a share of sales",
+    "Loss-of-exclusivity (patent expiry) dates",
+    "Phase success rates; about 10% of drugs entering trials reach approval",
+    "Net price versus list price (rebates)"
    ],
    "marketSize": {
     "global": "~$1.6T",
@@ -3105,14 +3471,69 @@
     "usNote": "US net spending on medicines after rebates (IQVIA, 2024 approx.)"
    },
    "operatingModel": "Companies spend 15–25% of revenue on R&D for a few patented drugs earning very high margins until patents expire, then sales drop sharply. They buy biotechs to refill pipelines.",
-   "overview": "Discovering, developing and selling prescription drugs, from small molecules to biologics, cell and gene therapies.",
+   "overview": "The pharmaceutical industry finds, tests, makes and sells prescription medicines. A small number of patented drugs earn most of the profit, which funds expensive research where most candidates fail. When patents expire, sales fall sharply, so big companies keep buying smaller biotechs to refill their pipelines. Obesity drugs and cancer treatments are the biggest growth areas, while US price pressure and the patent cliff are the main risks.",
    "players": [
     "Eli Lilly (most valuable), Johnson & Johnson, Novo Nordisk, Merck, AbbVie, Roche, AstraZeneca, Pfizer",
     "Biotech: Amgen, Gilead, Vertex, Regeneron",
     "Fragmented: the top 10 companies hold roughly 40% of sales"
    ],
-   "profileUpdated": "2026-10-19",
+   "profileUpdated": "2026-10-29",
    "sector": "healthcare",
+   "segments": {
+    "items": [
+     {
+      "cost": "late-stage trials and sales force",
+      "growth": "steady",
+      "highlight": true,
+      "leaders": "Merck · Bristol Myers Squibb · AbbVie",
+      "name": "Cancer and immunology brands",
+      "revenue": "patented brand sales, often one drug supporting most of the company",
+      "takeaway": {
+       "label": "Patent cliff",
+       "why": "Sales fall sharply when exclusivity ends, so firms race to replace the drug."
+      },
+      "what": "Keytruda sold $8.6 billion in one quarter; patents begin to expire from 2028."
+     },
+     {
+      "cost": "manufacturing capacity and large trials",
+      "growth": "fast",
+      "leaders": "Eli Lilly · Novo Nordisk",
+      "name": "Obesity and diabetes",
+      "revenue": "high-volume prescriptions from a large patient pool",
+      "takeaway": {
+       "label": "Volume over price",
+       "why": "Prices per prescription fall, but patient numbers grow faster."
+      },
+      "what": "Lilly's Mounjaro and Zepbound sold $16.1 billion in one quarter, with volume up 53% and price down 15%."
+     },
+     {
+      "cost": "manufacturing and price competition",
+      "growth": "slow",
+      "leaders": "Teva · Sandoz · Viatris",
+      "name": "Generics and biosimilars",
+      "revenue": "high-volume sales at low unit prices",
+      "takeaway": {
+       "label": "Thin margins",
+       "why": "Many sellers compete on price, so margins are low."
+      },
+      "what": "Copies of drugs whose patents have expired, sold at far lower prices."
+     },
+     {
+      "cost": "research with no guarantee of success",
+      "growth": "varies",
+      "leaders": "Amgen · Vertex · Regeneron",
+      "name": "Biotech innovators",
+      "revenue": "milestone payments and early product sales",
+      "takeaway": {
+       "label": "High risk, high reward",
+       "why": "Most candidates fail, but successes can be sold at large premiums."
+      },
+      "what": "Smaller firms with one or a few drugs, often acquired by larger companies."
+     }
+    ],
+    "title": "Main drug categories and what drives their sales"
+   },
+   "summary": "The pharmaceutical industry finds, tests, makes and sells prescription medicines. A small number of patented drugs earn most of the profit, which funds expensive research where most candidates fail. When patents expire, sales fall sharply, so big companies keep buying smaller biotechs to refill their pipelines. Obesity drugs and cancer treatments are the biggest growth areas, while US price pressure and the patent cliff are the main risks.",
    "threats": [
     "Price controls and tariffs",
     "Patent expirations and biosimilars",
@@ -3125,6 +3546,59 @@
     "US pricing pressure: Medicare negotiation and most-favored-nation pricing deals",
     "Tariffs push companies to build US manufacturing",
     "Conglomerates splitting into focused businesses"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "Obesity drugs are one of the largest new drug markets, with Lilly raising 2026 revenue guidance to $91-92 billion."
+    },
+    {
+     "kind": "tailwind",
+     "text": "IQVIA expects global medicine spending to pass $2.6 trillion by 2030, growing 5-8% a year."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Reformulated products such as Merck's Keytruda Qlex can defend sales as patents near expiry."
+    },
+    {
+     "kind": "headwind",
+     "text": "Patents on many blockbusters expire by 2030, driving big acquisitions."
+    },
+    {
+     "kind": "headwind",
+     "text": "US rebates and government negotiation offset nearly half of invoice value."
+    },
+    {
+     "kind": "headwind",
+     "text": "Buying early-stage drugs is expensed at once, as Lilly's $4.57 per share charge showed."
+    }
+   ],
+   "valueChain": [
+    {
+     "name": "Research and discovery",
+     "players": "Roche · Merck · Eli Lilly",
+     "what": "Find drug targets and candidate molecules."
+    },
+    {
+     "name": "Clinical trials and approval",
+     "players": "Pfizer · AstraZeneca · IQVIA (trial services)",
+     "what": "Test safety and effectiveness, then win regulator approval."
+    },
+    {
+     "name": "Manufacturing",
+     "players": "Lonza · Samsung Biologics · Eli Lilly",
+     "what": "Make the drug at scale, in-house or through contract makers."
+    },
+    {
+     "name": "Pricing and payers",
+     "players": "UnitedHealth (Optum Rx) · CVS · Medicare",
+     "what": "Insurers, benefit managers and governments negotiate price and coverage."
+    },
+    {
+     "name": "Distribution and patients",
+     "players": "McKesson · Cencora · Cardinal Health",
+     "what": "Wholesalers, pharmacies and doctors get the drug to patients."
+    }
    ]
   },
   "power-utilities": {
@@ -3375,6 +3849,152 @@
     "Data centers are the hottest asset class, constrained by power",
     "Industrial and logistics construction is cooling after the e-commerce boom",
     "Labor shortages and tariffs raise building costs"
+   ]
+  },
+  "renewables-transition": {
+   "economicsOn": "valueChain",
+   "keyFigures": [
+    {
+     "label": "Renewable capacity added in 2025",
+     "note": "Record, +16% on 2024 · IEA",
+     "value": "~800 GW"
+    },
+    {
+     "label": "Solar PV added",
+     "note": "2025 · IEA",
+     "value": "605 GW"
+    },
+    {
+     "label": "Battery storage added",
+     "note": "+40% on 2024, 2025 · IEA",
+     "value": "108 GW"
+    },
+    {
+     "label": "Renewables' share of installed power capacity",
+     "note": "End of 2025 · IRENA",
+     "value": "~49%"
+    }
+   ],
+   "kpis": [
+    "Capacity added per year (GW)",
+    "Levelized cost of electricity ($/MWh)",
+    "Share of generation from solar and wind",
+    "Interconnection queue length and wait time"
+   ],
+   "overview": "Renewables and the energy transition cover the businesses that make solar panels, wind turbines, inverters and batteries, and the developers and owners that turn them into power plants. Equipment makers earn from product sales, while owners earn long-term revenue from selling electricity under contracts. Solar dominates new capacity and batteries are the fastest-growing piece, while policy changes and tariffs make demand uneven by country and by customer type.",
+   "profileUpdated": "2026-10-29",
+   "sector": "energy-materials",
+   "segments": {
+    "items": [
+     {
+      "growth": "fast",
+      "leaders": "China · India · US",
+      "name": "Solar PV",
+      "share": "~76%",
+      "sharePct": 76,
+      "what": "605 GW of new solar made it the cheapest and quickest source to add."
+     },
+     {
+      "leaders": "China · US · Europe",
+      "name": "Wind",
+      "share": "~20%",
+      "sharePct": 20,
+      "what": "159 GW added; offshore projects are slower and costlier than onshore."
+     },
+     {
+      "leaders": "Hydropower · bioenergy · geothermal",
+      "name": "Other renewables",
+      "share": "~4%",
+      "sharePct": 4,
+      "what": "33 GW added, mostly hydropower and bioenergy."
+     }
+    ],
+    "title": "Share of global renewable capacity added in 2025, by technology (IEA, ~797 GW total)"
+   },
+   "summary": "Renewables and the energy transition cover the businesses that make solar panels, wind turbines, inverters and batteries, and the developers and owners that turn them into power plants. Equipment makers earn from product sales, while owners earn long-term revenue from selling electricity under contracts. Solar dominates new capacity and batteries are the fastest-growing piece, while policy changes and tariffs make demand uneven by country and by customer type.",
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "Solar and wind make up about 96% of renewable additions, and the IEA expects additions to reach nearly 890 GW by 2030."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Battery storage is the fastest-growing power technology, adding about 108 GW in 2025."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Power demand from data centers and electrification is drawing more projects."
+    },
+    {
+     "kind": "headwind",
+     "text": "Residential solar is weakening in the US and Europe, as shown by Enphase guiding Q4 revenue to $225-255 million."
+    },
+    {
+     "kind": "headwind",
+     "text": "Tariffs and changing subsidies raise costs and make demand uneven by country."
+    },
+    {
+     "kind": "headwind",
+     "text": "Grid connection queues and permitting delays slow projects that are ready to build."
+    }
+   ],
+   "valueChain": [
+    {
+     "cost": "materials, factory capacity, tariffs and R&D",
+     "name": "Equipment makers",
+     "players": "LONGi · Vestas · Sungrow · Enphase",
+     "revenue": "product sales, priced per watt or per unit",
+     "takeaway": {
+      "label": "Thin, cyclical margins",
+      "why": "Prices fall fast when supply exceeds demand, and tariffs add cost."
+     },
+     "what": "Build the panels, turbines, inverters and batteries."
+    },
+    {
+     "cost": "permitting, grid connection, financing and construction",
+     "name": "Project developers",
+     "players": "NextEra Energy Resources · Iberdrola · Orsted",
+     "revenue": "development fees and gains from selling or operating projects",
+     "takeaway": {
+      "label": "Policy-dependent",
+      "why": "Permits, grid queues and subsidies decide which projects get built."
+     },
+     "what": "Find sites, win permits and grid connections, and arrange financing."
+    },
+    {
+     "cost": "debt interest and plant maintenance",
+     "highlight": true,
+     "name": "Owners and operators",
+     "players": "Brookfield Renewable · NextEra · RWE",
+     "revenue": "electricity sales under long-term contracts",
+     "takeaway": {
+      "label": "Largest stable profit pool",
+      "why": "Contracted revenue is steady, but returns depend on cheap financing."
+     },
+     "what": "Own the plants and sell power, usually under long-term contracts."
+    },
+    {
+     "cost": "battery cells, power electronics and installation",
+     "name": "Storage and grid",
+     "players": "Tesla Energy · Fluence · GE Vernova",
+     "revenue": "equipment sales, plus fees for capacity and balancing the grid",
+     "takeaway": {
+      "label": "Fast growth",
+      "why": "Batteries added about 40% more capacity in 2025, helping solar and wind fit the grid."
+     },
+     "what": "Batteries and wires that move or hold the power until it is needed."
+    },
+    {
+     "cost": "power bills or upfront system cost",
+     "name": "Customers",
+     "players": "Utilities · data center operators · homeowners",
+     "revenue": "payments for power or system purchases",
+     "takeaway": {
+      "label": "Varies by segment",
+      "why": "Utility-scale demand is strong while rooftop solar is weaker in the US and Europe."
+     },
+     "what": "Utilities, companies and households that buy the power or systems."
+    }
    ]
   },
   "semiconductors": {

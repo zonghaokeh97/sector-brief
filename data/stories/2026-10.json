@@ -2379,5 +2379,397 @@
   "subindustry": "macro",
   "summary": "US stocks gained on Tuesday as oil eased on hopes of Middle East talks: the S&P 500 ETF rose 0.56% and the Nasdaq 100 ETF 1.27%, while Brent fell about 1.5% to near $114 after Iran's envoy said Tehran had proposed a seven-day plan to reopen the Strait of Hormuz. The Federal Reserve began a two-day meeting with a decision due Wednesday afternoon, and markets priced nearly 99% odds of no change. Futures also implied roughly a 56% chance of at least 75 basis points of rate hikes by September 2027. The 10-year Treasury yield was about 5.00%.",
   "tags": []
+ },
+ "2026-10-29-01": {
+  "companies": [],
+  "date": "2026-10-29",
+  "headline": "Fed holds rates at 3.75% to 4% in a 10-2 vote, with two officials wanting another hike",
+  "numbers": [
+   "Fed funds range: 3.75% to 4.00%",
+   "Vote: 10-2 (both dissents for a hike)",
+   "Odds of a December hike: ~85%",
+   "10-year Treasury yield: ~5%"
+  ],
+  "order": 1,
+  "sector": "macro",
+  "soWhat": "Markets are now debating how many more hikes come, not when cuts start. Borrowers with floating-rate or refinancing needs, such as homebuyers, leveraged companies and commercial property owners, lose most when yields stay near 5%. Savers and lenders earning wider spreads gain. The open question is whether inflation cools enough for the Fed to stop before December.",
+  "sources": [
+   {
+    "title": "FOMC holds rates steady, markets mostly follow suit (US News)",
+    "url": "https://money.usnews.com/investing/news/articles/2026-10-28/fomc-holds-rates-steady-markets-mostly-follow-suit"
+   },
+   {
+    "title": "Warsh press conference: Fed holds rates in a 10-2 vote (Admirals)",
+    "url": "https://admiralmarkets.com/analytics/traders-blog/warsh-press-conference-october-2026"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "The Federal Reserve left its target range at 3.75% to 4% on October 28, after raising it by a quarter point in September. Two officials, Governor Lisa Cook and Cleveland Fed President Beth Hammack, voted for an immediate hike. Chair Kevin Warsh said growth is strong and inflation is too high, and gave little signal about December. Futures priced about an 85% chance of a quarter-point hike on December 9, the 10-year Treasury yield sat near 5%, and US stocks finished slightly higher. The Fed also said that from autumn 2027 one of its eight yearly meetings will focus on strategy, with no rate vote.",
+  "tags": []
+ },
+ "2026-10-29-02": {
+  "companies": [
+   "microsoft"
+  ],
+  "date": "2026-10-29",
+  "headline": "Microsoft's Azure grows 48% as revenue rises 19% to $92.3 billion, but capacity still limits sales",
+  "numbers": [
+   "Revenue: $92.3B (+19%)",
+   "Azure growth: 48%",
+   "Capex: $45.2B in the quarter",
+   "Calendar 2026 capex: ~$170B"
+  ],
+  "order": 2,
+  "sector": "tmt",
+  "soWhat": "Cloud providers sell computing capacity, so revenue is capped by how fast they can build data centers and buy chips. Microsoft's beat shows AI demand is real enough to absorb record spending, which benefits chip, power and cooling suppliers. The consumer-linked parts of the business are shrinking, so growth depends more heavily on enterprise cloud. The open question is whether returns on this spending hold up once supply catches up.",
+  "sources": [
+   {
+    "title": "Microsoft's cloud growth accelerates, and so too does the spending (Fortune)",
+    "url": "https://fortune.com/2026/10/28/microsofts-cloud-growth-accelerates-and-so-too-does-the-spending/"
+   },
+   {
+    "title": "Stock market today live, October 28, 2026 (StockTitan)",
+    "url": "https://stocktitan.net/articles/stock-market-today-live-october-28-2026"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Microsoft reported quarterly revenue of $92.3 billion, up 19%, with Azure cloud revenue growing 48%, faster than the 44% to 45% it had forecast. Capital spending was $45.2 billion, below what analysts expected because some third-party capacity deliveries slipped. The finance chief said demand still exceeds supply, expects about $170 billion of capital spending in calendar 2026, and guided next-quarter revenue to $96.0 billion to $97.1 billion. Windows OEM and devices revenue fell 22%, and shares rose about 2.5% to 4.9% after hours.",
+  "tags": []
+ },
+ "2026-10-29-03": {
+  "companies": [
+   "alphabet"
+  ],
+  "date": "2026-10-29",
+  "headline": "Alphabet's cloud revenue doubles but shares fall about 10% as search slows and free cash flow turns negative",
+  "numbers": [
+   "Revenue: $127.6B (+25%)",
+   "Google Cloud revenue: ~$30.7B (+103%)",
+   "Capex: $51.4B in the quarter",
+   "Free cash flow: -$9.1B"
+  ],
+  "order": 3,
+  "sector": "tmt",
+  "soWhat": "Alphabet is turning from an advertising company into a hybrid with a fast-growing cloud business, but the shift is expensive: building AI capacity has pushed free cash flow below zero. Slower search growth raises the stakes, because search ads still fund the spending. Investors punished the miss even though cloud beat, showing they now judge AI spenders on cash returns, not just growth.",
+  "sources": [
+   {
+    "title": "Stock market today live, October 28, 2026 (StockTitan)",
+    "url": "https://stocktitan.net/articles/stock-market-today-live-october-28-2026"
+   },
+   {
+    "title": "Google and Microsoft missed AI spending estimates in Q3 2026 earnings (Quartz)",
+    "url": "https://qz.com/google-microsoft-ai-spending-estimates-miss-neocloud-stocks-102926"
+   }
+  ],
+  "subindustry": "internet-platforms",
+  "summary": "Alphabet reported revenue up 25% to $127.6 billion and said Google Cloud revenue more than doubled, to about $30.7 billion. Search growth slowed to 12% from 17%. Capital spending was $51.4 billion, below the $55 billion analysts expected, and free cash flow was negative $9.1 billion. The company kept its 2026 capex range of $195 billion to $205 billion and said 2027 spending would rise significantly. Earnings missed estimates and the shares fell about 7% to 11% after hours.",
+  "tags": []
+ },
+ "2026-10-29-04": {
+  "companies": [
+   "ge-vernova",
+   "trench-group"
+  ],
+  "date": "2026-10-29",
+  "headline": "GE Vernova agrees to buy German grid-equipment maker Trench Group for $9 billion",
+  "numbers": [
+   "Deal value: $9.0B (~EUR 8B)",
+   "Funding: 50% cash, 50% debt",
+   "Expected close: late 2027",
+   "GE Vernova Q3 orders: $29.3B"
+  ],
+  "order": 4,
+  "sector": "energy-materials",
+  "soWhat": "Utilities need far more transmission to connect new generation and data centers, and high-voltage equipment such as instrument transformers and bushings is a bottleneck with long lead times. By buying a specialist, GE Vernova adds grid products to its gas turbine and electrification business and gains more of the spending on moving power, not just making it. Rivals such as Siemens Energy, Hitachi Energy and Schneider face a bigger competitor, and the deal still needs regulatory approval.",
+  "sources": [
+   {
+    "title": "GE Vernova Q3 2026 earnings release (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001996810/000199681026000162/gevpressrelease3q26.htm"
+   },
+   {
+    "title": "Stock market today live, October 28, 2026 (StockTitan)",
+    "url": "https://stocktitan.net/articles/stock-market-today-live-october-28-2026"
+   }
+  ],
+  "subindustry": "power-utilities",
+  "summary": "GE Vernova agreed to acquire Trench Group, a maker of high-voltage grid equipment, for $9.0 billion (about 8 billion euros). The price will be funded half with cash and half with debt, and the deal is expected to close in late 2027. GE Vernova also reported third-quarter orders of $29.3 billion, adjusted EBITDA of $1.94 billion at a 15.4% margin, and about $17 billion of cash. Its shares closed down about 1.9%.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-29-05": {
+  "companies": [
+   "eli-lilly"
+  ],
+  "date": "2026-10-29",
+  "headline": "Lilly's quarterly revenue jumps 39% to $24.4 billion and it raises its 2026 sales outlook to $91-92 billion",
+  "numbers": [
+   "Q3 revenue: $24.4B (+39%)",
+   "Mounjaro: $10.7B (+65%)",
+   "Volume +53%, realized price -15%",
+   "2026 revenue guidance: $91-92B"
+  ],
+  "order": 5,
+  "sector": "healthcare",
+  "soWhat": "Lilly shows how the obesity market works: price per prescription is falling under payer and policy pressure, but volume is growing fast enough to more than offset it. Buying early-stage assets is expensed right away, so deal-making lowers reported profit even as sales beat. Competitors such as Novo Nordisk face a rival growing much faster, and the open question is how far net prices keep falling.",
+  "sources": [
+   {
+    "title": "Lilly reports third-quarter 2026 financial results (PR Newswire)",
+    "url": "https://www.prnewswire.com/news-releases/lilly-reports-third-quarter-2026-financial-results-raises-full-year-guidance-and-highlights-regulatory-progress-across-the-portfolio-302922907.html"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "Eli Lilly reported third-quarter revenue of $24.4 billion, up 39%, as volume grew 53% while realized prices fell 15%. Mounjaro sales were $10.7 billion (up 65%) and Zepbound $5.4 billion (up 49%), and the new oral drug Foundayo added $184 million. About $900 million of the quarter came from one-time items such as Jardiance milestones and rebate adjustments. Lilly raised its 2026 revenue guidance to $91 billion to $92 billion from $85 billion to $87 billion, but lowered earnings per share guidance to $35 to $36 because of $4.57 per share of acquired research charges.",
+  "tags": []
+ },
+ "2026-10-29-06": {
+  "companies": [
+   "vertiv"
+  ],
+  "date": "2026-10-29",
+  "headline": "Vertiv's sales jump 61% and orders more than double as data center power and cooling demand accelerates",
+  "numbers": [
+   "Net sales: $4.31B (+61%)",
+   "Organic orders: more than +100%",
+   "Adjusted operating margin: 25.2%",
+   "2026 sales guidance: $14.45-14.85B"
+  ],
+  "order": 6,
+  "sector": "advanced-industries",
+  "soWhat": "Every dollar that cloud companies spend on AI chips requires power conversion, backup and cooling equipment around it, so suppliers like Vertiv sell into the same capex wave as chipmakers. Orders growing faster than sales means a backlog is building, which supports pricing. The risk is concentration: if a few hyperscalers slow spending, the orders could reverse as quickly as they rose.",
+  "sources": [
+   {
+    "title": "Vertiv Q3 2026 earnings release (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001674101/000162828026067707/q32026exhibit991vrt10282026.htm"
+   }
+  ],
+  "subindustry": "industrial-machinery",
+  "summary": "Vertiv, which makes power and cooling systems for data centers, reported third-quarter net sales of $4.31 billion, up 61% and 55% on an organic basis. Organic orders grew more than 100% from a year earlier, and adjusted operating margin rose 2.9 points to 25.2%. The company raised 2026 net sales guidance to $14.45 billion to $14.85 billion. Its chief executive called this the largest infrastructure buildout and said it is accelerating. Shares closed up about 16.6%.",
+  "tags": []
+ },
+ "2026-10-29-07": {
+  "companies": [
+   "caterpillar"
+  ],
+  "date": "2026-10-29",
+  "headline": "Caterpillar's sales rise 17% to $20.7 billion as data center power generation grows 30%",
+  "numbers": [
+   "Sales: $20.7B (+17%)",
+   "Operating margin: 20.4% (from 17.3%)",
+   "Power generation sales: +30%",
+   "Power & Energy margin: 24.4%"
+  ],
+  "order": 7,
+  "sector": "advanced-industries",
+  "soWhat": "Caterpillar is no longer just a construction and mining cyclical: backup and on-site power for data centers is now a major growth driver, and that segment earns the highest margin (24.4%). Price increases outpacing tariff costs lifted overall profitability. Suppliers of engines and turbines are selling into a market where grid connections are slow, which favors equipment buyers can install on site.",
+  "sources": [
+   {
+    "title": "Caterpillar Q3 2026 earnings release (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000018230/000001823026000052/ex991toformcat3q2026earnin.htm"
+   }
+  ],
+  "subindustry": "industrial-machinery",
+  "summary": "Caterpillar reported third-quarter sales and revenues of $20.7 billion, up 17%, with volume adding $2.2 billion and pricing $663 million. Operating margin rose to 20.4% from 17.3%. Power and Energy sales rose 18% to $8.8 billion, with power generation up 30% on turbines and large engines used mostly in data centers. Construction Industries grew 18% and Resource Industries 15%, though tariff-related material costs weighed on the mining and heavy-construction segment. The CEO cited a record backlog.",
+  "tags": []
+ },
+ "2026-10-29-08": {
+  "companies": [
+   "teradyne"
+  ],
+  "date": "2026-10-29",
+  "headline": "Teradyne's revenue jumps 70% to $1.31 billion as AI chips need more testing",
+  "numbers": [
+   "Q3 revenue: $1.306B (+70%)",
+   "Semiconductor Test: $1.07B",
+   "Non-GAAP EPS: $2.29",
+   "Q4 revenue guide: $1.25-1.35B"
+  ],
+  "order": 8,
+  "sector": "tmt",
+  "soWhat": "Chips must be tested before they ship, and AI processors and high-bandwidth memory are bigger and more complex, so each takes more test time and more expensive machines. That makes test equipment makers a leveraged way to benefit from AI chip volume. The business is cyclical, so the open question is how long AI orders keep rising.",
+  "sources": [
+   {
+    "title": "Teradyne Q3 2026 earnings release (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000097210/000119312526434981/ter-ex99_1.htm"
+   },
+   {
+    "title": "Teradyne posts $1.306 billion Q3 revenue as AI demand lifts results (Crypto Briefing)",
+    "url": "https://cryptobriefing.com/teradyne-q3-revenue-ai-demand/"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Teradyne, which makes the equipment used to test chips, reported third-quarter revenue of $1.306 billion, up 70% from a year earlier and above its guidance. Semiconductor Test brought in $1.07 billion, and memory and integrated systems test both set records on AI demand. The robotics unit earned $96 million and became profitable for the first time. Non-GAAP earnings were $2.29 per share, and fourth-quarter revenue is guided to $1.25 billion to $1.35 billion.",
+  "tags": []
+ },
+ "2026-10-29-09": {
+  "companies": [
+   "merck-co"
+  ],
+  "date": "2026-10-29",
+  "headline": "Merck beats estimates and raises its outlook as Keytruda sales reach $8.6 billion",
+  "numbers": [
+   "Revenue: $18.1B (+5%)",
+   "Keytruda + Qlex: $8.6B (+6%)",
+   "Qlex alone: $830M",
+   "2026 sales guidance: $66.8-67.3B"
+  ],
+  "order": 9,
+  "sector": "healthcare",
+  "soWhat": "Keytruda faces patent expiries from 2028, so Merck is moving patients to a new under-the-skin version while it buys new drugs. The strength of Qlex shows that reformulating a drug can help defend its sales. The open question is whether new products can fill the gap before Keytruda sales decline.",
+  "sources": [
+   {
+    "title": "Merck tops quarterly estimates, hikes profit outlook (CNBC)",
+    "url": "https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html"
+   },
+   {
+    "title": "Merck Q3 2026 earnings exceed estimates, raises full-year guidance (KuCoin News)",
+    "url": "https://www.kucoin.com/news/flash/merck-q3-2026-earnings-beat-estimates-raises-full-year-guidance"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "Merck reported third-quarter revenue of $18.1 billion, up 5%, ahead of expectations. Keytruda and its new under-the-skin form Keytruda Qlex had sales of $8.6 billion, up 6%, with Qlex contributing $830 million. About $550 million of the growth came from customers buying ahead of time, which may reduce later quarters. Merck lifted its 2026 sales guidance to $66.8 billion to $67.3 billion and its adjusted earnings guidance to $2.77 to $2.82 per share, which includes a one-time $400 million licensing charge.",
+  "tags": []
+ },
+ "2026-10-29-10": {
+  "companies": [
+   "mastercard"
+  ],
+  "date": "2026-10-29",
+  "headline": "Mastercard's net revenue rises 14% to $9.8 billion with cross-border volume up 11%",
+  "numbers": [
+   "Net revenue: $9.8B (+14%)",
+   "Net income: $4.6B (+18%)",
+   "Cross-border volume: +11%",
+   "Value-added services: ~$4.06B"
+  ],
+  "order": 10,
+  "sector": "financial-services",
+  "soWhat": "A card network earns a small fee on each payment and a larger one on cross-border and currency conversion, so travel and e-commerce volume drive growth. Value-added services such as fraud and data tools now make up over 40% of revenue and are less tied to spending cycles. Rebates to banks and merchants are the main cost and are growing faster than revenue, which is the pressure point in the model.",
+  "sources": [
+   {
+    "title": "Mastercard Q3 2026 earnings release (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001141391/000114139126000122/ma09302026-exx991xearnings.htm"
+   }
+  ],
+  "subindustry": "payments-fintech",
+  "summary": "Mastercard reported third-quarter net revenue of $9.8 billion, up 14%, and net income of $4.6 billion, up 18%. Cross-border volume grew 11% and switched transactions 9%. Payment network revenue was about $5.75 billion and value-added services about $4.06 billion, while rebates and incentives paid to customers rose 18%. Results included $74 million of litigation provisions tied to US merchant class action settlements.",
+  "tags": []
+ },
+ "2026-10-29-11": {
+  "companies": [
+   "wendys"
+  ],
+  "date": "2026-10-29",
+  "headline": "Trian-led group proposes a $7.35-a-share cash buyout of Wendy's, a 20% premium",
+  "numbers": [
+   "Offer: $7.35 per share, cash",
+   "Premium: ~20%",
+   "Trian stake: ~16.3%",
+   "Status: non-binding proposal"
+  ],
+  "order": 11,
+  "sector": "consumer-retail",
+  "soWhat": "Franchised restaurant brands collect royalties and rent, so they can carry debt, which suits a take-private. Backers argue a sale to private owners would give Wendy's patient capital to repair its sales trend without quarterly pressure. The open question is whether the board accepts, and whether the price and financing hold up.",
+  "sources": [
+   {
+    "title": "Wendy's Schedule 13D/A (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000030697/000093041326003164/c117910_ex46.htm"
+   },
+   {
+    "title": "Stock market today live, October 28, 2026 (StockTitan)",
+    "url": "https://stocktitan.net/articles/stock-market-today-live-october-28-2026"
+   }
+  ],
+  "subindustry": "travel-hospitality",
+  "summary": "A group led by Trian, with Flynn Group, BlueFive Capital and Sixth Street Partners, proposed to take Wendy's private for $7.35 per share in cash, about a 20% premium to the October 27 close. Trian funds own about 16.3% of Wendy's and would roll over their shares. The proposal is non-binding, and the group can change or withdraw it. Wendy's has said it would review any proposal in line with its duties to shareholders, and its shares closed up about 15%.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-29-12": {
+  "companies": [
+   "markel-group",
+   "enstar-group"
+  ],
+  "date": "2026-10-29",
+  "headline": "Markel passes $2.3 billion of old reinsurance claims to Enstar in a run-off deal",
+  "numbers": [
+   "Reserves transferred: $2.3B",
+   "Subject reserves: $4.8B",
+   "Extra cover: $1.2B for $120M premium",
+   "Expected close: by end of 2026"
+  ],
+  "order": 12,
+  "sector": "financial-services",
+  "soWhat": "Insurers that exit a line still hold reserves for claims that may take years to settle. Specialists like Enstar buy that risk, which lets the seller free up capital and management time for businesses it wants to grow. The buyer earns by managing claims better than expected and investing the assets. The risk is that old claims prove more costly than reserved.",
+  "sources": [
+   {
+    "title": "Markel Group Form 8-K (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001096343/000109634326000082/mkl-20261027.htm"
+   }
+  ],
+  "subindustry": "insurance",
+  "summary": "Markel agreed to retain the first $2.6 billion of reserves in its Global Reinsurance run-off and some exited lines, and to pass the next $2.3 billion to Enstar's reinsurance unit in exchange for a matching transfer of assets. The deal also adds $1.2 billion of cover above $4.8 billion of reserves for a $120 million risk premium. Markel keeps control of claims handling. Closing needs regulatory approval and is expected by the end of 2026.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-29-13": {
+  "companies": [
+   "landstar-system"
+  ],
+  "date": "2026-10-29",
+  "headline": "Landstar's revenue rises 25% to $1.51 billion as truck rates climb, but claims costs hit profit",
+  "numbers": [
+   "Revenue: $1.512B (+25%)",
+   "Truck revenue per load: ~+25%",
+   "Insurance and claims: $55.3M",
+   "EPS: $1.42"
+  ],
+  "order": 13,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Rising per-load revenue suggests trucking capacity is tightening, which helps carriers and brokers charging higher rates. But Landstar pays for accident claims even though its drivers own the trucks, and court decisions on broker liability are raising that cost. Investors reacted to the claims line, showing how legal risk can offset a strong freight market.",
+  "sources": [
+   {
+    "title": "Landstar Q3 2026 earnings release (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000853816/000119312526434270/d176512dex991.htm"
+   },
+   {
+    "title": "Stock market today live, October 28, 2026 (StockTitan)",
+    "url": "https://stocktitan.net/articles/stock-market-today-live-october-28-2026"
+   }
+  ],
+  "subindustry": "transport-logistics",
+  "summary": "Landstar, an asset-light freight broker working with independent truck owners, reported third-quarter revenue of $1.512 billion, up 25%. Truck revenue rose 29%, driven by revenue per load up about 25% while loads grew about 3%. Earnings were $1.42 per share, but insurance and claims costs of $55.3 million were elevated, up from $33.0 million a year earlier. The company added a net 165 truck owners in the quarter. Shares closed down about 17.8%.",
+  "tags": []
+ },
+ "2026-10-29-14": {
+  "companies": [
+   "enphase-energy"
+  ],
+  "date": "2026-10-29",
+  "headline": "Enphase guides fourth-quarter revenue to $225-255 million as US residential solar demand softens",
+  "numbers": [
+   "Q3 revenue: $293.3M",
+   "Q4 revenue guide: $225-255M",
+   "Safe-harbor revenue in Q3: $85.0M",
+   "European sell-through: -12%"
+  ],
+  "order": 14,
+  "sector": "energy-materials",
+  "soWhat": "Home solar depends on tax incentives and financing costs, so demand shifts when policy changes or interest rates stay high. Enphase's guide shows that while utility-scale solar is booming, residential systems are weaker. Tariffs also reduce margins by about 2 points. Utility-scale and storage suppliers are in a stronger position than rooftop-focused makers.",
+  "sources": [
+   {
+    "title": "Enphase Q3 2026 earnings release (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001463101/000146310126000101/a2026q3exx991pressrelease.htm"
+   },
+   {
+    "title": "Stock market today live, October 28, 2026 (StockTitan)",
+    "url": "https://stocktitan.net/articles/stock-market-today-live-october-28-2026"
+   }
+  ],
+  "subindustry": "renewables-transition",
+  "summary": "Enphase, which makes solar microinverters and home batteries, reported third-quarter revenue of $293.3 million, of which $85.0 million came from safe-harbor shipments. Sell-through rose only about 1% from the prior quarter against an expected 10%, and European sell-through fell 12%. It guided fourth-quarter revenue to $225 million to $255 million, assuming sell-through falls 10%. Shares closed down 16%.",
+  "tags": []
  }
 }
