@@ -333,6 +333,23 @@
    "ticker": "ASX: CGF",
    "updated": "2026-10-21"
   },
+  "chevron": {
+   "businessModel": "An integrated oil company that produces crude and gas worldwide, refines and markets fuels, and returns most free cash flow through dividends and buybacks.",
+   "competitors": [
+    "ExxonMobil",
+    "Shell",
+    "BP",
+    "TotalEnergies",
+    "ConocoPhillips"
+   ],
+   "hq": "San Ramon, California",
+   "name": "Chevron",
+   "sector": "energy-materials",
+   "size": "Approx. $200B revenue (2024, from memory)",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "NYSE: CVX",
+   "updated": "2026-10-30"
+  },
   "cleanaway": {
    "businessModel": "Collects, transports, treats and disposes of solid and liquid waste for councils and businesses under multi-year contracts, and earns extra from landfill fees and recycled materials.",
    "competitors": [
@@ -553,6 +570,40 @@
    "ticker": "NYSE: EQT",
    "updated": "2026-10-26"
   },
+  "exxonmobil": {
+   "businessModel": "An integrated oil company that produces oil and gas, refines it into fuels and chemicals, and earns across the chain, with upstream profits tied to crude prices and refining profits to margins.",
+   "competitors": [
+    "Chevron",
+    "Shell",
+    "BP",
+    "TotalEnergies",
+    "ConocoPhillips"
+   ],
+   "hq": "Spring, Texas",
+   "name": "ExxonMobil",
+   "sector": "energy-materials",
+   "size": "Approx. $350B revenue (2024, from memory)",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "NYSE: XOM",
+   "updated": "2026-10-30"
+  },
+  "ford": {
+   "businessModel": "Builds and sells cars, trucks and commercial vehicles through Ford Blue and Ford Pro, runs an EV unit (Model e) and earns financing income through Ford Credit.",
+   "competitors": [
+    "General Motors",
+    "Stellantis",
+    "Toyota",
+    "Tesla",
+    "Hyundai"
+   ],
+   "hq": "Dearborn, Michigan",
+   "name": "Ford Motor",
+   "sector": "advanced-industries",
+   "size": "Approx. $185B revenue (2024, from memory)",
+   "subindustry": "automotive-mobility",
+   "ticker": "NYSE: F",
+   "updated": "2026-10-30"
+  },
   "ge-aerospace": {
    "businessModel": "Sells jet engines (often at thin margins) and earns most of its profit over decades from spare parts, repairs and service contracts on the installed fleet.",
    "competitors": [
@@ -722,6 +773,23 @@
    "subindustry": "power-utilities",
    "ticker": "Private (Advent International-backed, approx.)",
    "updated": "2026-10-28"
+  },
+  "intel": {
+   "businessModel": "Designs PC and server processors and runs a foundry business that makes chips for itself and outside customers; most profit comes from data center and PC chips.",
+   "competitors": [
+    "AMD",
+    "Nvidia",
+    "TSMC",
+    "Qualcomm",
+    "Samsung Electronics"
+   ],
+   "hq": "Santa Clara, California",
+   "name": "Intel",
+   "sector": "tmt",
+   "size": "$16.5B quarterly revenue (Q3 2026, company results)",
+   "subindustry": "semiconductors",
+   "ticker": "Nasdaq: INTC",
+   "updated": "2026-10-30"
   },
   "intuitive-surgical": {
    "businessModel": "Sells da Vinci robotic surgery systems and earns most revenue from instruments, accessories and service used on every procedure, plus leasing and system sales.",
@@ -1202,6 +1270,40 @@
    "ticker": "NYSE: RRC",
    "updated": "2026-10-26"
   },
+  "reddit": {
+   "businessModel": "Runs community discussion forums and earns money from advertising and from licensing its content to AI companies.",
+   "competitors": [
+    "Meta",
+    "Pinterest",
+    "Snap",
+    "X",
+    "Alphabet"
+   ],
+   "hq": "San Francisco, California",
+   "name": "Reddit",
+   "sector": "tmt",
+   "size": "$895M quarterly revenue (Q3 2026, per reports)",
+   "subindustry": "internet-platforms",
+   "ticker": "NYSE: RDDT",
+   "updated": "2026-10-30"
+  },
+  "rivian": {
+   "businessModel": "Builds electric trucks, SUVs and delivery vans and sells them directly, with software and service revenue adding to vehicle sales.",
+   "competitors": [
+    "Tesla",
+    "Ford",
+    "General Motors",
+    "Lucid",
+    "Hyundai"
+   ],
+   "hq": "Irvine, California",
+   "name": "Rivian",
+   "sector": "advanced-industries",
+   "size": "$2.155B quarterly revenue (Q3 2026, per reports)",
+   "subindustry": "automotive-mobility",
+   "ticker": "Nasdaq: RIVN",
+   "updated": "2026-10-30"
+  },
   "rtx": {
    "businessModel": "Three businesses: Collins Aerospace (aircraft systems), Pratt & Whitney (jet engines plus aftermarket service) and Raytheon (missiles, radars and air defense sold mainly to governments).",
    "competitors": [
@@ -1238,6 +1340,40 @@
    "ticker": "NYSE: CRM",
    "updated": "2026-10-25"
   },
+  "samsung-electronics": {
+   "businessModel": "Sells memory chips, contract chip manufacturing, smartphones, TVs and appliances; memory is the largest profit source when prices are high.",
+   "competitors": [
+    "SK hynix",
+    "Micron",
+    "TSMC",
+    "Apple",
+    "Xiaomi"
+   ],
+   "hq": "Suwon, South Korea",
+   "name": "Samsung Electronics",
+   "sector": "tmt",
+   "size": "Approx. KRW 300T annual revenue (2024, from memory)",
+   "subindustry": "semiconductors",
+   "ticker": "KRX: 005930",
+   "updated": "2026-10-30"
+  },
+  "sandisk": {
+   "businessModel": "Makes flash memory storage products such as SSDs and memory cards; spun off from Western Digital in 2025, and earns more when flash prices rise.",
+   "competitors": [
+    "Samsung Electronics",
+    "SK hynix",
+    "Micron",
+    "Kioxia",
+    "Western Digital"
+   ],
+   "hq": "Milpitas, California",
+   "name": "Sandisk",
+   "sector": "tmt",
+   "size": "About $11B quarterly revenue (latest quarter, per reports)",
+   "subindustry": "semiconductors",
+   "ticker": "Nasdaq: SNDK",
+   "updated": "2026-10-30"
+  },
   "saudi-aramco": {
    "businessModel": "State-controlled oil and gas producer that earns money by pumping and selling crude, gas and refined products at very low production cost, and pays large dividends to the Saudi state.",
    "competitors": [
@@ -1254,6 +1390,23 @@
    "subindustry": "oil-gas-upstream",
    "ticker": "Tadawul: 2222",
    "updated": "2026-10-20"
+  },
+  "servicenow": {
+   "businessModel": "Sells subscription workflow software that automates IT, HR and customer service tasks for large companies, with multi-year contracts.",
+   "competitors": [
+    "Salesforce",
+    "Microsoft",
+    "Atlassian",
+    "Workday",
+    "SAP"
+   ],
+   "hq": "Santa Clara, California",
+   "name": "ServiceNow",
+   "sector": "tmt",
+   "size": "About $15.8B 2026 subscription revenue guidance (company)",
+   "subindustry": "software-cloud",
+   "ticker": "NYSE: NOW",
+   "updated": "2026-10-30"
   },
   "silence-therapeutics": {
    "businessModel": "Develops siRNA medicines that switch off disease-causing genes. Earns money mainly from partnership payments now and aims to earn drug sales later; lead drug is divesiran for polycythemia vera.",
@@ -1287,6 +1440,23 @@
    "subindustry": "cpg",
    "ticker": "NYSE: SLGN",
    "updated": "2026-10-20"
+  },
+  "sk-hynix": {
+   "businessModel": "Makes DRAM, NAND flash and high-bandwidth memory and sells it to server makers, cloud companies and device makers, earning more when memory prices and AI demand rise.",
+   "competitors": [
+    "Samsung Electronics",
+    "Micron",
+    "Kioxia",
+    "CXMT",
+    "Sandisk"
+   ],
+   "hq": "Icheon, South Korea",
+   "name": "SK hynix",
+   "sector": "tmt",
+   "size": "Quarterly revenue above KRW 100T in Q3 2026 (company results)",
+   "subindustry": "semiconductors",
+   "ticker": "KRX: 000660",
+   "updated": "2026-10-30"
   },
   "southwest-airlines": {
    "businessModel": "A US airline selling tickets and extras such as extra-legroom seats and bags, flying mainly point-to-point routes on a single aircraft type. Profit depends on fares, seat occupancy and fuel and labor costs.",
@@ -1322,6 +1492,23 @@
    "subindustry": "telecom",
    "ticker": "NASDAQ: SPCX",
    "updated": "2026-10-21"
+  },
+  "starbucks": {
+   "businessModel": "Sells coffee and food through company-operated and licensed stores, earning store sales plus royalties and product sales from licensees.",
+   "competitors": [
+    "McDonald's",
+    "Dutch Bros",
+    "Luckin Coffee",
+    "Dunkin'",
+    "Costa Coffee"
+   ],
+   "hq": "Seattle, Washington",
+   "name": "Starbucks",
+   "sector": "consumer-retail",
+   "size": "$37.9B revenue (fiscal 2026, company results)",
+   "subindustry": "travel-hospitality",
+   "ticker": "Nasdaq: SBUX",
+   "updated": "2026-10-30"
   },
   "steel-dynamics": {
    "businessModel": "Melts scrap in electric arc furnaces to make steel, and profits from the spread between steel prices and scrap costs. It also recycles metals and is building an aluminum flat-rolled business.",
@@ -3065,35 +3252,35 @@
    ]
   },
   "oil-gas-upstream": {
-   "economicsOn": "segments",
+   "economicsOn": "valueChain",
    "keyFigures": [
     {
+     "label": "Global oil demand",
+     "note": "2025 approx., IEA; 2026 seen ~1 mb/d lower · IEA Jul 2026",
+     "value": "~104 mb/d"
+    },
+    {
      "label": "US crude output",
-     "note": "Record, world's largest, 2025 · EIA",
-     "value": "~13.6 mb/d"
+     "note": "2026 record, ~18% of world crude · EIA Aug 2026",
+     "value": "~13.8 mb/d"
     },
     {
-     "label": "World oil demand",
-     "note": "2026 forecast, down ~2.6 mb/d · IEA, Oct 2026",
-     "value": "~102.4 mb/d"
+     "label": "OPEC+ share of crude",
+     "note": "2026 forecast, down from ~42% in 2025 · EIA Aug 2026",
+     "value": "~39%"
     },
     {
-     "label": "Oil supply investment",
-     "note": "2026, third yearly fall · IEA WEI",
-     "value": "~$500B"
-    },
-    {
-     "label": "Permian new-well breakeven",
-     "note": "Q1 2026 · Dallas Fed survey",
-     "value": "~$63–70/bbl"
+     "label": "Brent price, Q3 2026 average",
+     "note": "Chevron Q3 2026 results",
+     "value": "~$97/bbl"
     }
    ],
    "kpis": [
-    "Brent and WTI prices; the Brent–WTI spread",
-    "New-well breakeven for US shale: ~$63–70/bbl in the Permian (Q1 2026)",
+    "Brent and WTI prices; Brent-WTI spread",
+    "Breakeven for new US shale wells: ~$60-65/bbl",
     "Reserve replacement ratio (>100% means reserves are growing)",
-    "OPEC+ output and spare capacity",
-    "US rig count (Baker Hughes, weekly)"
+    "OPEC+ share of world crude: ~39% in 2026",
+    "Free cash flow returned to shareholders"
    ],
    "marketSize": {
     "global": "~104 mb/d demand",
@@ -3110,58 +3297,38 @@
     "Oilfield services: SLB, Halliburton, Baker Hughes",
     "OPEC+ (led by Saudi Arabia and Russia) supplies about 40% of world oil"
    ],
-   "profileUpdated": "2026-10-27",
+   "profileUpdated": "2026-10-30",
    "sector": "energy-materials",
    "segments": {
     "items": [
      {
-      "cost": "very low lifting costs, but national budgets need high prices",
-      "leaders": "Saudi Aramco · ADNOC · QatarEnergy",
-      "name": "Middle East conventional",
-      "revenue": "oil price × volume, often set by OPEC+ quotas",
-      "takeaway": {
-       "label": "Lowest cost, highest political risk",
-       "why": "Profitable at almost any price, but 2026 showed how exposed Gulf exports are to the Strait of Hormuz."
-      },
-      "what": "Huge, cheap onshore and shallow fields owned by national oil companies. Saudi Arabia produced ~9.6 mb/d in 2025 (EIA)."
+      "growth": "falling",
+      "leaders": "Saudi Arabia · Russia · UAE",
+      "name": "OPEC+",
+      "share": "~39%",
+      "sharePct": 39,
+      "what": "Producers that coordinate output quotas to influence price."
      },
      {
-      "cost": "drilling and fracking each new well, which declines steeply",
-      "leaders": "ExxonMobil · Chevron · EOG · Diamondback",
-      "name": "US shale",
-      "revenue": "WTI price × volume, plus gas and natural gas liquids",
-      "takeaway": {
-       "label": "Flexible but needs ~$65/bbl",
-       "why": "New Permian wells break even around $63–70 (Dallas Fed, Q1 2026), so output responds quickly to price."
-      },
-      "what": "Short-cycle wells drilled and producing within months; the Permian makes ~48% of US crude (EIA, 2025)."
+      "growth": "record",
+      "leaders": "ExxonMobil · Chevron · Diamondback",
+      "name": "United States",
+      "share": "~18%",
+      "sharePct": 18,
+      "what": "The largest single producer, mostly short-cycle shale."
      },
      {
-      "cost": "billions up front for platforms and wells; low running costs after",
-      "leaders": "Petrobras · Shell · ExxonMobil (Guyana)",
-      "name": "Deepwater offshore",
-      "revenue": "oil price × large, steady volumes for decades",
-      "takeaway": {
-       "label": "Long-cycle growth engine",
-       "why": "High up-front cost, but once running these fields produce cheaply for 20+ years."
-      },
-      "what": "Large fields in Brazil, Guyana, the Gulf of Mexico and West Africa that take 5–10 years to build."
-     },
-     {
-      "cost": "field development plus pipeline or LNG plant capacity",
-      "leaders": "QatarEnergy · Woodside · PETRONAS",
-      "name": "Gas & LNG-linked fields",
-      "revenue": "gas sold at hub prices or under oil-linked LNG contracts",
-      "takeaway": {
-       "label": "Where spending is growing",
-       "why": "Upstream gas spending is set to rise ~8% in 2026 while oil spending falls (IEA)."
-      },
-      "what": "Gas fields that feed pipelines or LNG plants, often under long-term contracts."
+      "growth": "rising",
+      "leaders": "Brazil · Canada · Guyana · Norway",
+      "name": "Other producers",
+      "share": "~43%",
+      "sharePct": 43,
+      "what": "Non-OPEC+ producers outside the US, including deepwater growth areas; computed as the remainder."
      }
     ],
-    "title": "Main types of upstream asset"
+    "title": "Share of 2026 world crude oil production, by group (EIA, Aug 2026)"
    },
-   "summary": "Upstream companies find and produce crude oil and natural gas, from Middle East giant fields and US shale to deep offshore wells. Profit is simply the oil or gas price minus the cost of getting it out, so earnings swing with the barrel. In 2026 the conflict in the Gulf cut world supply sharply, pushing prices up, while the US remains the largest producer and companies keep spending cautiously.",
+   "summary": "Upstream is the part of the oil and gas industry that finds and produces crude oil and natural gas. Supply comes from OPEC+ members and national oil companies, global majors, and US shale independents. Profit is the price of oil minus the cost to find, drill and lift each barrel, so earnings swing sharply with Brent. Today Gulf supply disruption has kept prices high, while producers stay disciplined and return cash to shareholders.",
    "threats": [
     "Demand destruction if prices stay high",
     "OPEC+ price wars",
@@ -3178,50 +3345,74 @@
    "trendsThreats": [
     {
      "kind": "tailwind",
-     "text": "Gulf supply losses and low inventories have kept prices high: global stocks were ~509M barrels below end-February levels (IEA, Oct 2026)."
+     "text": "Gulf supply disruption has kept Brent near or above $100, lifting upstream cash flow."
     },
     {
      "kind": "tailwind",
-     "text": "US output hit a record ~13.6 mb/d in 2025 and EIA expects further growth."
+     "text": "Companies are returning most free cash flow, for example Chevron's $6.0B of buybacks and dividends in Q3 2026."
     },
     {
      "kind": "tailwind",
-     "text": "Gas investment is at a ten-year high of ~$330B in 2026 (IEA)."
+     "text": "Deepwater growth in Guyana, Brazil and Namibia adds non-OPEC supply."
     },
     {
      "kind": "headwind",
-     "text": "High prices are destroying demand: the IEA expects 2026 oil demand to fall ~2.6 mb/d."
+     "text": "Demand destruction: the IEA sees 2026 demand about 1 mb/d below 2025."
     },
     {
      "kind": "headwind",
-     "text": "Supply could flood back as Gulf exports recover, with IEA forecasting ~7.7 mb/d supply growth in 2027."
+     "text": "Political and sanctions risk where majors seek new barrels, such as Venezuela."
     },
     {
      "kind": "headwind",
-     "text": "US shale spending is set to drop ~7% in 2026 as costs rise and investors demand payouts (IEA)."
+     "text": "Long-term demand decline from EVs and efficiency."
     }
    ],
    "valueChain": [
     {
-     "name": "Exploration",
-     "players": "ExxonMobil · TotalEnergies · Petrobras",
-     "what": "Seismic surveys and test wells find and size new oil and gas fields."
+     "cost": "Seismic surveys and exploration wells, many of which find nothing.",
+     "name": "Exploration and appraisal",
+     "players": "Saudi Aramco · ExxonMobil · TotalEnergies",
+     "revenue": "No sales until a field produces; value sits in reserves discovered.",
+     "takeaway": {
+      "label": "High risk",
+      "why": "Most wells fail to find commercial oil, so a few discoveries have to pay for many dry holes."
+     },
+     "what": "Surveying and drilling to find oil and gas and confirm how much can be recovered."
     },
     {
+     "cost": "Rigs, steel, crews and facilities, from months of shale drilling to years of deepwater construction.",
      "name": "Development",
-     "players": "SLB · Halliburton · Baker Hughes",
-     "what": "Companies drill production wells and build platforms, pipelines and processing."
+     "players": "Chevron · Petrobras · Shell (with SLB · Halliburton)",
+     "revenue": "None yet; cash flows out until first oil.",
+     "takeaway": {
+      "label": "Capital heavy",
+      "why": "Deepwater projects commit billions years before any barrel is sold, which is why companies hold back when prices look unstable."
+     },
+     "what": "Drilling production wells and building platforms, pipelines and processing plants."
     },
     {
+     "cost": "Lifting costs, royalties and taxes, and drilling to replace natural decline.",
      "highlight": true,
      "name": "Production",
-     "players": "Saudi Aramco · ExxonMobil · ConocoPhillips",
-     "what": "Wells are run and maintained for years; output naturally declines over time."
+     "players": "ExxonMobil · Chevron · ConocoPhillips · Aramco",
+     "revenue": "Barrels and gas sold at market-linked prices.",
+     "takeaway": {
+      "label": "Largest profit pool",
+      "why": "Once a well is drilled, each extra barrel costs far less than the market price, so earnings jump when Brent rises."
+     },
+     "what": "Lifting oil and gas to the surface and keeping output up as wells decline."
     },
     {
-     "name": "Sale at the wellhead",
-     "players": "Shell · Vitol · Trafigura",
-     "what": "Crude and gas are sold at benchmark prices (Brent, WTI, Henry Hub) to refiners, pipelines and traders."
+     "cost": "Pipeline and shipping fees paid to midstream companies.",
+     "name": "Selling and transport to market",
+     "players": "Enterprise Products · Kinder Morgan · Vitol",
+     "revenue": "The sale price, adjusted for quality and location.",
+     "takeaway": {
+      "label": "Price taker",
+      "why": "Producers accept the benchmark price minus a transport and quality discount, so they cannot set their own price."
+     },
+     "what": "Moving crude and gas by pipeline, tanker or truck to refiners and buyers."
     }
    ]
   },
@@ -3998,10 +4189,34 @@
    ]
   },
   "semiconductors": {
+   "economicsOn": "valueChain",
+   "keyFigures": [
+    {
+     "label": "Global chip sales, 2026 forecast",
+     "note": "Up ~90%; recalculated ~$1.65T with Q2 data · WSTS 2026",
+     "value": "~$1.5T"
+    },
+    {
+     "label": "Sales in first half of 2026",
+     "note": "Up 102% on a year earlier · WSTS Aug 2026",
+     "value": "$702B"
+    },
+    {
+     "label": "Memory sales, 2026 forecast",
+     "note": "More than half of chip sales · WSTS Jun 2026",
+     "value": ">$800B"
+    },
+    {
+     "label": "TSMC share of foundry revenue",
+     "note": "Pure-play foundry market, Q2 2026 · TrendForce",
+     "value": "~72%"
+    }
+   ],
    "kpis": [
-    "Global chip sales: about $800B a year",
+    "Global chip sales: ~$1.5T forecast for 2026 (WSTS)",
+    "TSMC share of pure-play foundry revenue: ~72%",
+    "HBM share: SK hynix ~50%, Samsung ~33%, Micron ~18%",
     "Gross margin (Nvidia ~70%+, memory far lower and cyclical)",
-    "Capex as % of sales",
     "DRAM and NAND price trends"
    ],
    "marketSize": {
@@ -4018,8 +4233,38 @@
     "Memory: Samsung, SK hynix, Micron",
     "Equipment: ASML, Applied Materials, Lam Research, Tokyo Electron, KLA"
    ],
-   "profileUpdated": "2026-10-20",
+   "profileUpdated": "2026-10-30",
    "sector": "tmt",
+   "segments": {
+    "items": [
+     {
+      "growth": "losing share",
+      "leaders": "SK hynix",
+      "name": "SK hynix",
+      "share": "~50%",
+      "sharePct": 50,
+      "what": "The early leader supplying Nvidia's AI accelerators."
+     },
+     {
+      "growth": "fast",
+      "leaders": "Samsung Electronics",
+      "name": "Samsung",
+      "share": "~33%",
+      "sharePct": 33,
+      "what": "Rising share after shipping HBM4 to Nvidia."
+     },
+     {
+      "growth": "steady",
+      "leaders": "Micron",
+      "name": "Micron",
+      "share": "~18%",
+      "sharePct": 18,
+      "what": "The US supplier, a smaller third player."
+     }
+    ],
+    "title": "Share of high-bandwidth memory (HBM) revenue, Q2 2026 (Counterpoint)"
+   },
+   "summary": "Semiconductors are the chips inside every electronic device and every AI data center. The industry splits into chip designers, the foundries and memory makers that manufacture chips, and the equipment suppliers that make those factories possible. Designers earn high margins on intellectual property, foundries earn on scale and process lead, and memory makers earn on price swings. In 2026 AI demand and a memory shortage have pushed sales to record levels.",
    "threats": [
     "Cyclical oversupply",
     "US-China export controls and Taiwan risk",
@@ -4032,6 +4277,90 @@
     "Governments subsidize domestic chip factories (US CHIPS Act, EU, Japan)",
     "Export controls limit advanced chip sales to China",
     "Power and financing, not chips, increasingly limit AI buildouts"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "AI data centers drive demand for GPUs, custom accelerators and high-bandwidth memory."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Memory is in shortage: SK hynix expects tight supply to last until 2030 and has committed over half of 2027-28 capacity."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Governments fund domestic chip factories in the US, EU and Japan."
+    },
+    {
+     "kind": "headwind",
+     "text": "Rising memory costs weigh on PC and phone shipments, as Intel's client revenue fell 5%."
+    },
+    {
+     "kind": "headwind",
+     "text": "US-China export controls and Taiwan risk threaten supply chains."
+    },
+    {
+     "kind": "headwind",
+     "text": "Customer concentration in a few cloud companies makes sales depend on their spending."
+    }
+   ],
+   "valueChain": [
+    {
+     "cost": "Software development and engineers.",
+     "name": "Design tools and IP",
+     "players": "Synopsys · Cadence · Arm",
+     "revenue": "Software subscriptions and royalties per chip.",
+     "takeaway": {
+      "label": "Sticky and steady",
+      "why": "Chip makers rely on a few tool suppliers, so contracts renew with little price pressure."
+     },
+     "what": "Software and licensed building blocks used to design chips."
+    },
+    {
+     "cost": "Large engineering teams and the foundry's wafer prices.",
+     "highlight": true,
+     "name": "Chip design",
+     "players": "Nvidia · AMD · Broadcom · Qualcomm",
+     "revenue": "Chip sales at high gross margins, since there is no factory to fund.",
+     "takeaway": {
+      "label": "Largest profit pool",
+      "why": "Leaders such as Nvidia keep pricing power while renting factory capacity from foundries."
+     },
+     "what": "Companies design processors and accelerators and outsource manufacturing."
+    },
+    {
+     "cost": "R&D and precision components.",
+     "name": "Equipment and materials",
+     "players": "ASML · Applied Materials · Lam Research",
+     "revenue": "Tool sales plus service contracts.",
+     "takeaway": {
+      "label": "Cyclical",
+      "why": "Orders follow chip makers' capacity plans, so they rise quickly in booms and fall in downturns."
+     },
+     "what": "Machines and materials that fabs use to print and inspect chips."
+    },
+    {
+     "cost": "Factories costing $20B or more, plus depreciation.",
+     "name": "Manufacturing",
+     "players": "TSMC · Samsung · SK hynix · Micron",
+     "revenue": "Wafer fees at foundries, and memory chip prices that swing with supply.",
+     "takeaway": {
+      "label": "Scale and cycles",
+      "why": "Foundry share concentrates in TSMC, while memory profits swing from glut to shortage, as SK hynix's 80% margin in Q3 2026 shows."
+     },
+     "what": "Foundries and memory makers fabricate chips on silicon wafers."
+    },
+    {
+     "cost": "Equipment and skilled labor.",
+     "name": "Packaging and test",
+     "players": "TSMC · ASE · Amkor · Teradyne (test)",
+     "revenue": "Service fees per chip and test equipment sales.",
+     "takeaway": {
+      "label": "Rising importance",
+      "why": "AI chips need advanced packaging and more test time, and Teradyne's revenue rose 70% in Q3 2026."
+     },
+     "what": "Chips are cut, packaged and tested before shipment."
+    }
    ]
   },
   "software-cloud": {

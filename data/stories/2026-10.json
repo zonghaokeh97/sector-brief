@@ -2771,5 +2771,312 @@
   "subindustry": "renewables-transition",
   "summary": "Enphase, which makes solar microinverters and home batteries, reported third-quarter revenue of $293.3 million, of which $85.0 million came from safe-harbor shipments. Sell-through rose only about 1% from the prior quarter against an expected 10%, and European sell-through fell 12%. It guided fourth-quarter revenue to $225 million to $255 million, assuming sell-through falls 10%. Shares closed down 16%.",
   "tags": []
+ },
+ "2026-10-30-01": {
+  "companies": [
+   "amazon"
+  ],
+  "date": "2026-10-30",
+  "headline": "Amazon Web Services grows 39% to $46.0 billion and earns most of Amazon's profit, but capex of about $220 billion turns free cash flow negative",
+  "numbers": [
+   "AWS sales: $46.0B (+39%)",
+   "AWS operating income: $17.8B",
+   "Operating margin: 13.9%",
+   "2026 cash capex: ~$220B",
+   "Trailing free cash flow: -$42.4B"
+  ],
+  "order": 1,
+  "sector": "tmt",
+  "soWhat": "AWS now earns roughly 63% of Amazon's operating income from less than a quarter of its sales, so Amazon's profits depend on cloud and AI demand more than on retail. Building data centers for that demand costs more than the business generates, which is why free cash flow has turned negative and the company must fund the gap from cash reserves and borrowing. Chip, power and cooling suppliers gain from the spending. The open question is whether cloud growth stays high enough to earn a return on capital this large.",
+  "sources": [
+   {
+    "title": "Amazon.com announces third quarter results (Amazon IR)",
+    "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/"
+   },
+   {
+    "title": "Earnings live updates: Exxon, Chevron refining margins jump (Yahoo Finance)",
+    "url": "https://finance.yahoo.com/markets/stocks/live/earnings-live-updates-exxon-chevron-refining-margins-jump-lifting-earnings-120334734.html"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Amazon reported third-quarter net sales of $201.9 billion, up 12%, and operating income of $28.1 billion, up from $17.4 billion. AWS sales rose 39% to $46.0 billion, its fastest pace in nearly five years, and AWS operating income was $17.8 billion. Net income was $20.7 billion, or $1.89 per share, below the prior year's $21.2 billion, which had included $9.5 billion of gains on Anthropic investments. Purchases of property and equipment were $77.3 billion in the quarter, and trailing twelve-month free cash flow was an outflow of $42.4 billion. Amazon guided fourth-quarter sales to $240 billion to $247 billion and expects about $220 billion of cash capex in 2026.",
+  "tags": []
+ },
+ "2026-10-30-02": {
+  "companies": [
+   "sk-hynix",
+   "samsung-electronics"
+  ],
+  "date": "2026-10-30",
+  "headline": "SK hynix earns an 80% operating margin and says the AI memory shortage will last until 2030",
+  "numbers": [
+   "Operating margin: 80%",
+   "Operating profit: +632% year on year",
+   "2027-28 capacity committed: >50%",
+   "Extra shareholder returns: $45B"
+  ],
+  "order": 2,
+  "sector": "tmt",
+  "soWhat": "Memory has historically been a boom-and-bust commodity, where prices collapse when makers add capacity. Long-term supply agreements and the difficulty of making high-bandwidth memory change that pattern for now, since buyers are locking in volume in advance. The losers are device makers: SK hynix expects PC and phone shipments to fall as memory costs rise. The open question is whether new factories arrive in time to end the shortage before 2030.",
+  "sources": [
+   {
+    "title": "SK Hynix posts record revenue and profit, sees memory shortage into 2030 (Yahoo Finance)",
+    "url": "https://finance.yahoo.com/markets/article/sk-hynix-posts-record-revenue-and-profit-sees-memory-shortage-into-2030-113038822.html"
+   },
+   {
+    "title": "South Korean chipmakers deliver record quarterly results again (UPI)",
+    "url": "https://www.upi.com/Top_News/World-News/2026/10/29/samsung-SKhynix-earnings-cihipmakers/3821793281516"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "SK hynix reported record third-quarter revenue of more than 100 trillion won (about $78 billion), up about 328% from a year earlier, and operating profit up 632% at an 80% operating margin. The company credited AI data center demand, higher memory prices and early shipments of its next-generation HBM4 chips. It said more than half of its 2027 and 2028 capacity is already committed under long-term agreements, that the shortage will persist through 2030, and that it will return an extra $45 billion to shareholders. Samsung Electronics also posted record chip results, and SK hynix shares rose about 10% in Korea.",
+  "tags": []
+ },
+ "2026-10-30-03": {
+  "companies": [
+   "exxonmobil"
+  ],
+  "date": "2026-10-30",
+  "headline": "ExxonMobil's adjusted profit rises to $17.5 billion as refining margins offset weaker upstream earnings",
+  "numbers": [
+   "Adjusted earnings: $17.5B",
+   "Free cash flow: $19.1B",
+   "Energy Products earnings: $7.2B",
+   "Upstream earnings: $7.1B",
+   "2027 buyback plan: $20B"
+  ],
+  "order": 3,
+  "sector": "energy-materials",
+  "soWhat": "An integrated company owns both production and refineries, so the two halves partly hedge each other: when crude prices ease, refining margins can widen. That is why Exxon's profit rose even as upstream earnings fell. Tight diesel supply and high utilization at its US Gulf Coast plants helped, and it also shows why refiners without their own crude are exposed when margins narrow. The open question is how long refining margins stay this wide.",
+  "sources": [
+   {
+    "title": "ExxonMobil announces third-quarter 2026 results (BOE Report)",
+    "url": "https://boereport.com/2026/10/30/exxonmobil-announces-third-quarter-2026-results/"
+   },
+   {
+    "title": "Earnings live updates: Exxon, Chevron refining margins jump (Yahoo Finance)",
+    "url": "https://finance.yahoo.com/markets/stocks/live/earnings-live-updates-exxon-chevron-refining-margins-jump-lifting-earnings-120334734.html"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "ExxonMobil reported third-quarter earnings of $15.4 billion, or $3.72 per share, and adjusted earnings of $17.5 billion, up from $14.7 billion in the second quarter. Energy Products, which includes refining, earned $7.2 billion, while Upstream earned $7.1 billion, down from the prior quarter on lower prices. Operating cash flow was $25.7 billion and free cash flow $19.1 billion, and the company paid out $9.4 billion in dividends and buybacks. Production was 4,496 thousand oil-equivalent barrels a day, Guyana passed one billion barrels of cumulative output, and Exxon plans $20 billion of buybacks in 2027.",
+  "tags": []
+ },
+ "2026-10-30-04": {
+  "companies": [
+   "chevron"
+  ],
+  "date": "2026-10-30",
+  "headline": "Chevron nearly triples its quarterly profit to $9.9 billion on $97 oil and plans a $7 billion Venezuela investment",
+  "numbers": [
+   "Net income: $9.9B (vs $3.5B)",
+   "Average Brent: $97/bbl",
+   "Free cash flow: $12.0B",
+   "Production: 3,980 kboe/d",
+   "Venezuela plan: $7B over 5 years"
+  ],
+  "order": 4,
+  "sector": "energy-materials",
+  "soWhat": "High prices have turned the major oil companies into cash generators, and Chevron is using the cash for dividends, buybacks and debt reduction rather than rapid growth in output. Its lower production shows how much of the profit jump comes from price, not volume. Venezuela is a long-term bet to add supply in a constrained market, but it carries political and sanctions risk. The open question is whether prices stay high enough to justify new barrels from difficult jurisdictions.",
+  "sources": [
+   {
+    "title": "Chevron Q3 2026 earnings release (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000093410/000009341026000196/a09302026ex9918-k.htm"
+   },
+   {
+    "title": "Earnings live updates: Exxon, Chevron refining margins jump (Yahoo Finance)",
+    "url": "https://finance.yahoo.com/markets/stocks/live/earnings-live-updates-exxon-chevron-refining-margins-jump-lifting-earnings-120334734.html"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Chevron reported third-quarter earnings of $9.9 billion, or $5.06 per share, up from $3.5 billion a year earlier, with adjusted earnings of $10.4 billion. Upstream earned $5.7 billion and downstream $4.9 billion, as Brent averaged $97 a barrel and US refineries set a throughput record of 1.09 million barrels a day. Operating cash flow was $16.0 billion, and Chevron returned $6.0 billion through $2.5 billion of buybacks and $3.5 billion of dividends while cutting net debt by $7.8 billion. Production slipped to 3,980 thousand oil-equivalent barrels a day from 4,086 a year earlier, and the company said it plans to invest $7 billion in Venezuela over five years.",
+  "tags": []
+ },
+ "2026-10-30-05": {
+  "companies": [
+   "intel"
+  ],
+  "date": "2026-10-30",
+  "headline": "Intel's server chip revenue jumps 78% but a weak fourth-quarter outlook sends the stock sharply lower",
+  "numbers": [
+   "Q3 revenue: $16.5B (+21%)",
+   "Data Center and AI: $7.3B (+78%)",
+   "Foundry operating loss: $1.9B",
+   "Q4 revenue guide: $15.0-16.0B"
+  ],
+  "order": 5,
+  "sector": "tmt",
+  "soWhat": "Intel is caught between two markets: AI data centers want every server chip it can make, while consumers and businesses are buying fewer PCs as memory costs rise. When supply is the limit, growth depends on factory capacity, not demand. Its foundry unit is still losing money, so margins fall when the mix shifts and costs rise. The open question is whether added supply and foundry customers arrive before the PC weakness spreads.",
+  "sources": [
+   {
+    "title": "Intel Q3 2026 earnings release (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000050863/000005086326000188/q326earningsrelease.htm"
+   },
+   {
+    "title": "Earnings live updates: Exxon, Chevron refining margins jump (Yahoo Finance)",
+    "url": "https://finance.yahoo.com/markets/stocks/live/earnings-live-updates-exxon-chevron-refining-margins-jump-lifting-earnings-120334734.html"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Intel reported third-quarter revenue of $16.5 billion, up 21%, with non-GAAP earnings of $0.52 per share. Data Center and AI revenue rose 78% to $7.3 billion and Intel Foundry revenue rose 58% to $6.7 billion with a $1.9 billion operating loss, while Client revenue fell 5% to $8.1 billion. Intel guided fourth-quarter revenue to $15.0 billion to $16.0 billion and non-GAAP gross margin to 38%, below what analysts had expected. The chief executive said the priority is to unlock more supply of Xeon server chips, and the finance chief expects the PC slowdown to last at least through the first half of next year. The shares fell more than 20% in after-hours trading.",
+  "tags": []
+ },
+ "2026-10-30-06": {
+  "companies": [
+   "ford"
+  ],
+  "date": "2026-10-30",
+  "headline": "Ford raises the low end of its 2026 profit outlook to $10.5-11 billion while electric vehicles still lose $4 billion",
+  "numbers": [
+   "Adjusted EBIT: $2.7B (5.4% margin)",
+   "Ford Pro EBIT: $1.7B",
+   "Model e loss: $1.1B",
+   "Adjusted free cash flow: $4.7B",
+   "2026 EBIT guide: $10.5-11B"
+  ],
+  "order": 6,
+  "sector": "advanced-industries",
+  "soWhat": "Ford is effectively three businesses: commercial trucks and vans (Pro), combustion vehicles (Blue) and financing (Credit) fund the electric vehicle program. Higher metal costs and launch costs are squeezing the first two, so the cushion depends on pricing and lower tariffs. Cutting EV losses by right-sizing production is the quickest way to raise group margin. The open question is whether Ford reaches the 8% adjusted EBIT margin it targets for 2029 as it keeps funding EV development.",
+  "sources": [
+   {
+    "title": "Ford Q3 2026 earnings release (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000037996/000003799626000190/exhibit99tooctober282026.htm"
+   },
+   {
+    "title": "Earnings live updates: Exxon, Chevron refining margins jump (Yahoo Finance)",
+    "url": "https://finance.yahoo.com/markets/stocks/live/earnings-live-updates-exxon-chevron-refining-margins-jump-lifting-earnings-120334734.html"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "Ford reported third-quarter revenue of $49.5 billion, down 2%, with net income of $2.0 billion and adjusted EBIT of $2.7 billion, a 5.4% margin. Ford Pro earned $1.7 billion, Ford Blue $1.4 billion and Ford Credit $803 million before tax, while the Model e electric vehicle unit lost $1.1 billion, a 25% improvement. Adjusted free cash flow was $4.7 billion. Ford now expects full-year adjusted EBIT of $10.5 billion to $11 billion, up from a $10 billion low end, with about $4 billion of Model e losses and commodity headwinds near $2.5 billion.",
+  "tags": []
+ },
+ "2026-10-30-07": {
+  "companies": [
+   "starbucks"
+  ],
+  "date": "2026-10-30",
+  "headline": "Starbucks' same-store sales rise 7.2% and it guides to $3.15-3.25 of earnings per share for fiscal 2027",
+  "numbers": [
+   "Comparable sales: +7.2%",
+   "Revenue: $9.1B (-4%)",
+   "Non-GAAP operating margin: 14.0%",
+   "FY2027 EPS guide: $3.15-3.25",
+   "Stores: 41,607"
+  ],
+  "order": 7,
+  "sector": "consumer-retail",
+  "soWhat": "Starbucks is shifting from owning every store to licensing in markets like China, where it keeps a 40% stake and earns royalties and equity income instead of sales. That lowers reported revenue but lifts margin and frees capital. Rising average ticket (up 5.2%) drove most of the sales gain rather than traffic, which shows how much of the recovery rests on pricing. The open question is whether traffic grows enough to carry the 4% North America growth target.",
+  "sources": [
+   {
+    "title": "Starbucks Q4 and FY2026 earnings release (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000829224/000082922426000154/sbux-09272026xearningsrele.htm"
+   }
+  ],
+  "subindustry": "travel-hospitality",
+  "summary": "Starbucks reported fourth-quarter revenue of $9.1 billion, down 4%, because its China retail business moved into a licensed joint venture, while global same-store sales rose 7.2%. North America comparable sales grew 7.9% and International 0.9%, and non-GAAP earnings were $0.80 per share with a 14.0% non-GAAP operating margin. For fiscal 2026 revenue was $37.9 billion and non-GAAP earnings per share were $2.72, up 28%. For fiscal 2027 it guided to non-GAAP earnings of $3.15 to $3.25 per share, North America comparable sales up about 4%, and about 1,200 net new stores, led by International. About 250 company-operated North American stores were closed during the quarter.",
+  "tags": []
+ },
+ "2026-10-30-08": {
+  "companies": [
+   "servicenow"
+  ],
+  "date": "2026-10-30",
+  "headline": "ServiceNow grows subscriptions 21% and raises its AI target to $1.7 billion, but guides cRPO growth lower",
+  "numbers": [
+   "Subscription revenue: $3.99B (+21%)",
+   "cRPO: $13.65B (+20.5%)",
+   "Non-GAAP operating margin: 32.5%",
+   "2026 AI ACV target: $1.7B"
+  ],
+  "order": 8,
+  "sector": "tmt",
+  "soWhat": "Software companies are judged on how fast contracted revenue is growing, so a lower cRPO forecast matters more than a strong quarter, and the stock fell sharply after hours. The AI target shows enterprise software firms trying to sell AI features as add-ons to existing contracts. Large acquisitions raise goodwill and integration risk. The open question is whether AI sales grow fast enough to lift cRPO growth back above 20%.",
+  "sources": [
+   {
+    "title": "ServiceNow Q3 2026 earnings release (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001373715/000137371526000092/erq3fy26.htm"
+   },
+   {
+    "title": "Earnings live updates: Exxon, Chevron refining margins jump (Yahoo Finance)",
+    "url": "https://finance.yahoo.com/markets/stocks/live/earnings-live-updates-exxon-chevron-refining-margins-jump-lifting-earnings-120334734.html"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "ServiceNow reported third-quarter subscription revenue of $3.99 billion, up 21%, and total revenue of $4.11 billion. Current remaining performance obligations, the contracted revenue due within 12 months, were $13.65 billion, up 20.5%, and the company guided fourth-quarter cRPO growth to 18.5%. Non-GAAP operating margin was 32.5% and free cash flow was $822 million. ServiceNow raised its full-year subscription revenue outlook to about $15.78 billion, lifted its free cash flow margin target to 36%, and raised its 2026 AI annual contract value target to $1.7 billion. It has spent $9.2 billion on acquisitions so far this year, including Armis and Veza.",
+  "tags": []
+ },
+ "2026-10-30-09": {
+  "companies": [
+   "sandisk"
+  ],
+  "date": "2026-10-30",
+  "headline": "Sandisk reports $11 billion of quarterly revenue and guides higher as it announces an 8-for-1 stock split",
+  "numbers": [
+   "Quarterly revenue: $11B",
+   "EPS: $52.60",
+   "Next-quarter revenue guide: $12.2-12.6B",
+   "Stock split: 8-for-1 on Nov. 19"
+  ],
+  "order": 9,
+  "sector": "tmt",
+  "soWhat": "Flash memory is the storage layer in AI servers, so the shortage that is lifting DRAM and high-bandwidth memory is also raising flash prices and profits. Sandisk's earnings per share of $52.60 shows how far a once low-margin commodity business has moved with tight supply. Device makers face higher component costs. The open question is whether new flash capacity and slower AI spending end the price spike.",
+  "sources": [
+   {
+    "title": "Earnings live updates: Exxon, Chevron refining margins jump (Yahoo Finance)",
+    "url": "https://finance.yahoo.com/markets/stocks/live/earnings-live-updates-exxon-chevron-refining-margins-jump-lifting-earnings-120334734.html"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Sandisk, the flash storage maker, reported quarterly revenue of $11 billion, above the $10.7 billion analysts expected, and earnings of $52.60 per share. It guided the next quarter to revenue of $12.2 billion to $12.6 billion and adjusted earnings of $55 to $57 per share before an 8-for-1 stock split effective November 19. The shares climbed after hours. The results follow SK hynix reporting an 80% operating margin, showing the memory shortage is also lifting flash storage makers.",
+  "tags": []
+ },
+ "2026-10-30-10": {
+  "companies": [
+   "reddit"
+  ],
+  "date": "2026-10-30",
+  "headline": "Reddit's revenue jumps 53% to $895 million, but shares plunge as US users fall and the outlook disappoints",
+  "numbers": [
+   "Revenue: $895M (+53%)",
+   "US daily users: 50.7M (-2%)",
+   "Q4 revenue guide: $1.00-1.03B"
+  ],
+  "order": 10,
+  "sector": "tmt",
+  "soWhat": "Ad platforms grow either by adding users or by earning more per user, and Reddit is relying on the second. A decline in US users matters because the US is where ad prices are highest, so advertisers pay for audience size and engagement. Shifts in how search engines and AI assistants route traffic to the site can shrink that audience. The open question is whether higher ad pricing can offset slower user growth.",
+  "sources": [
+   {
+    "title": "Earnings live updates: Exxon, Chevron refining margins jump (Yahoo Finance)",
+    "url": "https://finance.yahoo.com/markets/stocks/live/earnings-live-updates-exxon-chevron-refining-margins-jump-lifting-earnings-120334734.html"
+   }
+  ],
+  "subindustry": "internet-platforms",
+  "summary": "Reddit reported third-quarter revenue of $895 million, up 53% and above the $875 million analysts expected, with earnings of $1.40 per share. US daily active users fell 2% to 50.7 million. Fourth-quarter revenue was guided to $1.00 billion to $1.03 billion, below the $1.04 billion analysts expected. The shares fell about 17% in after-hours trading.",
+  "tags": []
+ },
+ "2026-10-30-11": {
+  "companies": [
+   "rivian"
+  ],
+  "date": "2026-10-30",
+  "headline": "Rivian's revenue rises 38% to $2.16 billion and it raises guidance as gross profit stays positive",
+  "numbers": [
+   "Revenue: $2.155B (+38%)",
+   "Gross profit: $176M",
+   "Adjusted EBITDA loss: $435M"
+  ],
+  "order": 11,
+  "sector": "advanced-industries",
+  "soWhat": "A positive gross profit means each vehicle sells for more than the direct cost to build it, but overhead, software and new-model development still exceed that margin, so the company loses money overall. Scale is the main route to profitability, because fixed costs are spread over more vehicles. The open question is whether volume grows fast enough to close the EBITDA gap before funding tightens.",
+  "sources": [
+   {
+    "title": "Earnings live updates: Exxon, Chevron refining margins jump (Yahoo Finance)",
+    "url": "https://finance.yahoo.com/markets/stocks/live/earnings-live-updates-exxon-chevron-refining-margins-jump-lifting-earnings-120334734.html"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "Rivian reported third-quarter revenue of $2.155 billion, up 38% and above the $2.02 billion analysts expected, with an adjusted loss of $0.48 per share. Gross profit was $176 million, while the adjusted EBITDA loss was $435 million. The company raised its guidance and its shares gained.",
+  "tags": []
  }
 }

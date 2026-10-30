@@ -2628,5 +2628,252 @@
     "subindustry": "pharma-biotech"
    }
   ]
+ },
+ "2026-10-30": {
+  "date": "2026-10-30",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "cRPO is contracted revenue that will be recognized in the next 12 months, so slower growth in it points to slower subscription revenue ahead, even after a quarter with 21% subscription growth.",
+    "id": "2026-10-30:x01",
+    "kind": "today",
+    "options": [
+     "It measures cash on the balance sheet",
+     "It shows contracted subscription revenue due within 12 months, a forward indicator of growth",
+     "It counts the number of employees",
+     "It reports one-time services revenue"
+    ],
+    "prompt": "ServiceNow's cRPO was $13.65B, up 20.5%, but it guided Q4 cRPO growth to 18.5%. Why do investors watch cRPO?",
+    "sector": "tmt",
+    "storyId": "2026-10-30-08",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 1,
+    "explanation": "The memory shortage that gave SK hynix an 80% margin is also lifting flash prices. Rising prices on tight supply, not weaker demand, explain guidance above this quarter's revenue.",
+    "id": "2026-10-30:x02",
+    "kind": "today",
+    "options": [
+     "A glut of flash memory",
+     "Tight memory supply lifting flash prices as AI needs more storage",
+     "A drop in PC shipments",
+     "A new government subsidy"
+    ],
+    "prompt": "Sandisk reported $11B of quarterly revenue and guided $12.2-12.6B next quarter. What is the main driver?",
+    "sector": "tmt",
+    "storyId": "2026-10-30-09",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 0,
+    "explanation": "Upstream was larger at $5.7B, but US refineries ran at record throughput on wide margins, so downstream added $4.9B. A major's profit depends on both crude prices and fuel margins.",
+    "id": "2026-10-30:x03",
+    "kind": "today",
+    "options": [
+     "Refining contributed almost as much as production when margins were wide",
+     "Downstream earned far more than upstream",
+     "Upstream lost money",
+     "Refining is fixed by long-term contracts"
+    ],
+    "prompt": "Chevron earned $5.7B in upstream and $4.9B in downstream in Q3 2026. What does this show?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-30-04",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 2,
+    "explanation": "With US users down, revenue growth must come from higher ad pricing and licensing, which is harder to sustain. The Q4 revenue guide of $1.00-1.03B was below the $1.04B analysts expected.",
+    "id": "2026-10-30:x04",
+    "kind": "today",
+    "options": [
+     "Revenue cannot grow without new cash",
+     "Advertisers stop paying for ads",
+     "Growth relies on monetizing a flat audience, so slower user growth limits future ad revenue",
+     "The company has no ad business"
+    ],
+    "prompt": "Reddit's revenue rose 53% to $895M, but US daily users fell 2% to 50.7M. What is the main risk?",
+    "sector": "tmt",
+    "storyId": "2026-10-30-10",
+    "subindustry": "internet-platforms"
+   },
+   {
+    "answer": 1,
+    "explanation": "Positive gross profit means each vehicle sells above its direct cost. The EBITDA loss shows overhead, software and development spending still exceed it, so scale is needed to close the gap.",
+    "id": "2026-10-30:x05",
+    "kind": "today",
+    "options": [
+     "Each vehicle sells below its direct cost",
+     "Vehicles cover their direct cost, but overhead and development costs still exceed gross profit",
+     "The company has no fixed costs",
+     "It is profitable after adjustments"
+    ],
+    "prompt": "Rivian earned $176M of gross profit but had a $435M adjusted EBITDA loss. What does this show?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-30-11",
+    "subindustry": "automotive-mobility"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "AWS produced about 63% of operating income from under a quarter of sales. Trailing free cash flow was an outflow of $42.4B because capital spending ran at $215.2B over the year, so cloud is highly profitable but also the reason cash is draining.",
+    "id": "2026-10-30:q01",
+    "kind": "today",
+    "options": [
+     "Cloud is a small side business inside Amazon",
+     "AWS earns most of Amazon's profit, but heavy data center spending has pushed free cash flow negative",
+     "Retail now earns higher margins than cloud",
+     "Amazon has stopped building data centers"
+    ],
+    "prompt": "AWS grew 39% to $46.0B and earned $17.8B of Amazon's $28.1B operating income, while Amazon plans about $220B of capex in 2026. What does this show?",
+    "sector": "tmt",
+    "storyId": "2026-10-30-01",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 3,
+    "explanation": "Memory usually swings between glut and shortage because makers add capacity together. Pre-committed volumes at a high margin show buyers are locking in scarce supply. The company expects the shortage to last through 2030, which is why this is not a low-margin utility.",
+    "id": "2026-10-30:q02",
+    "kind": "today",
+    "options": [
+     "Memory has become a stable but low-margin utility",
+     "Buyers are cutting orders, forcing discounts",
+     "Memory makers now earn mainly by licensing designs",
+     "A normally cyclical commodity is shifting toward contracted volumes while supply is short"
+    ],
+    "prompt": "SK hynix posted an 80% operating margin and said over half of its 2027-28 capacity is committed under long-term deals. What does that signal for memory?",
+    "sector": "tmt",
+    "storyId": "2026-10-30-02",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 0,
+    "explanation": "An integrated company owns both production and refining. Upstream earned $7.1B, down on lower prices, while refining margins and strong diesel yields lifted Energy Products. A pure producer would not have that offset.",
+    "id": "2026-10-30:q03",
+    "kind": "today",
+    "options": [
+     "Refining and fuel margins can widen when crude prices ease, offsetting weaker production profits",
+     "Lower crude prices raise its output automatically",
+     "Governments pay refiners subsidies whenever crude falls",
+     "Its chemicals prices are fixed by ten-year contracts"
+    ],
+    "prompt": "ExxonMobil's upstream earnings fell in Q3 2026 while Energy Products (refining) rose to $7.2B, lifting adjusted earnings to $17.5B. Why can an integrated oil company's profit hold up when crude eases?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-30-03",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 2,
+    "explanation": "The CEO said the priority is unlocking more Xeon supply, so server growth is limited by capacity, not demand. Client revenue fell 5% to $8.1B and the CFO expects the PC slowdown to last through the first half of next year, which pulls the quarterly total down.",
+    "id": "2026-10-30:q04",
+    "kind": "today",
+    "options": [
+     "Data center demand is collapsing",
+     "Its foundry unit became profitable and cut prices",
+     "Server chip supply is constrained while the PC business, down 5%, slows",
+     "Intel is exiting the PC market"
+    ],
+    "prompt": "Intel's data center and AI revenue rose 78% to $7.3B, yet it guided Q4 revenue down to $15-16B from $16.5B. What best explains this?",
+    "sector": "tmt",
+    "storyId": "2026-10-30-05",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 1,
+    "explanation": "Guidance points to about $7B from Ford Pro, $5.5B from Ford Blue and $2.8B from Ford Credit, against a $4B Model e loss. Model e's loss shrank 25% but it is still a drag, not a profit source.",
+    "id": "2026-10-30:q05",
+    "kind": "today",
+    "options": [
+     "Model e and Ford Credit",
+     "Ford Pro and Ford Blue, with Ford Credit adding earnings",
+     "Ford Blue alone",
+     "Model e, as its losses shrink"
+    ],
+    "prompt": "Ford's Model e lost about $1.1B in Q3 and is guided to lose about $4B in 2026, yet Ford raised the low end of its profit outlook to $10.5-11B. Which businesses carry the profit?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-30-06",
+    "subindustry": "automotive-mobility"
+   },
+   {
+    "answer": 3,
+    "explanation": "Starbucks deconsolidated China after the joint venture deal, where it keeps a 40% stake and now books equity income rather than store sales. Transactions rose 1.8% and average ticket 5.2%, and only about 250 North American stores closed.",
+    "id": "2026-10-30:q06",
+    "kind": "today",
+    "options": [
+     "It closed most of its US stores",
+     "Customers bought fewer drinks but paid far more",
+     "A sales-tax change reduced reported revenue",
+     "It moved China retail into a licensed joint venture, so those sales left its revenue"
+    ],
+    "prompt": "Starbucks' revenue fell 4% to $9.1B even though global same-store sales rose 7.2%. What explains the gap?",
+    "sector": "consumer-retail",
+    "storyId": "2026-10-30-07",
+    "subindustry": "travel-hospitality"
+   },
+   {
+    "answer": 1,
+    "explanation": "Operating ratio is operating costs divided by revenue, so 59.1% leaves roughly 41 cents of each dollar as operating profit. It is not a profit margin of 59%, which is the tempting misreading.",
+    "id": "2026-10-23:q05",
+    "kind": "review",
+    "options": [
+     "Cars carried are 59.1% full",
+     "About 59 cents of each revenue dollar goes to operating costs, so lower is better",
+     "Profit margin is 59.1%",
+     "Fuel is 59% of costs"
+    ],
+    "prompt": "Union Pacific's operating ratio was 59.1%. What does that number tell you?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-10-23-05",
+    "subindustry": "transport-logistics"
+   },
+   {
+    "answer": 2,
+    "explanation": "Inflation near 3.9% is driven partly by energy costs, and the chief economist signalled the bank is not yet done. Weak property auctions (clearance rates under 50%) show higher rates are already biting.",
+    "id": "2026-10-26:q05",
+    "kind": "review",
+    "options": [
+     "Unemployment is rising sharply and needs support",
+     "The currency has become too strong",
+     "Annual inflation is about 3.9%, so markets expect policy to stay tight until prices cool",
+     "The government asked the bank to lift house prices"
+    ],
+    "prompt": "The RBA has raised its cash rate to 4.60% with four hikes this year, and markets see better than 60% odds of another. What is the most likely reason?",
+    "sector": "macro",
+    "storyId": "2026-10-26-04",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 3,
+    "explanation": "Backlog is future revenue, not current profit. Commercial lost $697 million on 161 deliveries because of mix, supply chain costs and production-rate preparation, while defense (6.2% margin) and services (18.3%) earned the profit.",
+    "id": "2026-10-27:q03",
+    "kind": "review",
+    "options": [
+     "Customers are cancelling orders",
+     "Defense work is losing money",
+     "Boeing has too few orders to fill its factories",
+     "Backlog turns into profit only when deliveries and costs improve"
+    ],
+    "prompt": "Boeing has a record $745B backlog but a negative 6.5% margin in Commercial Airplanes. What does this show?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-27-03",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 2,
+    "explanation": "Shale wells come online within months and fall off quickly, so producers adjust to price fast. Deepwater fields cost billions upfront and take years, but produce for decades, so they follow long-term price views.",
+    "id": "2026-10-30:q10",
+    "kind": "profile",
+    "options": [
+     "Shale wells run for decades, but deepwater wells are depleted in months",
+     "Shale output is set by OPEC+ quotas, and deepwater by US regulators",
+     "Shale wells can be drilled and produce within months but decline steeply, so output responds quickly to price; deepwater takes years to build and then runs for decades",
+     "Shale needs no capital spending, while deepwater needs a lot"
+    ],
+    "prompt": "Why is US shale called short-cycle while deepwater is long-cycle?",
+    "sector": "energy-materials",
+    "storyId": null,
+    "subindustry": "oil-gas-upstream"
+   }
+  ]
  }
 }
