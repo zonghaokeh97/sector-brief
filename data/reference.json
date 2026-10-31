@@ -268,6 +268,23 @@
    "ticker": "NASDAQ: BRZE (Salesforce deal pending)",
    "updated": "2026-10-25"
   },
+  "bristol-myers-squibb": {
+   "businessModel": "Develops and sells prescription medicines for cancer, heart disease, immune disorders and neuroscience, earning revenue from patent-protected drugs such as Eliquis and Opdivo.",
+   "competitors": [
+    "Merck & Co.",
+    "Pfizer",
+    "Eli Lilly",
+    "AbbVie",
+    "Johnson & Johnson"
+   ],
+   "hq": "Princeton, NJ",
+   "name": "Bristol Myers Squibb",
+   "sector": "healthcare",
+   "size": "2026 revenue guidance about $49.75-50.25B",
+   "subindustry": "pharma-biotech",
+   "ticker": "NYSE: BMY",
+   "updated": "2026-10-31"
+  },
   "bumble": {
    "businessModel": "Freemium dating apps (Bumble, Badoo): free to join, revenue from subscriptions and paid features that boost visibility or matching.",
    "competitors": [
@@ -486,6 +503,23 @@
    "ticker": "ETR: DTE",
    "updated": "2026-10-20"
   },
+  "doordash": {
+   "businessModel": "Runs a local delivery marketplace for restaurants, grocery and retail, earning a commission from merchants plus delivery fees, a DashPass subscription and advertising.",
+   "competitors": [
+    "Uber Eats",
+    "Instacart",
+    "Grubhub",
+    "Amazon",
+    "Deliveroo"
+   ],
+   "hq": "San Francisco, CA",
+   "name": "DoorDash",
+   "sector": "consumer-retail",
+   "size": "Q3 2026 revenue $4.6B; marketplace order value $33.9B (quarter)",
+   "subindustry": "retail-ecommerce",
+   "ticker": "NASDAQ: DASH",
+   "updated": "2026-10-31"
+  },
   "eli-lilly": {
    "businessModel": "Develops and sells patented prescription drugs, led by the Mounjaro and Zepbound obesity and diabetes medicines, and earns high margins until patents expire.",
    "competitors": [
@@ -604,6 +638,23 @@
    "ticker": "NYSE: F",
    "updated": "2026-10-30"
   },
+  "fortinet": {
+   "businessModel": "Sells firewalls and other network security products plus subscription security services that run on them, earning recurring service revenue from its installed base.",
+   "competitors": [
+    "Palo Alto Networks",
+    "Cisco",
+    "Check Point",
+    "Zscaler",
+    "CrowdStrike"
+   ],
+   "hq": "Sunnyvale, CA",
+   "name": "Fortinet",
+   "sector": "tmt",
+   "size": "Q3 2026 revenue $2.08B",
+   "subindustry": "software-cloud",
+   "ticker": "NASDAQ: FTNT",
+   "updated": "2026-10-31"
+  },
   "ge-aerospace": {
    "businessModel": "Sells jet engines (often at thin margins) and earns most of its profit over decades from spare parts, repairs and service contracts on the installed fleet.",
    "competitors": [
@@ -636,6 +687,23 @@
    "subindustry": "power-utilities",
    "ticker": "NYSE: GEV",
    "updated": "2026-10-29"
+  },
+  "general-dynamics": {
+   "businessModel": "Builds nuclear submarines, armored vehicles, Gulfstream business jets and IT services, earning most revenue from long-term government contracts and the rest from aircraft sales and service.",
+   "competitors": [
+    "Lockheed Martin",
+    "RTX",
+    "Northrop Grumman",
+    "Boeing",
+    "Huntington Ingalls"
+   ],
+   "hq": "Reston, VA",
+   "name": "General Dynamics",
+   "sector": "advanced-industries",
+   "size": "Q3 2026 revenue $14.6B; backlog $220.3B",
+   "subindustry": "aerospace-defense",
+   "ticker": "NYSE: GD",
+   "updated": "2026-10-31"
   },
   "general-motors": {
    "businessModel": "Designs, builds and sells cars, trucks and SUVs (Chevrolet, GMC, Buick, Cadillac), with most profit from full-size pickups and SUVs in North America. GM Financial earns interest on auto loans and leases.",
@@ -773,6 +841,23 @@
    "subindustry": "power-utilities",
    "ticker": "Private (Advent International-backed, approx.)",
    "updated": "2026-10-28"
+  },
+  "instacart": {
+   "businessModel": "Connects shoppers with grocers for same-day delivery and pickup, earning fees from shoppers, advertising from brands and software subscriptions from retailers.",
+   "competitors": [
+    "DoorDash",
+    "Amazon",
+    "Walmart",
+    "Uber Eats",
+    "Kroger"
+   ],
+   "hq": "San Francisco, CA",
+   "name": "Instacart (Maplebear)",
+   "sector": "consumer-retail",
+   "size": "Agreed purchase price about $17B equity value (Oct 2026)",
+   "subindustry": "retail-ecommerce",
+   "ticker": "NASDAQ: CART",
+   "updated": "2026-10-31"
   },
   "intel": {
    "businessModel": "Designs PC and server processors and runs a foundry business that makes chips for itself and outside customers; most profit comes from data center and PC chips.",
@@ -1408,6 +1493,23 @@
    "ticker": "NYSE: NOW",
    "updated": "2026-10-30"
   },
+  "shell": {
+   "businessModel": "An integrated energy company that produces oil and gas, liquefies and trades LNG, refines crude into fuels and chemicals, and sells fuel and power to customers.",
+   "competitors": [
+    "ExxonMobil",
+    "Chevron",
+    "TotalEnergies",
+    "BP",
+    "QatarEnergy"
+   ],
+   "hq": "London, UK",
+   "name": "Shell",
+   "sector": "energy-materials",
+   "size": "Q3 2026 adjusted earnings $10.8B; net debt $39.7B",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "NYSE: SHEL",
+   "updated": "2026-10-31"
+  },
   "silence-therapeutics": {
    "businessModel": "Develops siRNA medicines that switch off disease-causing genes. Earns money mainly from partnership payments now and aims to earn drug sales later; lead drug is divesiran for polycythemia vera.",
    "competitors": [
@@ -1944,10 +2046,34 @@
  },
  "subindustries": {
   "aerospace-defense": {
+   "economicsOn": "valueChain",
+   "keyFigures": [
+    {
+     "label": "Global military spending",
+     "note": "2025, +2.9% in real terms · SIPRI",
+     "value": "~$2.89T"
+    },
+    {
+     "label": "Share of world GDP",
+     "note": "2025, up from 2.4% · SIPRI",
+     "value": "~2.5%"
+    },
+    {
+     "label": "European military spending",
+     "note": "2025 · SIPRI",
+     "value": "~$864B (+14%)"
+    },
+    {
+     "label": "General Dynamics backlog",
+     "note": "End of Q3 2026 · company filing",
+     "value": "$220.3B"
+    }
+   ],
    "kpis": [
-    "Backlog in years of sales",
-    "Book-to-bill ratio (orders divided by sales)",
-    "Aircraft and engine delivery counts",
+    "Backlog and book-to-bill (General Dynamics 6.8 to 1 in Q3 2026)",
+    "Operating margin by segment",
+    "Aircraft delivery rate",
+    "Free cash flow conversion",
     "Aftermarket share of revenue"
    ],
    "marketSize": {
@@ -1957,15 +2083,51 @@
     "usNote": "US defense budget (FY2025, approx.)"
    },
    "operatingModel": "Engine and systems makers often sell original equipment near cost and earn high margins on decades of spare parts and services. Defense primes earn steady but capped margins (often about 10%) on government contracts, with large backlogs giving visibility.",
-   "overview": "Aerospace and defense covers makers of commercial aircraft, jet engines and aircraft systems, and suppliers of military equipment such as missiles, fighter jets and ships. Commercial aerospace sells to airlines and earns much of its profit from long-term aftermarket service, while defense sells mostly to governments under multi-year contracts. Both rely on deep, specialized supply chains with few qualified suppliers.",
+   "overview": "Aerospace and defense designs and builds aircraft, engines, missiles, ships and vehicles for airlines, militaries and space customers. A few prime contractors integrate systems made by many suppliers, and governments or airlines buy under long contracts that create multi-year backlogs. The best profits come from spare parts and repair over decades of use rather than from selling the new product. Defense budgets are rising, led by Europe and Asia, and record backlogs mean the limit on growth is production capacity.",
    "players": [
     "Aircraft makers: Boeing and Airbus (a duopoly), plus Embraer and COMAC",
     "Engine makers: GE Aerospace, Pratt & Whitney (RTX), Rolls-Royce, Safran",
     "Defense primes: Lockheed Martin, RTX, Northrop Grumman, General Dynamics, BAE Systems",
     "Structure: concentrated at the top, with high barriers from certification and security rules"
    ],
-   "profileUpdated": "2026-10-20",
+   "profileUpdated": "2026-10-31",
    "sector": "advanced-industries",
+   "segments": {
+    "items": [
+     {
+      "leaders": "Lockheed Martin · RTX · General Dynamics",
+      "name": "United States",
+      "share": "~33%",
+      "sharePct": 33,
+      "what": "Largest spender at $954B, down 7.5% in 2025, a fall SIPRI expects to be short-lived."
+     },
+     {
+      "growth": "fast",
+      "leaders": "Airbus · Rheinmetall · BAE Systems",
+      "name": "Europe",
+      "share": "~30%",
+      "sharePct": 30,
+      "what": "Spending rose 14% to $864B as governments rebuilt defenses."
+     },
+     {
+      "growth": "fast",
+      "leaders": "Chinese state groups · Mitsubishi Heavy · Hanwha",
+      "name": "Asia and Oceania",
+      "share": "~24%",
+      "sharePct": 24,
+      "what": "Spending rose 8.1% to $681B, with China second globally at $336B."
+     },
+     {
+      "leaders": "Regional state-owned and imported suppliers",
+      "name": "Rest of world",
+      "share": "~13%",
+      "sharePct": 13,
+      "what": "Middle East, Africa and the Americas outside the US (the remainder)."
+     }
+    ],
+    "title": "Share of world military spending, by region (2025, SIPRI)"
+   },
+   "summary": "Aerospace and defense designs and builds aircraft, engines, missiles, ships and vehicles for airlines, militaries and space customers. A few prime contractors integrate systems made by many suppliers, and governments or airlines buy under long contracts that create multi-year backlogs. The best profits come from spare parts and repair over decades of use rather than from selling the new product. Defense budgets are rising, led by Europe and Asia, and record backlogs mean the limit on growth is production capacity.",
    "threats": [
     "Supply chain failures and quality problems",
     "Government budget cuts or delays",
@@ -1978,6 +2140,75 @@
     "Munitions and air defense restocking is creating multi-year backlogs",
     "Supply chain bottlenecks in castings, forgings and engines cap output",
     "Consolidation among suppliers to secure scarce capacity"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "World military spending reached a record of about $2.89T in 2025, the eleventh straight annual rise."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Order books are at records: Boeing reported a $745B backlog and General Dynamics $220.3B."
+    },
+    {
+     "kind": "headwind",
+     "text": "Fixed-price programs and labor shortages in shipbuilding squeeze margins."
+    },
+    {
+     "kind": "headwind",
+     "text": "Production bottlenecks, such as Boeing's effort to stabilize 737 output, limit how fast backlogs turn into sales."
+    },
+    {
+     "kind": "headwind",
+     "text": "US defense spending fell 7.5% in 2025, and budget fights can delay awards."
+    }
+   ],
+   "valueChain": [
+    {
+     "cost": "raw materials and skilled labor",
+     "name": "Materials and components",
+     "players": "Howmet · Hexcel · Honeywell",
+     "revenue": "parts sold under long-term supply agreements",
+     "takeaway": {
+      "label": "Capacity constrained",
+      "why": "Few qualified suppliers and long certification make parts a bottleneck for production rates."
+     },
+     "what": "Supply metals, composites, castings and electronics."
+    },
+    {
+     "cost": "research and development plus manufacturing",
+     "name": "Engines and subsystems",
+     "players": "GE Aerospace · RTX · Rolls-Royce",
+     "revenue": "engine sales plus parts and service over decades",
+     "takeaway": {
+      "label": "Aftermarket annuity",
+      "why": "Engines are often sold near cost and earn profit through decades of service."
+     },
+     "what": "Build engines, avionics and weapons systems for prime contractors."
+    },
+    {
+     "cost": "labor, subcontractors and program overruns",
+     "name": "Prime integrators",
+     "players": "Boeing · Airbus · Lockheed Martin · General Dynamics",
+     "revenue": "aircraft sales and defense contracts, either cost-plus or fixed-price",
+     "takeaway": {
+      "label": "Program risk",
+      "why": "Fixed-price work can turn into losses, and General Dynamics' Marine Systems earned 7.9% against 14.5% for Aerospace in Q3 2026."
+     },
+     "what": "Design and assemble aircraft, ships and vehicles and win government programs."
+    },
+    {
+     "cost": "technicians, parts inventory and facilities",
+     "highlight": true,
+     "name": "Sustainment and aftermarket",
+     "players": "GE Aerospace · RTX · Honeywell",
+     "revenue": "spare parts, repair and upgrade contracts",
+     "takeaway": {
+      "label": "Largest profit pool",
+      "why": "Service on equipment already in the field earns higher margins than selling new equipment."
+     },
+     "what": "Repair, upgrade and supply spare parts for equipment already in service."
+    }
    ]
   },
   "agriculture-food": {
@@ -4042,6 +4273,142 @@
     "Labor shortages and tariffs raise building costs"
    ]
   },
+  "refining-chemicals": {
+   "economicsOn": "valueChain",
+   "keyFigures": [
+    {
+     "label": "Global crude runs, 2026",
+     "note": "IEA forecast, as reported by Argus",
+     "value": "~84.4 Mb/d"
+    },
+    {
+     "label": "Net capacity additions, 2026-2030",
+     "note": "BloombergNEF",
+     "value": "~4.2 Mb/d"
+    },
+    {
+     "label": "Capacity offline, September 2026",
+     "note": "Highest since the pandemic · Industrial Info Resources",
+     "value": ">8 Mb/d"
+    },
+    {
+     "label": "US Gulf Coast crack spread, 2026",
+     "note": "Turner, Mason & Co. forecast, excl. RINs",
+     "value": "~$28/bbl"
+    }
+   ],
+   "kpis": [
+    "Crack spread: product price minus crude price per barrel",
+    "Refinery utilization (Shell 96% in Q3 2026)",
+    "Refining margin per barrel",
+    "Ethylene-to-feedstock spread for chemicals",
+    "Net capacity additions and closures"
+   ],
+   "overview": "Refining and chemicals turn crude oil and natural gas liquids into fuels such as gasoline, diesel and jet fuel, and into the building blocks of plastics and other materials. Refiners earn the spread between the products they sell and the crude they buy, so profit follows margins rather than the oil price itself. Chemical makers add value by converting those feedstocks into polymers and specialty products. Margins surged in 2026 as supply disruptions and outages tightened fuel markets, while new capacity in Asia and Africa is the main risk to them.",
+   "profileUpdated": "2026-10-31",
+   "sector": "energy-materials",
+   "segments": {
+    "items": [
+     {
+      "growth": "fast",
+      "leaders": "Sinopec · Reliance · Dangote",
+      "name": "Asia Pacific and Africa",
+      "share": "~95%",
+      "sharePct": 95,
+      "what": "New complexes are being built near growing fuel demand."
+     },
+     {
+      "leaders": "Valero · Marathon Petroleum · Shell",
+      "name": "Rest of the world",
+      "share": "~5%",
+      "sharePct": 5,
+      "what": "Mature markets add little and older plants are closing."
+     }
+    ],
+    "title": "Share of net global refining capacity growth, 2026-2030 (BloombergNEF)"
+   },
+   "summary": "Refining and chemicals turn crude oil and natural gas liquids into fuels such as gasoline, diesel and jet fuel, and into the building blocks of plastics and other materials. Refiners earn the spread between the products they sell and the crude they buy, so profit follows margins rather than the oil price itself. Chemical makers add value by converting those feedstocks into polymers and specialty products. Margins surged in 2026 as supply disruptions and outages tightened fuel markets, while new capacity in Asia and Africa is the main risk to them.",
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "Refining margins surged in 2026: Shell cited higher refining margins in Q3 and TotalEnergies said its refining margin had quadrupled."
+    },
+    {
+     "kind": "tailwind",
+     "text": "More than 8 Mb/d of refining capacity was offline in September 2026, tightening product supply."
+    },
+    {
+     "kind": "headwind",
+     "text": "About 4.2 Mb/d of net new capacity to 2030, mostly in Asia and Africa, could ease margins."
+    },
+    {
+     "kind": "headwind",
+     "text": "Weather and logistics can cut runs: low Rhine water levels lowered Shell refinery utilisation to 96% from 102%."
+    },
+    {
+     "kind": "headwind",
+     "text": "Chokepoint disruption in the Strait of Hormuz raises crude costs and shipping risk for refiners."
+    }
+   ],
+   "valueChain": [
+    {
+     "cost": "crude is the largest cost for a refiner",
+     "name": "Crude and feedstock supply",
+     "players": "Saudi Aramco · ExxonMobil · Shell",
+     "revenue": "sales of crude at market prices for integrated producers; none for a pure refiner",
+     "takeaway": {
+      "label": "Pass-through cost",
+      "why": "A refiner buys crude at market prices, so the margin over crude matters more than the crude price."
+     },
+     "what": "Buy or produce the crude oil and natural gas liquids that are the raw material."
+    },
+    {
+     "cost": "crude oil, energy to run the units and maintenance",
+     "highlight": true,
+     "name": "Refining",
+     "players": "Valero · Marathon Petroleum · Sinopec",
+     "revenue": "sales of fuels and other refined products",
+     "takeaway": {
+      "label": "Volatile",
+      "why": "Profit is the crack spread, which swings with outages, demand and seasons."
+     },
+     "what": "Distill and upgrade crude into gasoline, diesel, jet fuel and other products."
+    },
+    {
+     "cost": "feedstock and energy",
+     "name": "Petrochemicals",
+     "players": "Dow · SABIC · LyondellBasell",
+     "revenue": "sales of basic chemicals priced off feedstock costs",
+     "takeaway": {
+      "label": "Cyclical",
+      "why": "Margins follow the gap between cheap feedstock and chemical prices, which moves with new capacity."
+     },
+     "what": "Crack naphtha and ethane into ethylene, propylene and other basic chemicals."
+    },
+    {
+     "cost": "chemical inputs, energy and research",
+     "name": "Polymers and specialty chemicals",
+     "players": "BASF · Dow · Evonik",
+     "revenue": "sales of materials to manufacturers; specialty grades are priced on performance",
+     "takeaway": {
+      "label": "Stable",
+      "why": "Specialty products tied to customer specifications earn steadier margins than commodities."
+     },
+     "what": "Convert basic chemicals into plastics, coatings and engineered materials."
+    },
+    {
+     "cost": "transport, station operations and labor",
+     "name": "Distribution and marketing",
+     "players": "Shell · BP · Marathon Petroleum",
+     "revenue": "fuel sales margins and station convenience sales",
+     "takeaway": {
+      "label": "Thin margins",
+      "why": "Fuel retailing earns small margins per unit, so volume and non-fuel sales matter."
+     },
+     "what": "Sell fuels through pipelines, terminals and stations and chemicals through distributors."
+    }
+   ]
+  },
   "renewables-transition": {
    "economicsOn": "valueChain",
    "keyFigures": [
@@ -4185,6 +4552,155 @@
       "why": "Utility-scale demand is strong while rooftop solar is weaker in the US and Europe."
      },
      "what": "Utilities, companies and households that buy the power or systems."
+    }
+   ]
+  },
+  "retail-ecommerce": {
+   "economicsOn": "valueChain",
+   "keyFigures": [
+    {
+     "label": "US e-commerce sales",
+     "note": "Quarterly, Q2 2026 · US Census Bureau",
+     "value": "$340.2B"
+    },
+    {
+     "label": "E-commerce share of US retail",
+     "note": "Seasonally adjusted, Q2 2026 · US Census Bureau",
+     "value": "~17.1%"
+    },
+    {
+     "label": "Growth, online vs all retail",
+     "note": "Year on year, Q2 2026 · US Census Bureau",
+     "value": "+12.2% vs +6.7%"
+    },
+    {
+     "label": "DoorDash share of delivery-app spending",
+     "note": "All categories, Q3 2026 · Consumer Edge card data",
+     "value": "~59%"
+    }
+   ],
+   "kpis": [
+    "Gross order value (GOV) and order growth",
+    "Take rate: platform revenue as a share of order value (DoorDash net revenue margin 13.6% in Q3 2026)",
+    "Contribution profit per order",
+    "Repeat purchase and membership rates",
+    "E-commerce share of total retail sales (17.1% in Q2 2026)"
+   ],
+   "overview": "Retail and e-commerce covers businesses that buy or make goods and sell them to consumers in stores and online. Online sales are about 17% of US retail and are growing roughly twice as fast as total retail, led by large marketplaces such as Amazon, with Walmart, delivery apps and specialty sellers competing for shoppers. Product margins are thin, so profit comes from scale in logistics plus high-margin advertising and seller fees. The big changes are faster delivery of groceries and everyday goods, consolidation among delivery apps and AI assistants that may start placing orders.",
+   "profileUpdated": "2026-10-31",
+   "sector": "consumer-retail",
+   "segments": {
+    "items": [
+     {
+      "growth": "gaining",
+      "leaders": "DoorDash",
+      "name": "DoorDash",
+      "share": "~59%",
+      "sharePct": 59,
+      "what": "The largest delivery app, buying Instacart to extend into grocery."
+     },
+     {
+      "growth": "rising",
+      "leaders": "Uber Eats",
+      "name": "Uber Eats",
+      "share": "~18%",
+      "sharePct": 18,
+      "what": "Second in restaurant delivery, expanding into grocery."
+     },
+     {
+      "growth": "falling",
+      "leaders": "Instacart",
+      "name": "Instacart",
+      "share": "~18%",
+      "sharePct": 18,
+      "what": "Grocery specialist whose share has fallen over five years."
+     }
+    ],
+    "title": "Share of US delivery-app spending, all categories (Q3 2026, Consumer Edge card data)"
+   },
+   "summary": "Retail and e-commerce covers businesses that buy or make goods and sell them to consumers in stores and online. Online sales are about 17% of US retail and are growing roughly twice as fast as total retail, led by large marketplaces such as Amazon, with Walmart, delivery apps and specialty sellers competing for shoppers. Product margins are thin, so profit comes from scale in logistics plus high-margin advertising and seller fees. The big changes are faster delivery of groceries and everyday goods, consolidation among delivery apps and AI assistants that may start placing orders.",
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "Online share of US retail rose to 17.1% in Q2 2026 from 16.3% a year earlier, as e-commerce grew 12.2%."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Delivery apps are consolidating, with DoorDash agreeing to buy Instacart for about $17B to share grocery fulfillment costs."
+    },
+    {
+     "kind": "tailwind",
+     "text": "AI shopping assistants are starting to place orders, which could shift where shoppers start their search."
+    },
+    {
+     "kind": "headwind",
+     "text": "Antitrust review of delivery consolidation could take until the end of 2027 or 2028."
+    },
+    {
+     "kind": "headwind",
+     "text": "High oil prices raise fuel and delivery costs for last-mile services."
+    },
+    {
+     "kind": "headwind",
+     "text": "Returns and delivery costs keep online margins thin for sellers without scale."
+    }
+   ],
+   "valueChain": [
+    {
+     "cost": "materials, labor and tariffs",
+     "name": "Brands and suppliers",
+     "players": "P&G · Nike · Samsung",
+     "revenue": "wholesale sales to retailers and marketplaces",
+     "takeaway": {
+      "label": "Squeezed by scale",
+      "why": "Large retailers negotiate hard on price because they control access to shoppers."
+     },
+     "what": "Make or source the goods that retailers and marketplaces sell."
+    },
+    {
+     "cost": "technology, marketing and customer service",
+     "highlight": true,
+     "name": "Marketplace and storefront",
+     "players": "Amazon · Walmart · Shopify",
+     "revenue": "seller fees, advertising and subscriptions",
+     "takeaway": {
+      "label": "Largest profit pool",
+      "why": "Advertising and seller fees earn high margins on top of thin product sales."
+     },
+     "what": "Platforms where shoppers search for and buy products."
+    },
+    {
+     "cost": "warehouse labor, real estate and automation",
+     "name": "Fulfillment and warehousing",
+     "players": "Amazon · Walmart · third-party logistics firms",
+     "revenue": "fulfillment fees charged to sellers",
+     "takeaway": {
+      "label": "Heavy fixed costs",
+      "why": "Warehouses cost the same whether busy or idle, so volume drives profit."
+     },
+     "what": "Store, pick and pack orders for shipment."
+    },
+    {
+     "cost": "driver pay and fuel, the largest cost per order",
+     "name": "Last-mile delivery",
+     "players": "DoorDash · Instacart · UPS",
+     "revenue": "delivery fees and membership subscriptions",
+     "takeaway": {
+      "label": "Thin margins",
+      "why": "Every order carries a driver cost, so order density in one area decides profit."
+     },
+     "what": "Move the order to the customer, often within hours."
+    },
+    {
+     "cost": "return shipping, fraud losses and support staff",
+     "name": "Payments, returns and service",
+     "players": "Visa · Mastercard · PayPal",
+     "revenue": "processing fees earned by payments firms; retailers earn little here",
+     "takeaway": {
+      "label": "Hidden cost",
+      "why": "Returns add shipping and handling costs that sellers must absorb."
+     },
+     "what": "Collect payment, handle returns and support customers."
     }
    ]
   },
@@ -4364,11 +4880,35 @@
    ]
   },
   "software-cloud": {
+   "economicsOn": "segments",
+   "keyFigures": [
+    {
+     "label": "Global cloud infrastructure spend",
+     "note": "Q2 2026 · Synergy Research, as reported secondhand",
+     "value": "~$143B per quarter"
+    },
+    {
+     "label": "Google Cloud revenue growth",
+     "note": "To $30.7B, Q3 2026 · Alphabet",
+     "value": "+103%"
+    },
+    {
+     "label": "AWS sales",
+     "note": "Q3 2026 · Amazon",
+     "value": "$46.0B (+39%)"
+    },
+    {
+     "label": "Alphabet 2026 capex guidance",
+     "note": "Q3 2026 · Alphabet, per XTB",
+     "value": "$195-205B"
+    }
+   ],
    "kpis": [
-    "Rule of 40: growth % + profit margin % ≥ 40",
-    "ARR and net revenue retention (>110% is strong)",
-    "Hyperscaler capex guidance",
-    "Cloud revenue growth by provider"
+    "Annual recurring revenue and remaining performance obligations (RPO)",
+    "Net revenue retention",
+    "Cloud operating margin (Google Cloud 36.2% in Q3 2026)",
+    "Capital spending as a share of revenue",
+    "Free cash flow"
    ],
    "marketSize": {
     "global": "~$720B cloud; ~$1T+ software",
@@ -4377,15 +4917,77 @@
     "usNote": "US share of software and cloud spending (est.)"
    },
    "operatingModel": "Software sells subscriptions with 75–85% gross margins and near-zero marginal cost, so profit grows with scale and retention. Cloud is capital-intensive: providers build data centers, then rent capacity on demand or under multi-year commitments.",
-   "overview": "Enterprise and infrastructure software (applications, security, data, developer tools) and cloud computing, including the new AI cloud providers that rent GPUs.",
+   "overview": "Software and cloud covers the companies that rent computing power over the internet and sell business software as subscriptions. Three giants, Amazon Web Services, Microsoft Azure and Google Cloud, hold about two thirds of cloud infrastructure spending, and software vendors such as Salesforce, ServiceNow and Fortinet sell on top of them. Money comes from usage fees and recurring subscriptions, with high margins once the costly data centers are built. Demand for AI is lifting growth sharply, but the capital spending needed has turned the largest providers' free cash flow negative.",
    "players": [
     "Cloud: AWS (~30% share), Microsoft Azure (~20%+), Google Cloud (~12%), Oracle",
     "Applications: Microsoft, Salesforce, SAP, ServiceNow, Workday",
     "Security: Palo Alto Networks, CrowdStrike, Fortinet, Zscaler; PE-owned Proofpoint",
     "PE specialists: Thoma Bravo, Vista, Silver Lake"
    ],
-   "profileUpdated": "2026-10-19",
+   "profileUpdated": "2026-10-31",
    "sector": "tmt",
+   "segments": {
+    "items": [
+     {
+      "cost": "chips, servers, data centers, power and depreciation",
+      "growth": "steady",
+      "highlight": true,
+      "leaders": "AWS",
+      "name": "Amazon Web Services",
+      "revenue": "usage fees for computing, storage and databases",
+      "share": "~28%",
+      "sharePct": 28,
+      "takeaway": {
+       "label": "Largest profit pool",
+       "why": "AWS made $17.8B of operating income in Q3 2026, most of Amazon's profit."
+      },
+      "what": "The largest provider, earning $17.8B of operating income on $46.0B of Q3 sales."
+     },
+     {
+      "cost": "chips, data centers and power",
+      "growth": "fast",
+      "leaders": "Microsoft",
+      "name": "Microsoft Azure",
+      "revenue": "cloud services and AI services bundled with Microsoft software",
+      "share": "~20%",
+      "sharePct": 20,
+      "takeaway": {
+       "label": "Bundled advantage",
+       "why": "It can grow through Microsoft's existing customer relationships; Azure grew 48% in the latest quarter."
+      },
+      "what": "Sells cloud alongside Microsoft's own business software."
+     },
+     {
+      "cost": "chips, data centers and power",
+      "growth": "fastest",
+      "leaders": "Google",
+      "name": "Google Cloud",
+      "revenue": "cloud and AI usage fees plus workspace subscriptions",
+      "share": "~15%",
+      "sharePct": 15,
+      "takeaway": {
+       "label": "Fastest growth",
+       "why": "Revenue rose 103% to $30.7B in Q3 2026 at a 36.2% operating margin."
+      },
+      "what": "The smallest of the three but the fastest growing."
+     },
+     {
+      "cost": "chips and leased facilities",
+      "leaders": "Alibaba · Oracle · CoreWeave",
+      "name": "All others",
+      "revenue": "regional hosting and rented AI computing capacity",
+      "share": "~37%",
+      "sharePct": 37,
+      "takeaway": {
+       "label": "Niche players",
+       "why": "They compete on region, regulation or specialized AI hardware rather than breadth."
+      },
+      "what": "Regional clouds and specialist AI computing providers (the remainder after the top three)."
+     }
+    ],
+    "title": "Share of global cloud infrastructure spending (Q2 2026, Synergy Research)"
+   },
+   "summary": "Software and cloud covers the companies that rent computing power over the internet and sell business software as subscriptions. Three giants, Amazon Web Services, Microsoft Azure and Google Cloud, hold about two thirds of cloud infrastructure spending, and software vendors such as Salesforce, ServiceNow and Fortinet sell on top of them. Money comes from usage fees and recurring subscriptions, with high margins once the costly data centers are built. Demand for AI is lifting growth sharply, but the capital spending needed has turned the largest providers' free cash flow negative.",
    "threats": [
     "An AI capex pullback if returns disappoint",
     "AI tools commoditizing some software categories",
@@ -4398,6 +5000,55 @@
     "Cybersecurity is consolidating as buyers want fewer vendors",
     "PE take-privates of slower-growth public software companies",
     "AI cloud specialists (CoreWeave, Nebius) carry high leverage and customer concentration"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "AI demand is accelerating cloud growth: Google Cloud +103%, Azure +48% and AWS +39% in the latest quarter."
+    },
+    {
+     "kind": "headwind",
+     "text": "Capital spending is outrunning cash: Alphabet's Q3 free cash flow was -$9.1B and Amazon's trailing free cash flow was -$42.4B."
+    },
+    {
+     "kind": "headwind",
+     "text": "Power and data center capacity limit how fast the providers can sell, as Microsoft noted this quarter."
+    },
+    {
+     "kind": "headwind",
+     "text": "Investors punish slower guidance: ServiceNow fell 27% and Fortinet about 20% after cautious outlooks."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Security and workflow software keeps growing about 20% a year on subscription revenue."
+    }
+   ],
+   "valueChain": [
+    {
+     "name": "Chips and hardware",
+     "players": "Nvidia · AMD · Broadcom",
+     "what": "Make the processors, memory and servers that data centers run on."
+    },
+    {
+     "name": "Data centers and power",
+     "players": "Equinix · Digital Realty · the large cloud providers",
+     "what": "Build and power the buildings that house servers."
+    },
+    {
+     "name": "Cloud infrastructure platforms",
+     "players": "AWS · Microsoft Azure · Google Cloud",
+     "what": "Rent computing, storage and AI models by usage."
+    },
+    {
+     "name": "Software applications",
+     "players": "Salesforce · ServiceNow · Fortinet",
+     "what": "Sell business software, security and AI tools, mostly as subscriptions."
+    },
+    {
+     "name": "Customers and integrators",
+     "players": "Accenture · IBM · Deloitte",
+     "what": "Companies and governments that buy services, plus the consultancies that install them."
+    }
    ]
   },
   "telecom": {

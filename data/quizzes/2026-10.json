@@ -2875,5 +2875,252 @@
     "subindustry": "oil-gas-upstream"
    }
   ]
+ },
+ "2026-10-31": {
+  "date": "2026-10-31",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "Service revenue builds on the installed base, so a lower outlook points to slower future growth. Strong current results did not offset that signal.",
+    "id": "2026-10-31:x01",
+    "kind": "today",
+    "options": [
+     "It reported a quarterly loss",
+     "It lowered full-year service revenue guidance to $5.15-5.17B, below the roughly $5.2B analysts expected",
+     "It announced a large acquisition",
+     "It paid a special dividend"
+    ],
+    "prompt": "Fortinet's revenue grew 20.5%, yet shares fell about 20%. What caused the drop?",
+    "sector": "tmt",
+    "storyId": "2026-10-31-07",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 1,
+    "explanation": "The release says the cash portion comes from cash on hand and debt financing, and there is no financing condition. DoorDash aims to keep investment-grade ratings.",
+    "id": "2026-10-31:x02",
+    "kind": "today",
+    "options": [
+     "Only by issuing new shares",
+     "Cash on hand and debt, backed by a JPMorgan bridge loan",
+     "From Instacart's cash after closing",
+     "By selling Deliveroo"
+    ],
+    "prompt": "Instacart holders can choose cash or DoorDash stock, but stock is capped at 25% of the total. How does DoorDash plan to pay the cash portion?",
+    "sector": "consumer-retail",
+    "storyId": "2026-10-31-01",
+    "subindustry": "retail-ecommerce"
+   },
+   {
+    "answer": 0,
+    "explanation": "A higher expected floor means the market is pricing a lasting premium for supply disruption, not only a temporary spike.",
+    "id": "2026-10-31:x03",
+    "kind": "today",
+    "options": [
+     "Supply risk is now treated as a lasting cost in the oil price",
+     "Oil demand will collapse",
+     "US output will double",
+     "OPEC+ will end its quotas"
+    ],
+    "prompt": "Saxo Bank expects crude at $70-90 after the conflict ends, against $60-70 before it. What does that suggest?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-31-02",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 0,
+    "explanation": "The profile says driver pay and fuel are the largest cost per order, so more orders in one area spread that cost and lift profit.",
+    "id": "2026-10-31:x04",
+    "kind": "profile",
+    "options": [
+     "Each order carries a driver cost, so profit depends on order density in one area",
+     "Delivery apps do not charge fees",
+     "Drivers are paid only when orders are large",
+     "Fuel is the only cost"
+    ],
+    "prompt": "Why are last-mile delivery margins thin?",
+    "sector": "consumer-retail",
+    "storyId": null,
+    "subindustry": "retail-ecommerce"
+   },
+   {
+    "answer": 0,
+    "explanation": "Energy prices are swinging with the Middle East war, so excluding food and energy gives a cleaner read of persistent inflation. At 3.1% it is still well above the Fed's goal.",
+    "id": "2026-10-31:x05",
+    "kind": "today",
+    "options": [
+     "It excludes volatile food and energy prices, showing underlying inflation",
+     "It includes only housing costs",
+     "It tracks only imported goods",
+     "It is the stock market's measure of earnings"
+    ],
+    "prompt": "Core PCE rose 3.1% on the year while headline PCE rose 3.6%. Why do policymakers watch core PCE closely?",
+    "sector": "macro",
+    "storyId": "2026-10-31-03",
+    "subindustry": "macro"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "DoorDash cited scale in grocery delivery to lower fulfillment costs, plus advertising reach and Instacart's software for grocers. It is not a way around regulators: the close is not expected until the end of 2027 or the first half of 2028, after antitrust review.",
+    "id": "2026-10-31:q01",
+    "kind": "today",
+    "options": [
+     "Instacart's partner stores will be closed to cut costs",
+     "Combined order volume lowers fulfillment cost per order and strengthens the advertising and software offer",
+     "The deal lets DoorDash avoid antitrust review",
+     "It guarantees higher prices for every grocery shopper"
+    ],
+    "prompt": "DoorDash will pay $65 per Instacart share, about $17B, and expects at least $500M of annual synergies. What is the main business logic?",
+    "sector": "consumer-retail",
+    "storyId": "2026-10-31-01",
+    "subindustry": "retail-ecommerce"
+   },
+   {
+    "answer": 0,
+    "explanation": "Prices rose on the risk of lost supply from Saudi terminals and the Hormuz shipping lane. Falling demand or rising output would push prices down, not up. Saxo expects $70 to $90 even after the conflict, against $60 to $70 before it.",
+    "id": "2026-10-31:q02",
+    "kind": "today",
+    "options": [
+     "Fear for physical supply after reported attacks on Saudi sites and a limpet-mine strike on a tanker in Hormuz",
+     "A sharp fall in global oil demand",
+     "A large rise in US shale output",
+     "A surprise production increase by OPEC+"
+    ],
+    "prompt": "Brent gained 13.6% in October and WTI 15.2%, reaching their highest since late April. What is the main driver?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-31-02",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 2,
+    "explanation": "When spending outgrows income, the gap comes from savings, and the saving rate dropped from 4.0% to 3.8%. Strong growth with inflation at 3.6% also keeps the Fed leaning toward holding or raising rates.",
+    "id": "2026-10-31:q03",
+    "kind": "today",
+    "options": [
+     "Households are building a larger cushion",
+     "Consumers are cutting back sharply",
+     "Spending growth is partly funded by drawing down savings, which cannot continue indefinitely",
+     "Income is growing faster than spending"
+    ],
+    "prompt": "Third-quarter GDP grew 3.4%, but income rose 0.2% while spending rose 0.5% and the saving rate fell to 3.8%. What does this imply?",
+    "sector": "macro",
+    "storyId": "2026-10-31-03",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 3,
+    "explanation": "A ratio of 6.8 means orders were 6.8 times revenue, driven by $93.8B of defense orders for Virginia-class and Columbia-class submarines. That work turns into revenue over many years, so it adds visibility more than near-term sales.",
+    "id": "2026-10-31:q04",
+    "kind": "today",
+    "options": [
+     "Profit divided by sales",
+     "Cash collected divided by revenue",
+     "The share of orders that are canceled",
+     "New orders booked divided by revenue recognized in the period"
+    ],
+    "prompt": "General Dynamics' backlog rose to $220.3B from $136.5B in one quarter, with a book-to-bill of 6.8 to 1. What does book-to-bill measure?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-31-04",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 1,
+    "explanation": "An integrated company earns in several places, so refining and LNG can carry the result when crude prices dip. Weather was a drag: refinery utilisation fell to 96% from 102% partly because of low Rhine water levels.",
+    "id": "2026-10-31:q05",
+    "kind": "today",
+    "options": [
+     "Lower tax payments",
+     "Higher refining margins and higher realised LNG prices",
+     "Selling its upstream assets",
+     "Smaller share buybacks"
+    ],
+    "prompt": "Shell's adjusted earnings rose to $10.8B from $5.4B a year earlier even though realised liquids prices fell from the prior quarter. What offset the weaker upstream prices?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-31-05",
+    "subindustry": "refining-chemicals"
+   },
+   {
+    "answer": 2,
+    "explanation": "Eliquis grew 25% and revenue guidance rose, so demand was not the problem. The EPS cut came mainly from acquired research and licensing charges, about $0.60 per share, which is a cost of building the pipeline.",
+    "id": "2026-10-31:q06",
+    "kind": "today",
+    "options": [
+     "A fall in Eliquis sales",
+     "Weaker US demand for its medicines",
+     "Charges for acquired research and licensing deals",
+     "A higher corporate tax rate"
+    ],
+    "prompt": "Bristol Myers raised its 2026 revenue outlook to about $49.75-50.25B but cut EPS guidance to $6.35-6.55. What mainly explains the lower earnings outlook?",
+    "sector": "healthcare",
+    "storyId": "2026-10-31-06",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 1,
+    "explanation": "A price below net asset value, even with a 30.1% premium to the market price, shows MidCap traded at a discount to book. Larger lenders gain scale with over $31B of investments and 800+ portfolio companies. The deal is mostly stock, with about $1.21 per share in cash.",
+    "id": "2026-10-27:q05",
+    "kind": "review",
+    "options": [
+     "Business development companies cannot lend to mid-sized firms",
+     "Smaller lenders can trade below book value, so scale buyers can combine them",
+     "Ares Capital expects MidCap's loans to default",
+     "The deal will be paid entirely in cash"
+    ],
+    "prompt": "Ares Capital is buying MidCap Financial, a smaller lender, at $10.88 per share against a reported NAV of about $12.86. What does this suggest?",
+    "sector": "financial-services",
+    "storyId": "2026-10-27-05",
+    "subindustry": "asset-wealth"
+   },
+   {
+    "answer": 2,
+    "explanation": "Care is moving to outpatient settings where procedures are cheaper and insurers prefer to send patients. Owning the network gives the system lower-cost capacity and surgeon relationships. The other options are wrong because surgery centers are paid by insurers and Medicare and do not rely on inpatient beds.",
+    "id": "2026-10-28:q01",
+    "kind": "review",
+    "options": [
+     "Surgery centers are mostly inpatient and need more beds",
+     "Surgery centers are paid by patients only, not insurers",
+     "Same-day procedures are cheaper to deliver outside hospitals, and the network ties surgeons to the system",
+     "The deal removes the need for any insurance contracts"
+    ],
+    "prompt": "A nonprofit health system is buying Surgery Partners, which runs 200+ surgery centers, for about $5.7B. What is the main business logic?",
+    "sector": "healthcare",
+    "storyId": "2026-10-28-01",
+    "subindustry": "payers-providers"
+   },
+   {
+    "answer": 3,
+    "explanation": "Volume added $2.2B and pricing $663M, which more than covered tariff-related costs. Power and Energy, which grew 18%, was the highest-margin segment, so lower power sales would not help.",
+    "id": "2026-10-29:q06",
+    "kind": "review",
+    "options": [
+     "Cutting prices to win share",
+     "Selling the construction division",
+     "Lower sales of power equipment",
+     "Higher volume (+$2.2B) and price realization (+$663M) outpacing tariff costs"
+    ],
+    "prompt": "Caterpillar's operating margin rose to 20.4% from 17.3% on 17% sales growth. What mainly drove the improvement?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-29-07",
+    "subindustry": "industrial-machinery"
+   },
+   {
+    "answer": 0,
+    "explanation": "The profile explains that a refiner buys crude at market prices and sells fuels, so profit follows the spread between them. Margins are volatile because outages, demand and seasons move product prices separately from crude.",
+    "id": "2026-10-31:q10",
+    "kind": "profile",
+    "options": [
+     "It earns the crack spread, the gap between product prices and the crude it buys, so margin matters more than the crude price",
+     "It earns a fixed toll on each barrel regardless of prices",
+     "It earns most of its profit from owning gas stations",
+     "It profits only when crude prices rise"
+    ],
+    "prompt": "How does a refiner make money, and why does the crude oil price alone not decide its profit?",
+    "sector": "energy-materials",
+    "storyId": null,
+    "subindustry": "refining-chemicals"
+   }
+  ]
  }
 }

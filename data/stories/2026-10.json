@@ -3078,5 +3078,198 @@
   "subindustry": "automotive-mobility",
   "summary": "Rivian reported third-quarter revenue of $2.155 billion, up 38% and above the $2.02 billion analysts expected, with an adjusted loss of $0.48 per share. Gross profit was $176 million, while the adjusted EBITDA loss was $435 million. The company raised its guidance and its shares gained.",
   "tags": []
+ },
+ "2026-10-31-01": {
+  "companies": [
+   "doordash",
+   "instacart"
+  ],
+  "date": "2026-10-31",
+  "headline": "DoorDash agrees to buy Instacart for about $17 billion, combining restaurant and grocery delivery",
+  "numbers": [
+   "Deal value: ~$17B equity",
+   "Price: $65.00 per share (26% premium)",
+   "Annual synergies: $500M+ (net of investment)",
+   "Expected close: end of 2027 or 1H 2028",
+   "DoorDash Q3 orders: 993M (+28%)"
+  ],
+  "order": 1,
+  "sector": "consumer-retail",
+  "soWhat": "Delivering groceries costs more per order than delivering a restaurant meal, and the cost falls when one network handles more orders in the same area. Joining the two networks gives DoorDash more orders per driver, a larger audience for advertisers and Instacart's software for grocers. Rivals such as Uber Eats, Amazon and Walmart face a larger competitor, and grocers that rely on Instacart may have less bargaining power. The long closing timeline points to a lengthy US antitrust review, and the open question is whether regulators will accept a combined delivery leader.",
+  "sources": [
+   {
+    "title": "DoorDash press release (SEC 8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm"
+   },
+   {
+    "title": "DoorDash Form 10-Q (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "DoorDash agreed to acquire Instacart for $65.00 per share, an equity value of about $17 billion and a 26% premium to Instacart's price before deal reports began. Shareholders can take cash, DoorDash stock or a mix, with stock capped at 25% of the total price, and JPMorgan has committed a bridge loan. DoorDash expects at least $500 million of annual synergies after several years and expects the deal to close at the end of 2027 or in the first half of 2028. It reported the deal alongside third-quarter results: 993 million orders, up 28%, and revenue of $4.6 billion, up 34%, helped by its Deliveroo purchase.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-10-31-02": {
+  "companies": [
+   "saudi-aramco"
+  ],
+  "date": "2026-10-31",
+  "headline": "Brent ends October up 13.6% as attacks on Saudi sites and a tanker mine strike in Hormuz lift oil to its highest since April",
+  "numbers": [
+   "Brent (Jan contract): $113.43",
+   "Brent (expired Dec contract): $117.64",
+   "WTI: $104.12",
+   "October change: Brent +13.6%, WTI +15.2%"
+  ],
+  "order": 2,
+  "sector": "energy-materials",
+  "soWhat": "Oil prices are rising on the risk that physical supply is cut, not on a measured loss of barrels. Saudi export terminals and the Hormuz shipping lane are the points where one successful attack can remove supply quickly, so traders add a risk premium. Producers and integrated oil companies gain from higher prices, while airlines, chemical makers and drivers pay more. Saxo Bank expects crude at $70 to $90 even after the conflict ends, against $60 to $70 before it, which suggests the market now treats supply risk as a lasting cost. The open question is whether the diplomacy under way, including Qatari mediators in Tehran, reduces the attacks.",
+  "sources": [
+   {
+    "title": "CNBC: Oil jumps 2%, settles at 6-month highs",
+    "url": "https://www.cnbc.com/2026/10/30/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia.html"
+   },
+   {
+    "title": "MarketScreener: crude settlements",
+    "url": "https://www.marketscreener.com/news/december-wti-crude-oil-contract-closes-up-2-12-or-2-1-settles-at-104-12-per-barrel-december-br-ce785fdbd18cf325"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "The expiring December Brent contract settled Friday at $117.64 a barrel, up 2.4%, while the more active January contract closed at $113.43. US crude (WTI) settled at $104.12, up about 2%. For October, Brent gained 13.6% and WTI 15.2%, both reaching their highest levels since late April. The Houthis claimed strikes on Saudi Aramco sites including Ras Tanura, Rabigh and an Abqaiq facility, and the US ordered non-emergency staff out of Saudi Arabia. Separately, a tanker in the Strait of Hormuz was hit by explosive devices attached by a small boat, the first known successful limpet-mine attack in the strait since the war began in February.",
+  "tags": []
+ },
+ "2026-10-31-03": {
+  "companies": [],
+  "date": "2026-10-31",
+  "headline": "US economy grew 3.4% in the third quarter while September inflation held at 3.6% and the saving rate slipped to 3.8%",
+  "numbers": [
+   "Q3 GDP: +3.4% annualized (forecast 3.2%)",
+   "PCE inflation: +3.6% year on year",
+   "Core PCE: +3.1% year on year",
+   "Saving rate: 3.8% (from 4.0%)",
+   "Weekly jobless claims: 194,000"
+  ],
+  "order": 3,
+  "sector": "macro",
+  "soWhat": "Strong growth together with inflation near 3% to 3.5% gives the Fed little reason to cut and some reason to raise rates, which is why two officials dissented in favor of a hike this week. Households spent more than their incomes grew, so consumer demand is being supported partly by lower savings, which cannot continue indefinitely. Borrowers with floating-rate debt and interest-sensitive sectors such as housing lose from a long period of high rates, while savers and banks earning wider spreads gain. The open question is whether spending holds up once savings stop falling.",
+  "sources": [
+   {
+    "title": "Yahoo Finance / Zacks: Stock Market News for Oct 30, 2026",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-30-083100676.html"
+   },
+   {
+    "title": "InvestingLive: FOMC decision Oct 28",
+    "url": "https://investinglive.com/central-banks/fomc-decision-oct-28/"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "Third-quarter GDP grew at a 3.4% annualized rate, above the 3.2% economists expected and faster than the 2.2% of the second quarter. The PCE price index, the Fed's preferred inflation gauge, rose 0.5% in September and 3.6% from a year earlier. Core PCE, which excludes food and energy, rose 0.3% on the month and 3.1% on the year, a little below forecasts. Personal income rose only 0.2% while spending rose 0.5%, so the saving rate fell to 3.8% from 4.0%. Weekly jobless claims were low at 194,000.",
+  "tags": []
+ },
+ "2026-10-31-04": {
+  "companies": [
+   "general-dynamics"
+  ],
+  "date": "2026-10-31",
+  "headline": "General Dynamics' backlog jumps to $220 billion after $94 billion of submarine-led defense orders",
+  "numbers": [
+   "Backlog: $220.3B (from $136.5B)",
+   "Defense orders in Q3: $93.8B",
+   "Book-to-bill: 6.8 to 1",
+   "Revenue: $14.6B (+12.9%)",
+   "Marine Systems margin: 7.9% vs Aerospace 14.5%"
+  ],
+  "order": 4,
+  "sector": "advanced-industries",
+  "soWhat": "A backlog is signed work that turns into revenue over years, so this quarter gives the shipbuilder visibility into the 2030s. Submarine programs earn lower margins than business jets, which means the order surge adds revenue stability more than profit per dollar. Suppliers of steel, propulsion and electronics gain from the volume, and the Navy gains a firm production commitment. The open question is whether shipyards can hire and deliver fast enough to turn the backlog into sales on schedule.",
+  "sources": [
+   {
+    "title": "General Dynamics Q3 2026 results (SEC 8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000040533/000004053326000036/gd-20261004exhibit991.htm"
+   }
+  ],
+  "subindustry": "aerospace-defense",
+  "summary": "General Dynamics reported third-quarter revenue of $14.6 billion, up 12.9%, with diluted earnings of $4.49 per share, up 15.7%. Its backlog rose to $220.3 billion from $136.5 billion at the end of the second quarter, mainly because of large Marine Systems orders for Virginia-class and Columbia-class submarines. The defense segments booked $93.8 billion of orders, a book-to-bill ratio of 8.5 to 1, and the company overall was 6.8 to 1. Marine Systems revenue rose 21.1% to $5.0 billion at a 7.9% operating margin, while Aerospace earned a 14.5% margin on $3.5 billion of sales.",
+  "tags": []
+ },
+ "2026-10-31-05": {
+  "companies": [
+   "shell"
+  ],
+  "date": "2026-10-31",
+  "headline": "Shell's adjusted earnings double to $10.8 billion as refining margins and LNG prices rise",
+  "numbers": [
+   "Adjusted earnings: $10.8B (Q3 2025: $5.4B)",
+   "Cash flow from operations: $21.0B",
+   "LNG liquefaction: 7.43 Mt",
+   "New buyback: $5.0B",
+   "Net debt: $39.7B"
+  ],
+  "order": 5,
+  "sector": "energy-materials",
+  "soWhat": "An integrated oil company earns money at several points in the chain: producing crude and gas, liquefying and trading LNG, and turning crude into fuels. When crude prices dip but fuel and LNG prices rise, the downstream and gas businesses can carry the result. Refiners benefit when product markets are tight, while buyers of diesel, jet fuel and chemicals feedstock pay more. Weather also matters, as low river levels cut refinery runs. The open question is whether refining margins stay high once new refining capacity in Asia and Africa starts up.",
+  "sources": [
+   {
+    "title": "Shell Q3 2026 results (SEC 6-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001306965/000162828026068044/quarterlyexhibit992-q32026.htm"
+   }
+  ],
+  "subindustry": "refining-chemicals",
+  "summary": "Shell reported third-quarter adjusted earnings of $10.8 billion, up from $9.8 billion in the second quarter and $5.4 billion a year earlier. Cash flow from operations was $21.0 billion. Higher refining margins and higher realised LNG prices drove the increase, while lower realised liquids prices weighed on upstream results. LNG liquefaction volumes were 7.43 million tonnes, down about 4% on planned maintenance, and refinery utilisation fell to 96% from 102% partly because of low water levels on the Rhine. Shell announced a new $5.0 billion share buyback and cut net debt to $39.7 billion.",
+  "tags": []
+ },
+ "2026-10-31-06": {
+  "companies": [
+   "bristol-myers-squibb"
+  ],
+  "date": "2026-10-31",
+  "headline": "Bristol Myers Squibb raises its 2026 sales outlook as Eliquis grows 25%, but cuts earnings guidance on deal charges",
+  "numbers": [
+   "Revenue: $13.1B (+7%)",
+   "Eliquis: $4.69B (+25%)",
+   "Opdivo: $2.37B (-6%)",
+   "2026 revenue guidance: $49.75-50.25B",
+   "2026 EPS guidance: $6.35-6.55 (lowered)"
+  ],
+  "order": 6,
+  "sector": "healthcare",
+  "soWhat": "Big drugmakers must replace products as their patents expire, and that costs money upfront. Bristol is spending on acquired and licensed medicines now, which lowers this year's earnings, in the hope that the newer drugs offset Eliquis, its largest product, when generic competition arrives. The strong sales from Eliquis, Breyanzi and Camzyos fund that effort. Patients and investors gain if the pipeline succeeds, while the spending is a cost of staying in the business. The open question is whether new launches such as Cobenfy grow fast enough to fill the gap.",
+  "sources": [
+   {
+    "title": "Bristol Myers Squibb Q3 2026 results (SEC 8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000014272/000001427226000022/a2026q3ex991-filing.htm"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "Bristol Myers Squibb reported third-quarter revenue of $13.1 billion, up 7%, with its Growth Portfolio up 12% to $7.7 billion. Eliquis sales rose 25% to $4.69 billion, Opdivo fell 6% to $2.37 billion, and Cobenfy, the schizophrenia drug, reached $57 million, up 33%. The company raised its 2026 revenue guidance to about $49.75 billion to $50.25 billion but lowered non-GAAP earnings guidance to $6.35 to $6.55 per share from $6.75 to $7.00, mainly because of charges for acquired research and licensing deals. Several late-stage trials met their goals, including treatments for lung fibrosis and multiple myeloma.",
+  "tags": []
+ },
+ "2026-10-31-07": {
+  "companies": [
+   "fortinet"
+  ],
+  "date": "2026-10-31",
+  "headline": "Fortinet shares fall about 20% after it lowers its full-year services revenue outlook despite 20% growth",
+  "numbers": [
+   "Q3 revenue: $2.08B (+20.5%)",
+   "Non-GAAP EPS: $0.91 (+23%)",
+   "FY service revenue guidance: $5.15-5.17B (from $5.18-5.22B)",
+   "Share move: -20.1%"
+  ],
+  "order": 7,
+  "sector": "tmt",
+  "soWhat": "Security vendors are valued on recurring service and subscription revenue, which builds on equipment already sold. A lower outlook for that line suggests slower growth ahead, even after a strong quarter, so investors sell. The pattern this week, where companies beat on current results but guide cautiously, shows that high software valuations leave little room for slower growth. Customers are not harmed, but suppliers that depend on Fortinet's upgrade cycle may see slower demand. The open question is whether the guidance reflects timing or a slowdown in the firewall refresh cycle.",
+  "sources": [
+   {
+    "title": "Yahoo Finance / Zacks: Stock Market News for Oct 30, 2026",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-30-083100676.html"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Fortinet, the network security company, reported third-quarter revenue of $2.08 billion, up 20.5% and slightly above forecasts, with non-GAAP earnings of $0.91 per share, up 23%. It lowered its full-year service revenue guidance to $5.15 billion to $5.17 billion from $5.18 billion to $5.22 billion, below the roughly $5.2 billion analysts expected. The shares fell 20.1% on Thursday. The same session, ServiceNow dropped 27% and Alphabet 12.6% after their reports.",
+  "tags": []
  }
 }
