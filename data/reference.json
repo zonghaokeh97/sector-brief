@@ -17,6 +17,23 @@
    "ticker": "NYSE: MMM",
    "updated": "2026-10-20"
   },
+  "adt": {
+   "businessModel": "Sells and installs security and smart-home systems and earns monthly fees for monitoring them, mostly from US homes and small businesses.",
+   "competitors": [
+    "Vivint",
+    "Brinks Home",
+    "Comcast Xfinity Home",
+    "Amazon Ring",
+    "Google Nest"
+   ],
+   "hq": "Boca Raton, Florida",
+   "name": "ADT",
+   "sector": "infrastructure-logistics",
+   "size": "Approx. $15.3B enterprise value in the Oct 2026 deal; 12,000+ employees",
+   "subindustry": "real-estate-construction",
+   "ticker": "NYSE: ADT (being taken private by Thrive Holdings)",
+   "updated": "2026-11-01"
+  },
   "agile-defense": {
    "businessModel": "Provides cybersecurity, data analytics and AI services to defense and national-security agencies, billed under government contracts.",
    "competitors": [
@@ -151,6 +168,24 @@
    "subindustry": "asset-wealth",
    "ticker": "Nasdaq: ARCC",
    "updated": "2026-10-27"
+  },
+  "astrazeneca": {
+   "businessModel": "Discovers, makes and sells patented prescription medicines, led by cancer drugs, with large franchises in rare disease and heart, kidney and metabolic care.",
+   "competitors": [
+    "Pfizer",
+    "Merck",
+    "Novartis",
+    "Roche",
+    "Bristol Myers Squibb",
+    "Eli Lilly"
+   ],
+   "hq": "Cambridge, UK",
+   "name": "AstraZeneca",
+   "sector": "healthcare",
+   "size": "Nine-month 2026 revenue of $46.9B (company results)",
+   "subindustry": "pharma-biotech",
+   "ticker": "LSE: AZN (also US-listed)",
+   "updated": "2026-11-01"
   },
   "bank-of-america": {
    "businessModel": "Earns net interest income on its huge low-cost deposit base, plus fees from wealth management (Merrill), investment banking and trading.",
@@ -1372,6 +1407,23 @@
    "ticker": "NYSE: RDDT",
    "updated": "2026-10-30"
   },
+  "restaurant-brands-international": {
+   "businessModel": "Franchises Tim Hortons, Burger King, Popeyes and Firehouse Subs and earns royalties on franchisee sales, plus rent and supply income, so it owns few restaurants itself.",
+   "competitors": [
+    "McDonald's",
+    "Wendy's",
+    "Yum! Brands",
+    "Starbucks",
+    "Chipotle"
+   ],
+   "hq": "Toronto, Canada",
+   "name": "Restaurant Brands International",
+   "sector": "consumer-retail",
+   "size": "Q3 2026 system-wide sales of $13.0B; quarterly revenue of $2.5B",
+   "subindustry": "travel-hospitality",
+   "ticker": "NYSE: QSR",
+   "updated": "2026-11-01"
+  },
   "rivian": {
    "businessModel": "Builds electric trucks, SUVs and delivery vans and sells them directly, with software and service revenue adding to vehicle sales.",
    "competitors": [
@@ -1749,6 +1801,22 @@
    "ticker": "NYSE: TMO",
    "updated": "2026-10-22"
   },
+  "thrive-holdings": {
+   "businessModel": "Buys established service businesses and holds them long term, upgrading their operations with technology instead of selling them after a few years.",
+   "competitors": [
+    "Berkshire Hathaway",
+    "Constellation Software",
+    "KKR",
+    "Carlyle"
+   ],
+   "hq": "Not disclosed",
+   "name": "Thrive Holdings",
+   "sector": "financial-services",
+   "size": "75+ businesses in accounting, IT services and construction services",
+   "subindustry": "asset-wealth",
+   "ticker": "Private (permanent-capital holding company)",
+   "updated": "2026-11-01"
+  },
   "tradeweb": {
    "businessModel": "Operates electronic marketplaces for bonds, derivatives and other assets, earning fees on trades plus subscription and data fees.",
    "competitors": [
@@ -2005,43 +2073,43 @@
  "sectors": {
   "advanced-industries": {
    "overview": "Advanced industries covers engineering-heavy manufacturers: carmakers and their suppliers, aircraft and defense companies, and makers of industrial machinery and equipment. Products take years to design and depend on long, global supply chains, so these companies are shaped by how full their factories are, trade policy and the cost of materials like steel. A large share of their profit often comes from servicing and spare parts after the original sale.",
-   "recap": "Aerospace and defense stayed strong: GE Aerospace's orders jumped 49%, RTX's backlog reached $340 billion and Northrop Grumman's backlog hit a record $110 billion, and all three raised their outlooks. GM beat on North American trucks and added a $20 billion buyback. 3M raised its profit outlook and signed a data center optics deal with Amazon. Tesla's revenue was flat at $28 billion while operating profit fell 56% as AI and robot spending outran gross profit.",
-   "recapUpdated": "2026-10-25"
+   "recap": "Data center demand and defense orders drove results. Vertiv's sales jumped 61% and orders more than doubled, and Caterpillar's sales rose 17% to $20.7 billion with data center power generation up 30%. General Dynamics' backlog rose to $220 billion after $94 billion of submarine-led orders, and Boeing reported a record $745 billion backlog despite a quarterly loss. Ford raised the low end of its 2026 profit outlook to $10.5 to $11 billion while its electric vehicles still lose about $4 billion, and Rivian's revenue rose 38% to $2.16 billion.",
+   "recapUpdated": "2026-11-01"
   },
   "consumer-retail": {
    "overview": "Consumer and retail covers the companies that make and sell what people buy day to day. That includes stores and online retailers, makers of food, drinks and household products, farm and food businesses, and travel and hospitality companies like airlines and hotels. Consumer spending is about two-thirds of the US economy, so these businesses rise and fall with how confident people feel and how much money they have left after essentials.",
-   "recap": "Fuel costs were the common thread. US airlines' fuel spending rose 55% to 67% while revenue rose 16% to 22%, and Southwest's fuel bill rose $821 million with $4.55 a gallon planned for the fourth quarter. P&G grew sales 4% to $23.3 billion and held its outlook despite higher oil-linked costs, and S&P Global warned the Hormuz energy shock could become a food crisis in 2027. Silgan and American Industrial Partners agreed to buy Trivium Packaging for $3.4 billion.",
-   "recapUpdated": "2026-10-25"
+   "recap": "Delivery and restaurants led the news. DoorDash agreed to buy Instacart for about $17 billion, Starbucks reported same-store sales up 7.2%, and Restaurant Brands said Burger King US comparable sales rose 8.4% while Popeyes fell 1.8%. Coca-Cola raised its 2026 outlook on 7% organic revenue growth. Weaker names stood out: Whirlpool swung to a $249 million quarterly loss and skipped its dividend, and a Trian-led group proposed a $7.35-a-share cash buyout of Wendy's, a 20% premium.",
+   "recapUpdated": "2026-11-01"
   },
   "energy-materials": {
    "overview": "Energy and materials covers the companies that pull resources out of the ground and turn them into fuel, power and raw materials. That includes oil and gas producers, the pipelines, ships and terminals that move their output, refineries and chemical plants, electric utilities and renewable developers, and miners and steelmakers. These are capital-heavy businesses that live with commodity prices they don't control, so returns depend on keeping costs low and investing at the right point in the cycle.",
-   "recap": "Hormuz kept oil high all week: Brent held near $110 to $112 as Iran said it attacked ships, and on Friday US crude rose 3.8% to $103.27 after new Iranian warnings. Gas is tight too, with Asian LNG at a near four-year high and Europe entering winter with low storage while Qatar's LNG capacity stays partly offline. Halliburton's North America revenue slipped despite high prices while its international work grew. In power, Microsoft signed a 20-year Indiana supply deal with NiSource and Bloom Energy's revenue more than doubled to a record $1.24 billion. Steelmakers posted strong volumes, with Steel Dynamics shipping a record 3.78 million tons.",
-   "recapUpdated": "2026-10-25"
+   "recap": "Oil ended October sharply higher: Brent gained 13.6% on attacks on Saudi sites and a tanker mine strike in Hormuz, its highest since April, and Brent traded near $112 to $115 on Friday. Refining margins carried the big producers: Exxon's adjusted profit rose to $17.5 billion, Chevron nearly tripled its profit to $9.9 billion and plans a $7 billion Venezuela investment, and Shell's adjusted earnings doubled to $10.8 billion. Dealmaking continued with EQT buying Range Resources, Ovintiv buying Logan Energy for about $890 million and GE Vernova buying grid-equipment maker Trench for $9 billion. Gas-engine maker INNIO raised guidance on 57% revenue growth, while Enphase guided to weaker US residential solar demand.",
+   "recapUpdated": "2026-11-01"
   },
   "financial-services": {
    "overview": "Financial services is the business of managing, lending, investing and moving money. Banks take deposits and make loans, insurers collect premiums to cover risks, asset managers invest on behalf of savers and pension funds, and payments companies handle the flow of money between people and businesses. It is one of the most heavily regulated industries, so how much capital firms must hold and how well they control risk shapes how profitable they can be.",
-   "recap": "Deals and penalties led the week. Bank of America faced $1.2 billion in penalties over anti-money-laundering failures, LSEG agreed to buy Octus for more than $3.5 billion, Dai-ichi Life approached Challenger with an A$7.9 billion offer, and Tradeweb agreed to buy Trumid for about $1.97 billion. Stablecoin payments rose 45% this year as Visa, Mastercard and Stripe link crypto to cards. W. R. Berkley's premium growth slowed to 1%. American Express posted record quarterly revenue of $20.1 billion and raised its profit outlook, then announced a 5% job cut.",
-   "recapUpdated": "2026-10-25"
+   "recap": "Payments and banks reported strong quarters. American Express posted record revenue of $20.1 billion but announced a 5% job cut, Visa ended its fiscal year with $45.9 billion in revenue, up 15%, and Mastercard's net revenue rose 14% to $9.8 billion with cross-border volume up 11%. HSBC's third-quarter pre-tax profit rose 32% to $9.6 billion, helped by a legal charge from a year earlier not repeating. Deals focused on trading and credit: Tradeweb agreed to buy Trumid for about $1.97 billion, Ares Capital agreed to buy MidCap Financial for about $2.6 billion, and Markel moved $2.3 billion of old reinsurance claims to Enstar.",
+   "recapUpdated": "2026-11-01"
   },
   "healthcare": {
    "overview": "Healthcare covers the companies that discover, make, pay for and deliver medical care. Drugmakers and biotech firms develop medicines, device makers build everything from surgical tools to heart implants, insurers pay for care, and hospitals and doctors provide it. In the US the system is large and complex, and prices are set through negotiation between manufacturers, insurers and the middlemen between them, so policy and regulation matter as much as science.",
-   "recap": "Drug and device companies mostly reported solid quarters: J&J raised its profit forecast and is weighing an orthopedics spinoff, Thermo Fisher's revenue grew 9% to $12.14 billion, Quest Diagnostics grew revenue 10% to $3.10 billion and Intuitive Surgical's procedures grew 15%. Moderna fell about 18% after melanoma vaccine data leaked early, showing a 42% cut in recurrence or death risk. Merck KGaA agreed to buy Silence Therapeutics for $1.3 billion, and EQT agreed to take QIAGEN private for $12.1 billion. CMS proposed flat fees for drug middlemen in Medicare Part D.",
-   "recapUpdated": "2026-10-25"
+   "recap": "Large drugmakers kept growing. Eli Lilly's revenue jumped 39% to $24.4 billion and it raised its 2026 sales outlook to $91 to $92 billion, Merck's Keytruda sales reached $8.6 billion, and Bristol Myers Squibb raised its sales outlook as Eliquis grew 25% but cut earnings guidance on deal charges. AstraZeneca's cancer sales grew 18% and lifted nine-month revenue to $46.9 billion, while older heart and diabetes drugs shrank. Deals focused on care and tools: EQT agreed to take QIAGEN private for $12.1 billion and Bon Secours Mercy Health agreed to buy Surgery Partners for $5.7 billion.",
+   "recapUpdated": "2026-11-01"
   },
   "infrastructure-logistics": {
    "overview": "Infrastructure and logistics covers the physical networks the rest of the economy runs on. That includes the trucking, rail, shipping and air freight companies that move goods, the developers and builders behind homes, offices and data centers, and the public sector that funds and regulates much of it. These businesses are sensitive to fuel costs and interest rates, because moving goods burns diesel and most buildings are paid for with borrowed money.",
-   "recap": "Higher costs and rates weighed on the sector. Diesel near $6.30 spread fuel surcharges through supply chains, homebuilder confidence fell to its lowest since 2012 with mortgage rates near 7.4%, and the 10-year yield above 5% pressured REITs. Union Pacific posted record third-quarter results with revenue up 15% while its Norfolk Southern merger stays under review. EQT agreed to buy Cleanaway for about A$9.3 billion, and Maximus agreed to buy defense contractor Agile Defense for $660 million.",
-   "recapUpdated": "2026-10-25"
+   "recap": "Freight and deals defined the week. UPS beat estimates and lifted its 2026 outlook as it winds down Amazon volume, and Landstar's revenue rose 25% to $1.51 billion on higher truck rates, although claims costs cut its profit. Maximus agreed to buy defense contractor Agile Defense for $660 million. Thrive Holdings agreed to take home-security company ADT private in a deal valued at $15.3 billion including debt, financed by Apollo funds, with a go-shop period running to November 28.",
+   "recapUpdated": "2026-11-01"
   },
   "macro": {
    "overview": "The macro picture covers the forces that move every industry at once: how fast economies are growing, how quickly prices are rising, where central banks set interest rates, and how goods and money flow between countries. When energy costs climb or borrowing gets more expensive, the effects show up in nearly every company's results, so this is the backdrop for reading the rest of the news.",
-   "recap": "Energy and interest rates drove the week. Brent held near $110 to $112 on Hormuz disruption, and on Friday US crude rose to $103.27, up 14% for October. The 10-year Treasury yield reached 5.00% on Friday after touching 5.15% earlier in the week, and the Fed ends its meeting on Wednesday, expected to hold rates. China grew 4.5% in the third quarter on exports while consumers and property stayed weak, and Canada's inflation rose to 3.1% on a 28% jump in gasoline prices. The Nasdaq fell 2.6% on Thursday on doubts about AI spending.",
-   "recapUpdated": "2026-10-25"
+   "recap": "The Fed held at 3.75% to 4% on Wednesday in a 10-2 vote, with two officials wanting a hike, and markets lean toward an increase in December. The economy grew 3.4% in the third quarter while September inflation held at 3.6%. The 10-year Treasury yield sat near 4.93% on Friday after reaching 5.00% a week earlier. Stocks ended the week in a sell-off, with the Nasdaq down 5.3% in October, its worst month since March 2025, as doubts about AI spending spread. This week brings midterm elections on Tuesday and the jobs report on Friday, with forecasts of about 55,000 new jobs.",
+   "recapUpdated": "2026-11-01"
   },
   "tmt": {
    "overview": "Tech, media and telecom covers the companies behind computing and communication: chipmakers, software and cloud providers, internet platforms like search and social media, entertainment and streaming companies, and the telecom networks that connect everything. Many of these businesses become more profitable as they grow, because serving one more customer costs very little, which is why a handful of very large companies dominate. Much of the sector's investment today is going into the data centers and chips that power AI.",
-   "recap": "Doubts about AI spending hit tech: Meta grew revenue 26% to $64.6 billion but its free cash flow turned negative on capital spending of $135 to $145 billion this year, and the Nasdaq fell 2.6% on Thursday. Deals continued, with Salesforce agreeing to buy Braze for $5.66 billion, Proofpoint buying Varonis for $6.3 billion and Bumble going private for $1.3 billion. SpaceX grew revenue 161% to $14.6 billion in its first full public quarter, and Texas Instruments revenue rose 28% to $6.06 billion. Netflix guided to a lower margin and is cutting about 1,000 jobs, and Comcast lost 144,000 broadband customers while adding 368,000 wireless lines.",
-   "recapUpdated": "2026-10-25"
+   "recap": "AI spending dominated tech. Microsoft's Azure grew 48% and AWS grew 39% to $46.0 billion, but Alphabet fell 12% in a day and Amazon's free cash flow turned negative as capital spending soared. Intel's server chip revenue rose 78%, yet it fell about 29% on Friday after a weak fourth-quarter forecast, and a semiconductor ETF lost more than 8%. SK hynix earned an 80% operating margin and said the memory shortage will last until 2030, while Reddit and Fortinet shares plunged on weak outlooks. On the deal side, Anthropic filed publicly for a Nasdaq IPO, Guidewire agreed to buy hyperexponential for $1.7 billion and Applied Materials moved to lift its stake in Besi to about 20%.",
+   "recapUpdated": "2026-11-01"
   }
  },
  "subindustries": {
@@ -4237,11 +4305,35 @@
    ]
   },
   "real-estate-construction": {
+   "economicsOn": "valueChain",
+   "keyFigures": [
+    {
+     "label": "Global construction output",
+     "note": "Per year, est. 2025 · Oxford Economics, approx.",
+     "value": "~$13T"
+    },
+    {
+     "label": "US construction spending",
+     "note": "Annual rate, Aug 2026, down 1.7% on a year earlier · Census Bureau",
+     "value": "~$2.2T"
+    },
+    {
+     "label": "Residential share of global output",
+     "note": "2020, largest segment · Oxford Economics",
+     "value": "~44%"
+    },
+    {
+     "label": "Global output forecast, 2030",
+     "note": "$15.2T forecast made in 2021 · Oxford Economics",
+     "value": "~$15T"
+    }
+   ],
    "kpis": [
     "30-year mortgage rate",
     "NAHB builder sentiment (50 = neutral)",
     "Housing starts and permits",
-    "Cap rates and office vacancy rates"
+    "Cap rates and office vacancy rates",
+    "US construction spending: about $2.2T a year"
    ],
    "marketSize": {
     "global": "~$13T",
@@ -4250,15 +4342,45 @@
     "usNote": "US construction spending, annual rate (Census Bureau, 2025 approx.)"
    },
    "operatingModel": "Developers and builders earn margins on projects sold; REITs earn rent and pay out most income as dividends. Everything is rate-sensitive because buyers and owners rely on debt.",
-   "overview": "Homebuilding, commercial real estate (offices, logistics, data centers), REITs, and engineering and construction contractors.",
+   "overview": "Real estate and construction covers the builders, developers, landlords and contractors that create and own homes, offices, warehouses and data centers. Developers and contractors earn project margins, while landlords and REITs earn rent. Almost everything depends on borrowing, so interest rates decide when projects start and what buildings are worth. Data centers are the strongest growth area, held back by the supply of power.",
    "players": [
     "Homebuilders: D.R. Horton, Lennar, PulteGroup, NVR",
     "REITs: Prologis (logistics), Equinix and Digital Realty (data centers), American Tower",
     "Contractors: Bechtel, Fluor, Turner, AECOM",
     "Investors: Blackstone (largest commercial real estate owner)"
    ],
-   "profileUpdated": "2026-10-19",
+   "profileUpdated": "2026-11-01",
    "sector": "infrastructure-logistics",
+   "segments": {
+    "items": [
+     {
+      "growth": "flat",
+      "leaders": "D.R. Horton · Lennar · PulteGroup",
+      "name": "Residential",
+      "share": "~40%",
+      "sharePct": 40,
+      "what": "Houses and apartments, about $877 billion at an annual rate."
+     },
+     {
+      "growth": "mixed",
+      "leaders": "Turner · Bechtel · Fluor",
+      "name": "Private non-residential",
+      "share": "~34%",
+      "sharePct": 34,
+      "what": "Offices, warehouses, factories and data centers, about $745 billion."
+     },
+     {
+      "growth": "steady",
+      "leaders": "AECOM · Fluor · Granite",
+      "name": "Public",
+      "share": "~25%",
+      "sharePct": 25,
+      "what": "Roads, schools and water systems paid for by governments, about $544 billion."
+     }
+    ],
+    "title": "Share of US construction spending, by type (June 2026 annual rate, about $2.17T)"
+   },
+   "summary": "Real estate and construction covers the builders, developers, landlords and contractors that create and own homes, offices, warehouses and data centers. Developers and contractors earn project margins, while landlords and REITs earn rent. Almost everything depends on borrowing, so interest rates decide when projects start and what buildings are worth. Data centers are the strongest growth area, held back by the supply of power.",
    "threats": [
     "High interest rates",
     "Commercial real estate loan defaults",
@@ -4271,6 +4393,89 @@
     "Data centers are the hottest asset class, constrained by power",
     "Industrial and logistics construction is cooling after the e-commerce boom",
     "Labor shortages and tariffs raise building costs"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "headwind",
+     "text": "US construction spending was down 1.7% from a year earlier in August 2026, held back by high rates."
+    },
+    {
+     "kind": "headwind",
+     "text": "Mortgage rates near 7.4% keep housing turnover low and weigh on builder confidence."
+    },
+    {
+     "kind": "headwind",
+     "text": "Office values remain depressed by hybrid work."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Data centers are the hottest asset class, limited mainly by access to power."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Private equity and holding companies are buying recurring-fee property services, such as the $15.3 billion ADT deal."
+    },
+    {
+     "kind": "headwind",
+     "text": "Labor shortages and tariffs raise building costs."
+    }
+   ],
+   "valueChain": [
+    {
+     "cost": "interest on borrowed money",
+     "name": "Land and capital",
+     "players": "Blackstone · Banks · Pension funds",
+     "revenue": "gains on land value and fees for arranging financing",
+     "takeaway": {
+      "label": "Rate-sensitive",
+      "why": "Higher interest rates raise the cost of every project and lower what buildings are worth."
+     },
+     "what": "Investors and lenders supply the land and the money, which usually means large amounts of debt."
+    },
+    {
+     "cost": "land, permits and financing",
+     "name": "Development and design",
+     "players": "D.R. Horton · Lennar · Prologis",
+     "revenue": "the margin between building cost and sale or lease value",
+     "takeaway": {
+      "label": "Risk-taking margin",
+      "why": "Developers earn the most when demand holds up, but lose most when rates rise before a project sells."
+     },
+     "what": "Developers choose the site, get permits and plan the project, taking the risk that it sells or leases."
+    },
+    {
+     "cost": "labor, materials and equipment",
+     "name": "Construction",
+     "players": "Bechtel · Fluor · AECOM · Turner",
+     "revenue": "project fees and fixed-price contracts",
+     "takeaway": {
+      "label": "Thin margins",
+      "why": "Contractors carry cost overruns on fixed-price work, so margins stay low."
+     },
+     "what": "Contractors and suppliers build the project for a fee or a fixed price."
+    },
+    {
+     "cost": "interest, upkeep and property taxes",
+     "name": "Ownership and operation",
+     "players": "Prologis · Equinix · Digital Realty · American Tower",
+     "revenue": "rent, which is often locked in for years",
+     "takeaway": {
+      "label": "Steady rent",
+      "why": "Long leases on good buildings give predictable income for years, unlike one-time project margins."
+     },
+     "what": "Landlords and REITs own finished buildings and collect rent from tenants."
+    },
+    {
+     "cost": "staff",
+     "name": "Services and management",
+     "players": "CBRE · JLL · ADT",
+     "revenue": "management fees, brokerage commissions and monitoring fees",
+     "takeaway": {
+      "label": "Recurring fees",
+      "why": "Fees repeat monthly or yearly, like ADT's home-security monitoring."
+     },
+     "what": "Property managers, brokers and security and maintenance firms keep buildings running and filled."
+    }
    ]
   },
   "refining-chemicals": {
@@ -5127,11 +5332,34 @@
    ]
   },
   "travel-hospitality": {
+   "economicsOn": "segments",
+   "keyFigures": [
+    {
+     "label": "Travel and tourism contribution to global GDP",
+     "note": "9.8% of the global economy, 2025 · WTTC",
+     "value": "~$11.6T"
+    },
+    {
+     "label": "Global airline revenue",
+     "note": "2026 forecast, June update · IATA",
+     "value": "~$1.17T"
+    },
+    {
+     "label": "Airline net profit margin",
+     "note": "About $23B profit in 2026, cut from 3.9% by fuel and Middle East disruption · IATA",
+     "value": "~2.0%"
+    },
+    {
+     "label": "Jobs supported",
+     "note": "10.9% of global employment, 2025 · WTTC",
+     "value": "~366M"
+    }
+   ],
    "kpis": [
-    "Load factor (seats filled): about 84% in 2026",
-    "Unit revenue (RASM) vs unit cost (CASM)",
-    "Net margin: about 2-4% for airlines",
-    "RevPAR (hotel revenue per available room)",
+    "Airline net margin: about 2% in 2026 (IATA)",
+    "Load factor: about 84% of seats filled",
+    "RevPAR: hotel revenue per available room",
+    "Comparable sales growth: for restaurant chains, such as Burger King US +8.4% in Q3 2026",
     "Fuel as a share of airline costs"
    ],
    "marketSize": {
@@ -5141,14 +5369,68 @@
     "usNote": "US airline revenue, approx. (from memory, 2024-25)"
    },
    "operatingModel": "Airlines earn revenue from tickets, bags and loyalty programs but carry heavy fixed costs, so a few percentage points of seats filled decide profit. Hotel brands mostly collect fees from franchisees and owners and take little operating risk.",
-   "overview": "Travel and hospitality covers the airlines, hotels, cruise lines, rental firms and booking sites that move and host people on trips. Costs are mostly fixed (planes, buildings, crews), so profit swings sharply with how full they are and with fuel and labor costs. Leisure and business travel recover at different speeds after shocks, and demand follows consumer confidence.",
+   "overview": "Travel and hospitality covers the airlines, hotels, cruise lines, booking sites and restaurants that move, host and feed people on trips. Most of the cost is fixed (planes, buildings, crews), so profit swings sharply with how full the seats and rooms are. Airlines earn thin margins while hotel and restaurant brands earn steadier fees by franchising to owners. Fuel prices, conflict and consumer confidence are the main forces now changing results.",
    "players": [
     "Airlines: Delta, United, American, Southwest; Ryanair, Lufthansa, Emirates",
     "Hotels: Marriott, Hilton, Hyatt; Airbnb; Booking Holdings and Expedia",
     "Structure: a few big US airlines run most of the market; hotels are brand franchisors"
    ],
-   "profileUpdated": "2026-10-21",
+   "profileUpdated": "2026-11-01",
    "sector": "consumer-retail",
+   "segments": {
+    "items": [
+     {
+      "cost": "fuel, crews and aircraft ownership",
+      "growth": "steady",
+      "leaders": "Delta · United · Ryanair",
+      "name": "Airlines",
+      "revenue": "ticket sales, bag and seat fees, and loyalty-program partners",
+      "takeaway": {
+       "label": "Thin margins",
+       "why": "Fixed costs are high, and IATA expects only about a 2% net margin in 2026."
+      },
+      "what": "Sell seats on planes, plus bags, upgrades and loyalty points."
+     },
+     {
+      "cost": "brand marketing and the loyalty program",
+      "growth": "steady",
+      "leaders": "Marriott · Hilton · Hyatt",
+      "name": "Hotels and lodging brands",
+      "revenue": "franchise and management fees, and loyalty-card income",
+      "takeaway": {
+       "label": "Asset-light fees",
+       "why": "Owners carry the building costs, so the brand earns fees with little capital."
+      },
+      "what": "Brands that mostly collect fees from the owners who run hotels under their names."
+     },
+     {
+      "cost": "marketing and technology",
+      "growth": "fast",
+      "leaders": "Booking Holdings · Expedia · Airbnb",
+      "name": "Online booking platforms",
+      "revenue": "commissions on each booking, and advertising",
+      "takeaway": {
+       "label": "Marketing-driven",
+       "why": "Most spending goes to attracting travelers, so scale and brand lower the cost of each booking."
+      },
+      "what": "Websites that match travelers with flights, rooms and rentals."
+     },
+     {
+      "cost": "brand marketing and support",
+      "growth": "steady",
+      "leaders": "McDonald's · Restaurant Brands · Yum! Brands",
+      "name": "Restaurant franchisors",
+      "revenue": "royalties on franchisee sales, rent and supplies",
+      "takeaway": {
+       "label": "Stable royalties",
+       "why": "Royalties follow sales, so a rise in comparable sales lifts revenue with little extra cost."
+      },
+      "what": "Brands such as Burger King and Tim Hortons whose restaurants are mostly run by franchisees."
+     }
+    ],
+    "title": "Main business types in travel and hospitality (shares not shown: no reliable single source)"
+   },
+   "summary": "Travel and hospitality covers the airlines, hotels, cruise lines, booking sites and restaurants that move, host and feed people on trips. Most of the cost is fixed (planes, buildings, crews), so profit swings sharply with how full the seats and rooms are. Airlines earn thin margins while hotel and restaurant brands earn steadier fees by franchising to owners. Fuel prices, conflict and consumer confidence are the main forces now changing results.",
    "threats": [
     "Fuel price spikes and conflict-related airspace closures",
     "Recession reducing business and leisure travel",
@@ -5162,6 +5444,59 @@
     "Aircraft and engine shortages limit how fast airlines can add capacity",
     "Hotel chains lean on franchising and fees instead of owning buildings",
     "Travel demand is split: wealthier travelers keep spending while lower-income ones trade down"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "headwind",
+     "text": "Jet fuel and Middle East disruption cut IATA's 2026 airline profit forecast from $41 billion to about $23 billion."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Travel and tourism grew 4.1% in 2025, faster than the 2.8% growth of the global economy (WTTC)."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Premium cabins and loyalty programs earn a growing share of airline profit."
+    },
+    {
+     "kind": "headwind",
+     "text": "Aircraft and engine shortages limit how fast airlines can add seats."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Hotel and restaurant brands keep shifting to franchising, which brings steady fee income."
+    },
+    {
+     "kind": "headwind",
+     "text": "Lower-income travelers are trading down while wealthier travelers keep spending."
+    }
+   ],
+   "valueChain": [
+    {
+     "name": "Traveler demand",
+     "players": "Consumers · Corporate travel departments",
+     "what": "Leisure and business travelers decide where and when to go, based on income, confidence and prices."
+    },
+    {
+     "name": "Booking and distribution",
+     "players": "Booking Holdings · Expedia · Airbnb",
+     "what": "Websites, apps and agents sell the trip and take a commission for connecting traveler and supplier."
+    },
+    {
+     "name": "Transport",
+     "players": "Delta · United · Ryanair · Emirates",
+     "what": "Airlines, railways, cruise lines and car rental firms carry the traveler to the destination."
+    },
+    {
+     "name": "Lodging and venues",
+     "players": "Marriott · Hilton · Hyatt",
+     "what": "Hotels, resorts and rentals host the traveler, mostly owned by investors and run under big brand names."
+    },
+    {
+     "name": "Food and experiences",
+     "players": "McDonald's · Restaurant Brands · Starbucks",
+     "what": "Restaurants, attractions and tours earn money from what travelers and locals spend on the spot."
+    }
    ]
   }
  }

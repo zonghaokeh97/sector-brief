@@ -1,0 +1,409 @@
+{
+ "2026-11-01": {
+  "date": "2026-11-01",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "A 5% risk-free return raises the bar for every other asset and raises financing costs, which hits borrowers like utilities, homebuilders and REITs most. A strong economy is not what the yield shows here, since inflation and policy expectations also drive it.",
+    "id": "2026-10-25:q01",
+    "kind": "today",
+    "options": [
+     "It shows the economy is growing faster than expected",
+     "Safe bonds now pay more, so riskier assets must offer higher returns and borrowing costs rise",
+     "It means companies have stopped paying dividends",
+     "It lowers oil prices and cuts energy profits"
+    ],
+    "prompt": "The 10-year Treasury yield closed at about 5.00% on Friday. Why does a yield that high pressure stocks and real estate?",
+    "sector": "macro",
+    "storyId": "2026-10-25-01",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "Salesforce's marketing tools lagged newer rivals in real-time engagement, and buying Braze is quicker than rebuilding, though costly. The premium also reflects how few independent platforms of this kind exist.",
+    "id": "2026-10-25:q04",
+    "kind": "today",
+    "options": [
+     "It fills a product gap faster than building a new tool, and rival bidders could drive the price",
+     "It lets Salesforce exit the marketing business",
+     "It is mainly a way to cut headcount at Braze",
+     "It lowers Salesforce's tax bill"
+    ],
+    "prompt": "Salesforce is paying a 58% premium to buy Braze. What is the main business logic?",
+    "sector": "tmt",
+    "storyId": "2026-10-25-04",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 1,
+    "explanation": "Revenue grew 9% and credit-loss provisions fell, so the business was healthy. The $336M restructuring charge and fears about service quality weighed on the shares even as guidance rose.",
+    "id": "2026-10-25:q05",
+    "kind": "today",
+    "options": [
+     "Credit losses had risen sharply",
+     "Strong revenue let it invest, while cost cuts aim to use AI to lower expenses; the restructuring charge worried investors short term",
+     "It lost cardholders to rivals",
+     "Interest rates had fallen"
+    ],
+    "prompt": "American Express raised its profit outlook but announced a 5% job cut, and its stock fell 3.7%. What best explains the pairing?",
+    "sector": "financial-services",
+    "storyId": "2026-10-25-05",
+    "subindustry": "payments-fintech"
+   },
+   {
+    "answer": 2,
+    "explanation": "A 73/27 split means EQT shareholders keep clear control, so this is a larger company absorbing a smaller one. It is all stock, so no cash changes hands, which keeps the combined company's debt low.",
+    "id": "2026-10-26:q01",
+    "kind": "today",
+    "options": [
+     "The two companies are roughly equal partners in the new company",
+     "Range holders also receive a large cash payment on top of their shares",
+     "EQT is the larger partner, and its holders keep about 73% of the combined company",
+     "Range will be the controlling shareholder after the merger"
+    ],
+    "prompt": "In the EQT and Range all-stock deal, Range holders get 0.987 EQT shares per share and end up with about 27% of the combined company. What does that split show?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-26-01",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 3,
+    "explanation": "More customers, lower churn (0.87%) and a wider margin together point to growth that adds profit. A discount-led push would normally push the margin down, and capital spending guidance of $16.0B to $16.5B was unchanged.",
+    "id": "2026-10-26:q03",
+    "kind": "today",
+    "options": [
+     "It gave up profit to win customers through heavy promotions",
+     "Its growth came mainly from cutting prices across the board",
+     "It trimmed network spending to lift its margin",
+     "It is adding customers and keeping them, so growth is not simply being bought with discounts"
+    ],
+    "prompt": "Verizon added 406,000 postpaid phone customers, up from 44,000 a year ago, while its EBITDA margin rose to 40.2% from 37.8%. What does this combination suggest?",
+    "sector": "tmt",
+    "storyId": "2026-10-26-02",
+    "subindustry": "telecom"
+   },
+   {
+    "answer": 3,
+    "explanation": "Nitrogen fertilizer uses natural gas as feedstock and fuel, so a gas price spike raises production costs and fertilizer prices. That in turn raises farmers' input costs.",
+    "id": "2026-10-26:q10",
+    "kind": "profile",
+    "options": [
+     "Farmers burn gas to dry their crops",
+     "Gas is shipped in the same vessels as fertilizer",
+     "Fertilizer producers buy gas only from farmers",
+     "Fertilizer such as ammonia and urea is made from natural gas, so gas is a main input cost"
+    ],
+    "prompt": "Why do fertilizer prices tend to rise when natural gas prices rise?",
+    "sector": "consumer-retail",
+    "storyId": null,
+    "subindustry": "agriculture-food"
+   },
+   {
+    "answer": 2,
+    "explanation": "Frontier AI development depends on huge compute spending, so raising capital in public markets is the main benefit. A listing adds disclosure obligations rather than removing them, and the valuation is set by investors, not guaranteed.",
+    "id": "2026-10-27:q01",
+    "kind": "today",
+    "options": [
+     "It removes the need to buy chips and cloud capacity",
+     "It guarantees a higher valuation than private rounds",
+     "It opens access to far more capital for compute spending, and exposes its economics to investors",
+     "It lets the company stop reporting financial results"
+    ],
+    "prompt": "Anthropic filed an S-1 but has not set a price range. Why does a public listing matter most for an AI model developer?",
+    "sector": "tmt",
+    "storyId": "2026-10-27-01",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 1,
+    "explanation": "A price below net asset value, even with a 30.1% premium to the market price, shows MidCap traded at a discount to book. Larger lenders gain scale with over $31B of investments and 800+ portfolio companies. The deal is mostly stock, with about $1.21 per share in cash.",
+    "id": "2026-10-27:q05",
+    "kind": "today",
+    "options": [
+     "Business development companies cannot lend to mid-sized firms",
+     "Smaller lenders can trade below book value, so scale buyers can combine them",
+     "Ares Capital expects MidCap's loans to default",
+     "The deal will be paid entirely in cash"
+    ],
+    "prompt": "Ares Capital is buying MidCap Financial, a smaller lender, at $10.88 per share against a reported NAV of about $12.86. What does this suggest?",
+    "sector": "financial-services",
+    "storyId": "2026-10-27-05",
+    "subindustry": "asset-wealth"
+   },
+   {
+    "answer": 2,
+    "explanation": "Care is moving to outpatient settings where procedures are cheaper and insurers prefer to send patients. Owning the network gives the system lower-cost capacity and surgeon relationships. The other options are wrong because surgery centers are paid by insurers and Medicare and do not rely on inpatient beds.",
+    "id": "2026-10-28:q01",
+    "kind": "today",
+    "options": [
+     "Surgery centers are mostly inpatient and need more beds",
+     "Surgery centers are paid by patients only, not insurers",
+     "Same-day procedures are cheaper to deliver outside hospitals, and the network ties surgeons to the system",
+     "The deal removes the need for any insurance contracts"
+    ],
+    "prompt": "A nonprofit health system is buying Surgery Partners, which runs 200+ surgery centers, for about $5.7B. What is the main business logic?",
+    "sector": "healthcare",
+    "storyId": "2026-10-28-01",
+    "subindustry": "payers-providers"
+   },
+   {
+    "answer": 2,
+    "explanation": "Appliance makers carry large fixed costs, so fewer units sold leave the same cost base to cover. Whirlpool's filing also points to tariff costs and inflation. Dividends are a payout of profit, not an operating expense.",
+    "id": "2026-10-28:q04",
+    "kind": "today",
+    "options": [
+     "Appliances are sold below cost in every quarter",
+     "Whirlpool cuts prices when sales rise",
+     "Fixed factory and distribution costs spread over fewer units, and tariffs and inflation add costs",
+     "Dividends are counted as an expense"
+    ],
+    "prompt": "Whirlpool's sales fell 8.8% but ongoing EPS swung from a $2.09 profit to a $0.21 loss. Why does a sales decline hurt profit so much?",
+    "sector": "consumer-retail",
+    "storyId": "2026-10-28-04",
+    "subindustry": "cpg"
+   },
+   {
+    "answer": 2,
+    "explanation": "Both dissenters wanted a quarter-point hike and futures priced about 85% odds of one in December, so the debate is about more tightening. Cuts and 'finished' do not fit those facts, and the Fed said inflation is too high.",
+    "id": "2026-10-29:q01",
+    "kind": "today",
+    "options": [
+     "Markets expect rate cuts early next year",
+     "The Fed has finished its policy changes for good",
+     "Markets expect further tightening, not near-term cuts",
+     "The Fed is worried about falling inflation"
+    ],
+    "prompt": "The Fed held at 3.75% to 4% in a 10-2 vote, with both dissenters wanting a hike and futures pricing about an 85% chance of a December hike. What does this signal?",
+    "sector": "macro",
+    "storyId": "2026-10-29-01",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 2,
+    "explanation": "A 53% rise in volume outweighed the 15% drop in realized price, giving 39% growth. One-time items were only about $900M of $24.4B, so they were not the main driver.",
+    "id": "2026-10-29:q05",
+    "kind": "today",
+    "options": [
+     "Prices rose in other regions",
+     "Lilly stopped paying rebates",
+     "Volume grew 53%, more than offsetting lower prices",
+     "One-time items made up most of the growth"
+    ],
+    "prompt": "Lilly's revenue grew 39% while realized prices fell 15%. What made that possible?",
+    "sector": "healthcare",
+    "storyId": "2026-10-29-05",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 3,
+    "explanation": "Volume added $2.2B and pricing $663M, which more than covered tariff-related costs. Power and Energy, which grew 18%, was the highest-margin segment, so lower power sales would not help.",
+    "id": "2026-10-29:q06",
+    "kind": "today",
+    "options": [
+     "Cutting prices to win share",
+     "Selling the construction division",
+     "Lower sales of power equipment",
+     "Higher volume (+$2.2B) and price realization (+$663M) outpacing tariff costs"
+    ],
+    "prompt": "Caterpillar's operating margin rose to 20.4% from 17.3% on 17% sales growth. What mainly drove the improvement?",
+    "sector": "advanced-industries",
+    "storyId": "2026-10-29-07",
+    "subindustry": "industrial-machinery"
+   },
+   {
+    "answer": 1,
+    "explanation": "AWS produced about 63% of operating income from under a quarter of sales. Trailing free cash flow was an outflow of $42.4B because capital spending ran at $215.2B over the year, so cloud is highly profitable but also the reason cash is draining.",
+    "id": "2026-10-30:q01",
+    "kind": "today",
+    "options": [
+     "Cloud is a small side business inside Amazon",
+     "AWS earns most of Amazon's profit, but heavy data center spending has pushed free cash flow negative",
+     "Retail now earns higher margins than cloud",
+     "Amazon has stopped building data centers"
+    ],
+    "prompt": "AWS grew 39% to $46.0B and earned $17.8B of Amazon's $28.1B operating income, while Amazon plans about $220B of capex in 2026. What does this show?",
+    "sector": "tmt",
+    "storyId": "2026-10-30-01",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 1,
+    "explanation": "DoorDash cited scale in grocery delivery to lower fulfillment costs, plus advertising reach and Instacart's software for grocers. It is not a way around regulators: the close is not expected until the end of 2027 or the first half of 2028, after antitrust review.",
+    "id": "2026-10-31:q01",
+    "kind": "today",
+    "options": [
+     "Instacart's partner stores will be closed to cut costs",
+     "Combined order volume lowers fulfillment cost per order and strengthens the advertising and software offer",
+     "The deal lets DoorDash avoid antitrust review",
+     "It guarantees higher prices for every grocery shopper"
+    ],
+    "prompt": "DoorDash will pay $65 per Instacart share, about $17B, and expects at least $500M of annual synergies. What is the main business logic?",
+    "sector": "consumer-retail",
+    "storyId": "2026-10-31-01",
+    "subindustry": "retail-ecommerce"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 2,
+    "explanation": "The October sell-off centered on AI-linked stocks: Alphabet had its worst day on record, Intel fell about 29% and a chip ETF lost more than 8% on Friday. The Dow holds fewer such companies, and money moved into health care and consumer staples.",
+    "id": "2026-11-01:q01",
+    "kind": "today",
+    "options": [
+     "Investors sold industrial and health care companies the most",
+     "Higher oil prices hurt technology companies through fuel costs",
+     "Doubts about returns on heavy AI spending hit the technology and chip stocks that dominate the Nasdaq",
+     "The Fed cut interest rates, which favors the largest banks"
+    ],
+    "prompt": "The Nasdaq fell 5.3% in October while the Dow rose 1.7%. What best explains the gap?",
+    "sector": "macro",
+    "storyId": "2026-11-01-01",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "Intel guided fourth-quarter revenue to $15 to $16 billion, with earnings per share below consensus. Share prices reflect expected future profit, so a weak outlook can outweigh a strong quarter that has already happened.",
+    "id": "2026-11-01:q02",
+    "kind": "today",
+    "options": [
+     "Markets price the future, and a fourth-quarter forecast below consensus outweighed the good quarter",
+     "Investors were reacting only to a quarterly loss",
+     "Intel announced a large new share sale",
+     "Intel cut its dividend"
+    ],
+    "prompt": "Intel beat third-quarter expectations, yet its shares fell about 29% on Friday. What does this show?",
+    "sector": "tmt",
+    "storyId": "2026-11-01-01",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 1,
+    "explanation": "Enterprise value is equity value plus net debt, so the $7.7 billion gap points to heavy borrowing. Recurring monitoring fees make that debt manageable, which is what makes ADT attractive to a buyer financed by Apollo funds.",
+    "id": "2026-11-01:q03",
+    "kind": "today",
+    "options": [
+     "ADT holds a large cash pile that Thrive will keep",
+     "ADT carries heavy debt, about $7.7B of obligations that come with the company",
+     "Thrive is paying part of the price in shares",
+     "Thrive must pay a fee to rival bidders"
+    ],
+    "prompt": "Thrive's ADT deal values the equity at about $7.6B but the whole company at $15.3B. What does the gap mainly show?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-11-01-02",
+    "subindustry": "real-estate-construction"
+   },
+   {
+    "answer": 3,
+    "explanation": "Farxiga and Brilinta lost exclusivity, so cheaper copies took sales, and China's volume-based procurement cut prices. This is the patent cliff: a company must grow new products, like its cancer drugs, faster than old ones shrink.",
+    "id": "2026-11-01:q04",
+    "kind": "today",
+    "options": [
+     "Weak demand for its rare disease drugs",
+     "Currency moves alone",
+     "New US price controls on all drugs",
+     "Patent expiries on Farxiga and Brilinta plus China's volume-based buying"
+    ],
+    "prompt": "AstraZeneca's oncology sales rose 18% while its BioPharmaceuticals unit fell 2%. What mainly explains the decline?",
+    "sector": "healthcare",
+    "storyId": "2026-11-01-03",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 2,
+    "explanation": "Franchisors earn royalties as a percentage of sales at restaurants that franchisees run, so higher comparable sales lift revenue without much extra cost. Net restaurant growth, not comparable sales, counts new openings.",
+    "id": "2026-11-01:q05",
+    "kind": "today",
+    "options": [
+     "They count how many new restaurants opened",
+     "They are set by fixed lease terms",
+     "Its royalties are a share of franchisee sales, so revenue rises with little added cost",
+     "It owns most restaurants and books all their costs"
+    ],
+    "prompt": "Burger King US comparable sales rose 8.4% while Popeyes fell 1.8%. Why do comparable sales matter so much to a franchisor like Restaurant Brands?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-01-05",
+    "subindustry": "travel-hospitality"
+   },
+   {
+    "answer": 0,
+    "explanation": "A small beat on top of 30% growth means analysts had already raised their numbers. Stocks then need a stronger outlook, not just good results, to rise, which is why even strong reports can lead to share price drops.",
+    "id": "2026-11-01:q06",
+    "kind": "today",
+    "options": [
+     "Growth is strong but expectations were already high, leaving little room for upside surprises",
+     "Analysts have underestimated profits by more than usual",
+     "Corporate profits are falling",
+     "Companies have stopped giving forecasts"
+    ],
+    "prompt": "S&P 500 profits are on track to grow about 30%, yet companies are beating estimates by only 1.4% against a 7.5% five-year average. What does this suggest?",
+    "sector": "macro",
+    "storyId": "2026-11-01-04",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 3,
+    "explanation": "Visa earns fees per payment, and cross-border payments carry extra fees, so faster growth there lifts revenue above domestic volume. Visa does not lend, as banks take the credit risk, and processed transactions rose 10%, not fell.",
+    "id": "2026-10-28:q02",
+    "kind": "review",
+    "options": [
+     "Visa raised interest rates on cardholders",
+     "Processed transactions fell 10%",
+     "Visa lends money directly to merchants",
+     "Cross-border volume grew 14% and carries higher fees than domestic payments"
+    ],
+    "prompt": "Visa's revenue grew 13% in Q4 while payments volume grew 9%. What best explains the gap?",
+    "sector": "financial-services",
+    "storyId": "2026-10-28-02",
+    "subindustry": "payments-fintech"
+   },
+   {
+    "answer": 0,
+    "explanation": "An integrated company owns both production and refining. Upstream earned $7.1B, down on lower prices, while refining margins and strong diesel yields lifted Energy Products. A pure producer would not have that offset.",
+    "id": "2026-10-30:q03",
+    "kind": "review",
+    "options": [
+     "Refining and fuel margins can widen when crude prices ease, offsetting weaker production profits",
+     "Lower crude prices raise its output automatically",
+     "Governments pay refiners subsidies whenever crude falls",
+     "Its chemicals prices are fixed by ten-year contracts"
+    ],
+    "prompt": "ExxonMobil's upstream earnings fell in Q3 2026 while Energy Products (refining) rose to $7.2B, lifting adjusted earnings to $17.5B. Why can an integrated oil company's profit hold up when crude eases?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-30-03",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 1,
+    "explanation": "UPS is trading lower volume for better profit per package, cutting hours and buildings as Amazon deliveries leave. About $1.8B of a $3B savings target is already achieved, which is why margin rose as volume fell.",
+    "id": "2026-10-27:q04",
+    "kind": "review",
+    "options": [
+     "It raised prices on every customer by 10%",
+     "It deliberately shed low-margin Amazon volume and cut matching costs",
+     "It sold its delivery network",
+     "Fuel costs fell sharply this quarter"
+    ],
+    "prompt": "UPS's US average daily volume fell 3.3%, yet its domestic margin rose 60 bps to 7.0%. What best explains this?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-10-27-04",
+    "subindustry": "transport-logistics"
+   },
+   {
+    "answer": 2,
+    "explanation": "The industry profile notes that costs are mostly fixed, so profit depends on how full flights are. IATA expects only about a 2% net margin in 2026, meaning a few empty seats can erase it.",
+    "id": "2026-11-01:q10",
+    "kind": "profile",
+    "options": [
+     "Fuel is bought separately for each passenger",
+     "Governments set ticket prices below cost",
+     "Most costs, such as planes, crews and airport fees, are fixed per flight, so each extra passenger adds revenue with little added cost",
+     "Airlines pay sales commissions only on full flights"
+    ],
+    "prompt": "Why does a small change in the share of seats filled swing an airline's profit so much?",
+    "sector": "consumer-retail",
+    "storyId": null,
+    "subindustry": "travel-hospitality"
+   }
+  ]
+ }
+}

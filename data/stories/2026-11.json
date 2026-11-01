@@ -1,0 +1,139 @@
+{
+ "2026-11-01-01": {
+  "companies": [
+   "alphabet",
+   "intel",
+   "amazon"
+  ],
+  "date": "2026-11-01",
+  "headline": "Nasdaq ends October down 5.3% after an AI-stock sell-off, with Intel down 29% and chip stocks down more than 8% on Friday",
+  "numbers": [
+   "S&P 500: 7,580.07 (-1.82%), 3.05% below its Oct 6 record",
+   "Nasdaq Composite: -2.9% on Friday, -5.3% in October",
+   "Alphabet: -12% on Thursday, worst day on record",
+   "Intel: about -29% on Friday",
+   "Semiconductor ETF: more than -8% on Friday"
+  ],
+  "order": 1,
+  "sector": "macro",
+  "soWhat": "Investors have paid high prices for companies expected to profit from artificial intelligence, so a weak outlook or a spending warning from one large company now moves the whole group. The cost of building data centers is rising faster than the revenue it brings in for some firms, and that is what the market is now questioning. Chip designers, equipment makers and cloud providers lose the most when that doubt spreads, while defensive sectors such as health care and consumer staples gain as investors rotate. The open question is whether the coming Apple and AMD reports show spending turning into sales.",
+  "sources": [
+   {
+    "title": "Yahoo Finance: Markets News, Oct. 30, 2026",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-123540419.html"
+   },
+   {
+    "title": "CNBC: Stock market outlook for Nov. 2-6, 2026",
+    "url": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "US stocks fell sharply on Friday, October 30. The S&P 500 closed at 7,580.07, down 1.82%, the Nasdaq Composite fell about 2.9% to 25,437, and the Dow lost about 1.1%. The Nasdaq dropped 5.3% for October, its worst month since March 2025, while the Dow gained 1.7%. Intel fell about 29% after a weak fourth-quarter forecast, Alphabet had already fallen 12% on Thursday, its worst one-day drop on record, and Amazon's revenue and free cash flow disappointed. A semiconductor ETF lost more than 8% on the day, and money moved toward health care and consumer staples.",
+  "tags": []
+ },
+ "2026-11-01-02": {
+  "companies": [
+   "adt",
+   "thrive-holdings"
+  ],
+  "date": "2026-11-01",
+  "headline": "Thrive Holdings agrees to take home-security company ADT private in a deal valued at $15.3 billion including debt",
+  "numbers": [
+   "Price: $10.00 per share in cash (45.6% premium)",
+   "Equity value: about $7.6B",
+   "Enterprise value: $15.3B",
+   "Go-shop ends: Nov 28, 2026",
+   "Expected close: Q1 2027"
+  ],
+  "order": 2,
+  "sector": "infrastructure-logistics",
+  "soWhat": "ADT earns recurring fees for monitoring homes and small businesses, which gives it steady cash that can support a lot of debt. The gap between the $7.6 billion equity value and the $15.3 billion total value shows how much of the price is borrowing the buyer takes on, roughly $7.7 billion. Thrive says it buys established companies and upgrades them with technology, so the logic is to cut costs and add services to a customer base that already pays every month. Rivals such as cable companies, Amazon's Ring and Google Nest compete for the same homes. The open question is whether a higher bid appears during the go-shop period.",
+  "sources": [
+   {
+    "title": "ADT press release (SEC 8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001703056/000119312526437123/d572133dex991.htm"
+   }
+  ],
+  "subindustry": "real-estate-construction",
+  "summary": "Thrive Holdings, a permanent-capital holding company, agreed to buy ADT for $10.00 per share in cash, a 45.6% premium to the $6.87 closing price on October 27. The price values ADT's equity at about $7.6 billion and the whole company, including debt, at $15.3 billion. Funds managed by Apollo Global Management are the only source of financing, and there is no financing condition. ADT may seek rival offers until November 28 under a go-shop clause, and closing is expected in the first quarter of 2027 after a shareholder vote and US antitrust clearance. ADT will become the base of Thrive's smart-home security business.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-01-03": {
+  "companies": [
+   "astrazeneca"
+  ],
+  "date": "2026-11-01",
+  "headline": "AstraZeneca's cancer sales grow 18% and lift nine-month revenue to $46.9 billion, while older heart and diabetes drugs shrink",
+  "numbers": [
+   "Nine-month revenue: $46.9B (+8%)",
+   "Oncology: $21.9B (+18%), 47% of revenue",
+   "BioPharmaceuticals: -2% on patent expiries",
+   "Core EPS, nine months: $8.00 (+14%)",
+   "Summit Therapeutics stake: $2B for about 12%"
+  ],
+  "order": 3,
+  "sector": "healthcare",
+  "soWhat": "A drugmaker's growth depends on new patented products replacing older ones whose protection ends, and AstraZeneca shows both sides at once: cancer drugs growing at double digits while older medicines fall. The Summit stake and the cost program show how large drug companies buy outside science and trim overhead to protect profit as that handoff happens. China's volume-based buying is a reminder that government purchasing can cut prices on mature drugs. The pipeline had four trial setbacks this year, so the open question is how many of the 12 positive late-stage results turn into approved products.",
+  "sources": [
+   {
+    "title": "AstraZeneca 9M and Q3 2026 results (SEC 6-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000901832/000165495426009256/a0835b.htm"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "AstraZeneca reported nine-month revenue of $46.9 billion, up 8%, and third-quarter revenue of $16.2 billion, up 7%. Oncology sales rose 18% to $21.9 billion and now make up 47% of revenue, while the BioPharmaceuticals unit fell 2% because Farxiga and Brilinta lost patent exclusivity and China began volume-based buying. Rare disease grew 12%. The company kept its 2026 outlook for revenue to grow by a mid-to-high single-digit percentage and core earnings per share by a low double-digit percentage. It also announced a $2 billion investment in Summit Therapeutics for about 12% of its shares and a cost program targeting $1.5 billion of yearly savings.",
+  "tags": []
+ },
+ "2026-11-01-04": {
+  "companies": [],
+  "date": "2026-11-01",
+  "headline": "Wall Street enters a week of midterm elections, Apple earnings and a jobs report with profits up about 30% but unusually thin beats",
+  "numbers": [
+   "S&P 500 Q3 earnings growth: about 30%",
+   "Average beat: 1.4% (5-year average: 7.5%)",
+   "Companies reporting this week: 138",
+   "October jobs forecast: 55,000 (September: 29,000)",
+   "Midterm elections: Tuesday, Nov 3"
+  ],
+  "order": 4,
+  "sector": "macro",
+  "soWhat": "Strong growth with small beats means expectations were already high, so stocks need a stronger outlook, not just good results, to rise. A weak jobs number could ease pressure for a rate hike, but strong inflation keeps that debate open after the Fed's 10-2 vote this week. The election matters for specific industries: analysts say a Democratic sweep could mean slower defense spending, more pressure on drug prices and new rules for data centers. Most investors expect little market impact, so the open question is whether the AI spending doubts of the past week matter more than politics.",
+  "sources": [
+   {
+    "title": "CNBC: Stock market outlook for Nov. 2-6, 2026",
+    "url": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "Corporate profits are strong going into the week of November 2. FactSet projects S&P 500 earnings growth of about 30% for the third quarter, but companies are beating estimates by only 1.4% on average, against 7.5% over five years, with Meta and Alphabet pulling the figure down. 138 S&P 500 companies report this week, including Apple and Palantir on Monday. The October jobs report is due Friday: analysts expect 55,000 new jobs and unemployment at 4.2%, after September added just 29,000. Midterm elections are on Tuesday, and polls show Democrats have a chance at both the House and Senate.",
+  "tags": []
+ },
+ "2026-11-01-05": {
+  "companies": [
+   "restaurant-brands-international"
+  ],
+  "date": "2026-11-01",
+  "headline": "Burger King's US sales jump 8.4% while Popeyes slips 1.8%, leaving Restaurant Brands' growth uneven",
+  "numbers": [
+   "Global comparable sales: +3.8%",
+   "Burger King US comparable sales: +8.4%",
+   "Popeyes comparable sales: -1.8%",
+   "Adjusted operating income: $737M (+6.7% organic)",
+   "Net leverage: 4.0x (from 4.4x)"
+  ],
+  "order": 5,
+  "sector": "consumer-retail",
+  "soWhat": "Restaurant Brands mostly franchises its restaurants and collects royalties on franchisee sales, so a rise in comparable sales flows into its revenue with little added cost. That is why Burger King's turnaround matters more than any single quarter's net income, which was boosted by a one-time tax item. Popeyes' decline shows how one brand can offset gains elsewhere in a multi-brand portfolio. The company still carries debt at 4.0 times earnings, so continued sales growth is what lets it keep paying dividends and reducing leverage.",
+  "sources": [
+   {
+    "title": "Restaurant Brands International Q3 2026 results (SEC 8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001618756/000161875626000051/qsr_2026930xpressrelease.htm"
+   }
+  ],
+  "subindustry": "travel-hospitality",
+  "summary": "Restaurant Brands International reported third-quarter global comparable sales up 3.8% and system-wide sales of $13.0 billion. Burger King US comparable sales rose 8.4%, Tim Hortons rose 1.5% (Canada 1.8%), international rose 3.9% and Popeyes fell 1.8% (US 2.2%). Adjusted operating income rose to $737 million, up 6.7% on an organic basis, and net leverage fell to 4.0 times from 4.4 times. Reported net income jumped to $704 million, helped mainly by a $133 million tax benefit, and the company kept its 2026 targets, including 8% organic operating income growth.",
+  "tags": []
+ }
+}
