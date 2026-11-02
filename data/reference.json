@@ -286,6 +286,23 @@
    "ticker": "Private (nonprofit Catholic health system)",
    "updated": "2026-10-28"
   },
+  "bp": {
+   "businessModel": "Integrated energy company that produces oil and gas, refines and trades fuels, sells fuel and convenience retail, and runs a smaller low-carbon business.",
+   "competitors": [
+    "Shell",
+    "ExxonMobil",
+    "Chevron",
+    "TotalEnergies",
+    "Eni"
+   ],
+   "hq": "London, UK",
+   "name": "BP",
+   "sector": "energy-materials",
+   "size": "Q3 2026 underlying profit $8.5B; net debt $13.9B",
+   "subindustry": "refining-chemicals",
+   "ticker": "LSE: BP / NYSE: BP",
+   "updated": "2026-11-02"
+  },
   "braze": {
    "businessModel": "Sells a subscription platform that lets brands send personalized messages across apps, email, text and web, priced by customer reach and usage.",
    "competitors": [
@@ -928,6 +945,22 @@
    "ticker": "NASDAQ: ISRG",
    "updated": "2026-10-21"
   },
+  "jio-platforms": {
+   "businessModel": "Runs India's largest mobile and fixed-broadband network, earning monthly fees from hundreds of millions of subscribers plus enterprise and digital services.",
+   "competitors": [
+    "Bharti Airtel",
+    "Vodafone Idea",
+    "BSNL",
+    "Tata Communications"
+   ],
+   "hq": "Mumbai, India",
+   "name": "Jio Platforms",
+   "sector": "tmt",
+   "size": "Q2 FY27 revenue Rs 40,475 crore (about $5B per quarter, approx.)",
+   "subindustry": "telecom",
+   "ticker": "Listed in India (NSE/BSE) since Oct 28, 2026; Reliance Industries subsidiary",
+   "updated": "2026-11-02"
+  },
   "johnson-johnson": {
    "businessModel": "Two segments: Innovative Medicine (patented drugs in immunology, oncology, neuroscience; roughly two-thirds of sales) and MedTech (surgery, orthopedics, cardiovascular devices).",
    "competitors": [
@@ -945,6 +978,23 @@
    "subindustry": "pharma-biotech",
    "ticker": "NYSE: JNJ",
    "updated": "2026-10-19"
+  },
+  "kioxia": {
+   "businessModel": "Makes NAND flash memory chips and solid-state drives, with fabs run jointly with Sandisk, and sells to phone, PC and data-center customers at cyclical market prices.",
+   "competitors": [
+    "Samsung Electronics",
+    "SK hynix",
+    "Micron",
+    "Sandisk",
+    "YMTC"
+   ],
+   "hq": "Tokyo, Japan",
+   "name": "Kioxia",
+   "sector": "tmt",
+   "size": "Guided quarterly operating profit of 2 trillion yen (Nov 2026)",
+   "subindustry": "semiconductors",
+   "ticker": "TSE: 285A",
+   "updated": "2026-11-02"
   },
   "landstar-system": {
    "businessModel": "Runs an asset-light freight network where independent truck owners haul loads it brokers, keeping a share of each shipment's revenue.",
@@ -997,6 +1047,23 @@
    "ticker": "LSE: LSEG",
    "updated": "2026-10-22"
   },
+  "lumentum": {
+   "businessModel": "Makes lasers and optical components used in data-center links and telecom networks, selling to transceiver makers and network equipment companies.",
+   "competitors": [
+    "Coherent",
+    "Broadcom",
+    "Innolight",
+    "Fabrinet",
+    "Sumitomo Electric"
+   ],
+   "hq": "San Jose, CA",
+   "name": "Lumentum",
+   "sector": "tmt",
+   "size": "Fiscal Q1 2026 revenue $1.26B (about $5B/yr run-rate)",
+   "subindustry": "semiconductors",
+   "ticker": "NASDAQ: LITE",
+   "updated": "2026-11-02"
+  },
   "markel-group": {
    "businessModel": "Underwrites specialty insurance and reinsurance, invests the premiums, and owns a group of non-insurance businesses.",
    "competitors": [
@@ -1013,6 +1080,23 @@
    "subindustry": "insurance",
    "ticker": "NYSE: MKL",
    "updated": "2026-10-29"
+  },
+  "marvell-technology": {
+   "businessModel": "Designs custom AI accelerators, networking and optical interconnect chips for cloud providers and telecom, earning revenue from chips sold into large multi-year programs.",
+   "competitors": [
+    "Broadcom",
+    "Nvidia",
+    "Intel",
+    "Credo",
+    "Astera Labs"
+   ],
+   "hq": "Santa Clara, CA",
+   "name": "Marvell Technology",
+   "sector": "tmt",
+   "size": "Fiscal 2026 revenue $8.2B; market value above $170B (Nov 2026)",
+   "subindustry": "semiconductors",
+   "ticker": "NASDAQ: MRVL",
+   "updated": "2026-11-02"
   },
   "mastercard": {
    "businessModel": "Runs a card payment network and charges small fees on each transaction and on cross-border volume; it does not lend money. Also sells fraud, data and security services.",
@@ -1253,6 +1337,23 @@
    "subindustry": "asset-wealth",
    "ticker": "Private (Permira; sale to LSEG agreed)",
    "updated": "2026-10-22"
+  },
+  "oracle": {
+   "businessModel": "Sells database and business software through subscriptions and licenses, and rents out cloud computing capacity (Oracle Cloud Infrastructure), including large AI contracts.",
+   "competitors": [
+    "Microsoft",
+    "Amazon (AWS)",
+    "Alphabet (Google Cloud)",
+    "SAP",
+    "Salesforce"
+   ],
+   "hq": "Austin, TX",
+   "name": "Oracle",
+   "sector": "tmt",
+   "size": "Revenue about $60B+/yr (approx., fiscal 2026); heavy AI cloud capex",
+   "subindustry": "software-cloud",
+   "ticker": "NYSE: ORCL",
+   "updated": "2026-11-02"
   },
   "orange": {
    "businessModel": "Sells mobile, broadband and business telecom services in France, Europe, Africa and the Middle East, plus IT and cybersecurity services to companies.",
@@ -2979,32 +3080,32 @@
    "economicsOn": "valueChain",
    "keyFigures": [
     {
-     "label": "World GDP",
-     "note": "Nominal, 2025 · IMF",
-     "value": "~$115T"
+     "label": "World economy (nominal GDP)",
+     "note": "2025 estimate · IMF",
+     "value": "~$115T+"
     },
     {
-     "label": "Global growth",
-     "note": "2026 forecast, cut in July · IMF WEO update",
-     "value": "~3.0%"
+     "label": "IMF global growth forecast",
+     "note": "2026, October World Economic Outlook · IMF",
+     "value": "~3.1%"
     },
     {
-     "label": "Global inflation",
-     "note": "2026 forecast · IMF WEO update, Jul 2026",
-     "value": "~4.7%"
+     "label": "US growth, third quarter",
+     "note": "2026 · US data reported Oct 2026",
+     "value": "3.4%"
     },
     {
-     "label": "Fed funds rate",
-     "note": "Raised 0.25 pt, Sep 16 2026 · Federal Reserve",
-     "value": "3.75–4.00%"
+     "label": "US inflation and Fed policy rate",
+     "note": "September inflation and rate held on Oct 28-29, 2026 · BLS, Federal Reserve",
+     "value": "3.6% / 3.75-4%"
     }
    ],
    "kpis": [
-    "Fed funds rate and the 10-year Treasury yield",
-    "CPI and PCE inflation versus the Fed's 2% target",
-    "Unemployment rate and payrolls",
-    "PMIs: above 50 means expansion",
-    "Brent oil price and the US dollar index"
+    "Fed policy rate: 3.75% to 4%",
+    "US CPI inflation: 3.6% (Sept 2026)",
+    "US GDP growth: 3.4% (Q3 2026)",
+    "Eurozone manufacturing PMI: 52.7 (50 = no change)",
+    "Brent crude: about $106 (Nov 2, 2026)"
    ],
    "marketSize": {
     "global": "~$115T+",
@@ -3019,38 +3120,34 @@
     "Fiscal and trade policy: US Treasury and Commerce, EU Commission, China's State Council",
     "Multilaterals: IMF, World Bank, OECD, IEA"
    ],
-   "profileUpdated": "2026-10-27",
+   "profileUpdated": "2026-11-02",
    "sector": "macro",
    "segments": {
     "items": [
      {
-      "name": "United States",
-      "share": "~26%",
-      "sharePct": 26,
-      "what": "About $30T of output; consumer spending and AI-related investment drive growth."
+      "leaders": "IMF · National statistics agencies",
+      "name": "Growth",
+      "what": "How fast the economy expands; the IMF projects about 3.1% global growth for 2026."
      },
      {
-      "name": "China",
-      "share": "~17%",
-      "sharePct": 17,
-      "what": "About $19.5T; leaning on exports while property and household demand stay weak."
+      "leaders": "Federal Reserve · ECB · Bank of England",
+      "name": "Inflation",
+      "what": "How fast prices rise; central banks aim for about 2%."
      },
      {
-      "name": "Germany, Japan, India",
-      "share": "~12%",
-      "sharePct": 12,
-      "what": "About $4–5T each; India is the fastest-growing large economy."
+      "leaders": "Federal Reserve · ECB · Bank of Japan",
+      "name": "Interest rates",
+      "what": "The price of money that sets borrowing costs and stock valuations."
      },
      {
-      "name": "Rest of world",
-      "share": "~45%",
-      "sharePct": 45,
-      "what": "Includes the rest of Europe, the Gulf producers and emerging markets most exposed to energy and food prices."
+      "leaders": "OPEC+ · US Treasury and Commerce · EU Commission",
+      "name": "Energy and trade",
+      "what": "Oil prices, shipping lanes and tariffs that move costs across every sector."
      }
     ],
-    "title": "Share of world GDP, nominal (2025, IMF)"
+    "title": "The main forces to watch and who controls them (no share data)"
    },
-   "summary": "Macro is the backdrop every industry sits on: energy and commodity prices feed inflation, inflation sets central bank rates, and rates set the cost of capital that drives investment, hiring and deal-making. In 2026 that chain is under strain, as the Middle East conflict that began on February 28 cut Gulf energy supply and pushed inflation back up. The Fed has turned to raising rates again while AI investment keeps US growth going.",
+   "summary": "Macro is the backdrop that every sector operates in: economic growth, inflation, interest rates, energy prices and trade policy. Central banks and governments set the rules, and markets price the results. The chain runs from energy prices to inflation to interest rates to the cost of capital and then to company investment, hiring and deal activity. Right now an oil and shipping shock from the Iran conflict and heavy AI-related spending are the biggest forces.",
    "threats": [
     "Stagflation: slowing growth with rising inflation",
     "A disorderly bond sell-off from high government debt",
@@ -3066,76 +3163,85 @@
    ],
    "trendsThreats": [
     {
-     "kind": "tailwind",
-     "text": "AI and data center investment is offsetting part of the energy shock, according to the IMF (Jul 2026)."
-    },
-    {
-     "kind": "tailwind",
-     "text": "Gulf oil exports partly recovered in September 2026 as shipping routes reopened (IEA, Oct 2026)."
-    },
-    {
-     "kind": "tailwind",
-     "text": "US jobs growth has kept pace with the labor force and unemployment is little changed (Fed, Sep 2026)."
+     "kind": "headwind",
+     "text": "The Iran conflict has pushed Brent above $100 and kept shipping through Hormuz far below normal."
     },
     {
      "kind": "headwind",
-     "text": "Energy-driven inflation has pushed the Fed into hiking again, raising borrowing costs."
+     "text": "US inflation is 3.6%, so the Fed is debating further hikes rather than cuts."
     },
     {
      "kind": "headwind",
-     "text": "Global trade growth is forecast to slow to ~3.5% in 2026 from ~5.0% in 2025 as tariffs bite (IMF)."
+     "text": "A sharp fall in AI-linked stocks hit the Nasdaq in October, its worst month since March 2025."
     },
     {
-     "kind": "headwind",
-     "text": "Renewed attacks on Gulf energy infrastructure could reverse the supply recovery."
+     "kind": "tailwind",
+     "text": "US growth of 3.4% in the third quarter shows the economy is still expanding."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Eurozone factory activity (PMI 52.7) and UK output are expanding."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Peace talks could lower oil quickly: Brent fell more than 6% on one day of diplomacy news."
     }
    ],
    "valueChain": [
     {
-     "name": "Energy & commodities",
-     "players": "OPEC+ · IEA · commodity exchanges",
+     "cost": "Who pays: importing countries, airlines and consumers when prices rise.",
+     "name": "Energy and commodity prices",
+     "players": "OPEC+ · Gulf producers · US shale · IEA",
+     "revenue": "Who gains: producers and exporters, such as oil majors with large refining margins.",
      "takeaway": {
-      "label": "Where 2026's shock started",
-      "why": "Gulf supply losses kept energy about 25% above pre-conflict levels in mid-2026 (IMF, Jul 2026), lifting costs everywhere."
+      "label": "Volatile",
+      "why": "Brent moved more than 6% in a day on Iran-talks headlines, showing how fast this link can shift."
      },
-     "what": "Oil, gas, food and metals prices set the input costs for almost every business."
+     "what": "Oil, gas and metals set input costs for almost every business and for household budgets."
     },
     {
+     "cost": "Who pays: households and low-margin firms that cannot pass costs on.",
      "name": "Inflation",
-     "players": "BLS (CPI) · BEA (PCE) · Eurostat",
+     "players": "Statistics agencies · Retailers · Wage-setting employers",
+     "revenue": "Who gains: companies with pricing power that can raise prices faster than costs.",
      "takeaway": {
-      "label": "The variable central banks target",
-      "why": "The Fed aims for 2%; persistent energy-driven inflation forces tighter policy."
+      "label": "Sticky",
+      "why": "US inflation held at 3.6% in September, well above the Fed's 2% goal."
      },
-     "what": "Higher input costs pass through to consumer prices, wages and expectations."
+     "what": "Rising costs pass through to consumer prices, measured by CPI and PCE."
     },
     {
-     "highlight": true,
-     "name": "Central bank rates",
-     "players": "Federal Reserve · ECB · Bank of Japan · PBoC",
+     "cost": "Who pays: borrowers, housing and leveraged companies when rates rise.",
+     "name": "Central bank interest rates",
+     "players": "Federal Reserve · ECB · Bank of England · Bank of Japan",
+     "revenue": "Who gains: savers and banks earning wider spreads when rates are high.",
      "takeaway": {
-      "label": "The main lever",
-      "why": "One rate decision reprices borrowing for governments, companies and households at once."
+      "label": "Hikes on the table",
+      "why": "The Fed held at 3.75% to 4% in a 10-2 vote with two members wanting a hike."
      },
-     "what": "Central banks raise or cut short-term rates to steer inflation and jobs."
+     "what": "Central banks raise or cut policy rates to cool or support the economy."
     },
     {
-     "name": "Cost of capital",
-     "players": "Bond markets · banks · private credit",
+     "cost": "Who pays: companies that rely on debt or new shares, such as AI infrastructure builders.",
+     "name": "Cost of capital and valuations",
+     "players": "Bond markets · Stock markets · Banks · Private credit",
+     "revenue": "Who gains: cash-rich firms that can fund growth internally.",
      "takeaway": {
-      "label": "Sets which projects pay",
-      "why": "Higher rates raise the hurdle for long-lived investments like utilities, real estate and infrastructure."
+      "label": "Financing limits growth",
+      "why": "Oracle's $10 billion share sale shows even large firms now fund AI spending in markets."
      },
-     "what": "Bond yields, credit spreads and equity valuations move with policy rates."
+     "what": "Higher rates lower what investors pay for future earnings and raise financing costs."
     },
     {
-     "name": "Investment, hiring & M&A",
-     "players": "Corporates · private equity",
+     "cost": "Who pays: sectors that cut back, such as rate-sensitive housing and small caps.",
+     "name": "Investment, hiring and deals",
+     "players": "Corporate boards · Governments · Private equity",
+     "revenue": "Who gains: suppliers of equipment, chips and power for the investment boom.",
      "takeaway": {
-      "label": "Where it shows up in the news",
-      "why": "Capex plans, layoffs and deal volumes are the end result of the chain."
+      "label": "Selective boom",
+      "why": "Big deals like Marvell-Lumentum continue in AI while other sectors wait."
      },
-     "what": "Companies decide what to build, who to hire and what to buy."
+     "what": "Companies decide how much to spend, hire and acquire based on demand and funding costs."
     }
    ]
   },
@@ -5257,11 +5363,35 @@
    ]
   },
   "telecom": {
+   "economicsOn": "valueChain",
+   "keyFigures": [
+    {
+     "label": "Global mobile operator revenue",
+     "note": "2025, forecast ~$1.36T by 2030 · GSMA Mobile Economy 2026",
+     "value": "~$1.19T"
+    },
+    {
+     "label": "Mobile connections",
+     "note": "Including ~5.8B unique subscribers · GSMA 2026",
+     "value": "~8.8B"
+    },
+    {
+     "label": "Global 5G subscriptions",
+     "note": "Q1 2026 · Ericsson Mobility Report, June 2026",
+     "value": "~3.1B"
+    },
+    {
+     "label": "Operator capex 2025-30",
+     "note": "Cumulative forecast · GSMA Mobile Economy 2026",
+     "value": "~$1.2T"
+    }
+   ],
    "kpis": [
-    "ARPU (average revenue per user)",
-    "Monthly churn (often around 1% for postpaid)",
-    "EBITDA margin: about 30-40%",
-    "Capex intensity: about 15-20% of revenue"
+    "Global mobile operator revenue: ~$1.19T (2025)",
+    "5G subscriptions: ~3.1B (Q1 2026)",
+    "Jio EBITDA margin: 54.1% (Sept 2026 quarter)",
+    "ARPU (average revenue per user) and monthly churn",
+    "Capex as a share of revenue"
    ],
    "marketSize": {
     "global": "~$1.5T",
@@ -5270,15 +5400,16 @@
     "usNote": "US telecom services revenue (est., 2024)"
    },
    "operatingModel": "Operators earn recurring subscription revenue with EBITDA margins of roughly 30-40%, but must reinvest about 15-20% of revenue every year in networks. Profit depends on keeping churn low and filling the network with more paying customers.",
-   "overview": "Telecom companies build and run networks that carry voice and data, selling mobile, broadband and TV subscriptions to consumers and connectivity to businesses. They spend heavily on spectrum licenses, towers and fiber, then recover that investment through monthly fees from millions of customers. Most markets have three or four main operators, and regulators control spectrum and mergers.",
+   "overview": "Telecom companies build and run the networks that carry voice, data and video: mobile, fixed broadband and the fiber and towers behind them. Operators collect recurring monthly fees from consumers and businesses, so revenue is steady but grows slowly. The big cost is the network itself, which needs constant investment in spectrum, towers and fiber. The industry is moving to 5G and fiber while looking for new revenue from enterprise and AI-driven data demand.",
    "players": [
     "US: Verizon, AT&T, T-Mobile US",
     "Europe: Deutsche Telekom, Vodafone, Orange, Telefonica",
     "Asia: China Mobile, NTT, Reliance Jio",
     "Structure: 3-4 operators per country in a regulated oligopoly"
    ],
-   "profileUpdated": "2026-10-20",
+   "profileUpdated": "2026-11-02",
    "sector": "tmt",
+   "summary": "Telecom companies build and run the networks that carry voice, data and video: mobile, fixed broadband and the fiber and towers behind them. Operators collect recurring monthly fees from consumers and businesses, so revenue is steady but grows slowly. The big cost is the network itself, which needs constant investment in spectrum, towers and fiber. The industry is moving to 5G and fiber while looking for new revenue from enterprise and AI-driven data demand.",
    "threats": [
     "Satellite and cable competitors",
     "Spectrum auction costs",
@@ -5291,6 +5422,89 @@
     "Pressure in Europe to allow mergers and reduce the number of operators",
     "Selling towers and fiber to infrastructure funds to cut debt",
     "Flat revenue per user and price competition"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "5G subscriptions passed 3 billion in early 2026 and are expected to reach 6.4 billion by 2031, driving higher data use per user."
+    },
+    {
+     "kind": "tailwind",
+     "text": "AI and video traffic raise demand for fiber, towers and data-center connections."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Strong operators in large growth markets, such as Jio in India, are expanding margins as data use rises."
+    },
+    {
+     "kind": "headwind",
+     "text": "Capex of about $1.2 trillion over 2025-30 is large relative to roughly $1.2 to $1.4 trillion of annual revenue."
+    },
+    {
+     "kind": "headwind",
+     "text": "Price competition and regulators can cap how fast revenue per user rises, especially in mature markets."
+    },
+    {
+     "kind": "headwind",
+     "text": "Security rules limit which vendors operators can use, raising network costs in some countries."
+    }
+   ],
+   "valueChain": [
+    {
+     "cost": "Operators pay billions up front for spectrum, often financed with debt.",
+     "name": "Spectrum and licenses",
+     "players": "FCC · Ofcom · TRAI · MIIT",
+     "revenue": "Governments earn one-off auction fees and annual license charges.",
+     "takeaway": {
+      "label": "Costly entry ticket",
+      "why": "Spectrum is scarce, so the price of access shapes how much operators can invest in the network."
+     },
+     "what": "Governments auction or assign the radio frequencies that every mobile network needs."
+    },
+    {
+     "cost": "Research and development for each network generation and component supply.",
+     "name": "Network equipment",
+     "players": "Ericsson · Nokia · Huawei",
+     "revenue": "Equipment sales and multi-year software and service contracts, tied to operators' upgrade cycles.",
+     "takeaway": {
+      "label": "Cyclical",
+      "why": "Orders surge when operators roll out a new generation such as 5G and slump afterwards."
+     },
+     "what": "Vendors sell the radio, core and optical equipment that operators install."
+    },
+    {
+     "cost": "Building and maintaining sites, land leases and financing costs.",
+     "name": "Towers and fiber",
+     "players": "American Tower · Cellnex · Indus Towers",
+     "revenue": "Long-term rent from operators, usually with built-in annual increases.",
+     "takeaway": {
+      "label": "Stable",
+      "why": "Multi-year tenant contracts make cash flow predictable even when operators compete hard."
+     },
+     "what": "Infrastructure owners rent masts and cables to several operators at once."
+    },
+    {
+     "cost": "Network operation, spectrum and equipment depreciation, and customer acquisition.",
+     "name": "Network operators",
+     "players": "China Mobile · Verizon · Reliance Jio · Deutsche Telekom",
+     "revenue": "Monthly subscriptions and data plans, plus enterprise contracts and wholesale fees.",
+     "takeaway": {
+      "label": "Scale drives margins",
+      "why": "After the network is built, each extra subscriber adds revenue at low cost, as Jio's 54.1% EBITDA margin shows."
+     },
+     "what": "Operators run the network and sell connectivity to consumers and businesses."
+    },
+    {
+     "cost": "Marketing, handset subsidies and billing.",
+     "name": "Customers and resellers",
+     "players": "Retail stores · Apps and web · MVNOs such as Mint Mobile",
+     "revenue": "Resellers earn the gap between wholesale capacity and retail plan prices.",
+     "takeaway": {
+      "label": "Churn matters",
+      "why": "Keeping a subscriber is much cheaper than winning a new one, so low churn is the main prize."
+     },
+     "what": "Consumers, companies and virtual operators (MVNOs) buy capacity and plans."
+    }
    ]
   },
   "transport-logistics": {

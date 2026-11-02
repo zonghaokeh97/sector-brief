@@ -135,5 +135,199 @@
   "subindustry": "travel-hospitality",
   "summary": "Restaurant Brands International reported third-quarter global comparable sales up 3.8% and system-wide sales of $13.0 billion. Burger King US comparable sales rose 8.4%, Tim Hortons rose 1.5% (Canada 1.8%), international rose 3.9% and Popeyes fell 1.8% (US 2.2%). Adjusted operating income rose to $737 million, up 6.7% on an organic basis, and net leverage fell to 4.0 times from 4.4 times. Reported net income jumped to $704 million, helped mainly by a $133 million tax benefit, and the company kept its 2026 targets, including 8% organic operating income growth.",
   "tags": []
+ },
+ "2026-11-02-01": {
+  "companies": [
+   "marvell-technology",
+   "lumentum"
+  ],
+  "date": "2026-11-02",
+  "headline": "Marvell Technology agrees to buy optical-components maker Lumentum in an all-stock deal valued at $115 billion",
+  "numbers": [
+   "Deal value: $115B incl. debt",
+   "Per-share price: $1,132 (4.5 Marvell shares)",
+   "Premium: 23.9%",
+   "Lumentum holders own: ~33%",
+   "Expected close: first half of 2028"
+  ],
+  "order": 1,
+  "sector": "tmt",
+  "soWhat": "AI data centers are running into a bandwidth wall, so moving data with light (optical links) is becoming as important as the chips that process it. Marvell is betting that owning the lasers and optical parts, not just the custom AI chips and interconnect silicon, lets it sell a bigger bundle to cloud customers and compete with Broadcom and Nvidia. The risk is price and timing: paying a premium in stock while AI-linked shares are falling, for a deal that will not close for more than a year. The open question is whether optical demand keeps outrunning supply long enough to justify $115 billion.",
+  "sources": [
+   {
+    "title": "Marvell to buy Lumentum in $115 billion deal in AI data-center bet (MarketScreener/Reuters)",
+    "url": "https://www.marketscreener.com/news/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet-ce785fd8d181f52d"
+   },
+   {
+    "title": "CNBC: Stock market today, Nov. 2, 2026",
+    "url": "https://cnbc.com/2026/11/01/stock-market-today-live-updates.html"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Marvell will pay 4.5 of its own shares for each Lumentum share, or $1,132 per share, a 23.9% premium to Lumentum's price on October 28 before talks were reported. The equity value is about $102.5 billion, or $115 billion including debt, and Lumentum holders would own roughly 33% of the combined company. Marvell expects the deal to close in the first half of 2028 and to deliver more than $1 billion of annual cost savings. It is Marvell's largest purchase since the $10 billion Inphi deal in 2021. Lumentum shares fell more than 10% and Marvell more than 5% in early trading.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-02-02": {
+  "companies": [],
+  "date": "2026-11-02",
+  "headline": "Oil drops about 6% as US-Iran diplomacy advances, even though OPEC+ keeps December output targets unchanged",
+  "numbers": [
+   "Brent: down >6% to ~$106",
+   "WTI: down >6% to ~$97",
+   "October move: crude up >10%",
+   "OPEC+: December targets unchanged"
+  ],
+  "order": 2,
+  "sector": "energy-materials",
+  "soWhat": "Oil is trading on the odds of reopening the Strait of Hormuz, not on OPEC+ quotas, which barely matter while Gulf exports are physically disrupted. A deal would cut crude prices, but it would also shrink the refining margins that lifted oil majors' profits this quarter, so producers, refiners and shipowners do not all win or lose together. Importing countries and airlines gain from lower fuel costs, while US shale producers lose some of the windfall. The open question is whether talks hold, since prices have swung on every headline.",
+  "sources": [
+   {
+    "title": "CNBC: Stock market today, Nov. 2, 2026",
+    "url": "https://cnbc.com/2026/11/01/stock-market-today-live-updates.html"
+   },
+   {
+    "title": "Voice of Emirates: Oil prices decline on Monday",
+    "url": "https://www.voiceofemirates.com/en/business/2026/11/02/oil-prices-decline-on-monday-brent-crude-performance-and-the-opec-decision-regarding-december-production/"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Brent crude fell more than 6% to about $106 a barrel and US WTI fell to about $97 on reports that the United States and Iran were pursuing talks to end an eight-month conflict. Iran's supreme leader reportedly gave the government some authority to negotiate, and Iranian and Qatari officials held three days of talks. OPEC+ left its December production targets unchanged. The drop follows an October in which crude rose more than 10%, so prices are still far above where they were before the conflict.",
+  "tags": []
+ },
+ "2026-11-02-03": {
+  "companies": [],
+  "date": "2026-11-02",
+  "headline": "US stocks rebound as oil falls, with elections and a jobs report ahead; European factories keep expanding",
+  "numbers": [
+   "S&P 500: +0.6%",
+   "Nasdaq: +0.8%",
+   "Dow: +537 points (+1%)",
+   "Eurozone manufacturing PMI: 52.7 (50 = no change)"
+  ],
+  "order": 3,
+  "sector": "macro",
+  "soWhat": "Markets are being pulled by three forces at once: oil and inflation, AI-spending doubts, and political and data events. A fall in oil helps because lower inflation reduces pressure on central banks to keep raising rates, which supports valuations. The October rotation shows investors paying for stable earners over AI growth stories after a sharp tech sell-off. Strong European and UK factory data also cuts the other way, since faster activity can keep rate-hike talk alive at the Bank of England.",
+  "sources": [
+   {
+    "title": "CNBC: Stock market today, Nov. 2, 2026",
+    "url": "https://cnbc.com/2026/11/01/stock-market-today-live-updates.html"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "The S&P 500 rose 0.6%, the Nasdaq 0.8% and the Dow 537 points, or 1%, in Monday trading as lower oil prices eased inflation worries. The S&P 500 and Nasdaq had both lost ground in October on AI spending worries, the Nasdaq's worst month since March 2025, while the Dow gained almost 2% as investors rotated toward defensive sectors such as healthcare. US midterm elections are on Tuesday and the monthly jobs report is due this week. In Europe, the eurozone manufacturing PMI came in at 52.7, above the 52.4 forecast and just under September's four-year high of 52.9, and UK factory output grew at its fastest pace in more than two years.",
+  "tags": []
+ },
+ "2026-11-02-04": {
+  "companies": [
+   "kioxia",
+   "sandisk"
+  ],
+  "date": "2026-11-02",
+  "headline": "Kioxia shares fall about 14% after it says flash-memory price gains are stalling",
+  "numbers": [
+   "NAND price growth: mid-20% range vs ~70% prior quarter",
+   "Guided operating profit: 2 trillion yen vs 2.35 trillion expected",
+   "Kioxia share move: about -14%"
+  ],
+  "order": 4,
+  "sector": "tmt",
+  "soWhat": "Memory is a commodity business where profits depend on price much more than on volume. Prices were being driven up by AI data centers buying storage, and a slowdown in price growth, even from very high levels, is read as a sign the shortage is peaking. That matters for makers, which have earned very high margins, and for buyers such as phone, PC and server makers, which would gain from easier pricing. It also adds to October's worry that AI-linked chip stocks had priced in too much.",
+  "sources": [
+   {
+    "title": "CNBC: Stock market today, Nov. 2, 2026",
+    "url": "https://cnbc.com/2026/11/01/stock-market-today-live-updates.html"
+   },
+   {
+    "title": "ZeroHedge (relaying Bloomberg): Flash crash, Kioxia warns NAND price surge ending",
+    "url": "https://www.zerohedge.com/markets/flash-crash-kioxia-warns-nand-price-surge-ending-sending-sandisk-plunging"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Kioxia, the Japanese flash-memory maker, said average selling prices for NAND rose in the mid-20% range in the three months to September, versus about 70% the quarter before. It guided operating profit of 2 trillion yen for the current quarter, below the 2.35 trillion yen analysts expected, and its shares fell about 14%. A Bloomberg report relayed by ZeroHedge said its fab partner Sandisk fell as much as 8%.",
+  "tags": []
+ },
+ "2026-11-02-05": {
+  "companies": [
+   "bp"
+  ],
+  "date": "2026-11-02",
+  "headline": "BP's third-quarter underlying profit jumps to $8.5 billion as record refining margins help, and net debt falls to $13.9 billion",
+  "numbers": [
+   "Underlying profit: $8.5B (vs $2.2B a year ago)",
+   "Net debt: $13.9B (from $22.3B)",
+   "Impairments: ~$4B, mostly transition businesses",
+   "Gulf Coast 3-2-1 crack spread peak: $72.64"
+  ],
+  "order": 5,
+  "sector": "energy-materials",
+  "soWhat": "Refining margins hit records because war-related outages and strikes on Russian refineries left fuel short, and the Gulf Coast 3-2-1 crack spread reached an all-time high of $72.64 in September. BP, like Exxon and Chevron, used the windfall to repair its balance sheet rather than increase payouts, which shows how cautious oil majors are about a margin spike that could reverse. Impairments on low-carbon assets show the other side of the strategy shift away from renewables. The open question is how quickly margins normalize if Hormuz reopens.",
+  "sources": [
+   {
+    "title": "Political.org: Exxon, Chevron and BP beat third-quarter forecasts",
+    "url": "https://political.org/2026/10/30/exxon-chevron-and-bp-beat-third-quarter-forecasts-as-refining-windfall-offsets-softer-crude/"
+   },
+   {
+    "title": "Egypt Oil & Gas: bp posts $8.5 Bn underlying profit in Q3 2026",
+    "url": "https://egyptoil-gas.com/news/bp-posts-8-5-bn-underlying-profit-in-q3-2026"
+   }
+  ],
+  "subindustry": "refining-chemicals",
+  "summary": "BP reported underlying replacement-cost profit of $8.5 billion, against $2.2 billion a year earlier, $5.7 billion in the second quarter and a consensus of $6.2 billion. The gain came mainly from much higher refining margins and a stronger gas and marketing trading result. It also booked about $4 billion of impairments, mostly on transition businesses such as offshore wind and solar developer Lightsource bp. Net debt fell to $13.9 billion from $22.3 billion at the end of June. CEO Meg O'Neill said the dividend remains the first call on cash, with buybacks only when appropriate, and that refining margins are starting to soften.",
+  "tags": []
+ },
+ "2026-11-02-06": {
+  "companies": [
+   "oracle"
+  ],
+  "date": "2026-11-02",
+  "headline": "Oracle offers $10 billion of common stock as investors question the cost of AI infrastructure",
+  "numbers": [
+   "Share offering: $10B",
+   "Planned 2026 raise: $45B to $50B",
+   "Premarket share move: more than -2.5%"
+  ],
+  "order": 6,
+  "sector": "tmt",
+  "soWhat": "Building data centers for AI customers costs far more than the cash these businesses generate today, so even large companies are turning to debt and new shares. Selling stock dilutes existing holders but avoids adding to Oracle's debt load, which markets have been watching closely. It shows that the AI build-out is now limited by financing as much as by chips and power. Lenders and shareholders will push for proof that contracted demand turns into cash.",
+  "sources": [
+   {
+    "title": "CNBC: Stock market today, Nov. 2, 2026",
+    "url": "https://cnbc.com/2026/11/01/stock-market-today-live-updates.html"
+   },
+   {
+    "title": "Bisnow: Oracle aims to calm investor fears with $50B AI funding plan",
+    "url": "https://www.bisnow.com/news/national/data-center-capital-markets/oracle-aims-to-calm-investor-fears-with-50b-ai-funding-plan-133047"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Oracle launched an offering of $10 billion of common stock, with Wells Fargo, Citigroup and BNP Paribas among the bookrunners, and its shares fell more than 2.5% in premarket trading. The raise fits a financing plan Oracle laid out earlier this year to fund about $45 billion to $50 billion of new cloud capacity, roughly half through equity. The sale comes in the same week Alphabet reported negative free cash flow and Amazon guided to roughly $220 billion of capex.",
+  "tags": []
+ },
+ "2026-11-02-07": {
+  "companies": [
+   "jio-platforms"
+  ],
+  "date": "2026-11-02",
+  "headline": "Jio Platforms posts its first results as a listed company: profit up 14% and EBITDA margin at 54.1%",
+  "numbers": [
+   "Revenue: Rs 40,475 crore (+11%)",
+   "Net profit: Rs 8,389 crore (+14%)",
+   "EBITDA margin: 54.1%",
+   "5G users: 300 million"
+  ],
+  "order": 7,
+  "sector": "tmt",
+  "soWhat": "Telecom is a scale business: once the network is built, extra subscribers and data use drop through to profit, which is why margins can expand while revenue grows around 11%. Jio's high 5G share shows how a single operator can shift a whole market to a new technology and then monetize it through data use and gradual price increases. Its listing gives investors a direct way to own India's fastest-growing digital consumer base. The risk is that price competition or regulators cap how fast ARPU can rise.",
+  "sources": [
+   {
+    "title": "Mint via TradingView: Jio Platforms shares jump 3% post strong Q2 results",
+    "url": "https://www.tradingview.com/news/moodys:aa4263b95b024:0-after-bumper-ipo-listing-jio-platforms-shares-jump-3-post-strong-q2-results-should-you-buy-sell-or-hold/"
+   }
+  ],
+  "subindustry": "telecom",
+  "summary": "Jio Platforms, India's largest mobile operator, reported September-quarter revenue of Rs 40,475 crore, up 11% from a year earlier, and net profit of Rs 8,389 crore, up 14%. EBITDA rose 17% and the margin widened by 2.5 percentage points to 54.1%. Average revenue per user was Rs 218.8, a modest rise, with promotions on fixed broadband holding it back. It added 9.1 million net subscribers, has 300 million 5G users, and 5G now carries 56% of wireless data traffic. Shares rose as much as 3% after the report, following a debut on October 28 at a 21% premium to the IPO price.",
+  "tags": []
  }
 }

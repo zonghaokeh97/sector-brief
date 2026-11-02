@@ -405,5 +405,252 @@
     "subindustry": "travel-hospitality"
    }
   ]
+ },
+ "2026-11-02": {
+  "date": "2026-11-02",
+  "extra": [
+   {
+    "answer": 0,
+    "explanation": "The Nasdaq had its worst month since March 2025 on AI spending worries while the Dow rose almost 2%. Oil actually rose more than 10% in October.",
+    "id": "2026-11-02:x01",
+    "kind": "today",
+    "options": [
+     "Investors moved from AI growth stocks toward defensive sectors such as healthcare",
+     "Investors bought only technology stocks",
+     "Interest rates fell sharply in October",
+     "Oil prices fell in October"
+    ],
+    "prompt": "The Nasdaq fell in October while the Dow gained almost 2%. What does this rotation suggest?",
+    "sector": "macro",
+    "storyId": "2026-11-02-03",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 1,
+    "explanation": "Each Lumentum share converts into 4.5 Marvell shares, leaving Lumentum holders with roughly 33% of the combined company.",
+    "id": "2026-11-02:x02",
+    "kind": "today",
+    "options": [
+     "About 10%",
+     "About 33%",
+     "About 60%",
+     "About 80%"
+    ],
+    "prompt": "In the Marvell-Lumentum deal, Lumentum shareholders would own about what share of the combined company?",
+    "sector": "tmt",
+    "storyId": "2026-11-02-01",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 1,
+    "explanation": "Meg O'Neill said maintaining the committed dividend comes first, then disciplined investment and buybacks when appropriate. Net debt fell from $22.3 billion at the end of June.",
+    "id": "2026-11-02:x03",
+    "kind": "today",
+    "options": [
+     "Share buybacks",
+     "The dividend",
+     "New offshore wind projects",
+     "Acquisitions"
+    ],
+    "prompt": "BP's net debt fell to $13.9 billion. What did the CEO say is the first call on BP's cash flow?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-02-05",
+    "subindustry": "refining-chemicals"
+   },
+   {
+    "answer": 0,
+    "explanation": "Outages tied to the Iran war and strikes on Russian refineries left fuel scarce and pushed crack spreads to records. Easier supply would narrow those margins, which is why analysts flagged ceasefire risk.",
+    "id": "2026-11-02:x04",
+    "kind": "today",
+    "options": [
+     "Refining margins were lifted by war-related supply shortages, so a peace deal could shrink them",
+     "Refiners cannot sell fuel when prices fall",
+     "Refining only works above $100 oil",
+     "Lower prices raise taxes on refineries"
+    ],
+    "prompt": "Why can lower oil prices be bad for oil majors' refining profits as well as their upstream?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-02-02",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 2,
+    "explanation": "5G carries 56% of Jio's wireless data traffic, and it has 300 million 5G subscribers. The 22% figure is the year-on-year growth in total data traffic.",
+    "id": "2026-11-02:x05",
+    "kind": "today",
+    "options": [
+     "22%",
+     "38%",
+     "56%",
+     "90%"
+    ],
+    "prompt": "What share of Jio's wireless data traffic is carried on 5G?",
+    "sector": "tmt",
+    "storyId": "2026-11-02-07",
+    "subindustry": "telecom"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "AI clusters are limited by how fast data moves between chips, so optical connections are becoming as valuable as the processors. Marvell says the combination expands its addressable market to $550 billion. The other options describe businesses neither company is in.",
+    "id": "2026-11-02:q01",
+    "kind": "today",
+    "options": [
+     "To replace its custom AI chips with commodity memory",
+     "To own the optical links that move data inside AI data centers, widening what it can sell to cloud customers",
+     "To exit chip design and become a pure component distributor",
+     "To gain Lumentum's retail brand with consumer electronics buyers"
+    ],
+    "prompt": "Why is Marvell paying $115 billion for an optical-components maker like Lumentum?",
+    "sector": "tmt",
+    "storyId": "2026-11-02-01",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 1,
+    "explanation": "With Gulf exports physically disrupted, OPEC+ quotas matter little. Prices instead track the odds of a deal, which is why crude dropped to about $106 on reports of talks after rising more than 10% in October. Eurozone factory data was actually stronger than forecast (PMI 52.7), so weaker demand is not the cause.",
+    "id": "2026-11-02:q02",
+    "kind": "today",
+    "options": [
+     "A surprise rise in US shale output reported by OPEC+",
+     "Expectations that US-Iran talks could reopen the Strait of Hormuz",
+     "A fall in demand from European factories",
+     "A cut to refinery capacity in Asia"
+    ],
+    "prompt": "Brent fell more than 6% on Monday even though OPEC+ left December production targets unchanged. What mainly moved the price?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-02-02",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 0,
+    "explanation": "Memory profits depend on price much more than volume, and Kioxia guided operating profit of 2 trillion yen versus 2.35 trillion expected. Prices were still rising, so the problem was the pace of increase, not a loss or a price drop.",
+    "id": "2026-11-02:q03",
+    "kind": "today",
+    "options": [
+     "Slower price growth signals the shortage may be peaking, which cuts expected profit",
+     "Kioxia reported a quarterly loss",
+     "Customers cancelled all data-center orders",
+     "Prices actually fell by 25%"
+    ],
+    "prompt": "NAND prices rose in the mid-20% range last quarter, versus about 70% the quarter before, yet Kioxia fell about 14%. Why?",
+    "sector": "tmt",
+    "storyId": "2026-11-02-04",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 2,
+    "explanation": "BP said the rise reflected significantly higher realized refining margins plus a better gas and marketing result. The Gulf Coast 3-2-1 crack spread hit a record $72.64. The low-carbon business actually produced about $4 billion of impairments.",
+    "id": "2026-11-02:q04",
+    "kind": "today",
+    "options": [
+     "Record oil production growth in new fields",
+     "A big rise in low-carbon energy sales",
+     "Much higher refining margins and stronger gas and marketing trading",
+     "A large gain from selling its retail stations"
+    ],
+    "prompt": "BP's quarterly underlying profit rose to $8.5 billion from $2.2 billion a year earlier. What was the main driver?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-02-05",
+    "subindustry": "refining-chemicals"
+   },
+   {
+    "answer": 1,
+    "explanation": "Oracle has said it plans to raise $45 billion to $50 billion in 2026, roughly half through equity. Stock sales dilute owners but protect the balance sheet, which investors were watching. Cutting capacity would forfeit contracted AI demand.",
+    "id": "2026-11-02:q05",
+    "kind": "today",
+    "options": [
+     "Cut capacity so spending matches current cash flow",
+     "Raise equity to fund capacity without adding more debt, accepting dilution",
+     "Delay all customer deliveries for several years",
+     "Sell its database software business"
+    ],
+    "prompt": "A cloud provider has signed large AI contracts but its data-center spending exceeds its cash flow. Which move fits Oracle's choice to sell $10 billion of stock?",
+    "sector": "tmt",
+    "storyId": "2026-11-02-06",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 3,
+    "explanation": "Once a network is built, each added user and gigabyte brings revenue with little extra cost, so profit grows faster than sales. Jio added 9.1 million subscribers and data traffic rose 22%.",
+    "id": "2026-11-02:q06",
+    "kind": "today",
+    "options": [
+     "Jio cut the number of subscribers",
+     "Government subsidies replaced customer fees",
+     "Jio sold its network to a tower company",
+     "Network costs are mostly fixed, so extra subscribers and data use add profit at low cost"
+    ],
+    "prompt": "Jio's revenue rose 11% but EBITDA rose 17%, lifting the margin to 54.1%. What explains this?",
+    "sector": "tmt",
+    "storyId": "2026-11-02-07",
+    "subindustry": "telecom"
+   },
+   {
+    "answer": 2,
+    "explanation": "Profit looks 32% higher partly because Q3 2025 included $1.4B of legal provisions that did not recur. Excluding such items the gain is about 10%, the better guide to underlying trends. Credit losses actually fell 17% to $0.8B.",
+    "id": "2026-10-28:q06",
+    "kind": "review",
+    "options": [
+     "Loan losses rose sharply",
+     "HSBC sold its Asian business",
+     "A $1.4B legal provision in the year-ago quarter was not repeated",
+     "Interest rates were cut"
+    ],
+    "prompt": "HSBC's Q3 pre-tax profit rose 32% to $9.6B, but excluding notable items it rose only about $0.9B to $10.0B. What explains the difference?",
+    "sector": "financial-services",
+    "storyId": "2026-10-28-06",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 1,
+    "explanation": "Utilities need more transmission for new generation and data centers, and high-voltage equipment is a bottleneck. Buying Trench adds grid products to a turbine business. The deal is half debt, so it raises borrowing, not cuts it.",
+    "id": "2026-10-29:q04",
+    "kind": "review",
+    "options": [
+     "Trench gives it a new line of gas turbines",
+     "It captures more of the spending on moving power, where equipment is a bottleneck",
+     "It lets it exit the grid business",
+     "It cuts its debt by half"
+    ],
+    "prompt": "GE Vernova agreed to pay $9.0B for Trench Group, a maker of high-voltage grid equipment. What is the main business logic?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-29-04",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 3,
+    "explanation": "Starbucks deconsolidated China after the joint venture deal, where it keeps a 40% stake and now books equity income rather than store sales. Transactions rose 1.8% and average ticket 5.2%, and only about 250 North American stores closed.",
+    "id": "2026-10-30:q06",
+    "kind": "review",
+    "options": [
+     "It closed most of its US stores",
+     "Customers bought fewer drinks but paid far more",
+     "A sales-tax change reduced reported revenue",
+     "It moved China retail into a licensed joint venture, so those sales left its revenue"
+    ],
+    "prompt": "Starbucks' revenue fell 4% to $9.1B even though global same-store sales rose 7.2%. What explains the gap?",
+    "sector": "consumer-retail",
+    "storyId": "2026-10-30-07",
+    "subindustry": "travel-hospitality"
+   },
+   {
+    "answer": 0,
+    "explanation": "Operators must keep buying spectrum, towers, fiber and equipment while price competition limits revenue per user. That makes capex discipline central to returns. Spectrum is auctioned at high prices, not free.",
+    "id": "2026-11-02:q10",
+    "kind": "profile",
+    "options": [
+     "Networks need constant heavy investment, about $1.2 trillion over 2025-30 against roughly $1.2-1.4 trillion of annual revenue",
+     "Spectrum is free, so spending only goes on marketing",
+     "Regulators pay for most network upgrades",
+     "Customers prepay for ten years of service"
+    ],
+    "prompt": "Why does disciplined capital spending matter so much to a mobile operator's returns?",
+    "sector": "tmt",
+    "storyId": null,
+    "subindustry": "telecom"
+   }
+  ]
  }
 }
