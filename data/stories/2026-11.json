@@ -329,5 +329,375 @@
   "subindustry": "telecom",
   "summary": "Jio Platforms, India's largest mobile operator, reported September-quarter revenue of Rs 40,475 crore, up 11% from a year earlier, and net profit of Rs 8,389 crore, up 14%. EBITDA rose 17% and the margin widened by 2.5 percentage points to 54.1%. Average revenue per user was Rs 218.8, a modest rise, with promotions on fixed broadband holding it back. It added 9.1 million net subscribers, has 300 million 5G users, and 5G now carries 56% of wireless data traffic. Shares rose as much as 3% after the report, following a debut on October 28 at a 21% premium to the IPO price.",
   "tags": []
+ },
+ "2026-11-03-01": {
+  "companies": [
+   "apple"
+  ],
+  "date": "2026-11-03",
+  "headline": "Apple's September-quarter revenue rises 12% to a record $114.5 billion on iPhone and Mac strength",
+  "numbers": [
+   "Revenue: $114.5B (+12%)",
+   "iPhone: $57.6B (+~17%)",
+   "Services: $31.6B (+~10%)",
+   "Gross margin: 47.9%",
+   "Greater China: $17.5B (+~21%)"
+  ],
+  "order": 1,
+  "sector": "tmt",
+  "soWhat": "iPhone is still about half of Apple's revenue, so the upgrade cycle largely sets the company's results, while the steadily growing Services line adds a recurring layer on top of the installed base of devices. The margin is the thing to watch: about a point of the 47.9% came from one-off tariff refunds, and memory chip costs have been the main source of margin pressure. That ties a consumer-device maker to the same memory cycle that drives chipmakers such as Kioxia and SK hynix. The open question is whether strong China demand holds up as the cost of components keeps rising.",
+  "sources": [
+   {
+    "title": "Apple 8-K: fiscal Q4 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019326000024/a8-kex991q4202609262026.htm"
+   },
+   {
+    "title": "Stock Titan: stock market today, November 2, 2026",
+    "url": "https://stocktitan.net/articles/stock-market-today-live-november-2-2026"
+   }
+  ],
+  "subindustry": "internet-platforms",
+  "summary": "Apple reported fiscal fourth-quarter revenue of $114.5 billion, up 12% and a record for a September quarter, in its first report under CEO John Ternus. iPhone revenue was $57.6 billion, up about 17%, and Services reached an all-time high of $31.6 billion, up about 10%. Mac sales jumped about 24% to $10.8 billion while iPad fell about 10% to $6.2 billion. Greater China was the fastest-growing region at $17.5 billion, up about 21%. Gross margin was 47.9%, including roughly one point from tariff refunds, and diluted earnings per share rose 14% to $2.10.",
+  "tags": []
+ },
+ "2026-11-03-02": {
+  "companies": [
+   "palantir"
+  ],
+  "date": "2026-11-03",
+  "headline": "Palantir's revenue nearly doubles to $2.31 billion as US commercial sales pass government sales for the first time",
+  "numbers": [
+   "Revenue: $2.313B (+96%)",
+   "US commercial: $984M (+148%)",
+   "Adjusted operating margin: 62%",
+   "2026 revenue forecast: about $8.53B",
+   "Total contract value: $2.918B (+6%)"
+  ],
+  "order": 2,
+  "sector": "tmt",
+  "soWhat": "The mix shift matters: Palantir began as a government supplier, and companies buying its AI software now bring in more US revenue than agencies do. A 62% adjusted operating margin shows how software costs little to deliver once the product is built and sold. The gap between 96% revenue growth and 6% growth in total contract value suggests revenue is catching up with earlier signings. The open question is whether new bookings accelerate enough to keep growth near this pace.",
+  "sources": [
+   {
+    "title": "Palantir 8-K: Q3 2026 press release",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm"
+   },
+   {
+    "title": "Closing Look, Monday November 2, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-monday-november-2-2026"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Palantir reported third-quarter revenue of $2.313 billion, up 96% from a year earlier and 20% from the prior quarter. US commercial revenue rose 148% to $984 million, overtaking US government revenue, which grew 96% to $953 million. Adjusted operating margin was 62% and net income was $1.128 billion. The company raised its 2026 revenue forecast to about $8.53 billion and its US commercial forecast to more than $3.559 billion. Total contract value grew only 6% to $2.918 billion.",
+  "tags": []
+ },
+ "2026-11-03-03": {
+  "companies": [
+   "marathon-petroleum"
+  ],
+  "date": "2026-11-03",
+  "headline": "Marathon Petroleum earns $7.4 billion in a quarter as its refining margin hits $45.70 a barrel, and sells two northern refineries for $4.2 billion",
+  "numbers": [
+   "Net income: $7.4B (vs $1.4B)",
+   "Refining margin: $45.70/bbl (vs $17.60)",
+   "Crude utilization: 100%",
+   "Refinery sale: $4.2B",
+   "Capital returned: $3.3B"
+  ],
+  "order": 3,
+  "sector": "energy-materials",
+  "soWhat": "A refiner earns the gap between what it pays for crude and what it sells fuel for, multiplied by the barrels it processes, so a margin that is more than two and a half times last year's, on a plant running flat out, produces a profit several times larger. Product supply has been tight while Gulf flows are disrupted, which widens that gap. Selling smaller inland refineries to reinvest on the Gulf Coast concentrates the company where plants are larger and can reach export markets. The open question is how long margins last: crude fell 7.6% on Monday on hopes of a US-Iran deal, and a reopening of Gulf shipping would ease product tightness.",
+  "sources": [
+   {
+    "title": "Marathon Petroleum 8-K: Q3 2026 earnings release",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001510295/000151029526000069/mpcq32026earningsrelease.htm"
+   },
+   {
+    "title": "Stock Titan: stock market today, November 2, 2026",
+    "url": "https://stocktitan.net/articles/stock-market-today-live-november-2-2026"
+   }
+  ],
+  "subindustry": "refining-chemicals",
+  "summary": "Marathon Petroleum reported third-quarter net income of $7.4 billion, or $26.59 a share, against $1.4 billion a year earlier. Adjusted EBITDA was $11.7 billion, up from $3.2 billion. Its refining and marketing margin was $45.70 a barrel, up from $17.60, and its refineries ran at 100% of crude capacity. It agreed to sell the St. Paul Park and Mandan refineries and related midstream assets for $4.2 billion, with $3.45 billion going to Marathon and $750 million to its pipeline affiliate MPLX. It returned $3.3 billion to shareholders, raised its dividend 10% and added $5 billion to its buyback authorization.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-03-04": {
+  "companies": [
+   "pfizer"
+  ],
+  "date": "2026-11-03",
+  "headline": "Pfizer raises its 2026 revenue outlook to $62 to $64 billion as new products offset the fading COVID franchise",
+  "numbers": [
+   "Revenue: $16.6B (flat)",
+   "Growth excluding COVID products: +7%",
+   "2026 revenue guidance: $62-64B",
+   "Paxlovid: -63%",
+   "Eliquis: +25%"
+  ],
+  "order": 4,
+  "sector": "healthcare",
+  "soWhat": "Big pharma has to keep replacing revenue as older products fade, and Pfizer shows the pattern: the pandemic drugs shrink quickly while cancer, heart and other medicines, many bought or licensed from smaller developers, carry growth. Flat reported revenue hides a business growing 7% without COVID products. Paying for outside assets, such as the Innovent deal, hits earnings up front through charges but is how large drugmakers refill pipelines. The open question is whether launches grow fast enough to offset patent expiries later in the decade.",
+  "sources": [
+   {
+    "title": "Pfizer 8-K: Q3 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000078003/000007800326000125/pfe-9272026xex99.htm"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "Pfizer's third-quarter revenue was $16.6 billion, roughly flat, and adjusted earnings per share were $0.87, unchanged. Excluding the COVID products Comirnaty and Paxlovid, revenue grew 7%, and launched and acquired products grew 32%. Paxlovid fell 63% and Comirnaty 29%, while Eliquis rose 25% and the cancer drug Padcev rose 55%. The company raised 2026 revenue guidance to $62.0 to $64.0 billion from $60.5 to $62.5 billion, and adjusted EPS guidance to $2.95 to $3.05, which absorbs about $0.10 from a $650 million charge tied to its Innovent Biologics deal.",
+  "tags": []
+ },
+ "2026-11-03-05": {
+  "companies": [],
+  "date": "2026-11-03",
+  "headline": "US factory activity expands for a tenth month with the ISM index at 55.5, while construction spending falls 1.9%",
+  "numbers": [
+   "ISM manufacturing index: 55.5 (vs 54.5)",
+   "ISM production: 59.0, highest since Nov 2021",
+   "ISM prices paid: 75.2",
+   "Construction spending: -1.9% (vs +0.4% expected)"
+  ],
+  "order": 5,
+  "sector": "macro",
+  "soWhat": "A reading above 50 means more factories are growing than shrinking, so manufacturers are still gaining, and a prices-paid reading of 75 means input costs are still rising quickly. That keeps pressure on inflation and explains why markets are pricing a possible rate rise rather than a cut. High borrowing costs show up first in building, where spending fell sharply. The open question is whether the drop in oil prices begins to pull the prices-paid gauge down in the months ahead.",
+  "sources": [
+   {
+    "title": "Stock Titan: stock market today, November 2, 2026",
+    "url": "https://stocktitan.net/articles/stock-market-today-live-november-2-2026"
+   },
+   {
+    "title": "Closing Look, Monday November 2, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-monday-november-2-2026"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "The ISM manufacturing index rose to 55.5 in October from 54.5, beating the 54.5 forecast, and has now signaled expansion for ten straight months. Its production gauge rose to 59.0, the highest since November 2021, while the prices-paid gauge eased to 75.2 from 77.9. A separate S&P Global US manufacturing index eased to 54.9 from 55.9. September construction spending fell 1.9% against an expected 0.4% gain, the steepest drop since April 2020. Futures priced about a 72% chance of a Fed rate rise in December.",
+  "tags": []
+ },
+ "2026-11-03-06": {
+  "companies": [
+   "binance"
+  ],
+  "date": "2026-11-03",
+  "headline": "A $6.3 billion theft from Binance, linked by analysts to North Korean hackers, is the largest crypto heist on record",
+  "numbers": [
+   "Stolen: about $6.3B",
+   "Frozen: about $3B (reports vary)",
+   "Stolen assets covered: about 95%",
+   "Net withdrawals after reopening: $3.6B (about 2%)"
+  ],
+  "order": 6,
+  "sector": "financial-services",
+  "soWhat": "Exchanges hold customer assets in a small number of large wallets, so one security failure can threaten the whole business, and confidence that customers can withdraw in full is what prevents a run. Covering the loss from its own balance sheet shows Binance's scale, and the modest 2% outflow suggests most customers stayed. State-backed hacking is a growing funding source for sanctioned governments, which raises pressure on regulators to set tougher custody and security standards. The open question is how much of the stolen money can be recovered.",
+  "sources": [
+   {
+    "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance (ITV/AP)",
+    "url": "https://www.itv.com/news/2026-10-30/blockchain-firms-link-north-korea-to-63b-hack-on-binance"
+   },
+   {
+    "title": "UK Business News Today: 2 November 2026",
+    "url": "https://cpa.co.uk/uk-business-news-today-2-november-2026-economy-markets-insolvencies"
+   },
+   {
+    "title": "Closing Look, Monday November 2, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-monday-november-2-2026"
+   }
+  ],
+  "subindustry": "payments-fintech",
+  "summary": "Hackers moved about $6.3 billion out of Binance in roughly 20 minutes across ten blockchains. The blockchain-analysis firm TRM Labs says with high confidence that North Korea's TraderTraitor group was responsible, while Chainalysis calls it likely. Binance has not confirmed who was behind it. Reports say about $3 billion was frozen, and Binance says it will cover all customer losses and had covered about 95% of the stolen assets by Monday. One report puts net withdrawals after service resumed at $3.6 billion, about 2% of customer holdings. Early findings point to a compromised employee laptop.",
+  "tags": []
+ },
+ "2026-11-03-07": {
+  "companies": [
+   "amd",
+   "micron",
+   "western-digital",
+   "oracle"
+  ],
+  "date": "2026-11-03",
+  "headline": "AI hardware stocks slide as spending worries return, with AMD down 7.5% and Micron down 5.8%",
+  "numbers": [
+   "AMD: -7.52%",
+   "Micron: -5.78%",
+   "Nasdaq Composite: -1.07%",
+   "Oracle: -8.76% after $20B funding plan"
+  ],
+  "order": 7,
+  "sector": "tmt",
+  "soWhat": "Chip, memory and storage makers sell into a small number of customers who are spending borrowed or newly raised money, so doubts about how that spending is financed hit suppliers first. Oracle selling stock and a reported smaller raise at OpenAI both suggest the cost of funding AI capacity is rising. Memory and storage are especially cyclical because prices swing with the pace of orders. The open question is whether AMD's results and outlook on Tuesday show demand still outrunning the funding worries.",
+  "sources": [
+   {
+    "title": "Closing Look, Monday November 2, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-monday-november-2-2026"
+   },
+   {
+    "title": "Stock Titan: stock market today, November 2, 2026",
+    "url": "https://stocktitan.net/articles/stock-market-today-live-november-2-2026"
+   },
+   {
+    "title": "UK Business News Today: 2 November 2026",
+    "url": "https://cpa.co.uk/uk-business-news-today-2-november-2026-economy-markets-insolvencies"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "AI hardware shares fell on Monday: AMD dropped 7.52%, Dell 7.43%, Micron 5.78%, Seagate 7.88% and Western Digital 7.52%, while Nvidia fell 1.26%. The Nasdaq Composite lost 1.07% and the technology sector was the worst in the S&P 500 at down 2.95%. Oracle fell 8.76% after it moved to sell $10 billion of stock and $10 billion of notes to fund its AI buildout. UK press also reported that OpenAI has cut its pre-IPO fundraising target to $20 billion from $30 billion, a report this site has not independently confirmed. AMD reports results on Tuesday after the close.",
+  "tags": []
+ },
+ "2026-11-03-08": {
+  "companies": [
+   "perion",
+   "affle"
+  ],
+  "date": "2026-11-03",
+  "headline": "Affle agrees to buy ad-tech firm Perion for about $420 million in cash",
+  "numbers": [
+   "Price: $11.70 per share, cash",
+   "Premium: 34.5%",
+   "Equity value: about $420M",
+   "Expected close: early 2027"
+  ],
+  "order": 8,
+  "sector": "tmt",
+  "soWhat": "Independent ad-tech companies sell tools to advertisers, but the largest platforms, Alphabet, Amazon and Meta, take most of the growth in ad spending, which leaves mid-sized independents struggling to reach scale on their own. For the buyer, the appeal is added reach in fast-growing channels such as connected TV and retail media. A premium of about a third is typical when a small public company with a depressed share price is sold. The open question is whether another bidder emerges before shareholders vote.",
+  "sources": [
+   {
+    "title": "Perion Form 6-K: merger agreement with Affle",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001338940/000117891326004966/exhibit_99-1.htm"
+   },
+   {
+    "title": "Stock Titan: stock market today, November 2, 2026",
+    "url": "https://stocktitan.net/articles/stock-market-today-live-november-2-2026"
+   }
+  ],
+  "subindustry": "internet-platforms",
+  "summary": "Affle 3i Limited signed a definitive merger agreement on November 1 to acquire Perion Network for $11.70 a share in cash, a 34.5% premium to the October 30 close. That values Perion's equity at about $420 million. The deal needs Perion shareholder approval and is expected to close in early 2027. Perion sells AI-driven tools that help advertisers buy media across connected TV, digital out-of-home, retail media and social channels. It withdrew its 2026 outlook and suspended its share buyback, under which it had repurchased 21.3 million shares for $196.8 million. Its stock rose about 31% to $11.41.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-03-09": {
+  "companies": [
+   "evgo"
+  ],
+  "date": "2026-11-03",
+  "headline": "EVgo's controlling shareholder LS Power proposes to buy out public shareholders at $2.00 a share",
+  "numbers": [
+   "Offer: $2.00 per share, cash",
+   "Premium: 59% to Oct 30 close",
+   "LS Power voting stake: about 56%",
+   "Closing price Nov 2: $1.85"
+  ],
+  "order": 9,
+  "sector": "advanced-industries",
+  "soWhat": "When a controlling owner buys out the minority, the owner sits on both sides of the deal, which is why an independent committee negotiates the price. EV charging is capital-intensive because networks of fast chargers must be built before they earn, so a private owner can fund growth without the pressure of quarterly results. A closing price below the offer shows investors doubt the deal will be completed at this price. The open question is whether the committee pushes for a higher bid.",
+  "sources": [
+   {
+    "title": "EVgo Form 8-K: LS Power proposal",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001821159/000182115926000027/exhibit991pressrelease2026.htm"
+   },
+   {
+    "title": "Stock Titan: stock market today, November 2, 2026",
+    "url": "https://stocktitan.net/articles/stock-market-today-live-november-2-2026"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "LS Power, which holds about 56% of EVgo's voting power, made a non-binding proposal on November 2 to buy all the Class A shares it does not already own for $2.00 each in cash. The price is a 59% premium to the October 30 close and 62% above the 30-day average price. LS Power prefers a long-form merger, which gives minority shareholders full disclosure and appraisal rights, and says it will proceed only if a special committee of independent directors recommends it. EVgo has formed that committee and says no decision has been made. Its shares closed up about 47% at $1.85, below the offered price.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-03-10": {
+  "companies": [
+   "united-airlines",
+   "delta-air-lines",
+   "american-airlines"
+  ],
+  "date": "2026-11-03",
+  "headline": "US airline shares jump about 4% as crude's sharpest drop in three months eases fuel-cost fears",
+  "numbers": [
+   "United: +4.80%",
+   "Delta: +4.08%",
+   "Brent: -7.63% to $104.77",
+   "Energy sector: -3.96%"
+  ],
+  "order": 10,
+  "sector": "consumer-retail",
+  "soWhat": "Fuel is one of an airline's largest costs, so a sharp fall in crude lifts expected profit almost immediately, while oil producers and refiners lose the same amount. Most US airlines do not hedge much of their fuel, which makes their shares move quickly with the oil price. The reaction also shows that investors treat the Gulf disruption as the main driver of the energy price spike. The open question is whether the diplomatic progress is real, since a breakdown in talks would reverse the move.",
+  "sources": [
+   {
+    "title": "Stock Titan: stock market today, November 2, 2026",
+    "url": "https://stocktitan.net/articles/stock-market-today-live-november-2-2026"
+   },
+   {
+    "title": "Closing Look, Monday November 2, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-monday-november-2-2026"
+   }
+  ],
+  "subindustry": "travel-hospitality",
+  "summary": "United Airlines rose 4.80%, Delta 4.08% and American 3.81% on Monday as oil had its sharpest one-day drop in three months on hopes for US-Iran diplomacy. Brent fell 7.63% to $104.77 a barrel and US crude fell 7.36% to $96.46. Energy was the worst sector in the S&P 500, down 3.96%, while consumer discretionary was the best, up 2.41%. Iran has offered to reopen the Strait of Hormuz under strict conditions, and talks with Qatari mediators continued.",
+  "tags": []
+ },
+ "2026-11-03-11": {
+  "companies": [
+   "idexx"
+  ],
+  "date": "2026-11-03",
+  "headline": "IDEXX lifts its 2026 profit outlook after veterinary diagnostics revenue rises 10% to $1.21 billion",
+  "numbers": [
+   "Revenue: $1.214B (+10%)",
+   "Diluted EPS: $4.01 (+18%)",
+   "2026 EPS outlook: $14.96-15.16",
+   "Share move on Nov 2: about +22%"
+  ],
+  "order": 11,
+  "sector": "healthcare",
+  "soWhat": "IDEXX follows a razor-and-blade model: it places analyzers in veterinary clinics and then earns recurring revenue from the test consumables and lab services that run on them. Each new instrument adds years of repeat sales, so installations are an early signal of future revenue. Investors had worried that fewer vet visits would slow growth, and the 10% organic gain shows testing and pricing are offsetting that. The open question is whether visit volumes recover or stay soft.",
+  "sources": [
+   {
+    "title": "IDEXX 8-K: Q3 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000874716/000110465926120892/tm2628647d1_ex99-1.htm"
+   },
+   {
+    "title": "Stock Titan: stock market today, November 2, 2026",
+    "url": "https://stocktitan.net/articles/stock-market-today-live-november-2-2026"
+   }
+  ],
+  "subindustry": "medtech",
+  "summary": "IDEXX Laboratories reported third-quarter revenue of $1.214 billion, up 10% both as reported and organically. Diluted earnings per share were $4.01, up 18% as reported and 22% on a comparable basis. The company raised its 2026 EPS outlook to $14.96 to $15.16, about $0.25 higher at the midpoint, driven by a higher revenue forecast. Its Companion Animal Group grew 11%, helped by a strong quarter of diagnostic imaging system installations. The shares closed up about 22% on Monday.",
+  "tags": []
+ },
+ "2026-11-03-12": {
+  "companies": [
+   "poundland"
+  ],
+  "date": "2026-11-03",
+  "headline": "Poundland files notice to appoint administrators, putting about 12,000 jobs and roughly 600 UK stores at risk",
+  "numbers": [
+   "Jobs at risk: about 12,000",
+   "Stores: roughly 600",
+   "Protection from creditors: about 10 working days",
+   "Sales: +8.4% in three weeks to Oct 18"
+  ],
+  "order": 12,
+  "sector": "consumer-retail",
+  "soWhat": "Discount chains run on thin margins and large fixed costs, mainly leases and wages, so rising sales, which grew 8.4% in the three weeks to October 18, cannot fix a balance sheet with too much debt or too many expensive stores. Administration lets a buyer pick the better stores and leases and leave the rest, which is why several rivals are circling. Higher business rates and wages hit low-priced, labor-heavy retailers hardest. The open question is how many stores and jobs survive a sale.",
+  "sources": [
+   {
+    "title": "Poundland files administration notice (ESM Magazine)",
+    "url": "https://www.esmmagazine.com/retail/uks-poundland-files-administration-notice-to-buy-time-for-rescue-324866"
+   },
+   {
+    "title": "Thousands of jobs at risk with Poundland on brink of administration (ITV)",
+    "url": "https://www.itv.com/news/2026-10-29/thousands-of-jobs-at-risk-with-poundland-on-brink-of-administration"
+   },
+   {
+    "title": "UK Business News Today: 2 November 2026",
+    "url": "https://cpa.co.uk/uk-business-news-today-2-november-2026-economy-markets-insolvencies"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "Poundland filed a notice of intention to appoint administrators on October 29, with AlixPartners lined up for the role. The filing gives about ten working days of protection from creditors while the owner seeks a rescue, and stores remain open. Reports put about 12,000 jobs and roughly 600 UK stores at risk. Owner Gordon Brothers began a sale process in early September, and an earlier rescue bid from Martin Property Group was reportedly rejected. CDS Superstores, Fortress and Modella are reportedly interested in parts of the business. UK retailers also face about £250 million of higher business rates and £2 billion of higher employment costs, according to the British Retail Consortium.",
+  "tags": []
  }
 }

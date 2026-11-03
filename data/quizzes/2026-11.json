@@ -652,5 +652,252 @@
     "subindustry": "telecom"
    }
   ]
+ },
+ "2026-11-03": {
+  "date": "2026-11-03",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "Alphabet, Amazon and Meta take about 56% of ad spend outside China and most of its growth. A $420M equity value shows how small independents are by comparison.",
+    "id": "2026-11-03:x01",
+    "kind": "today",
+    "options": [
+     "Advertisers have stopped buying online ads",
+     "Large platforms capture most ad growth, so independents struggle to reach scale alone",
+     "Regulators banned independent ad-tech",
+     "Ad prices have fallen to zero"
+    ],
+    "prompt": "Perion agreed to be bought at a 34.5% premium. Which is the most likely reason a mid-sized independent ad-tech firm chooses to sell?",
+    "sector": "tmt",
+    "storyId": "2026-11-03-08",
+    "subindustry": "internet-platforms"
+   },
+   {
+    "answer": 2,
+    "explanation": "LS Power holds about 56% of EVgo's voting power, so it sits on both sides of the deal. It says it will proceed only if the committee recommends the $2.00 offer.",
+    "id": "2026-11-03:x02",
+    "kind": "today",
+    "options": [
+     "To make the deal close faster",
+     "To lower the tax bill on the purchase",
+     "To protect minority shareholders from the conflict of interest in setting the price",
+     "To ensure the stock price rises"
+    ],
+    "prompt": "A controlling shareholder offers to buy out the public shareholders of a company it already runs. Why does the board form a special committee of independent directors?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-03-09",
+    "subindustry": "automotive-mobility"
+   },
+   {
+    "answer": 0,
+    "explanation": "United rose 4.8%, Delta 4.1% and American 3.8% while energy was the worst sector at -3.96%. Producers lose what airlines gain.",
+    "id": "2026-11-03:x03",
+    "kind": "today",
+    "options": [
+     "Fuel is one of an airline's largest costs, so cheaper crude lifts expected profit",
+     "Airlines own large oil reserves",
+     "Lower oil prices raise ticket prices",
+     "Airlines earn most of their profit from oil trading"
+    ],
+    "prompt": "Brent fell 7.6% in a day and US airline shares rose about 4%. Why?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-03-10",
+    "subindustry": "travel-hospitality"
+   },
+   {
+    "answer": 3,
+    "explanation": "IDEXX's recurring revenue comes from consumables and lab services, so each installation adds repeat sales. Revenue grew 10% to $1.214B in Q3.",
+    "id": "2026-11-03:x04",
+    "kind": "today",
+    "options": [
+     "The one-time price of each instrument",
+     "The rent its customers pay",
+     "The number of vets employed by competitors",
+     "The installed base of instruments and tests run on each one"
+    ],
+    "prompt": "A vet-diagnostics maker places analyzers in clinics and then sells the test consumables that run on them. Which factor matters most for its recurring revenue?",
+    "sector": "healthcare",
+    "storyId": "2026-11-03-11",
+    "subindustry": "medtech"
+   },
+   {
+    "answer": 1,
+    "explanation": "The payments profile shows issuers keep most of the fee as interchange and also earn card interest, while networks take small per-transaction fees and processors a thin markup.",
+    "id": "2026-11-03:x05",
+    "kind": "profile",
+    "options": [
+     "The card network",
+     "The issuing bank, through interchange",
+     "The merchant's payment processor",
+     "The merchant itself"
+    ],
+    "prompt": "In a card payment, who typically keeps most of the 2-3% fee the merchant pays?",
+    "sector": "financial-services",
+    "storyId": null,
+    "subindustry": "payments-fintech"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "$57.6B is about half of $114.5B. Services was $31.6B, roughly 28%. Greater China grew fastest at about 21% but, at $17.5B, is well behind the Americas at $48.7B.",
+    "id": "2026-11-03:q01",
+    "kind": "today",
+    "options": [
+     "Services has already overtaken iPhone as the largest revenue line",
+     "iPhone still drives about half of revenue, so its upgrade cycle largely sets Apple's results",
+     "Hardware is now a minor part of Apple's business",
+     "Greater China is now Apple's largest region by revenue"
+    ],
+    "prompt": "Apple's iPhone sales were $57.6B of $114.5B total revenue in its September quarter. What does that mean for the business?",
+    "sector": "tmt",
+    "storyId": "2026-11-03-01",
+    "subindustry": "internet-platforms"
+   },
+   {
+    "answer": 3,
+    "explanation": "Revenue was $2.313B, up 96%, while total contract value was $2.918B, up only 6%. The company still raised its 2026 revenue forecast to about $8.53B and posted a 62% adjusted operating margin, so this is not a cancellation or margin problem.",
+    "id": "2026-11-03:q02",
+    "kind": "today",
+    "options": [
+     "Customers are cancelling contracts at a rapid rate",
+     "Margins are falling because new signings are low",
+     "The company cut its full-year forecast",
+     "Revenue is catching up with earlier signings, so future growth depends on bookings accelerating"
+    ],
+    "prompt": "Palantir's revenue grew 96% but its total contract value grew only 6%. What is the most reasonable reading?",
+    "sector": "tmt",
+    "storyId": "2026-11-03-02",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 0,
+    "explanation": "A refiner's profit is roughly the margin per barrel times the barrels processed. With a margin more than two and a half times last year's on a plant running at 100% (up from 95%), net income reached $7.4B against $1.4B.",
+    "id": "2026-11-03:q03",
+    "kind": "today",
+    "options": [
+     "Every extra barrel processed earns the wide margin, so running flat out multiplies profit",
+     "High utilization pushes down the price of crude oil",
+     "Utilization sets the margin per barrel directly",
+     "It matters only when gasoline demand is falling"
+    ],
+    "prompt": "Marathon Petroleum's refining margin rose to $45.70 a barrel from $17.60, and its refineries ran at 100% of capacity. Why does full utilization matter most when margins are this wide?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-03-03",
+    "subindustry": "refining-chemicals"
+   },
+   {
+    "answer": 2,
+    "explanation": "Excluding Paxlovid (-63%) and Comirnaty (-29%), revenue grew 7%, and launched and acquired products grew 32%. Guidance rose to $62-64B revenue from $60.5-62.5B.",
+    "id": "2026-11-03:q04",
+    "kind": "today",
+    "options": [
+     "It raised prices on all of its medicines",
+     "Cost cuts increased reported revenue",
+     "Growth in newer and acquired products, up 32%, offset steep falls in Paxlovid and Comirnaty",
+     "COVID vaccine sales rebounded sharply"
+    ],
+    "prompt": "Pfizer's revenue was flat at $16.6B, yet it raised its 2026 outlook. What explains this?",
+    "sector": "healthcare",
+    "storyId": "2026-11-03-04",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 1,
+    "explanation": "An ISM reading above 50 signals expansion, and October was the tenth straight month above it. The tempting error is to read it as a percentage; it is a survey-based diffusion index.",
+    "id": "2026-11-03:q05",
+    "kind": "today",
+    "options": [
+     "Factory activity is shrinking",
+     "Factory activity is expanding",
+     "Factory prices are rising by more than 50%",
+     "Half of factories are laying off workers"
+    ],
+    "prompt": "The ISM manufacturing index read 55.5 in October. What does a reading above 50 indicate?",
+    "sector": "macro",
+    "storyId": "2026-11-03-05",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "Exchanges hold customer assets, so doubt about withdrawals can trigger a run. Binance reported covering about 95% of the stolen assets and net withdrawals of $3.6B, about 2% of holdings, suggests most customers stayed.",
+    "id": "2026-11-03:q06",
+    "kind": "today",
+    "options": [
+     "Customers' confidence that they can withdraw in full is what prevents a run on the exchange",
+     "It lets the exchange avoid paying taxes",
+     "It makes the stolen coins instantly recoverable",
+     "It guarantees crypto prices stay stable"
+    ],
+    "prompt": "Binance said it will cover customer losses from a $6.3B theft. Why does that promise matter so much for an exchange?",
+    "sector": "financial-services",
+    "storyId": "2026-11-03-06",
+    "subindustry": "payments-fintech"
+   },
+   {
+    "answer": 2,
+    "explanation": "A 53% rise in volume outweighed the 15% drop in realized price, giving 39% growth. One-time items were only about $900M of $24.4B, so they were not the main driver.",
+    "id": "2026-10-29:q05",
+    "kind": "review",
+    "options": [
+     "Prices rose in other regions",
+     "Lilly stopped paying rebates",
+     "Volume grew 53%, more than offsetting lower prices",
+     "One-time items made up most of the growth"
+    ],
+    "prompt": "Lilly's revenue grew 39% while realized prices fell 15%. What made that possible?",
+    "sector": "healthcare",
+    "storyId": "2026-10-29-05",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 3,
+    "explanation": "Starbucks deconsolidated China after the joint venture deal, where it keeps a 40% stake and now books equity income rather than store sales. Transactions rose 1.8% and average ticket 5.2%, and only about 250 North American stores closed.",
+    "id": "2026-10-30:q06",
+    "kind": "review",
+    "options": [
+     "It closed most of its US stores",
+     "Customers bought fewer drinks but paid far more",
+     "A sales-tax change reduced reported revenue",
+     "It moved China retail into a licensed joint venture, so those sales left its revenue"
+    ],
+    "prompt": "Starbucks' revenue fell 4% to $9.1B even though global same-store sales rose 7.2%. What explains the gap?",
+    "sector": "consumer-retail",
+    "storyId": "2026-10-30-07",
+    "subindustry": "travel-hospitality"
+   },
+   {
+    "answer": 2,
+    "explanation": "Profit looks 32% higher partly because Q3 2025 included $1.4B of legal provisions that did not recur. Excluding such items the gain is about 10%, the better guide to underlying trends. Credit losses actually fell 17% to $0.8B.",
+    "id": "2026-10-28:q06",
+    "kind": "review",
+    "options": [
+     "Loan losses rose sharply",
+     "HSBC sold its Asian business",
+     "A $1.4B legal provision in the year-ago quarter was not repeated",
+     "Interest rates were cut"
+    ],
+    "prompt": "HSBC's Q3 pre-tax profit rose 32% to $9.6B, but excluding notable items it rose only about $0.9B to $10.0B. What explains the difference?",
+    "sector": "financial-services",
+    "storyId": "2026-10-28-06",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 2,
+    "explanation": "The profile describes platform economics as user growth times engagement times monetization per user. Social ads were about 40% of US internet ad revenue in 2025 and grew about 33%.",
+    "id": "2026-11-03:q10",
+    "kind": "profile",
+    "options": [
+     "Subscription price and refund rate",
+     "Number of stores and rent per store",
+     "Users, time spent per user and ad revenue earned per user",
+     "Cost of content licensing and tax rate"
+    ],
+    "prompt": "A free social-media platform earns its money from ads. Which combination mainly determines its revenue?",
+    "sector": "tmt",
+    "storyId": null,
+    "subindustry": "internet-platforms"
+   }
+  ]
  }
 }

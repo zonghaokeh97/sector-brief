@@ -34,6 +34,23 @@
    "ticker": "NYSE: ADT (being taken private by Thrive Holdings)",
    "updated": "2026-11-01"
   },
+  "affle": {
+   "businessModel": "Runs a mobile advertising platform that uses consumer-behavior data to place app-install and engagement ads, charging advertisers per result.",
+   "competitors": [
+    "AppLovin",
+    "Unity",
+    "InMobi",
+    "Moloco",
+    "Digital Turbine"
+   ],
+   "hq": "India",
+   "name": "Affle 3i",
+   "sector": "tmt",
+   "size": "Mid-sized mobile ad-tech group (size not confirmed)",
+   "subindustry": "internet-platforms",
+   "ticker": "Listed in India (Affle India)",
+   "updated": "2026-11-03"
+  },
   "agile-defense": {
    "businessModel": "Provides cybersecurity, data analytics and AI services to defense and national-security agencies, billed under government contracts.",
    "competitors": [
@@ -85,6 +102,23 @@
    "ticker": "NASDAQ: AMZN",
    "updated": "2026-10-20"
   },
+  "amd": {
+   "businessModel": "Designs processors and AI accelerator chips that TSMC manufactures, selling them for PCs, servers, data centers and embedded devices.",
+   "competitors": [
+    "Nvidia",
+    "Intel",
+    "Broadcom",
+    "Qualcomm",
+    "Marvell Technology"
+   ],
+   "hq": "Santa Clara, CA",
+   "name": "Advanced Micro Devices (AMD)",
+   "sector": "tmt",
+   "size": "Revenue about $25.8B (2024, approx.)",
+   "subindustry": "semiconductors",
+   "ticker": "Nasdaq: AMD",
+   "updated": "2026-11-03"
+  },
   "american-airlines": {
    "businessModel": "Sells passenger tickets across a large hub network and earns extra from its loyalty program and credit card partnerships.",
    "competitors": [
@@ -135,6 +169,23 @@
    "subindustry": "software-cloud",
    "ticker": "Private (filed for Nasdaq IPO as ANT)",
    "updated": "2026-10-27"
+  },
+  "apple": {
+   "businessModel": "Sells iPhone, Mac, iPad and wearables and earns recurring Services revenue from the App Store, iCloud, advertising and payments on its installed base.",
+   "competitors": [
+    "Samsung Electronics",
+    "Alphabet (Google)",
+    "Microsoft",
+    "Xiaomi",
+    "Huawei"
+   ],
+   "hq": "Cupertino, CA",
+   "name": "Apple",
+   "sector": "tmt",
+   "size": "Revenue $114.5B in the Sept 2026 quarter",
+   "subindustry": "internet-platforms",
+   "ticker": "Nasdaq: AAPL",
+   "updated": "2026-11-03"
   },
   "applied-materials": {
    "businessModel": "Sells chipmaking equipment and services to foundries and memory makers, with recurring service revenue on installed tools.",
@@ -217,6 +268,23 @@
    "subindustry": "semiconductors",
    "ticker": "Euronext Amsterdam: BESI",
    "updated": "2026-10-27"
+  },
+  "binance": {
+   "businessModel": "Runs a cryptocurrency exchange that earns trading fees, plus fees on derivatives, staking and other services, holding customer assets in custody.",
+   "competitors": [
+    "Coinbase",
+    "OKX",
+    "Bybit",
+    "Kraken",
+    "Bitget"
+   ],
+   "hq": "No single headquarters (global)",
+   "name": "Binance",
+   "sector": "financial-services",
+   "size": "Large crypto exchange; hack of about $6.3B reported Oct 2026",
+   "subindustry": "payments-fintech",
+   "ticker": "Private",
+   "updated": "2026-11-03"
   },
   "bloom-energy": {
    "businessModel": "Manufactures solid-oxide fuel cell systems that generate electricity on site from natural gas or hydrogen, mainly for data centers and large commercial customers.",
@@ -656,6 +724,23 @@
    "ticker": "NYSE: EQT",
    "updated": "2026-10-26"
   },
+  "evgo": {
+   "businessModel": "Builds and runs public DC fast-charging stations and earns per-kilowatt-hour charging fees, subscriptions and partner payments.",
+   "competitors": [
+    "Tesla Supercharger",
+    "ChargePoint",
+    "Electrify America",
+    "Blink Charging",
+    "Ionna"
+   ],
+   "hq": "Los Angeles, CA",
+   "name": "EVgo",
+   "sector": "advanced-industries",
+   "size": "Small cap; closed at $1.85 on Nov 2, 2026",
+   "subindustry": "automotive-mobility",
+   "ticker": "Nasdaq: EVGO",
+   "updated": "2026-11-03"
+  },
   "exxonmobil": {
    "businessModel": "An integrated oil company that produces oil and gas, refines it into fuels and chemicals, and earns across the chain, with upstream profits tied to crude prices and refining profits to margins.",
    "competitors": [
@@ -877,6 +962,22 @@
    "ticker": "NYSE: IBM",
    "updated": "2026-10-22"
   },
+  "idexx": {
+   "businessModel": "Places diagnostic analyzers in veterinary clinics and earns recurring revenue from test consumables, reference-lab services and software.",
+   "competitors": [
+    "Zoetis",
+    "Mars (Antech Diagnostics)",
+    "Fujifilm",
+    "Heska (now part of Mars)"
+   ],
+   "hq": "Westbrook, ME",
+   "name": "IDEXX Laboratories",
+   "sector": "healthcare",
+   "size": "Revenue $1.214B in Q3 2026",
+   "subindustry": "medtech",
+   "ticker": "Nasdaq: IDXX",
+   "updated": "2026-11-03"
+  },
   "innio": {
    "businessModel": "Builds natural gas and hydrogen-ready engines and power systems, selling equipment and then earning long-term service and parts revenue on the installed fleet.",
    "competitors": [
@@ -1063,6 +1164,23 @@
    "subindustry": "semiconductors",
    "ticker": "NASDAQ: LITE",
    "updated": "2026-11-02"
+  },
+  "marathon-petroleum": {
+   "businessModel": "Refines crude oil into gasoline, diesel and jet fuel and sells it through wholesale and branded retail, and owns a majority of pipeline operator MPLX.",
+   "competitors": [
+    "Valero",
+    "Phillips 66",
+    "ExxonMobil",
+    "Chevron",
+    "HF Sinclair"
+   ],
+   "hq": "Findlay, OH",
+   "name": "Marathon Petroleum",
+   "sector": "energy-materials",
+   "size": "Adjusted EBITDA $11.7B in Q3 2026",
+   "subindustry": "refining-chemicals",
+   "ticker": "NYSE: MPC",
+   "updated": "2026-11-03"
   },
   "markel-group": {
    "businessModel": "Underwrites specialty insurance and reinsurance, invests the premiums, and owns a group of non-insurance businesses.",
@@ -1388,6 +1506,75 @@
    "subindustry": "oil-gas-upstream",
    "ticker": "NYSE: OVV",
    "updated": "2026-10-28"
+  },
+  "palantir": {
+   "businessModel": "Sells data-analysis and AI software platforms to governments and companies on contracts that expand as customers use more of them.",
+   "competitors": [
+    "Snowflake",
+    "Databricks",
+    "Microsoft",
+    "ServiceNow",
+    "C3.ai"
+   ],
+   "hq": "Denver, CO",
+   "name": "Palantir Technologies",
+   "sector": "tmt",
+   "size": "Revenue $2.313B in Q3 2026; 2026 forecast about $8.53B",
+   "subindustry": "software-cloud",
+   "ticker": "Nasdaq: PLTR",
+   "updated": "2026-11-03"
+  },
+  "perion": {
+   "businessModel": "Sells AI-driven advertising technology that lets brands buy media across connected TV, out-of-home, retail media and social channels, and earns a share of the ad spend it places.",
+   "competitors": [
+    "The Trade Desk",
+    "Criteo",
+    "Magnite",
+    "PubMatic",
+    "Viant"
+   ],
+   "hq": "Holon, Israel",
+   "name": "Perion Network",
+   "sector": "tmt",
+   "size": "Equity value about $420M under the Affle deal",
+   "subindustry": "internet-platforms",
+   "ticker": "Nasdaq: PERI",
+   "updated": "2026-11-03"
+  },
+  "pfizer": {
+   "businessModel": "Develops and sells prescription medicines and vaccines, earning most of its profit from patent-protected products in oncology, cardiology and vaccines.",
+   "competitors": [
+    "Merck & Co.",
+    "Johnson & Johnson",
+    "AstraZeneca",
+    "Bristol Myers Squibb",
+    "Eli Lilly",
+    "Novartis"
+   ],
+   "hq": "New York, NY",
+   "name": "Pfizer",
+   "sector": "healthcare",
+   "size": "2026 revenue guidance $62-64B",
+   "subindustry": "pharma-biotech",
+   "ticker": "NYSE: PFE",
+   "updated": "2026-11-03"
+  },
+  "poundland": {
+   "businessModel": "Sells low-priced household goods, food and seasonal items through a UK discount-store chain, earning thin margins on high volume.",
+   "competitors": [
+    "B&M",
+    "Home Bargains",
+    "Poundstretcher",
+    "Aldi",
+    "The Range"
+   ],
+   "hq": "Walsall, England",
+   "name": "Poundland",
+   "sector": "consumer-retail",
+   "size": "About 600 UK stores; more than 12,000 jobs (Oct 2026)",
+   "subindustry": "retail-ecommerce",
+   "ticker": "Private (Gordon Brothers)",
+   "updated": "2026-11-03"
   },
   "procter-gamble": {
    "businessModel": "Makes and sells branded household and personal-care products (Tide, Pampers, Gillette, Oral-B, Olay) through retailers worldwide. Profit comes from brand strength, scale in manufacturing and advertising, and regular price increases.",
@@ -2001,6 +2188,23 @@
    "subindustry": "transport-logistics",
    "ticker": "NYSE: UNP",
    "updated": "2026-10-23"
+  },
+  "united-airlines": {
+   "businessModel": "Sells passenger tickets, with premium cabins, international routes and its loyalty program providing a large share of profit.",
+   "competitors": [
+    "Delta Air Lines",
+    "American Airlines",
+    "Southwest Airlines",
+    "Alaska Airlines",
+    "JetBlue"
+   ],
+   "hq": "Chicago, IL",
+   "name": "United Airlines",
+   "sector": "consumer-retail",
+   "size": "Revenue about $57B (2024, approx.)",
+   "subindustry": "travel-hospitality",
+   "ticker": "Nasdaq: UAL",
+   "updated": "2026-11-03"
   },
   "ups": {
    "businessModel": "Charges per package and for supply chain services, running a network of planes, trucks and sorting hubs.",
@@ -3040,6 +3244,29 @@
    ]
   },
   "internet-platforms": {
+   "economicsOn": "segments",
+   "keyFigures": [
+    {
+     "label": "US internet ad revenue",
+     "note": "+13.9% in 2025, a record · IAB/PwC",
+     "value": "~$295B"
+    },
+    {
+     "label": "US social media ad revenue",
+     "note": "+~33% in 2025, about 40% of the US total · IAB/PwC",
+     "value": "~$118B"
+    },
+    {
+     "label": "Big three share of ad spend",
+     "note": "Alphabet, Amazon and Meta, outside China, 2025 · WARC",
+     "value": "~56%"
+    },
+    {
+     "label": "Global ad spend",
+     "note": "2025 forecast · WARC",
+     "value": "~$1.17T"
+    }
+   ],
    "kpis": [
     "DAU/MAU and time spent",
     "ARPU (average revenue per user)",
@@ -3053,15 +3280,63 @@
     "usNote": "US internet advertising revenue (IAB, 2024)"
    },
    "operatingModel": "Platforms attract users for free and earn from ads (priced per impression or click) or from paid tiers. Network effects make the leader stronger as it grows. Key economics: user growth × engagement × monetization per user.",
-   "overview": "Consumer internet businesses that monetize users through ads, subscriptions or transaction fees: search, social, marketplaces, streaming apps and dating.",
+   "overview": "Internet platforms are consumer digital services such as search, social networks, video, marketplaces and apps that attract large audiences and then earn money from advertising, subscriptions or transaction fees. A few giants, mainly Google, Meta and Amazon, collect most of the advertising money, while smaller platforms compete on niches or paid tiers. The economics rest on network effects, since each extra user makes the service more valuable to other users and to advertisers. The big shifts are AI-driven search and assistants, the rise of retail media and short video, and antitrust pressure.",
    "players": [
     "Google (search, YouTube), Meta (Facebook, Instagram, WhatsApp), Amazon (retail ads), ByteDance (TikTok)",
     "Marketplaces: Amazon, Uber, Airbnb, DoorDash",
     "Dating: Match Group (Tinder, Hinge) leads; Bumble and Grindr follow",
     "Structure: winner-take-most from network effects"
    ],
-   "profileUpdated": "2026-10-19",
+   "profileUpdated": "2026-11-03",
    "sector": "tmt",
+   "segments": {
+    "items": [
+     {
+      "cost": "data centers and AI compute, content moderation and creator payouts",
+      "growth": "fast",
+      "leaders": "Meta · TikTok · Snap",
+      "name": "Social media",
+      "revenue": "ad auctions priced per impression or click",
+      "share": "~40%",
+      "sharePct": 40,
+      "takeaway": {
+       "label": "Fastest growing",
+       "why": "Social ad revenue rose about 33% in 2025, faster than any other large format."
+      },
+      "what": "Feed and video ads shown inside social apps."
+     },
+     {
+      "cost": "traffic-acquisition payments to browser and phone partners, and computing",
+      "growth": "steady",
+      "highlight": true,
+      "leaders": "Google · Microsoft Bing · Amazon",
+      "name": "Search",
+      "revenue": "pay-per-click ads sold in auctions",
+      "share": "~39%",
+      "sharePct": 39,
+      "takeaway": {
+       "label": "High-intent pool",
+       "why": "Searchers show what they want to buy, so advertisers pay more per click than in most formats."
+      },
+      "what": "Ads shown beside results when people search for something."
+     },
+     {
+      "cost": "content rights and ad-serving technology",
+      "leaders": "Google (YouTube) · Amazon · Disney",
+      "name": "Display, video and other",
+      "revenue": "video and banner ad sales plus retail media placements",
+      "share": "~21%",
+      "sharePct": 21,
+      "takeaway": {
+       "label": "Mixed picture",
+       "why": "Fast-growing video and retail media sit alongside slower banner advertising."
+      },
+      "what": "Video, banner, audio and retail media ads outside search and social."
+     }
+    ],
+    "title": "Share of US internet advertising revenue, by format (2025)"
+   },
+   "summary": "Internet platforms are consumer digital services such as search, social networks, video, marketplaces and apps that attract large audiences and then earn money from advertising, subscriptions or transaction fees. A few giants, mainly Google, Meta and Amazon, collect most of the advertising money, while smaller platforms compete on niches or paid tiers. The economics rest on network effects, since each extra user makes the service more valuable to other users and to advertisers. The big shifts are AI-driven search and assistants, the rise of retail media and short video, and antitrust pressure.",
    "threats": [
     "Antitrust and privacy regulation",
     "Platform dependence on Apple/Google app stores",
@@ -3074,6 +3349,59 @@
     "Retail media (ads on Amazon, Walmart) is the fastest-growing ad channel",
     "Subscription fatigue is hitting dating and other app categories",
     "Regulators are pursuing antitrust cases against the largest platforms"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "Retail media, meaning ads sold on Amazon and Walmart, is the fastest-growing ad channel."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Short-form video dominates time spent on TikTok, Reels and Shorts, pulling more advertising with it."
+    },
+    {
+     "kind": "headwind",
+     "text": "AI search and assistants threaten traditional search ad formats."
+    },
+    {
+     "kind": "headwind",
+     "text": "Regulators are pursuing antitrust cases against the largest platforms."
+    },
+    {
+     "kind": "headwind",
+     "text": "Subscription fatigue is hurting dating and other app categories."
+    },
+    {
+     "kind": "headwind",
+     "text": "Platforms depend on Apple and Google app stores to reach users."
+    }
+   ],
+   "valueChain": [
+    {
+     "name": "Creators and sellers",
+     "players": "YouTube creators · Amazon sellers · app developers",
+     "what": "Creators, merchants and developers supply the videos, posts, listings and apps that draw audiences."
+    },
+    {
+     "name": "Platform and audience",
+     "players": "Google · Meta · TikTok",
+     "what": "Free products gather users and the behavior data that makes ads targetable."
+    },
+    {
+     "name": "Ad tools and measurement",
+     "players": "Google Ads · Meta Advantage+ · The Trade Desk",
+     "what": "Auctions, targeting systems and measurement software match ads to people and prove results."
+    },
+    {
+     "name": "Advertisers and agencies",
+     "players": "Large consumer brands · WPP · Publicis",
+     "what": "Brands and small businesses buy audiences by the impression, click or sale."
+    },
+    {
+     "name": "Paying users",
+     "players": "Match Group · Bumble · Reddit",
+     "what": "Some apps charge users directly through subscriptions or transaction fees instead of, or on top of, ads."
+    }
    ]
   },
   "macro": {
@@ -3994,6 +4322,29 @@
    ]
   },
   "payments-fintech": {
+   "economicsOn": "valueChain",
+   "keyFigures": [
+    {
+     "label": "Global payments revenue",
+     "note": "2024 · McKinsey Global Payments Report 2025",
+     "value": "~$2.5T"
+    },
+    {
+     "label": "Revenue growth",
+     "note": "2024, down from about 12% in 2023 · McKinsey",
+     "value": "~4%"
+    },
+    {
+     "label": "North America revenue",
+     "note": "Approx., 2025 · Payments Dive citing McKinsey",
+     "value": "~$0.7T"
+    },
+    {
+     "label": "US Visa and Mastercard purchase volume",
+     "note": "2025 · Nilson Report",
+     "value": "~$10T"
+    }
+   ],
    "kpis": [
     "Payment volume (TPV)",
     "Take rate (revenue as % of volume)",
@@ -4007,15 +4358,42 @@
     "usNote": "US payments revenue (est., 2024)"
    },
    "operatingModel": "Networks earn small per-transaction fees on huge volumes plus higher cross-border fees, with very high margins and no credit risk. Processors earn a percentage of each transaction (often 2-3% total cost to merchants, most of which is interchange paid to card-issuing banks).",
-   "overview": "Payments and fintech covers the networks, processors and apps that move money between people and businesses. Card networks like Visa and Mastercard connect the banks that issue cards to the banks that serve merchants, while processors and fintechs provide the software that lets merchants accept payments. Newer rails such as real-time bank payments and stablecoins compete with cards, especially across borders.",
+   "overview": "Payments and fintech covers the networks, processors and apps that move money between people and businesses. Card networks such as Visa and Mastercard connect the banks that issue cards to merchants' banks and take a small fee on each transaction, while processors and fintechs sell the software merchants use to accept payments. Revenue is concentrated in Asia-Pacific and North America, and growth has slowed to about 4% a year. Real-time bank transfers and stablecoins are starting to compete with cards, especially across borders.",
    "players": [
     "Card networks: Visa and Mastercard (a duopoly outside China), plus American Express and UnionPay",
     "Merchant processors: Stripe, Adyen, Fiserv, PayPal, Block",
     "Stablecoin issuers: Tether, Circle",
     "Structure: network effects create very concentrated networks with fragmented processors"
    ],
-   "profileUpdated": "2026-10-20",
+   "profileUpdated": "2026-11-03",
    "sector": "financial-services",
+   "segments": {
+    "items": [
+     {
+      "leaders": "Alipay · WeChat Pay · UPI",
+      "name": "Asia-Pacific",
+      "share": "~40%",
+      "sharePct": 40,
+      "what": "The largest region, driven by mobile wallets and real-time payment systems."
+     },
+     {
+      "leaders": "Visa · Mastercard · JPMorgan",
+      "name": "North America",
+      "share": "~28%",
+      "sharePct": 28,
+      "what": "A card-heavy market with high revenue per transaction."
+     },
+     {
+      "leaders": "Adyen · Pix · M-Pesa",
+      "name": "Europe, Latin America, Middle East and Africa",
+      "share": "~32%",
+      "sharePct": 32,
+      "what": "A mix of mature card markets and fast-growing mobile and instant-payment systems."
+     }
+    ],
+    "title": "Share of global payments revenue, by region (approx., 2024-25)"
+   },
+   "summary": "Payments and fintech covers the networks, processors and apps that move money between people and businesses. Card networks such as Visa and Mastercard connect the banks that issue cards to merchants' banks and take a small fee on each transaction, while processors and fintechs sell the software merchants use to accept payments. Revenue is concentrated in Asia-Pacific and North America, and growth has slowed to about 4% a year. Real-time bank transfers and stablecoins are starting to compete with cards, especially across borders.",
    "threats": [
     "Real-time payments and stablecoins bypassing cards",
     "Interchange fee caps",
@@ -4028,6 +4406,89 @@
     "Embedded finance: non-banks offering payments and lending inside their apps",
     "Regulators pressure interchange fees",
     "Consolidation among merchant processors"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "Stablecoin payments are growing fast, and card networks are building them into their own rails."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Embedded finance lets non-banks offer payments and lending inside their apps."
+    },
+    {
+     "kind": "headwind",
+     "text": "Real-time payment systems such as Pix, UPI and FedNow compete directly with cards."
+    },
+    {
+     "kind": "headwind",
+     "text": "Regulators pressure interchange fees, which cuts into issuer and network revenue."
+    },
+    {
+     "kind": "headwind",
+     "text": "Crypto custody risk is real: a reported $6.3B theft from Binance in October 2026 shows how large single failures can be."
+    },
+    {
+     "kind": "headwind",
+     "text": "Revenue growth has slowed to about 4% a year from 12% in 2023."
+    }
+   ],
+   "valueChain": [
+    {
+     "cost": "credit losses, rewards and fraud",
+     "name": "Issuing bank",
+     "players": "JPMorgan Chase · Bank of America · Capital One",
+     "revenue": "interchange, which is most of the 2-3% merchants pay, and card interest",
+     "takeaway": {
+      "label": "Keeps most of the fee",
+      "why": "Issuers capture most of the merchant fee and interest but also carry the bad-loan losses."
+     },
+     "what": "Issues the card, holds the customer's account and takes the credit risk."
+    },
+    {
+     "cost": "technology, marketing and incentives paid to issuers",
+     "name": "Card network",
+     "players": "Visa · Mastercard · UnionPay",
+     "revenue": "small per-transaction fees on huge volumes, plus cross-border fees",
+     "takeaway": {
+      "label": "High margin, no credit risk",
+      "why": "Networks earn on volume without lending, so loan losses fall on the banks."
+     },
+     "what": "Routes authorization and settlement between banks and sets the rules of the system."
+    },
+    {
+     "cost": "network and interchange fees passed through, fraud losses and engineering",
+     "name": "Acquirer and processor",
+     "players": "Stripe · Adyen · Fiserv",
+     "revenue": "a markup of a few tenths of a point plus per-transaction fees",
+     "takeaway": {
+      "label": "Thin margins",
+      "why": "Most of what the merchant pays flows on to issuers and networks, leaving processors a small slice."
+     },
+     "what": "Connects the merchant to the network and supplies checkout software."
+    },
+    {
+     "cost": "payment acceptance fees of about 2-3% of sales, plus chargebacks",
+     "name": "Merchant",
+     "players": "Amazon · Walmart · Shopify merchants",
+     "revenue": "sales of goods and services",
+     "takeaway": {
+      "label": "Pays the fee",
+      "why": "Merchants bear the cost, which is why interchange caps and surcharges are a recurring policy fight."
+     },
+     "what": "Sells the goods and pays the fee on each card sale."
+    },
+    {
+     "cost": "network buildout, compliance and security",
+     "name": "Alternative rails",
+     "players": "Pix · UPI · FedNow · Circle",
+     "revenue": "tiny per-transfer fees, or interest earned on the reserves behind stablecoins",
+     "takeaway": {
+      "label": "Rising challenger",
+      "why": "Account-to-account rails and stablecoins avoid card fees, especially on cross-border payments."
+     },
+     "what": "Real-time bank transfers and stablecoins move money without cards."
+    }
    ]
   },
   "pharma-biotech": {
