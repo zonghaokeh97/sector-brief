@@ -699,5 +699,367 @@
   "subindustry": "retail-ecommerce",
   "summary": "Poundland filed a notice of intention to appoint administrators on October 29, with AlixPartners lined up for the role. The filing gives about ten working days of protection from creditors while the owner seeks a rescue, and stores remain open. Reports put about 12,000 jobs and roughly 600 UK stores at risk. Owner Gordon Brothers began a sale process in early September, and an earlier rescue bid from Martin Property Group was reportedly rejected. CDS Superstores, Fortress and Modella are reportedly interested in parts of the business. UK retailers also face about £250 million of higher business rates and £2 billion of higher employment costs, according to the British Retail Consortium.",
   "tags": []
+ },
+ "2026-11-04-01": {
+  "companies": [],
+  "date": "2026-11-04",
+  "headline": "The 10-year Treasury yield climbs to 4.96% as two Fed presidents say rates may need to rise",
+  "numbers": [
+   "10-year yield: 4.96%",
+   "30-year yield: 5.332%",
+   "2-year yield: 4.623%",
+   "S&P 500: +0.36%"
+  ],
+  "order": 1,
+  "sector": "macro",
+  "soWhat": "The 10-year yield sets the baseline for mortgages, auto loans and corporate bonds, so a yield near 5% means borrowing stays expensive for households and companies alike. Sectors that rely on cheap debt, such as housing, utilities and leveraged buyouts, feel it most, while banks and savers earning more on cash gain. The open question is whether Friday's jobs data pushes the Fed toward a hike or lets inflation pressure ease.",
+  "sources": [
+   {
+    "title": "CNBC: Treasury yields rise as investors weigh midterm vote, jobs data and Iran tensions",
+    "url": "https://cnbc.com/2026/11/03/us-treasury-yields-bonds.html"
+   },
+   {
+    "title": "Stock Titan: stock market today, November 3, 2026",
+    "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "The benchmark 10-year Treasury yield rose more than 6 basis points to 4.96% on Election Day, while the 30-year reached 5.332% and the 2-year 4.623%. Two Federal Reserve presidents said interest rates may need to go up to curb inflation. September job openings came in better than expected, and the October jobs report is due Friday. Stocks were mixed, with the S&P 500 up 0.36% and the Dow down 0.38%.",
+  "tags": []
+ },
+ "2026-11-04-02": {
+  "companies": [],
+  "date": "2026-11-04",
+  "headline": "Brent settles near $103.60 after a 7% one-day drop on reports Iran has cleared the way for peace talks",
+  "numbers": [
+   "Brent settle: $103.60/bbl",
+   "WTI settle: $96.09/bbl",
+   "Monday drop: more than 7%",
+   "October peak: above $110"
+  ],
+  "order": 2,
+  "sector": "energy-materials",
+  "soWhat": "Oil still carries a large war premium, so headlines about talks move prices by several dollars in a day. Producers and shippers gain from high prices, while airlines, refiners buying crude and consumers pay more, so a deal that reopens Hormuz would shift profits quickly. The open question is whether talks produce a real reopening, since no deal has been reached and the US has threatened to resume strikes after the midterm elections.",
+  "sources": [
+   {
+    "title": "CNBC: Treasury yields rise as investors weigh midterm vote, jobs data and Iran tensions",
+    "url": "https://cnbc.com/2026/11/03/us-treasury-yields-bonds.html"
+   },
+   {
+    "title": "Rigzone: Oil plunges as Iran opens door to talks",
+    "url": "https://www.rigzone.com/news/wire/oil_plunges_as_iran_opens_door_to_talks-02-nov-2026-184990-article/"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Brent crude fell more than 7% on Monday after Bloomberg reported that Iran's Supreme Leader authorized the government to hold peace talks with the United States. It edged down another 1.12% on Tuesday to settle at $103.60 a barrel, while US crude finished at $96.09. Prices wobbled after US strikes on Iran's Qeshm Island raised fears of escalation, then eased again on diplomacy hopes. Iran says it will ease energy shipping through the Strait of Hormuz only after the United States lifts its economic blockade, and Brent had traded above $110 in October.",
+  "tags": []
+ },
+ "2026-11-04-03": {
+  "companies": [
+   "amd"
+  ],
+  "date": "2026-11-04",
+  "headline": "AMD posts record $13.4 billion revenue as data center sales nearly double and guides next quarter to about $17 billion",
+  "numbers": [
+   "Revenue: $13.4B (+45%)",
+   "Data center: $8.5B (+97%)",
+   "Q4 guide: ~$17B",
+   "Non-GAAP gross margin: 56%"
+  ],
+  "order": 3,
+  "sector": "tmt",
+  "soWhat": "Data center products now make up about 63% of AMD's revenue, so the company's results track AI infrastructure spending more than the PC cycle. Selling whole rack systems rather than single chips lets AMD capture more of each customer's budget, but it also raises the bar on execution against Nvidia. The open question is whether the sharp ramp in the fourth quarter arrives on schedule.",
+  "sources": [
+   {
+    "title": "AMD 8-K: third quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000188/q32026991.htm"
+   },
+   {
+    "title": "Stock Titan: stock market today, November 3, 2026",
+    "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "AMD reported third-quarter revenue of $13.4 billion, up 45%, with data center revenue up 97% to a record $8.5 billion. Gross margin was 56% on a non-GAAP basis and non-GAAP earnings were $2.09 a share. It guided the fourth quarter to about $17 billion, plus or minus 3%, which implies roughly 66% growth from a year earlier. Early Helios rack systems built on its MI450 GPUs are running workloads for Anthropic, Meta, Microsoft, OpenAI and Oracle Cloud Infrastructure. Shares rose about 5% after hours.",
+  "tags": []
+ },
+ "2026-11-04-04": {
+  "companies": [
+   "woodside",
+   "qatarenergy"
+  ],
+  "date": "2026-11-04",
+  "headline": "QatarEnergy signs a 20-year deal to buy up to 3 million tonnes a year of LNG from Woodside's Louisiana project",
+  "numbers": [
+   "Volume: up to 3 Mtpa",
+   "Term: 20 years",
+   "Phase 1 capacity: 16.5 Mtpa",
+   "Project progress: 32% complete"
+  ],
+  "order": 4,
+  "sector": "energy-materials",
+  "soWhat": "Long-term contracts like this are what let developers finance LNG plants that cost billions, because lenders want years of committed buyers before they lend. It is unusual to see Qatar, one of the largest LNG exporters, buying US supply, which suggests it is building a portfolio of sources it can sell into Asia or Europe. US exporters gain another anchor buyer, while the price terms are not disclosed, so it is unclear how much of the margin Woodside keeps.",
+  "sources": [
+   {
+    "title": "Rigzone: Woodside's Louisiana LNG to supply QatarEnergy for 20 years",
+    "url": "https://www.rigzone.com/news/woodsides_louisiana_lng_to_supply_qatarenergy_for_20_years-04-nov-2026-185006-article"
+   }
+  ],
+  "subindustry": "midstream-lng",
+  "summary": "QatarEnergy agreed to buy up to 3 million tonnes a year of LNG for 20 years from Woodside's Louisiana LNG project on the US Gulf Coast. Cargoes are delivered free on board, starting when the second train begins operating, and QatarEnergy expects the first ones in 2030. Phase 1 has three trains with 16.5 million tonnes a year of capacity, and Woodside says the project is 32% complete with first production planned for 2029. The company now expects capex of $9.9 billion, down from $11.8 billion at the investment decision. Uniper and Williams are also buying volumes.",
+  "tags": []
+ },
+ "2026-11-04-05": {
+  "companies": [
+   "fiserv"
+  ],
+  "date": "2026-11-04",
+  "headline": "Fiserv books a $6.45 billion goodwill write-down but doubles its cost-savings target to $1 billion and restarts buybacks",
+  "numbers": [
+   "Goodwill impairment: $6.45B",
+   "Adjusted EPS: $1.75",
+   "Savings target: $1B (from $500M)",
+   "Merchant margin: 28.7% (from 37.2%)"
+  ],
+  "order": 5,
+  "sector": "financial-services",
+  "soWhat": "A goodwill write-down says the acquisitions made in the past are now worth less than their book value, but it does not change cash flow, so investors focused on the cost cuts and buyback instead. The shrinking merchant margin is the real concern, because it shows pricing and competition pressure in card processing. The open question is whether cost savings can offset that margin decline.",
+  "sources": [
+   {
+    "title": "Fiserv 8-K: Q3 2026 earnings release",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000798354/000079835426000039/fisvq326earningsrelease.htm"
+   },
+   {
+    "title": "Stock Titan: stock market today, November 3, 2026",
+    "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
+   }
+  ],
+  "subindustry": "payments-fintech",
+  "summary": "Fiserv recorded a non-cash goodwill impairment of $6.45 billion in the third quarter, triggered by a sustained fall in its share price, which produced a GAAP loss of $11.17 a share. Adjusted earnings were $1.75 a share, down from $2.04, and revenue of $5.20 billion fell 1%. Merchant Solutions revenue was $2.52 billion and its operating margin dropped to 28.7% from 37.2%. The company doubled its Project Elevate savings target to $1 billion, kept its 2026 adjusted EPS outlook of $7.20 to $7.40 and plans a $500 million buyback in the fourth quarter. Shares rose about 12% on the day.",
+  "tags": []
+ },
+ "2026-11-04-06": {
+  "companies": [
+   "organigram",
+   "aurora-cannabis"
+  ],
+  "date": "2026-11-04",
+  "headline": "Organigram agrees to buy Aurora Cannabis for about C$561 million, topping Curaleaf's hostile bid",
+  "numbers": [
+   "Offer: C$7.80 per share",
+   "Equity value: ~C$561M",
+   "Premium: 93% to unaffected price",
+   "Synergies: more than C$50M"
+  ],
+  "order": 6,
+  "sector": "consumer-retail",
+  "soWhat": "Cannabis producers are consolidating because many sell at low prices into crowded markets and need scale in purchasing, production and distribution. The strongest part of this deal is the export angle, since EU-GMP facilities can supply regulated medical markets in Europe and Australia, where prices are higher. The open question is whether Curaleaf raises its bid again before the votes in December.",
+  "sources": [
+   {
+    "title": "Aurora Cannabis Form 6-K: Organigram arrangement agreement",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001683541/000110465926121740/tm2628773d2_ex99-1.htm"
+   }
+  ],
+  "subindustry": "cpg",
+  "summary": "Organigram Global agreed to acquire Aurora Cannabis for C$7.80 a share, valuing Aurora at about C$561 million. Shareholders can take cash, Organigram shares or a mix, and the price is a 93% premium to Aurora's price before Curaleaf's hostile bid and 21% above that bid's implied value. The companies cite synergies above C$50 million and five EU-GMP certified facilities, and British American Tobacco, Organigram's largest shareholder, will buy about C$187.5 million of new shares to fund the cash. Closing is expected in January 2027 after shareholder, court and German foreign investment approvals.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-04-07": {
+  "companies": [
+   "shopify"
+  ],
+  "date": "2026-11-04",
+  "headline": "Shopify revenue jumps 32% to $3.74 billion and free cash flow reaches 22% of sales, but shares fall about 9%",
+  "numbers": [
+   "Revenue: $3.74B (+32%)",
+   "GMV: $119.1B (+29%)",
+   "Operating income: $568M (+66%)",
+   "Free cash flow margin: 22%"
+  ],
+  "order": 7,
+  "sector": "consumer-retail",
+  "soWhat": "Shopify earns far more from payments and shipping services on its merchants' sales than from monthly subscriptions, so its revenue tracks how much its merchants sell. The stock fell on a tiny revenue miss because investors had priced in perfection after five quarters of 30%-plus growth, which shows how high expectations were. The open question is whether fourth-quarter holiday sales hold up with consumers facing high rates.",
+  "sources": [
+   {
+    "title": "Shopify 8-K: Q3 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001594805/000159480526000067/exhibit991pressreleaseq320.htm"
+   },
+   {
+    "title": "Stock Titan: stock market today, November 3, 2026",
+    "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "Shopify reported third-quarter revenue of $3.74 billion, up 32%, and gross merchandise volume of $119.1 billion, up 29%. Merchant solutions revenue grew 35% to $2.91 billion, while subscription solutions grew 20% to $836 million. Operating income rose 66% to $568 million and free cash flow was $816 million, a 22% margin. It guided fourth-quarter revenue growth to a low-thirties rate. The stock fell about 8.7% in the session after revenue came in just below the $3.75 billion analysts expected.",
+  "tags": []
+ },
+ "2026-11-04-08": {
+  "companies": [
+   "skyworks",
+   "qorvo"
+  ],
+  "date": "2026-11-04",
+  "headline": "Skyworks closes its Qorvo combination and guides the December quarter to $1.80 to $1.90 billion; shares fall about 17% after hours",
+  "numbers": [
+   "Q4 revenue: $1.05B",
+   "Combined September-quarter revenue: ~$1.98B",
+   "December guide: $1.80B to $1.90B",
+   "Cost-synergy target: $500M+"
+  ],
+  "order": 8,
+  "sector": "tmt",
+  "soWhat": "The merger combines two suppliers of radio-frequency chips that both depend heavily on a few large phone makers, so the new company is bigger but not much less exposed to smartphone swings. Its better prospects lie in data center networking, automotive and defense, which it expects to exceed 40% of sales. The open question is whether the savings and these new markets can offset slowing Android demand.",
+  "sources": [
+   {
+    "title": "Skyworks 8-K: fiscal Q4 2026 earnings release",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000004127/000000412726000052/q426earningsreleaseformex9.htm"
+   },
+   {
+    "title": "Stock Titan: stock market today, November 3, 2026",
+    "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Skyworks reported fiscal fourth-quarter revenue of $1.05 billion, down from $1.10 billion, with non-GAAP earnings of $1.28 a share. The Qorvo combination closed after the quarter ended, and the combined September-quarter revenue was about $1.98 billion. It guided the December quarter to $1.80 to $1.90 billion and expects smartphone revenue to fall in the low teens percent sequentially. The company targets at least $500 million in annual cost savings within 24 to 36 months, and debt rose to $2.47 billion. Shares fell about 17% after hours.",
+  "tags": []
+ },
+ "2026-11-04-09": {
+  "companies": [
+   "amdocs"
+  ],
+  "date": "2026-11-04",
+  "headline": "Amdocs guides fiscal 2027 revenue down 14% to 18% as its legal dispute with T-Mobile clouds the outlook",
+  "numbers": [
+   "FY2027 revenue guide: -14.3% to -17.9%",
+   "Backlog: $3.50B (from $4.26B)",
+   "EIS purchase: ~$340M",
+   "FY2026 revenue: $4.70B"
+  ],
+  "order": 9,
+  "sector": "tmt",
+  "soWhat": "Amdocs builds billing and customer systems for telecom carriers, and a small number of large customers account for much of its revenue, so one dispute can reshape the whole outlook. The shrinking backlog shows the revenue decline is not only accounting, and the EIS purchase is an attempt to find new revenue in insurance. The open question is how the T-Mobile dispute is resolved in arbitration.",
+  "sources": [
+   {
+    "title": "Amdocs Form 6-K: Q4 and full-year fiscal 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001062579/000119312526445966/d28441dex991.htm"
+   },
+   {
+    "title": "Stock Titan: stock market today, November 3, 2026",
+    "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Amdocs forecast fiscal 2027 reported revenue to fall 14.3% to 17.9%, or 7% to 11% on a pro forma constant-currency basis after exiting hardware resale and divesting its media business, about $360 million of fiscal 2026 revenue. Amdocs and T-Mobile have each sent notices alleging the other breached their agreements, and the guidance allows for either side terminating. Non-GAAP EPS is guided down 26% to 30%. Twelve-month backlog fell to $3.50 billion from $4.26 billion. Amdocs also bought insurance software firm EIS for about $340 million and signed an eight-year agreement with AT&T. Shares fell roughly 45% after hours.",
+  "tags": []
+ },
+ "2026-11-04-10": {
+  "companies": [
+   "neurocrine"
+  ],
+  "date": "2026-11-04",
+  "headline": "Neurocrine's revenue jumps 41% to $1.12 billion as Crenessity sales double and it raises its Ingrezza forecast",
+  "numbers": [
+   "Revenue: $1,122.7M (+41%)",
+   "Ingrezza: $801M (+17%)",
+   "Crenessity: $211M (+115%)",
+   "Ingrezza 2026 forecast: $2.900B to $2.925B"
+  ],
+  "order": 10,
+  "sector": "healthcare",
+  "soWhat": "Neurocrine shows how a drugmaker can reduce dependence on one aging product: Ingrezza still earns most of the revenue, but two newer drugs are growing fast, one bought and one developed in-house. Lower selling costs with higher sales lift profit faster than revenue. The open question is how the company handles Ingrezza's eventual patent expiry and whether its mid-stage pipeline delivers.",
+  "sources": [
+   {
+    "title": "Neurocrine 8-K: Q3 2026 earnings release",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000914475/000091447526000053/q3-2026xearningsrelease.htm"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "Neurocrine Biosciences reported third-quarter revenue of $1,122.7 million, up 41%. Ingrezza, its movement-disorder drug, brought in $801 million, up 17%, while Crenessity sales more than doubled to $211 million. Vykat XR, which came with the Soleno acquisition closed in May, added $107 million. The company raised its 2026 Ingrezza sales forecast to $2.900 to $2.925 billion and lowered its selling and admin expense outlook. It also started an early study of a triple-action obesity drug candidate.",
+  "tags": []
+ },
+ "2026-11-04-11": {
+  "companies": [
+   "ferrari"
+  ],
+  "date": "2026-11-04",
+  "headline": "Ferrari raises its 2026 outlook again to €7.65 billion in revenue even though shipments are slightly lower",
+  "numbers": [
+   "2026 revenue guide: €7.65B",
+   "Adjusted EPS guide: at least €9.85",
+   "Nine-month shipments: 10,170 (-318)",
+   "Order book: into 2028"
+  ],
+  "order": 11,
+  "sector": "advanced-industries",
+  "soWhat": "Ferrari earns more by selling each car for more, through personalization and high-priced special models, than by selling more cars. Limiting volume keeps waiting lists long and prices firm, which is the opposite of mass-market automakers, whose profits swing with sales volume. The open question is whether demand in China and the Americas recovers, since those two regions drove the dip in shipments.",
+  "sources": [
+   {
+    "title": "CNBC: Ferrari raises 2026 guidance after Q3 earnings beat",
+    "url": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "Ferrari reported third-quarter adjusted earnings of €2.44 a share on revenue of about €1.9 billion, both slightly above analyst estimates. It raised its 2026 guidance for the second straight quarter, to revenue of €7.65 billion, adjusted EBITDA of €3 billion and adjusted EPS of at least €9.85. Shipments over nine months were 10,170 cars, 318 fewer than a year earlier, because of fewer sales to the Americas and to China, Hong Kong and Taiwan. The order book now stretches into 2028, and the stock closed up 2.9% at $414.77.",
+  "tags": []
+ },
+ "2026-11-04-12": {
+  "companies": [
+   "stevanato-group"
+  ],
+  "date": "2026-11-04",
+  "headline": "Stevanato says lower GLP-1 volumes will slow its 2027 growth, even as third-quarter revenue rises 8% to €326 million",
+  "numbers": [
+   "Revenue: €326.1M (+8%)",
+   "Adjusted EBITDA margin: 27.2%",
+   "GLP-1 share of revenue: 17% to 18%",
+   "2026 revenue guide: €1.260B to €1.280B"
+  ],
+  "order": 12,
+  "sector": "healthcare",
+  "soWhat": "Suppliers of containers and devices to drugmakers benefit when a hot drug class scales, but they carry the risk that a few large programs set their volumes. A cut in expected GLP-1 volumes hits Stevanato harder than a diversified supplier. The company says growth in other biologics is filling the gap, and the open question is whether that demand can fully replace GLP-1 volumes.",
+  "sources": [
+   {
+    "title": "Stevanato Group Form 6-K: Q3 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001849853/000119312526445320/stvn-ex99_1.htm"
+   },
+   {
+    "title": "Stock Titan: stock market today, November 3, 2026",
+    "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "Stevanato Group, which makes glass vials, syringes and injection devices for drugmakers, reported third-quarter revenue of €326.1 million, up 8%, with adjusted EBITDA margin up 1.5 points to 27.2%. GLP-1 obesity and diabetes drugs were about 17% to 18% of revenue. It kept its 2026 guidance of €1.260 to €1.280 billion in revenue, but said it now expects lower GLP-1 volumes than planned, which will temporarily slow 2027 growth to low single digits. The stock fell about 29% in the session.",
+  "tags": []
+ },
+ "2026-11-04-13": {
+  "companies": [
+   "graphic-packaging"
+  ],
+  "date": "2026-11-04",
+  "headline": "Graphic Packaging's profit falls as input costs cut EBITDA margin to 13.2%, but shares jump about 21% on a steady cash-flow outlook",
+  "numbers": [
+   "Net sales: $2,192M",
+   "Adjusted EBITDA: $289M (from $383M)",
+   "EBITDA margin: 13.2% (from 17.5%)",
+   "Net leverage: 4.8x"
+  ],
+  "order": 13,
+  "sector": "consumer-retail",
+  "soWhat": "Packaging is a pass-through business in which costs for fiber, energy and labor hit margins before price increases catch up, so a single quarter of cost inflation can cut EBITDA sharply. High debt makes this more risky, because lenders watch the leverage ratio. The jump in the shares suggests investors expected worse, and the open question is whether margins recover as promised.",
+  "sources": [
+   {
+    "title": "Graphic Packaging 8-K: Q3 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001408075/000140807526000047/gpkexhibit991-2026q38xk.htm"
+   },
+   {
+    "title": "Stock Titan: stock market today, November 3, 2026",
+    "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
+   }
+  ],
+  "subindustry": "cpg",
+  "summary": "Graphic Packaging, which makes cartons and other packaging for food and consumer brands, reported third-quarter net sales of $2,192 million, flat from a year earlier. Adjusted EBITDA fell to $289 million from $383 million, and the margin dropped to 13.2% from 17.5%, mainly because commodity and operating cost inflation took $83 million. Net debt was $5.18 billion, a 4.8 times leverage ratio. It reaffirmed 2026 adjusted cash flow of $600 million to $700 million and said it expects a return to EBITDA growth next year. Shares rose about 21%.",
+  "tags": []
  }
 }

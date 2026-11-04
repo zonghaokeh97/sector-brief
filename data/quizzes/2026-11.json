@@ -899,5 +899,252 @@
     "subindustry": "internet-platforms"
    }
   ]
+ },
+ "2026-11-04": {
+  "date": "2026-11-04",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "Amdocs sells billing and customer systems to carriers, where a few large clients matter a lot. Its guidance allows for T-Mobile terminating, and part of the decline reflects exited hardware and media units.",
+    "id": "2026-11-04:x01",
+    "kind": "today",
+    "options": [
+     "Its revenue comes from thousands of small consumer subscriptions",
+     "A few large telecom customers can reshape its outlook",
+     "Telecom carriers have stopped buying billing software",
+     "It earns most of its profit from hardware resale"
+    ],
+    "prompt": "Amdocs guided fiscal 2027 revenue down 14.3% to 17.9% and warned of a dispute with T-Mobile. What does this show about its business?",
+    "sector": "tmt",
+    "storyId": "2026-11-04-09",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 2,
+    "explanation": "The firms cite synergies above C$50M and five EU-GMP certified facilities that can serve higher-priced European and Australian medical markets. The deal still needs shareholder, court and regulatory approvals.",
+    "id": "2026-11-04:x02",
+    "kind": "today",
+    "options": [
+     "A guaranteed price increase on Canadian cannabis",
+     "A plan to stop selling in Canada and focus on tobacco",
+     "Over C$50M of synergies and five EU-GMP facilities that can supply export markets",
+     "Elimination of the need for shareholder approval"
+    ],
+    "prompt": "Organigram's C$7.80 offer for Aurora Cannabis was a 93% premium to Aurora's unaffected price. What operating benefit do the companies cite for combining?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-04-06",
+    "subindustry": "cpg"
+   },
+   {
+    "answer": 3,
+    "explanation": "Ingrezza still earns most of the revenue, but newer drugs are growing quickly. That spreads risk ahead of Ingrezza's eventual patent expiry.",
+    "id": "2026-11-04:x03",
+    "kind": "today",
+    "options": [
+     "It means the company no longer needs research spending",
+     "It shows Ingrezza is being withdrawn from the market",
+     "It proves drug prices are falling",
+     "It reduces reliance on one older drug that will eventually lose patent protection"
+    ],
+    "prompt": "Neurocrine's Crenessity sales rose 115% to $211M while Ingrezza grew 17% to $801M. Why is this growth mix important?",
+    "sector": "healthcare",
+    "storyId": "2026-11-04-10",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 0,
+    "explanation": "Stevanato sells vials and injection devices, so demand follows the volumes of the drugs it supplies. It expects growth in other biologics to fill most of the gap.",
+    "id": "2026-11-04:x04",
+    "kind": "today",
+    "options": [
+     "A few large drug programs can set a supplier's volumes",
+     "Suppliers earn money only from generic drugs",
+     "Packaging is not needed for injectable drugs",
+     "Supplier revenue always rises with drug prices"
+    ],
+    "prompt": "GLP-1 drugs were about 17% to 18% of Stevanato's revenue, and lower expected volumes will slow its 2027 growth. What does this show about suppliers to drugmakers?",
+    "sector": "healthcare",
+    "storyId": "2026-11-04-12",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 2,
+    "explanation": "Revenue came in just under the $3.75B analysts expected after five quarters of 30%-plus growth. Operating income actually rose 66% and free cash flow margin reached 22%.",
+    "id": "2026-11-04:x05",
+    "kind": "today",
+    "options": [
+     "Merchants stopped using the platform",
+     "Free cash flow turned negative",
+     "Expectations were very high after repeated 30%-plus growth",
+     "Operating income fell sharply"
+    ],
+    "prompt": "Shopify's revenue rose 32% to $3.74B, yet the stock fell about 9% on a tiny miss. What best explains the reaction?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-04-07",
+    "subindustry": "retail-ecommerce"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 2,
+    "explanation": "The 10-year yield is the main reference for many consumer and corporate loan rates, and it rose 6 basis points to 4.96%. The tempting last option is wrong because yields feed through to household borrowing costs.",
+    "id": "2026-11-04:q01",
+    "kind": "today",
+    "options": [
+     "It determines company profits directly through sales tax",
+     "It sets the price of oil, so fuel costs rise for consumers",
+     "It is the benchmark for mortgages, auto loans and credit card debt, so borrowing stays expensive",
+     "It only affects bond traders and has little effect on consumers"
+    ],
+    "prompt": "The 10-year Treasury yield rose to 4.96%. Why does that matter well beyond the government's own borrowing?",
+    "sector": "macro",
+    "storyId": "2026-11-04-01",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "Iran says it will ease Hormuz energy shipping and return to formal talks only after the US lifts its blockade. Oil stays above $100 because no deal exists yet and the strait remains restricted.",
+    "id": "2026-11-04:q02",
+    "kind": "today",
+    "options": [
+     "The US must lift its economic blockade",
+     "OPEC+ must raise production targets",
+     "Brent must fall below $100 a barrel",
+     "Israel must sign a trade deal"
+    ],
+    "prompt": "Brent fell more than 7% on Monday on reports Iran cleared the way for talks, yet it still settled near $103.60 on Tuesday. What does Iran say must happen before it eases shipping through Hormuz?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-04-02",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 2,
+    "explanation": "$8.5B divided by $13.4B is about 63%, up from a smaller share as data center sales grew 97%. That makes AMD's results depend more on AI infrastructure spending than on PCs.",
+    "id": "2026-11-04:q03",
+    "kind": "today",
+    "options": [
+     "About 25%",
+     "About 45%",
+     "About 63%",
+     "About 85%"
+    ],
+    "prompt": "AMD's data center revenue was $8.5B out of $13.4B in total. Roughly what share of AMD's revenue does the data center segment now represent?",
+    "sector": "tmt",
+    "storyId": "2026-11-04-03",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 3,
+    "explanation": "LNG plants cost $10B or more, so lenders want committed offtake before they lend. The contracts secure revenue but do not stop spot prices moving or remove construction risk.",
+    "id": "2026-11-04:q04",
+    "kind": "today",
+    "options": [
+     "They remove all construction and cost risk from the project",
+     "They guarantee that the spot price of LNG will never fall",
+     "They let the developer avoid building any shipping or terminals",
+     "Lenders will finance a multi-billion-dollar plant only against years of committed buyers"
+    ],
+    "prompt": "QatarEnergy signed a 20-year deal to buy up to 3 Mtpa of LNG from Woodside's Louisiana project. Why do such long-term contracts matter to a developer?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-04-04",
+    "subindustry": "midstream-lng"
+   },
+   {
+    "answer": 1,
+    "explanation": "A goodwill impairment lowers the book value of past acquisitions without spending cash. Adjusted EPS was $1.75, savings targets doubled to $1B and a $500M buyback was planned, which outweighed the accounting loss.",
+    "id": "2026-11-04:q05",
+    "kind": "today",
+    "options": [
+     "Goodwill write-downs always signal that a company's earnings are about to rise",
+     "The write-down does not change cash flow, and investors focused on the $1B savings target and buyback restart",
+     "Investors ignored the results because the company missed its revenue forecast",
+     "The write-down raised Fiserv's merchant operating margin"
+    ],
+    "prompt": "Fiserv booked a $6.45B non-cash goodwill impairment, producing a GAAP loss of $11.17 a share, yet its shares rose about 12%. What best explains the reaction?",
+    "sector": "financial-services",
+    "storyId": "2026-11-04-05",
+    "subindustry": "payments-fintech"
+   },
+   {
+    "answer": 3,
+    "explanation": "Ferrari earns more by increasing what each customer pays than by selling more cars. Shipments fell because of weaker sales to the Americas and China, but its order book now extends into 2028.",
+    "id": "2026-11-04:q06",
+    "kind": "today",
+    "options": [
+     "Large government subsidies for sports cars",
+     "A large increase in the number of cars it sells to China",
+     "A sharp cut in the prices of its entry models",
+     "Higher revenue per car from personalization and special models, with an order book into 2028"
+    ],
+    "prompt": "Ferrari delivered 318 fewer cars over nine months, yet raised its 2026 guidance for a second straight quarter. What best explains this?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-04-11",
+    "subindustry": "automotive-mobility"
+   },
+   {
+    "answer": 1,
+    "explanation": "An integrated company earns in several places, so refining and LNG can carry the result when crude prices dip. Weather was a drag: refinery utilisation fell to 96% from 102% partly because of low Rhine water levels.",
+    "id": "2026-10-31:q05",
+    "kind": "review",
+    "options": [
+     "Lower tax payments",
+     "Higher refining margins and higher realised LNG prices",
+     "Selling its upstream assets",
+     "Smaller share buybacks"
+    ],
+    "prompt": "Shell's adjusted earnings rose to $10.8B from $5.4B a year earlier even though realised liquids prices fell from the prior quarter. What offset the weaker upstream prices?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-31-05",
+    "subindustry": "refining-chemicals"
+   },
+   {
+    "answer": 3,
+    "explanation": "Starbucks deconsolidated China after the joint venture deal, where it keeps a 40% stake and now books equity income rather than store sales. Transactions rose 1.8% and average ticket 5.2%, and only about 250 North American stores closed.",
+    "id": "2026-10-30:q06",
+    "kind": "review",
+    "options": [
+     "It closed most of its US stores",
+     "Customers bought fewer drinks but paid far more",
+     "A sales-tax change reduced reported revenue",
+     "It moved China retail into a licensed joint venture, so those sales left its revenue"
+    ],
+    "prompt": "Starbucks' revenue fell 4% to $9.1B even though global same-store sales rose 7.2%. What explains the gap?",
+    "sector": "consumer-retail",
+    "storyId": "2026-10-30-07",
+    "subindustry": "travel-hospitality"
+   },
+   {
+    "answer": 2,
+    "explanation": "Eliquis grew 25% and revenue guidance rose, so demand was not the problem. The EPS cut came mainly from acquired research and licensing charges, about $0.60 per share, which is a cost of building the pipeline.",
+    "id": "2026-10-31:q06",
+    "kind": "review",
+    "options": [
+     "A fall in Eliquis sales",
+     "Weaker US demand for its medicines",
+     "Charges for acquired research and licensing deals",
+     "A higher corporate tax rate"
+    ],
+    "prompt": "Bristol Myers raised its 2026 revenue outlook to about $49.75-50.25B but cut EPS guidance to $6.35-6.55. What mainly explains the lower earnings outlook?",
+    "sector": "healthcare",
+    "storyId": "2026-10-31-06",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 0,
+    "explanation": "Plants, engineering and tooling cost roughly the same whatever the volume, so extra sales add profit while lost sales cut deeply. That is why mass-market EBIT margins are only about 5% to 10%.",
+    "id": "2026-11-04:q10",
+    "kind": "profile",
+    "options": [
+     "High fixed costs for plants, engineering and tooling that stay the same when sales fall",
+     "Raw materials that are free when demand is low",
+     "Dealers that pay automakers in advance for all vehicles",
+     "Labor costs that vanish when production slows"
+    ],
+    "prompt": "Mass-market automakers earn thin average margins and their profits swing sharply with sales volume. What feature of their cost structure explains this?",
+    "sector": "advanced-industries",
+    "storyId": null,
+    "subindustry": "automotive-mobility"
+   }
+  ]
  }
 }

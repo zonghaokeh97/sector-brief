@@ -119,6 +119,23 @@
    "ticker": "Nasdaq: AMD",
    "updated": "2026-11-03"
   },
+  "amdocs": {
+   "businessModel": "Sells billing, customer-management and network software and services to telecom carriers, mostly through multi-year contracts and managed services.",
+   "competitors": [
+    "Netcracker",
+    "Oracle",
+    "Ericsson",
+    "Salesforce",
+    "Optiva"
+   ],
+   "hq": "Chesterfield, MO (incorporated in Guernsey)",
+   "name": "Amdocs",
+   "sector": "tmt",
+   "size": "Revenue $4.70B (fiscal 2026)",
+   "subindustry": "software-cloud",
+   "ticker": "Nasdaq: DOX",
+   "updated": "2026-11-04"
+  },
   "american-airlines": {
    "businessModel": "Sells passenger tickets across a large hub network and earns extra from its loyalty program and credit card partnerships.",
    "competitors": [
@@ -237,6 +254,23 @@
    "subindustry": "pharma-biotech",
    "ticker": "LSE: AZN (also US-listed)",
    "updated": "2026-11-01"
+  },
+  "aurora-cannabis": {
+   "businessModel": "Produces cannabis for Canadian recreational and medical use and exports medical cannabis to Europe, Australia and other markets.",
+   "competitors": [
+    "Canopy Growth",
+    "Tilray",
+    "Organigram",
+    "SNDL",
+    "Curaleaf"
+   ],
+   "hq": "Edmonton, Canada",
+   "name": "Aurora Cannabis",
+   "sector": "consumer-retail",
+   "size": "Equity value about C$561M at the Organigram offer price",
+   "subindustry": "cpg",
+   "ticker": "Nasdaq and TSX: ACB",
+   "updated": "2026-11-04"
   },
   "bank-of-america": {
    "businessModel": "Earns net interest income on its huge low-cost deposit base, plus fees from wealth management (Merrill), investment banking and trading.",
@@ -758,6 +792,41 @@
    "ticker": "NYSE: XOM",
    "updated": "2026-10-30"
   },
+  "ferrari": {
+   "businessModel": "Builds limited numbers of high-priced sports cars, earning most profit from personalization, special series and brand licensing, with deliberately constrained supply.",
+   "competitors": [
+    "Lamborghini (Volkswagen)",
+    "Porsche",
+    "McLaren",
+    "Aston Martin",
+    "Bentley"
+   ],
+   "hq": "Maranello, Italy",
+   "name": "Ferrari",
+   "sector": "advanced-industries",
+   "size": "2026 revenue guided to €7.65B",
+   "subindustry": "automotive-mobility",
+   "ticker": "NYSE and Milan: RACE",
+   "updated": "2026-11-04"
+  },
+  "fiserv": {
+   "businessModel": "Earns fees from processing card payments for merchants (including the Clover point-of-sale platform) and from running core banking software for banks and credit unions.",
+   "competitors": [
+    "Fidelity National Information Services",
+    "Global Payments",
+    "Block",
+    "PayPal",
+    "Adyen",
+    "Jack Henry"
+   ],
+   "hq": "Milwaukee, WI",
+   "name": "Fiserv",
+   "sector": "financial-services",
+   "size": "Adjusted revenue about $19B a year (nine-month 2026 total $14.5B)",
+   "subindustry": "payments-fintech",
+   "ticker": "Nasdaq: FISV",
+   "updated": "2026-11-04"
+  },
   "ford": {
    "businessModel": "Builds and sells cars, trucks and commercial vehicles through Ford Blue and Ford Pro, runs an EV unit (Model e) and earns financing income through Ford Credit.",
    "competitors": [
@@ -859,6 +928,23 @@
    "subindustry": "automotive-mobility",
    "ticker": "NYSE: GM",
    "updated": "2026-10-20"
+  },
+  "graphic-packaging": {
+   "businessModel": "Makes paperboard and folding cartons and other packaging that it sells to food, beverage and consumer brands, passing through some input-cost changes by contract.",
+   "competitors": [
+    "WestRock (Smurfit Westrock)",
+    "Sealed Air",
+    "Amcor",
+    "Sonoco",
+    "Huhtamaki"
+   ],
+   "hq": "Atlanta, GA",
+   "name": "Graphic Packaging Holding",
+   "sector": "consumer-retail",
+   "size": "2026 net sales about $8.6B",
+   "subindustry": "cpg",
+   "ticker": "NYSE: GPK",
+   "updated": "2026-11-04"
   },
   "guidewire": {
    "businessModel": "Sells subscription software that property and casualty insurers use to run policies, claims and billing.",
@@ -1387,6 +1473,23 @@
    "ticker": "NASDAQ: NFLX",
    "updated": "2026-10-21"
   },
+  "neurocrine": {
+   "businessModel": "Develops and sells drugs for neurological and endocrine disorders, led by Ingrezza for movement disorders, and funds a pipeline from product sales.",
+   "competitors": [
+    "Teva",
+    "AbbVie",
+    "Biogen",
+    "Jazz Pharmaceuticals",
+    "Otsuka"
+   ],
+   "hq": "San Diego, CA",
+   "name": "Neurocrine Biosciences",
+   "sector": "healthcare",
+   "size": "Quarterly revenue $1.12B (Q3 2026)",
+   "subindustry": "pharma-biotech",
+   "ticker": "Nasdaq: NBIX",
+   "updated": "2026-11-04"
+  },
   "nisource": {
    "businessModel": "Regulated gas and electric utility that earns an allowed return on the infrastructure it builds (its rate base). Its Indiana electric arm, NIPSCO, sells power and now builds generation for large data center customers.",
    "competitors": [
@@ -1489,6 +1592,23 @@
    "subindustry": "telecom",
    "ticker": "EPA: ORA",
    "updated": "2026-10-20"
+  },
+  "organigram": {
+   "businessModel": "Grows and sells cannabis products to Canadian adult-use and medical customers and exports to international markets, with British American Tobacco as its largest shareholder.",
+   "competitors": [
+    "Canopy Growth",
+    "Tilray",
+    "Aurora Cannabis",
+    "SNDL",
+    "Curaleaf"
+   ],
+   "hq": "Canada",
+   "name": "Organigram Global",
+   "sector": "consumer-retail",
+   "size": "Small-cap licensed cannabis producer (market cap under C$1B, approx.)",
+   "subindustry": "cpg",
+   "ticker": "Nasdaq and TSX: OGI",
+   "updated": "2026-11-04"
   },
   "ovintiv": {
    "businessModel": "Drills for oil, natural gas liquids and gas in North American basins and sells the output at market prices, returning most free cash flow to shareholders.",
@@ -1644,6 +1764,23 @@
    "subindustry": "medtech",
    "ticker": "NYSE: QGEN (take-private offer pending)",
    "updated": "2026-10-25"
+  },
+  "qorvo": {
+   "businessModel": "Designed radio-frequency and power chips for phones, defense and infrastructure, and now operates as part of Skyworks.",
+   "competitors": [
+    "Skyworks",
+    "Qualcomm",
+    "Broadcom",
+    "Murata",
+    "Analog Devices"
+   ],
+   "hq": "Greensboro, NC",
+   "name": "Qorvo",
+   "sector": "tmt",
+   "size": "Quarterly revenue about $937M (September 2026 quarter)",
+   "subindustry": "semiconductors",
+   "ticker": "Merged into Skyworks (Nasdaq: SWKS)",
+   "updated": "2026-11-04"
   },
   "quest-diagnostics": {
    "businessModel": "Runs clinical laboratories and earns a fee per test, billed to health insurers, hospitals and patients.",
@@ -1850,6 +1987,24 @@
    "ticker": "NYSE: SHEL",
    "updated": "2026-10-31"
   },
+  "shopify": {
+   "businessModel": "Sells subscriptions for its online store software and earns larger fees from payments, shipping and other services on its merchants' sales.",
+   "competitors": [
+    "Amazon",
+    "BigCommerce",
+    "Wix",
+    "Squarespace",
+    "Adobe (Magento)",
+    "Salesforce Commerce Cloud"
+   ],
+   "hq": "Ottawa, Canada",
+   "name": "Shopify",
+   "sector": "consumer-retail",
+   "size": "Revenue about $13B a year (Q3 2026 $3.74B)",
+   "subindustry": "retail-ecommerce",
+   "ticker": "Nasdaq and TSX: SHOP",
+   "updated": "2026-11-04"
+  },
   "silence-therapeutics": {
    "businessModel": "Develops siRNA medicines that switch off disease-causing genes. Earns money mainly from partnership payments now and aims to earn drug sales later; lead drug is divesiran for polycythemia vera.",
    "competitors": [
@@ -1899,6 +2054,23 @@
    "subindustry": "semiconductors",
    "ticker": "KRX: 000660",
    "updated": "2026-10-30"
+  },
+  "skyworks": {
+   "businessModel": "Designs radio-frequency chips that connect phones and other devices to wireless networks, and sells them mainly to large smartphone makers.",
+   "competitors": [
+    "Qualcomm",
+    "Broadcom",
+    "Murata",
+    "Analog Devices",
+    "MediaTek"
+   ],
+   "hq": "Irvine, CA",
+   "name": "Skyworks Solutions",
+   "sector": "tmt",
+   "size": "Revenue $3.96B (fiscal 2026); about $7.5B combined with Qorvo (approx.)",
+   "subindustry": "semiconductors",
+   "ticker": "Nasdaq: SWKS",
+   "updated": "2026-11-04"
   },
   "southwest-airlines": {
    "businessModel": "A US airline selling tickets and extras such as extra-legroom seats and bags, flying mainly point-to-point routes on a single aircraft type. Profit depends on fares, seat occupancy and fuel and labor costs.",
@@ -1968,6 +2140,23 @@
    "subindustry": "metals-mining",
    "ticker": "NASDAQ: STLD",
    "updated": "2026-10-20"
+  },
+  "stevanato-group": {
+   "businessModel": "Makes glass vials, syringes, cartridges and drug-delivery devices for drugmakers, plus analytical and engineering services.",
+   "competitors": [
+    "West Pharmaceutical Services",
+    "Gerresheimer",
+    "Schott Pharma",
+    "BD",
+    "SGD Pharma"
+   ],
+   "hq": "Piombino Dese, Italy",
+   "name": "Stevanato Group",
+   "sector": "healthcare",
+   "size": "2026 revenue guided to €1.26B to €1.28B",
+   "subindustry": "pharma-biotech",
+   "ticker": "NYSE: STVN",
+   "updated": "2026-11-04"
   },
   "stripe": {
    "businessModel": "Gives online businesses software to accept payments, charging a percentage plus a fixed fee per transaction, and sells add-ons such as billing, fraud tools and stablecoin services.",
@@ -2373,6 +2562,24 @@
    "subindustry": "cpg",
    "ticker": "NYSE: WHR",
    "updated": "2026-10-28"
+  },
+  "woodside": {
+   "businessModel": "Produces oil and gas and sells LNG mostly under long-term contracts to Asian and European buyers, with growth projects in Australia and the US Gulf Coast.",
+   "competitors": [
+    "Santos",
+    "Shell",
+    "Chevron",
+    "ExxonMobil",
+    "QatarEnergy",
+    "Cheniere"
+   ],
+   "hq": "Perth, Australia",
+   "name": "Woodside Energy",
+   "sector": "energy-materials",
+   "size": "Revenue about $13B (2024, approx.)",
+   "subindustry": "midstream-lng",
+   "ticker": "ASX: WDS",
+   "updated": "2026-11-04"
   }
  },
  "sectors": {
@@ -2659,11 +2866,35 @@
    ]
   },
   "automotive-mobility": {
+   "economicsOn": "valueChain",
+   "keyFigures": [
+    {
+     "label": "Global light-vehicle sales",
+     "note": "2025, up ~3.6% · GlobalData and ECG estimates",
+     "value": "~92M"
+    },
+    {
+     "label": "China light-vehicle sales",
+     "note": "2025 estimate · ECG",
+     "value": "~28M"
+    },
+    {
+     "label": "Global EV sales",
+     "note": "2025, up 20%, over 20% of sales · Benchmark Mineral Intelligence",
+     "value": "~20.7M"
+    },
+    {
+     "label": "Largest automaker",
+     "note": "Toyota unit sales, 2025, ahead of Volkswagen at ~8.7M to 9.0M",
+     "value": "~11.3M"
+    }
+   ],
    "kpis": [
-    "EBIT margin: about 5-10% for mass-market automakers",
-    "Global sales: about 90M vehicles a year",
+    "EBIT margin: about 5% to 10% for mass-market automakers",
+    "Global sales: ~92M light vehicles in 2025",
+    "EV share of sales: over 20% globally in 2025",
     "US SAAR (annualized sales rate): about 15-16M",
-    "Inventory days' supply at dealers"
+    "Dealer inventory days' supply"
    ],
    "marketSize": {
     "global": "~90M vehicles/yr",
@@ -2672,15 +2903,45 @@
     "usNote": "US light vehicle sales (2025 approx.)"
    },
    "operatingModel": "Automakers earn thin average margins (often 5-10% EBIT), with most profit from trucks, SUVs and luxury models, plus financing arms that earn interest on loans and leases. High fixed costs mean profits swing sharply with volume.",
-   "overview": "The automotive industry designs, builds and sells cars and trucks, and supplies the parts, financing and services around them. Automakers assemble vehicles from parts made by thousands of suppliers and sell through franchised dealers, earning more profit on large trucks and SUVs than on small cars. The industry is capital intensive and cyclical, rising and falling with consumer confidence and interest rates.",
+   "overview": "The automotive industry designs, builds and sells cars and trucks, supported by a deep pyramid of parts suppliers, franchised dealers and finance arms. Automakers earn thin average margins with high fixed costs, so profits swing sharply with sales volume. China is now the largest market and the center of electric vehicle sales, while tariffs, rates and cheaper Chinese rivals reshape competition.",
    "players": [
     "Global leaders: Toyota, Volkswagen, Hyundai-Kia, GM, Stellantis, Ford",
     "EV specialists: Tesla, BYD",
     "Top suppliers: Bosch, Denso, ZF, Magna, CATL (batteries)",
     "Structure: a handful of global automakers sitting on top of a deep supplier pyramid"
    ],
-   "profileUpdated": "2026-10-20",
+   "profileUpdated": "2026-11-04",
    "sector": "advanced-industries",
+   "segments": {
+    "items": [
+     {
+      "growth": "fast",
+      "leaders": "BYD · Geely · Tesla",
+      "name": "China",
+      "share": "~62%",
+      "sharePct": 62,
+      "what": "12.9M EVs sold, the world's largest EV market."
+     },
+     {
+      "growth": "fast",
+      "leaders": "Volkswagen · BMW · Tesla",
+      "name": "Europe",
+      "share": "~21%",
+      "sharePct": 21,
+      "what": "4.3M EVs, up 33% on the year."
+     },
+     {
+      "growth": "slow",
+      "leaders": "Tesla · GM · Ford",
+      "name": "North America",
+      "share": "~9%",
+      "sharePct": 9,
+      "what": "1.8M EVs, down 4% on the year."
+     }
+    ],
+    "title": "Share of global EV sales by region, 2025 (calculated from Benchmark volumes)"
+   },
+   "summary": "The automotive industry designs, builds and sells cars and trucks, supported by a deep pyramid of parts suppliers, franchised dealers and finance arms. Automakers earn thin average margins with high fixed costs, so profits swing sharply with sales volume. China is now the largest market and the center of electric vehicle sales, while tariffs, rates and cheaper Chinese rivals reshape competition.",
    "threats": [
     "Chinese competitors with lower costs",
     "Demand slowdown from high rates and fuel prices",
@@ -2693,6 +2954,78 @@
     "Tariffs on imported vehicles, parts and steel raise costs",
     "Software, driver assistance and autonomy are becoming new profit pools",
     "High interest rates make auto loans expensive and slow sales"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "Global EV sales reached about 20.7M in 2025, led by China and a rebound in Europe."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Software, driver assistance and autonomy are becoming new profit pools."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Luxury makers like Ferrari earn more per car through personalization and limited supply."
+    },
+    {
+     "kind": "headwind",
+     "text": "Chinese automakers with lower costs are winning share at home and in exports."
+    },
+    {
+     "kind": "headwind",
+     "text": "Tariffs on imported vehicles, parts and steel raise costs."
+    },
+    {
+     "kind": "headwind",
+     "text": "High interest rates make auto loans expensive and slow sales."
+    }
+   ],
+   "valueChain": [
+    {
+     "cost": "Raw materials, labor and tooling.",
+     "name": "Parts and materials suppliers",
+     "players": "Bosch · Denso · ZF · CATL",
+     "revenue": "Contracts priced per part, with annual price reductions expected by automakers.",
+     "takeaway": {
+      "label": "Thin margins",
+      "why": "Suppliers have little pricing power over large automakers."
+     },
+     "what": "Thousands of firms supply steel, chips, batteries and systems to automakers."
+    },
+    {
+     "cost": "Parts bought from suppliers, plus fixed costs of plants and engineering.",
+     "name": "Vehicle assembly and brands",
+     "players": "Toyota · Volkswagen · Hyundai-Kia · BYD",
+     "revenue": "Vehicle sales to dealers, richest on trucks, SUVs and luxury models.",
+     "takeaway": {
+      "label": "Volume-driven",
+      "why": "High fixed costs mean profit swings sharply when sales rise or fall."
+     },
+     "what": "Automakers design vehicles, run assembly plants and sell to dealers."
+    },
+    {
+     "cost": "Inventory financing, staff and real estate.",
+     "name": "Dealers and distribution",
+     "players": "AutoNation · Penske · Tesla stores",
+     "revenue": "Vehicle margins, service work and used-car sales.",
+     "takeaway": {
+      "label": "Service-heavy",
+      "why": "Repairs and used cars often earn more than new-vehicle sales."
+     },
+     "what": "Franchised dealers or direct sellers deliver vehicles to customers."
+    },
+    {
+     "cost": "Funding costs and loan losses.",
+     "name": "Financing and services",
+     "players": "Toyota Financial · GM Financial · Ford Credit",
+     "revenue": "Interest on loans and leases and subscription fees.",
+     "takeaway": {
+      "label": "Rate-sensitive",
+      "why": "Profits rise or fall with interest rates and credit quality."
+     },
+     "what": "Captive finance arms and insurers fund loans and leases, and software adds recurring income."
+    }
    ]
   },
   "banking": {
@@ -3818,30 +4151,30 @@
    "keyFigures": [
     {
      "label": "Global LNG trade",
-     "note": "Record, 2025 · IGU",
+     "note": "Record, 2025, up 6.3% · IGU World LNG Report 2026",
      "value": "~437 Mt"
     },
     {
-     "label": "Growth",
-     "note": "2025 vs 2024 · GIIGNL, IGU",
-     "value": "+5–6%"
-    },
-    {
-     "label": "US exports",
-     "note": "~26% of world supply, 2025",
+     "label": "US LNG exports",
+     "note": "Largest exporter, 2025 · IGU",
      "value": "~111 Mt"
     },
     {
-     "label": "Asia's share of imports",
-     "note": "2025 · GIIGNL",
-     "value": "~63%"
+     "label": "Liquefaction capacity",
+     "note": "End-2025, 30 Mtpa added in the year · IGU",
+     "value": "~525 Mtpa"
+    },
+    {
+     "label": "Asia-Pacific LNG imports",
+     "note": "Largest importing region, 2025 · IGU",
+     "value": "~169 Mt"
     }
    ],
    "kpis": [
     "JKM (Asia), TTF (Europe) and Henry Hub (US) gas prices",
-    "European storage fill % before winter",
-    "Liquefaction capacity, in million tonnes per year",
-    "Contract pricing: about Henry Hub × 115% plus a fixed fee"
+    "European storage fill before winter",
+    "Liquefaction capacity: ~525 Mtpa at end-2025",
+    "Tolling fee per MMBtu"
    ],
    "marketSize": {
     "global": "~410 Mt LNG/yr",
@@ -3850,42 +4183,45 @@
     "usNote": "US LNG exports, the world's largest exporter (EIA, 2024–25 approx.)"
    },
    "operatingModel": "Pipelines earn regulated or contracted tolls on volume, so cash flows are steady. LNG projects cost $10B+ and are financed against 20-year offtake contracts (often priced at Henry Hub × 115% plus a fixed fee). The spread between US gas and global prices drives spot cargo profits.",
-   "overview": "Moving and storing hydrocarbons: pipelines, storage, tankers, and LNG liquefaction, shipping and regasification. Mostly fee-based infrastructure, with LNG trading adding commodity exposure.",
+   "overview": "LNG (liquefied natural gas) is gas cooled to liquid so ships can carry it between continents. The industry runs from gas fields through liquefaction plants and tankers to import terminals, and most plants sell their output under long-term contracts. Money is made mainly from fixed capacity and processing fees, with extra upside or risk when traders sell spare cargoes at spot prices. Record exports from the US and new plants are changing who supplies the world.",
    "players": [
     "LNG exporters: QatarEnergy, Cheniere, Venture Global, Woodside, PETRONAS",
     "Portfolio traders: Shell (largest), TotalEnergies, BP",
     "Buyers: JERA, KOGAS, CNOOC, European utilities",
     "US pipelines: Enterprise Products, Kinder Morgan, Williams, Energy Transfer"
    ],
-   "profileUpdated": "2026-10-27",
+   "profileUpdated": "2026-11-04",
    "sector": "energy-materials",
    "segments": {
     "items": [
      {
-      "leaders": "Japan · China · Korea · India",
-      "name": "Asia",
-      "share": "~63%",
-      "sharePct": 63,
-      "what": "The largest and most contract-based market. China cut purchases about 15% in 2025 as it leaned on pipeline gas and domestic output."
+      "growth": "fast",
+      "leaders": "Cheniere · Venture Global · Sabine Pass",
+      "name": "United States exports",
+      "share": "~25%",
+      "sharePct": 25,
+      "what": "The world's largest exporter at about 111 Mt, helped by new Gulf Coast plants."
      },
      {
-      "leaders": "Germany · France · Italy · UK",
-      "name": "Europe",
-      "share": "~30%",
-      "sharePct": 30,
-      "what": "Imports jumped about 29% in 2025 as Europe kept replacing Russian pipeline gas, buying flexibly and often from the US."
+      "growth": "flat",
+      "leaders": "Australia · Malaysia · Indonesia",
+      "name": "Asia-Pacific exporters",
+      "share": "~32%",
+      "sharePct": 32,
+      "what": "About 139 Mt, roughly flat on 2024."
      },
      {
-      "leaders": "Egypt · Turkey · Latin America",
-      "name": "Rest of world",
-      "share": "~7%",
-      "sharePct": 7,
-      "what": "Smaller, price-sensitive importers, often using floating terminals. Egypt quadrupled imports in 2025."
+      "growth": "mixed",
+      "leaders": "QatarEnergy · Novatek · Nigeria LNG",
+      "name": "Rest of world (Qatar, Russia, Africa and others)",
+      "share": "~43%",
+      "sharePct": 43,
+      "what": "The remainder, including Gulf exporters whose flows depend on Hormuz shipping."
      }
     ],
-    "title": "Share of global LNG imports, by region (2025)"
+    "title": "Share of global LNG trade by origin, 2025 (calculated from IGU volumes)"
    },
-   "summary": "Midstream moves gas from the wellhead to the buyer: pipelines carry it overland, and LNG plants chill it into a liquid so it can cross oceans by ship. Most of the money is made in long-term, fee-based contracts at liquefaction plants and pipelines, while traders earn volatile spreads between regional gas prices. Asia buys most of the world's LNG and Europe is the fastest-growing buyer, while the US has become the largest supplier and new US and Qatari capacity keeps arriving.",
+   "summary": "LNG (liquefied natural gas) is gas cooled to liquid so ships can carry it between continents. The industry runs from gas fields through liquefaction plants and tankers to import terminals, and most plants sell their output under long-term contracts. Money is made mainly from fixed capacity and processing fees, with extra upside or risk when traders sell spare cargoes at spot prices. Record exports from the US and new plants are changing who supplies the world.",
    "threats": [
     "Chokepoint disruption (Hormuz, Red Sea, Panama)",
     "A future LNG supply glut as new capacity arrives late decade",
@@ -3902,85 +4238,85 @@
    "trendsThreats": [
     {
      "kind": "tailwind",
-     "text": "A wave of new US and Qatari liquefaction capacity is coming online through the late 2020s."
+     "text": "US exports reached a record of about 111 Mt in 2025 as new Gulf Coast plants started up."
     },
     {
      "kind": "tailwind",
-     "text": "Buyers are signing 15–20 year contracts again after two supply crises in four years."
+     "text": "Buyers are signing long-term contracts, such as QatarEnergy's 20-year deal with Woodside's Louisiana LNG, to secure supply after repeated supply shocks."
     },
     {
      "kind": "tailwind",
-     "text": "Gas demand for US power plants and data centers is pulling on pipelines and supply."
+     "text": "Gas demand for AI data centers is spurring pipeline and plant investment in the US."
     },
     {
      "kind": "headwind",
-     "text": "Chokepoint disruption at Hormuz, the Red Sea and Panama raises freight and insurance costs."
+     "text": "Disruption in the Strait of Hormuz can cut Gulf LNG flows and push prices sharply higher."
     },
     {
      "kind": "headwind",
-     "text": "New plants arriving together could create a supply glut later this decade."
+     "text": "A wave of new capacity late in the decade could produce a supply glut and lower prices."
     },
     {
      "kind": "headwind",
-     "text": "Permitting delays and long-run demand decline in Europe add risk to new projects."
+     "text": "Permitting delays and rising costs can slow pipelines and terminals."
     }
    ],
    "valueChain": [
     {
-     "cost": "drilling and well completion, then operating (lifting) costs",
-     "name": "Gas supply",
-     "players": "ExxonMobil · EQT · QatarEnergy",
-     "revenue": "realized gas price × production volume",
+     "cost": "Drilling, field equipment and pipelines to the plant.",
+     "name": "Gas production",
+     "players": "QatarEnergy · ExxonMobil · Shell · Woodside",
+     "revenue": "Sales of gas at market prices or to the plant under supply contracts.",
      "takeaway": {
-      "label": "Volatile",
-      "why": "Profits rise and fall with hub gas prices, which producers don't control."
+      "label": "Price-exposed",
+      "why": "Revenue follows gas prices, so profits swing more here than elsewhere in the chain."
      },
-     "what": "Producers drill and process gas, then sell it to pipelines and plants at a hub price."
+     "what": "Wells and gathering systems supply the natural gas that feeds a liquefaction plant."
     },
     {
-     "cost": "building the pipe, then depreciation and financing",
-     "name": "Pipelines",
-     "players": "Kinder Morgan · Williams · Energy Transfer",
-     "revenue": "reserved-capacity fees, paid even when no gas flows, plus regulated tariffs",
-     "takeaway": {
-      "label": "Stable",
-      "why": "Most revenue is fixed capacity fees locked in for years."
-     },
-     "what": "Carry gas from fields to coastal plants and cities for a contracted or regulated toll."
-    },
-    {
-     "cost": "$10B+ construction and its financing, plus energy to run the plant",
+     "cost": "Plant construction costing $10B+, financed with debt, plus energy to run the process.",
      "highlight": true,
      "name": "Liquefaction",
-     "players": "Cheniere · QatarEnergy · Venture Global",
-     "revenue": "fixed liquefaction fees under 20-year contracts; feed gas is passed through at about Henry Hub × 115%",
+     "players": "Cheniere · Venture Global · QatarEnergy · Woodside",
+     "revenue": "Fixed processing (tolling) fees and a share of cargo sales, backed by 20-year contracts.",
      "takeaway": {
-      "label": "Largest and steadiest profit pool",
-      "why": "Buyers owe the fixed fee even if they cancel cargoes, so plants earn through price cycles."
+      "label": "Stable, contracted",
+      "why": "Long-term contracts make payments steady, even when gas prices move."
      },
-     "what": "Plants chill gas to −162°C, shrinking it about 600 times so it can be shipped."
+     "what": "Plants chill gas to about -162°C, shrinking its volume so it can be shipped."
     },
     {
-     "cost": "buying the cargo, plus shipping and insurance",
-     "name": "Shipping & trading",
-     "players": "Shell · TotalEnergies · BP",
-     "revenue": "the spread between regional gas prices (traders) and charter rates (ship owners)",
+     "cost": "Vessel purchase or lease, fuel and crews.",
+     "name": "Shipping",
+     "players": "Shell · Mitsui O.S.K. Lines · Nakilat · Maran",
+     "revenue": "Charter rates, either long-term contracts or spot hire.",
      "takeaway": {
       "label": "Volatile",
-      "why": "Margins depend on the gap between US, European and Asian prices, which can swing from almost nothing to over $20/MMBtu."
+      "why": "Spot charter rates rise and fall with the number of available ships and the length of routes."
      },
-     "what": "Tankers and portfolio traders move cargoes to whichever market pays most."
+     "what": "Specialized tankers carry LNG from export plants to import terminals."
     },
     {
-     "cost": "the price of the LNG cargo itself",
-     "name": "Regas & buyers",
-     "players": "JERA · KOGAS · Uniper",
-     "revenue": "terminal capacity fees; for utilities, retail gas and power tariffs",
+     "cost": "Terminal construction, energy and port operations.",
+     "name": "Regasification and import",
+     "players": "JERA · KOGAS · CNOOC · European utilities",
+     "revenue": "Terminal fees and sales of gas to utilities and industry.",
      "takeaway": {
-      "label": "Stable for terminals, squeezed for buyers",
-      "why": "Terminals earn fixed fees, while utilities absorb price spikes when tariffs lag."
+      "label": "Reliable",
+      "why": "Terminal fees are paid for reserved capacity, whether or not much gas flows."
      },
-     "what": "Import terminals turn LNG back into gas for utilities and industry."
+     "what": "Terminals warm LNG back into gas and feed it into pipelines and power plants."
+    },
+    {
+     "cost": "Contract costs, shipping and working capital.",
+     "name": "Trading and marketing",
+     "players": "Shell · TotalEnergies · BP · Vitol",
+     "revenue": "The price gap between buying and selling locations.",
+     "takeaway": {
+      "label": "Opportunistic",
+      "why": "Profit depends on price spreads between regions, so earnings are lumpy."
+     },
+     "what": "Portfolio players buy cargoes from many plants and resell them where prices are highest."
     }
    ]
   },
