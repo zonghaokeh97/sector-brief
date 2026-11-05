@@ -1061,5 +1061,298 @@
   "subindustry": "cpg",
   "summary": "Graphic Packaging, which makes cartons and other packaging for food and consumer brands, reported third-quarter net sales of $2,192 million, flat from a year earlier. Adjusted EBITDA fell to $289 million from $383 million, and the margin dropped to 13.2% from 17.5%, mainly because commodity and operating cost inflation took $83 million. Net debt was $5.18 billion, a 4.8 times leverage ratio. It reaffirmed 2026 adjusted cash flow of $600 million to $700 million and said it expects a return to EBITDA growth next year. Shares rose about 21%.",
   "tags": []
+ },
+ "2026-11-05-01": {
+  "companies": [],
+  "date": "2026-11-05",
+  "headline": "Nasdaq slides about 2% as investors rotate out of AI stocks after the midterms, while the Dow edges up",
+  "numbers": [
+   "Nasdaq: -2.3% (mid-morning)",
+   "S&P 500: -1.3%",
+   "Dow: +226 points (+0.4%)",
+   "Brent: ~$97/bbl"
+  ],
+  "order": 1,
+  "sector": "macro",
+  "soWhat": "A split between falling technology shares and a steady Dow shows investors moving money from companies tied to AI spending toward businesses seen as less exposed. High valuations leave AI-linked stocks sensitive to any sign that the build-out could slow, while companies with solid cash flow gain. The open question is whether this is a short rotation after an event or the start of a wider reassessment of AI investment.",
+  "sources": [
+   {
+    "title": "CNBC: Nasdaq falls 2% as investors continue postelection rotation out of AI stocks",
+    "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "Stocks opened mixed on Thursday after the midterm elections. By mid-morning the Nasdaq Composite was down 2.3% and the S&P 500 down 1.3%, while the Dow was up 226 points, or 0.4%. Nvidia and Broadcom each fell about 4%, and Qualcomm fell 9% after a weaker-than-expected outlook. AppLovin jumped 28% on better-than-expected results and guidance. WTI crude traded just below $90 a barrel and Brent around $97.",
+  "tags": []
+ },
+ "2026-11-05-02": {
+  "companies": [
+   "microsoft",
+   "amazon",
+   "coreweave",
+   "micron"
+  ],
+  "date": "2026-11-05",
+  "headline": "Democratic governors-elect threaten slower data center permitting, splitting AI-infrastructure stocks",
+  "numbers": [
+   "Microsoft, Amazon: each +6%+",
+   "CoreWeave CDS spread: >1,100 bp",
+   "CoreWeave, Nebius, Iren in October: -30% or more",
+   "Texas: moratorium on new permits proposed"
+  ],
+  "order": 2,
+  "sector": "tmt",
+  "soWhat": "Most 2027 capacity is already being built, so the near-term effect is small, but projects planned for 2028 and later face more risk of delay. Hyperscalers such as Microsoft and Amazon have diversified revenue and strong internal cash flow, so they can wait out rules or buy capacity from weaker operators. Debt-funded specialist providers face wider borrowing spreads and higher refinancing costs. The open question is how strict state rules turn out and whether existing data center capacity becomes more valuable as new supply gets harder to add.",
+  "sources": [
+   {
+    "title": "CNBC: K-shaped AI trade, data centers and the midterms",
+    "url": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "After the midterms, Microsoft and Amazon each rose more than 6% while CoreWeave fell about 10%, Micron 7% and Nvidia 3.17%. Texas governor-elect Gina Hinojosa has proposed a statewide moratorium on new data center permits, with projects already under construction reportedly exempt. Nomura says Democratic governor wins could tighten permitting and regulation nationally. CoreWeave, Nebius and Iren each fell at least 30% in October, and CoreWeave's five-year credit default swap spread rose past 1,100 basis points.",
+  "tags": []
+ },
+ "2026-11-05-03": {
+  "companies": [
+   "cvs-health"
+  ],
+  "date": "2026-11-05",
+  "headline": "CVS Health plans to split into two public companies by the first half of 2028 and raises its 2026 outlook",
+  "numbers": [
+   "Q3 revenue: $108.4B (+5.4%)",
+   "2026 adj. EPS guide: at least $8.20",
+   "Pharmacies: ~9,000",
+   "Target completion: H1 2028"
+  ],
+  "order": 3,
+  "sector": "healthcare",
+  "soWhat": "The two halves have different economics: insurance and pharmacy-benefit management earn money from premiums and drug spending managed on behalf of plans, while retail pharmacy depends on store traffic and thin dispensing margins. Separate companies can set their own capital structures and strategies, and investors can value each on its own terms. The shape of the split also shows how the largest health groups are rethinking owning every layer of the chain. The open question is how pharmacy benefit and pharmacy store contracts between the two will work after separation.",
+  "sources": [
+   {
+    "title": "CVS Health: intent to create two distinct leaders in health care (via Stock Titan)",
+    "url": "https://www.stocktitan.net/news/CVS/cvs-health-announces-intent-to-create-two-distinct-leaders-in-18152x0imncq.html"
+   },
+   {
+    "title": "CVS Health: Q3 2026 results and raised guidance (via Stock Titan)",
+    "url": "https://www.stocktitan.net/news/CVS/cvs-health-corporation-reports-third-quarter-2026-results-and-raises-ysv3ogq85kgc.html"
+   }
+  ],
+  "subindustry": "payers-providers",
+  "summary": "CVS Health said it will separate into two independent, publicly traded companies. One will hold Aetna, CVS Caremark, CVS Specialty, Oak Street Health and Signify Health under David Joyner. The other, CVS Pharmacy, will run about 9,000 pharmacies and MinuteClinic under Prem Shah. The split is meant to be tax-free and is expected to finish in the first half of 2028, subject to board approval and a Form 10 filing. Alongside it, CVS reported third-quarter revenue of $108.4 billion, up 5.4%, and raised 2026 adjusted EPS guidance to at least $8.20 from $7.90 to $8.10.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-05-04": {
+  "companies": [],
+  "date": "2026-11-05",
+  "headline": "WTI crude trades just below $90 and Brent near $97, well under Tuesday's $103.60 settle",
+  "numbers": [
+   "WTI: just below $90/bbl",
+   "Brent: ~$97/bbl (Thursday)",
+   "Brent Tuesday settle: $103.60",
+   "Brent October peak: above $110"
+  ],
+  "order": 4,
+  "sector": "energy-materials",
+  "soWhat": "Oil still carries a war premium, so prices move several dollars on headlines about talks. Producers and tanker owners benefit from high prices, while airlines, refiners buying crude and consumers pay more, so a real reopening of Hormuz would shift profits quickly across the chain. The open question is whether the diplomacy produces actual shipping flows or stalls again.",
+  "sources": [
+   {
+    "title": "CNBC: Nasdaq falls 2% as investors continue postelection rotation out of AI stocks",
+    "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "US crude traded just below $90 a barrel on Thursday morning, up more than 1%, while Brent rose more than 2% to around $97. Both are well below the levels of earlier this week: Brent settled at $103.60 on Tuesday after a 7% drop on Monday on reports that Iran had opened the way to peace talks with the United States. No deal has been reached, and Iran has said it will ease shipping through the Strait of Hormuz only if the US lifts its economic blockade.",
+  "tags": []
+ },
+ "2026-11-05-05": {
+  "companies": [
+   "freeport-mcmoran"
+  ],
+  "date": "2026-11-05",
+  "headline": "Freeport-McMoRan approves a $4.5 billion expansion of its Bagdad copper mine in Arizona",
+  "numbers": [
+   "Capex: $4.5B (was $3.5B)",
+   "Added copper: ~225M lb/yr",
+   "Copper output target: 400M+ lb/yr",
+   "Build time: 3-4 years"
+  ],
+  "order": 5,
+  "sector": "energy-materials",
+  "soWhat": "Copper demand is rising from electrification and data centers, but new mines take many years and heavy capital to build. Expanding an existing site adds supply sooner than a new mine, and it would make Bagdad the second-largest US copper mine after Morenci. The 30% cost increase shows how inflation raises the price of new supply, which tends to keep copper prices supported. The open question is whether copper demand holds up long enough to justify the spending.",
+  "sources": [
+   {
+    "title": "Freeport-McMoRan Form 8-K, November 4, 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000831259/000083125926000048/fcx_261104.htm"
+   },
+   {
+    "title": "Metal.com: Freeport CEO signals likely go-ahead for $4.5 billion Bagdad expansion",
+    "url": "https://news.metal.com/newscontent/104111527-freeport-ceo-signals-likely-go-ahead-for-45-billion-bagdad-copper-expansion"
+   }
+  ],
+  "subindustry": "metals-mining",
+  "summary": "Freeport-McMoRan's board approved a $4.5 billion expansion and modernization of its Bagdad copper and molybdenum mine in northwest Arizona. The project is expected to more than double mining and milling rates and lift long-term copper output above 400 million pounds a year, about 225 million pounds more than today. Molybdenum output is expected to rise above 20 million pounds a year. The budget is about 30% above a 2023 estimate of $3.5 billion, reflecting labor and commodity inflation and scope changes. Construction is expected to take three to four years.",
+  "tags": []
+ },
+ "2026-11-05-06": {
+  "companies": [
+   "array-technologies",
+   "shoals-technologies"
+  ],
+  "date": "2026-11-05",
+  "headline": "Array Technologies and Shoals agree an all-stock merger, with Shoals holders to own about 65%",
+  "numbers": [
+   "Exchange ratio: 1.6931 Array shares per Shoals share",
+   "Pro forma 2027 revenue: $2.2B-$2.4B",
+   "Synergies: >$100M a year",
+   "Projects using both: ~20%"
+  ],
+  "order": 6,
+  "sector": "energy-materials",
+  "soWhat": "Array makes solar trackers and Shoals makes electrical connection systems, so together they can sell a unified design package to solar and battery projects. Only about 20% of projects used both companies' products, which is the cross-selling opening they point to. Shoals also brings tax assets that could reduce cash taxes. The open question is whether developers will buy bundled systems or keep choosing suppliers piece by piece.",
+  "sources": [
+   {
+    "title": "Array and Shoals merger announcement (via Stock Titan)",
+    "url": "https://www.stocktitan.net/news/SHLS/array-technologies-and-shoals-technologies-group-announce-iy82i9di3k7r.html"
+   }
+  ],
+  "subindustry": "renewables-transition",
+  "summary": "Array Technologies will merge with Shoals Technologies Group in an all-stock deal in which each Shoals share converts into 1.6931 Array shares. Shoals holders would own about 65% of the combined company and Array holders about 35%. The companies guide to $2.2 to $2.4 billion of pro forma 2027 revenue and more than $100 million of annual cost and revenue synergies within three years. Closing is expected in the first quarter of 2027, subject to shareholder and regulatory approvals.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-05-07": {
+  "companies": [
+   "applovin"
+  ],
+  "date": "2026-11-05",
+  "headline": "AppLovin revenue jumps 55% to $2.18 billion and shares surge about 28%",
+  "numbers": [
+   "Revenue: $2.185B (+55%)",
+   "Net income: $1.44B (+72%)",
+   "Prior guide: $2.055B-$2.085B",
+   "Shares: ~+28%"
+  ],
+  "order": 7,
+  "sector": "tmt",
+  "soWhat": "AppLovin earns a cut of advertiser spending that its software directs, so revenue grows with ad performance rather than with the number of customers. Revenue growth well above the company's own forecast suggests its targeting is winning a bigger share of mobile ad budgets, at the expense of other ad networks. The open question is whether it can keep growing at this rate as its base gets larger and rivals respond.",
+  "sources": [
+   {
+    "title": "AppLovin Form 8-K: Q3 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001751008/000175100826000068/exhibit991-3q26earningspre.htm"
+   },
+   {
+    "title": "CNBC: Nasdaq falls 2% as investors continue postelection rotation out of AI stocks",
+    "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"
+   }
+  ],
+  "subindustry": "internet-platforms",
+  "summary": "AppLovin, which sells software that matches advertisers with mobile apps and games, reported third-quarter revenue of about $2.185 billion, up 55% from a year earlier. That was above the $2.055 to $2.085 billion range it gave in August. Net income rose 72% to $1.44 billion. The stock jumped about 28% on Thursday on the results and outlook.",
+  "tags": []
+ },
+ "2026-11-05-08": {
+  "companies": [
+   "uber"
+  ],
+  "date": "2026-11-05",
+  "headline": "Uber's gross bookings rise 20% to $59.8 billion, with Freight growing fastest",
+  "numbers": [
+   "Gross bookings: $59.8B (+20%)",
+   "Non-GAAP operating income: $2.3B (+38%)",
+   "Adjusted EBITDA: $3.0B (+31%)",
+   "Freight growth: +35%"
+  ],
+  "order": 8,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Profit growing faster than bookings shows operating leverage: much of Uber's cost base is fixed, so each extra dollar of rides and deliveries adds more profit. Delivery and Freight growing faster than rides shows the platform spreading into moving goods, not only people. The open question is whether consumers keep spending at this pace with high interest rates and elevated fuel costs.",
+  "sources": [
+   {
+    "title": "Uber Form 8-K: Q3 2026 earnings press release",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001543151/000154315126000039/uberq326earningspressrelea.htm"
+   }
+  ],
+  "subindustry": "transport-logistics",
+  "summary": "Uber reported third-quarter gross bookings of $59.8 billion, up 20% in constant currency. Mobility grew 17%, Delivery 23% and Freight 35%. Non-GAAP operating income rose 38% to $2.3 billion, 3.9% of gross bookings, and adjusted EBITDA rose 31% to $3.0 billion. GAAP diluted EPS was $0.25 and non-GAAP EPS was $0.88.",
+  "tags": []
+ },
+ "2026-11-05-09": {
+  "companies": [
+   "datadog"
+  ],
+  "date": "2026-11-05",
+  "headline": "Datadog revenue grows 35% to $1.20 billion, but its filing flags lower usage from its largest customer",
+  "numbers": [
+   "Revenue: ~$1.197B (+35%)",
+   "Prior-year revenue: $886M",
+   "Guidance: $1.135B-$1.145B",
+   "Largest customer: lower usage"
+  ],
+  "order": 9,
+  "sector": "tmt",
+  "soWhat": "Datadog bills mostly on how much its customers use its monitoring tools, so a big customer using less cuts revenue without any contract being cancelled. This makes results more sensitive to the spending decisions of a few large AI-related customers than a fixed-fee subscription would be. The open question is how much of the slowdown is one customer and how much is broader.",
+  "sources": [
+   {
+    "title": "Datadog Form 10-Q for the quarter ended September 30, 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001561550/000162828026070292/ddog-20260930.htm"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Datadog reported third-quarter revenue of about $1.197 billion, up 35% from $886 million a year earlier and above its own guidance of $1.135 to $1.145 billion. Its quarterly filing says usage from its largest customer fell in the quarter and that this may slow revenue growth.",
+  "tags": []
+ },
+ "2026-11-05-10": {
+  "companies": [
+   "deoleo",
+   "dcoop",
+   "acesur"
+  ],
+  "date": "2026-11-05",
+  "headline": "Spain's Dcoop and Acesur take over Deoleo, the world's largest olive oil company, at a EUR 520 million enterprise value",
+  "numbers": [
+   "Enterprise value: EUR 520M",
+   "Earlier Dcoop bid: EUR 470M",
+   "Each buyer: 50%",
+   "Deoleo shares: about -20%"
+  ],
+  "order": 10,
+  "sector": "consumer-retail",
+  "soWhat": "Olive oil is a crop-driven business: supply swings with weather, so prices and margins swing too. Two large Spanish producers buying the biggest brand owner joins growing and bottling under one roof, which can give them control over both supply and shelf. The share drop suggests investors expected a higher price after the earlier bidding contest. The open question is how a producer-owned Deoleo handles price swings in years of poor harvests.",
+  "sources": [
+   {
+    "title": "CNBC: Deoleo olive oil takeover by Dcoop and Acesur",
+    "url": "https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html"
+   }
+  ],
+  "subindustry": "agriculture-food",
+  "summary": "Deoleo, described as the world's largest olive oil company, accepted an offer from Spanish rivals Dcoop and Acesur, which will each hold 50%. The deal implies an enterprise value of EUR 520 million, up from an earlier reported Dcoop bid of EUR 470 million, and followed a contest with bidders from Italy, France and Australia. Deoleo shares fell about 20% on Thursday. Olive oil prices have been volatile because of climate change, water scarcity and disease, and have recently eased.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-05-11": {
+  "companies": [],
+  "date": "2026-11-05",
+  "headline": "A Democratic sweep puts US tariffs and tech export controls back in play, with changes unlikely before January",
+  "numbers": [
+   "Congress: Democrats won both chambers",
+   "New governors: Texas, Nevada, Iowa",
+   "New members seated: January",
+   "Trump-Xi meetings: Shenzhen (Nov), Miami (Dec)"
+  ],
+  "order": 11,
+  "sector": "macro",
+  "soWhat": "Tariff policy sets input costs for importers, retailers and manufacturers, so any move to roll them back would help companies that import heavily and hurt protected domestic producers. Tougher chip restrictions would hit sales of US chipmakers to China, but give Beijing more reason to build its own alternatives. China's hold on rare earths gives it leverage in any negotiation. The open question is how much a Democratic Congress can change policy while the president controls trade actions.",
+  "sources": [
+   {
+    "title": "CNBC: What the Democrat midterm sweep changes for US-China tech rivalry",
+    "url": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "Democrats won House and Senate majorities and flipped governorships in Texas, Nevada and Iowa, though most new members do not take office until January. Removing President Trump's tariffs is high on their agenda as part of a focus on domestic inflation. Analysts also expect pressure to toughen technology restrictions on China, though the president's wide executive powers limit what Congress can force. Trump and Xi are expected to meet in Shenzhen this month and in Miami next month, which should preserve the current trade truce.",
+  "tags": []
  }
 }

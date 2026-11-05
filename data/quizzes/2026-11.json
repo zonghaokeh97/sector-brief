@@ -1146,5 +1146,252 @@
     "subindustry": "automotive-mobility"
    }
   ]
+ },
+ "2026-11-05": {
+  "date": "2026-11-05",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "With no agreement and Iran tying Hormuz shipping to the US lifting its blockade, prices move several dollars on talk headlines. A real reopening would shift profits quickly between producers and fuel buyers.",
+    "id": "2026-11-05:x01",
+    "kind": "today",
+    "options": [
+     "Oil prices follow US interest rates closely",
+     "Prices carry a war premium and swing on headlines about talks and the Strait of Hormuz",
+     "Supply has returned to normal after the blockade",
+     "Demand has collapsed in all regions"
+    ],
+    "prompt": "Brent settled at $103.60 on Tuesday and traded near $97 on Thursday, with no peace deal reached. What does the price movement show?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-05-04",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 1,
+    "explanation": "AppLovin's software matches advertisers with mobile apps and games and it keeps a cut of the spending it directs, so revenue grows with ad performance.",
+    "id": "2026-11-05:x02",
+    "kind": "today",
+    "options": [
+     "Monthly subscriptions from app users",
+     "A share of advertiser spending its software directs to apps and games",
+     "Selling smartphones",
+     "Charging apps for cloud storage"
+    ],
+    "prompt": "AppLovin's revenue rose 55% to about $2.185 billion, above its own $2.055 to $2.085 billion guide. What does AppLovin mainly earn money from?",
+    "sector": "tmt",
+    "storyId": "2026-11-05-07",
+    "subindustry": "internet-platforms"
+   },
+   {
+    "answer": 0,
+    "explanation": "Climate change, water scarcity and disease make harvests and prices volatile. Combining production and the brand gives the owners more control over supply and shelf price.",
+    "id": "2026-11-05:x03",
+    "kind": "today",
+    "options": [
+     "Supply swings with weather, disease and water, so prices and margins swing too",
+     "Olive oil demand is fixed by law",
+     "Prices never change",
+     "Bottling is the only profitable step"
+    ],
+    "prompt": "Dcoop and Acesur, two Spanish olive oil producers, will each own 50% of Deoleo. Which feature of olive oil markets makes owning both growing and bottling attractive?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-05-10",
+    "subindustry": "agriculture-food"
+   },
+   {
+    "answer": 0,
+    "explanation": "Brokers are asset-light: they arrange moves on other firms' vehicles and keep the difference between the shipper's rate and the carrier's rate. That spread widens when capacity is tight.",
+    "id": "2026-11-05:x04",
+    "kind": "profile",
+    "options": [
+     "It earns the spread between what shippers pay and what carriers charge",
+     "It owns a large fleet of trucks",
+     "It charges ports a fee for each ship",
+     "It sells diesel fuel"
+    ],
+    "prompt": "Which best describes how a freight broker makes money?",
+    "sector": "infrastructure-logistics",
+    "storyId": null,
+    "subindustry": "transport-logistics"
+   },
+   {
+    "answer": 1,
+    "explanation": "Tariffs raise input costs for importers, so rolling them back helps them, while protected domestic producers lose some price support. Changes are unlikely before January and the president keeps wide trade powers.",
+    "id": "2026-11-05:x05",
+    "kind": "today",
+    "options": [
+     "Protected domestic producers that compete with imports",
+     "Companies that import heavily, such as retailers and manufacturers",
+     "Chinese tech firms only",
+     "Rare earth miners"
+    ],
+    "prompt": "A Democratic Congress takes office in January, and removing tariffs is high on its agenda. Which companies would gain most if tariffs were rolled back?",
+    "sector": "macro",
+    "storyId": "2026-11-05-11",
+    "subindustry": "macro"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "Hyperscalers can wait out stricter rules or buy capacity from weaker operators, while a debt-funded provider faces wider spreads: CoreWeave's credit default swap spread passed 1,100 basis points. The projects are not all exempt, since only those already under construction reportedly are.",
+    "id": "2026-11-05:q01",
+    "kind": "today",
+    "options": [
+     "Microsoft and Amazon build fewer data centers than CoreWeave",
+     "Large cloud providers have diversified revenue and internal cash flow, while CoreWeave relies on borrowing that gets costlier",
+     "CoreWeave's projects are all exempt from the proposed rules",
+     "Investors expect permitting rules to apply only to Microsoft and Amazon"
+    ],
+    "prompt": "After the midterms, Microsoft and Amazon rose over 6% while CoreWeave fell about 10% as data center permitting risk rose. What best explains the split?",
+    "sector": "tmt",
+    "storyId": "2026-11-05-02",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 3,
+    "explanation": "CVS says independence gives each business a focused agenda and its own capital structure. Insurance and benefit management earn premiums and fees, while stores depend on traffic and thin dispensing margins. The split is meant to be tax-free and does not by itself change revenue.",
+    "id": "2026-11-05:q02",
+    "kind": "today",
+    "options": [
+     "Pharmacies and insurers are required by law to have the same owner",
+     "Insurance and pharmacy stores must merge to cut taxes",
+     "The split will lift the company's revenue above $420 billion",
+     "The two halves have different economics and regulation, so each can pursue its own strategy and capital structure"
+    ],
+    "prompt": "CVS plans to separate Aetna and Caremark from its roughly 9,000 pharmacies. What is the main business logic?",
+    "sector": "healthcare",
+    "storyId": "2026-11-05-03",
+    "subindustry": "payers-providers"
+   },
+   {
+    "answer": 0,
+    "explanation": "The expansion adds about 225 million pounds a year, lifting output above 400 million pounds. The 400 million figure is the new total, not the addition. The budget is about 30% above a 2023 estimate of $3.5 billion.",
+    "id": "2026-11-05:q03",
+    "kind": "today",
+    "options": [
+     "About 225 million pounds",
+     "About 50 million pounds",
+     "About 1 billion pounds",
+     "About 400 million pounds"
+    ],
+    "prompt": "Freeport-McMoRan approved a $4.5 billion expansion of its Bagdad mine. About how much copper per year will it add?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-05-05",
+    "subindustry": "metals-mining"
+   },
+   {
+    "answer": 2,
+    "explanation": "The companies see an opening to sell a unified design package to the large majority of projects that now use only one of their products. They guide to more than $100 million in annual synergies. The deal is all-stock, and Shoals holders will own about 65%, not 35%.",
+    "id": "2026-11-05:q04",
+    "kind": "today",
+    "options": [
+     "Shoals holders will own only about 35% of the company",
+     "Only about 20% of projects used both companies' products, so there is room to cross-sell",
+     "Both companies already sell their products as a bundle on most projects",
+     "The deal was financed with cash instead of stock"
+    ],
+    "prompt": "Array Technologies (solar trackers) is merging with Shoals (electrical connection systems). Which fact best explains the revenue opportunity?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-05-06",
+    "subindustry": "renewables-transition"
+   },
+   {
+    "answer": 1,
+    "explanation": "Profit rising faster than bookings is operating leverage: a large part of the cost base is fixed, so growth drops through to profit. Non-GAAP operating income reached 3.9% of gross bookings, or $2.3 billion.",
+    "id": "2026-11-05:q05",
+    "kind": "today",
+    "options": [
+     "Uber raised the share of bookings paid out to drivers",
+     "Costs grew more slowly than bookings, so each extra dollar of activity added more profit",
+     "Uber's bookings were mostly recorded in the previous year",
+     "Fuel prices fell sharply in the quarter"
+    ],
+    "prompt": "Uber's non-GAAP operating income grew 38% while gross bookings grew 20%. What does this gap show?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-11-05-08",
+    "subindustry": "transport-logistics"
+   },
+   {
+    "answer": 3,
+    "explanation": "Datadog bills mostly according to how much customers use its tools, so reduced use lowers revenue with no cancellation. That makes it more sensitive to a few large customers than a fixed-fee subscription would be.",
+    "id": "2026-11-05:q06",
+    "kind": "today",
+    "options": [
+     "The customer has cancelled its contract and must pay a penalty",
+     "Datadog's costs rise automatically when a customer leaves",
+     "Its guidance excluded that customer",
+     "Revenue is billed mostly on usage, so one big customer using less cuts revenue directly"
+    ],
+    "prompt": "Datadog's revenue grew 35% to about $1.2 billion, yet its filing warns that growth may slow. Why does lower usage by its largest customer matter so much?",
+    "sector": "tmt",
+    "storyId": "2026-11-05-09",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 0,
+    "explanation": "An integrated company owns both production and refining. Upstream earned $7.1B, down on lower prices, while refining margins and strong diesel yields lifted Energy Products. A pure producer would not have that offset.",
+    "id": "2026-10-30:q03",
+    "kind": "review",
+    "options": [
+     "Refining and fuel margins can widen when crude prices ease, offsetting weaker production profits",
+     "Lower crude prices raise its output automatically",
+     "Governments pay refiners subsidies whenever crude falls",
+     "Its chemicals prices are fixed by ten-year contracts"
+    ],
+    "prompt": "ExxonMobil's upstream earnings fell in Q3 2026 while Energy Products (refining) rose to $7.2B, lifting adjusted earnings to $17.5B. Why can an integrated oil company's profit hold up when crude eases?",
+    "sector": "energy-materials",
+    "storyId": "2026-10-30-03",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 2,
+    "explanation": "When spending outgrows income, the gap comes from savings, and the saving rate dropped from 4.0% to 3.8%. Strong growth with inflation at 3.6% also keeps the Fed leaning toward holding or raising rates.",
+    "id": "2026-10-31:q03",
+    "kind": "review",
+    "options": [
+     "Households are building a larger cushion",
+     "Consumers are cutting back sharply",
+     "Spending growth is partly funded by drawing down savings, which cannot continue indefinitely",
+     "Income is growing faster than spending"
+    ],
+    "prompt": "Third-quarter GDP grew 3.4%, but income rose 0.2% while spending rose 0.5% and the saving rate fell to 3.8%. What does this imply?",
+    "sector": "macro",
+    "storyId": "2026-10-31-03",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 3,
+    "explanation": "Once a network is built, each added user and gigabyte brings revenue with little extra cost, so profit grows faster than sales. Jio added 9.1 million subscribers and data traffic rose 22%.",
+    "id": "2026-11-02:q06",
+    "kind": "review",
+    "options": [
+     "Jio cut the number of subscribers",
+     "Government subsidies replaced customer fees",
+     "Jio sold its network to a tower company",
+     "Network costs are mostly fixed, so extra subscribers and data use add profit at low cost"
+    ],
+    "prompt": "Jio's revenue rose 11% but EBITDA rose 17%, lifting the margin to 54.1%. What explains this?",
+    "sector": "tmt",
+    "storyId": "2026-11-02-07",
+    "subindustry": "telecom"
+   },
+   {
+    "answer": 2,
+    "explanation": "In a commodity business producers cannot set price, so profit is price minus cost. Low-cost producers stay profitable when prices drop while high-cost rivals lose money and eventually cut output.",
+    "id": "2026-11-05:q10",
+    "kind": "profile",
+    "options": [
+     "They receive higher prices than other producers",
+     "They are exempt from price swings through government contracts",
+     "Profit is market price minus production cost, so the lowest-cost producers still earn a margin when prices fall",
+     "They hold more inventory than competitors"
+    ],
+    "prompt": "Steel and mining prices are set by global markets, yet low-cost producers keep earning in downturns. Why?",
+    "sector": "energy-materials",
+    "storyId": null,
+    "subindustry": "metals-mining"
+   }
+  ]
  }
 }

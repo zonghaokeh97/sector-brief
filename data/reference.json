@@ -17,6 +17,22 @@
    "ticker": "NYSE: MMM",
    "updated": "2026-10-20"
   },
+  "acesur": {
+   "businessModel": "Produces, bottles and sells olive oil and other edible oils under its own brands and for private labels.",
+   "competitors": [
+    "Deoleo",
+    "Dcoop",
+    "Borges",
+    "Sovena"
+   ],
+   "hq": "Seville, Spain",
+   "name": "Acesur",
+   "sector": "consumer-retail",
+   "size": "Large Spanish olive oil group (approx.)",
+   "subindustry": "agriculture-food",
+   "ticker": "Private",
+   "updated": "2026-11-05"
+  },
   "adt": {
    "businessModel": "Sells and installs security and smart-home systems and earns monthly fees for monitoring them, mostly from US homes and small businesses.",
    "competitors": [
@@ -220,6 +236,23 @@
    "ticker": "Nasdaq: AMAT",
    "updated": "2026-10-27"
   },
+  "applovin": {
+   "businessModel": "Runs an advertising platform that uses software to match advertisers with mobile apps and games, earning a share of the ad spending it directs.",
+   "competitors": [
+    "Unity",
+    "Meta",
+    "Google",
+    "ironSource (Unity)",
+    "Moloco"
+   ],
+   "hq": "Palo Alto, California, USA",
+   "name": "AppLovin",
+   "sector": "tmt",
+   "size": "Q3 2026 revenue $2.18B",
+   "subindustry": "internet-platforms",
+   "ticker": "Nasdaq: APP",
+   "updated": "2026-11-05"
+  },
   "ares-capital": {
    "businessModel": "A business development company that lends to middle-market companies and pays most of its income to shareholders, managed externally by Ares.",
    "competitors": [
@@ -236,6 +269,22 @@
    "subindustry": "asset-wealth",
    "ticker": "Nasdaq: ARCC",
    "updated": "2026-10-27"
+  },
+  "array-technologies": {
+   "businessModel": "Makes the tracker systems that tilt solar panels to follow the sun and sells them to utility-scale solar developers and installers.",
+   "competitors": [
+    "Nextracker",
+    "GameChange Solar",
+    "FTC Solar",
+    "Arctech"
+   ],
+   "hq": "Albuquerque, New Mexico, USA",
+   "name": "Array Technologies",
+   "sector": "energy-materials",
+   "size": "Revenue about $0.9B (2024, approx.)",
+   "subindustry": "renewables-transition",
+   "ticker": "Nasdaq: ARRY",
+   "updated": "2026-11-05"
   },
   "astrazeneca": {
    "businessModel": "Discovers, makes and sells patented prescription medicines, led by cancer drugs, with large franchises in rare disease and heart, kidney and metabolic care.",
@@ -606,6 +655,24 @@
    "ticker": "NASDAQ: CRWV",
    "updated": "2026-10-19"
   },
+  "cvs-health": {
+   "businessModel": "Combines Aetna health insurance, the Caremark pharmacy benefit manager and about 9,000 retail pharmacies. It earns premiums from insurance, fees and drug spread from managing drug benefits, and dispensing margins in stores.",
+   "competitors": [
+    "UnitedHealth Group",
+    "Cigna",
+    "Humana",
+    "Walgreens",
+    "Walmart",
+    "Amazon"
+   ],
+   "hq": "Woonsocket, Rhode Island, USA",
+   "name": "CVS Health",
+   "sector": "healthcare",
+   "size": "Revenue guided to at least $420B for 2026 (company, Nov 2026)",
+   "subindustry": "payers-providers",
+   "ticker": "NYSE: CVS",
+   "updated": "2026-11-05"
+  },
   "dai-ichi-life": {
    "businessModel": "Collects life insurance and annuity premiums, invests them, and has been buying overseas insurers and retirement businesses to offset a shrinking Japanese market.",
    "competitors": [
@@ -623,6 +690,39 @@
    "ticker": "TSE: 8750",
    "updated": "2026-10-21"
   },
+  "datadog": {
+   "businessModel": "Sells cloud-based tools for monitoring applications and infrastructure, mostly billed according to customer usage.",
+   "competitors": [
+    "Dynatrace",
+    "Splunk (Cisco)",
+    "New Relic",
+    "Grafana Labs",
+    "Microsoft"
+   ],
+   "hq": "New York, New York, USA",
+   "name": "Datadog",
+   "sector": "tmt",
+   "size": "Q3 2026 revenue $1.2B",
+   "subindustry": "software-cloud",
+   "ticker": "Nasdaq: DDOG",
+   "updated": "2026-11-05"
+  },
+  "dcoop": {
+   "businessModel": "A cooperative owned by farmers that produces and sells olive oil and other crops, giving growers access to processing and markets.",
+   "competitors": [
+    "Acesur",
+    "Deoleo",
+    "Borges",
+    "Sovena"
+   ],
+   "hq": "Antequera, Spain",
+   "name": "Dcoop",
+   "sector": "consumer-retail",
+   "size": "Large Spanish agricultural cooperative (approx.)",
+   "subindustry": "agriculture-food",
+   "ticker": "Private (cooperative)",
+   "updated": "2026-11-05"
+  },
   "delta-air-lines": {
    "businessModel": "Sells passenger tickets, with premium cabins and its loyalty program (including a large American Express partnership) providing a large share of profit.",
    "competitors": [
@@ -639,6 +739,23 @@
    "subindustry": "travel-hospitality",
    "ticker": "NYSE: DAL",
    "updated": "2026-10-21"
+  },
+  "deoleo": {
+   "businessModel": "Buys, blends and bottles olive oil and sells it under consumer brands such as Bertolli and Carbonell, earning the margin between oil purchase costs and shelf prices.",
+   "competitors": [
+    "Borges",
+    "Sovena",
+    "Acesur",
+    "Dcoop",
+    "Private-label suppliers"
+   ],
+   "hq": "Madrid area, Spain",
+   "name": "Deoleo",
+   "sector": "consumer-retail",
+   "size": "Enterprise value EUR 520M in takeover (Nov 2026)",
+   "subindustry": "agriculture-food",
+   "ticker": "BME: OLE",
+   "updated": "2026-11-05"
   },
   "deutsche-telekom": {
    "businessModel": "Sells mobile and fixed-line phone, broadband and TV subscriptions in Germany, Europe and (through T-Mobile US) the United States, earning recurring monthly fees on networks it builds.",
@@ -860,6 +977,24 @@
    "subindustry": "software-cloud",
    "ticker": "NASDAQ: FTNT",
    "updated": "2026-10-31"
+  },
+  "freeport-mcmoran": {
+   "businessModel": "Mines copper, gold and molybdenum in the US, Indonesia and Peru, and sells concentrate and refined copper at market prices. Profit depends on copper prices and unit costs.",
+   "competitors": [
+    "Southern Copper",
+    "BHP",
+    "Codelco",
+    "Rio Tinto",
+    "Glencore",
+    "Teck"
+   ],
+   "hq": "Phoenix, Arizona, USA",
+   "name": "Freeport-McMoRan",
+   "sector": "energy-materials",
+   "size": "Revenue about $25B (2024, approx.)",
+   "subindustry": "metals-mining",
+   "ticker": "NYSE: FCX",
+   "updated": "2026-11-05"
   },
   "ge-aerospace": {
    "businessModel": "Sells jet engines (often at thin margins) and earns most of its profit over decades from spare parts, repairs and service contracts on the installed fleet.",
@@ -1987,6 +2122,22 @@
    "ticker": "NYSE: SHEL",
    "updated": "2026-10-31"
   },
+  "shoals-technologies": {
+   "businessModel": "Sells electrical balance-of-system products, such as wiring harnesses and combiners, that connect solar panels and battery systems on large projects.",
+   "competitors": [
+    "Nextracker (eBOS)",
+    "Prysmian",
+    "Southwire",
+    "Generac"
+   ],
+   "hq": "Portland, Tennessee, USA",
+   "name": "Shoals Technologies Group",
+   "sector": "energy-materials",
+   "size": "Revenue about $0.4B (2024, approx.)",
+   "subindustry": "renewables-transition",
+   "ticker": "Nasdaq: SHLS",
+   "updated": "2026-11-05"
+  },
   "shopify": {
    "businessModel": "Sells subscriptions for its online store software and earns larger fees from payments, shipping and other services on its merchants' sales.",
    "competitors": [
@@ -2360,6 +2511,24 @@
    "subindustry": "payments-fintech",
    "ticker": "Private (Tradeweb deal pending)",
    "updated": "2026-10-25"
+  },
+  "uber": {
+   "businessModel": "Runs a platform for ride-hailing, food and grocery delivery and freight brokerage, earning a take rate on each transaction.",
+   "competitors": [
+    "Lyft",
+    "DoorDash",
+    "Grab",
+    "Didi",
+    "Waymo",
+    "C.H. Robinson"
+   ],
+   "hq": "San Francisco, California, USA",
+   "name": "Uber Technologies",
+   "sector": "infrastructure-logistics",
+   "size": "Q3 2026 gross bookings $59.8B",
+   "subindustry": "transport-logistics",
+   "ticker": "NYSE: UBER",
+   "updated": "2026-11-05"
   },
   "union-pacific": {
    "businessModel": "Operates a freight railroad across the western US and earns fees per carload and shipment for hauling goods, with fuel surcharges added on top.",
@@ -3982,35 +4151,35 @@
    ]
   },
   "metals-mining": {
-   "economicsOn": "segments",
+   "economicsOn": "valueChain",
    "keyFigures": [
     {
-     "label": "World crude steel",
-     "note": "2025, down 2% · worldsteel",
+     "label": "World crude steel output",
+     "note": "2025 · worldsteel",
      "value": "~1,849 Mt"
     },
     {
      "label": "China's share of steel",
-     "note": "~961 Mt, 2025 · worldsteel",
+     "note": "960.8 Mt of the 2025 total · worldsteel, calculated",
      "value": "~52%"
     },
     {
-     "label": "Copper price",
-     "note": "LME record, Sep 2026",
-     "value": "~$14,500/t"
+     "label": "World copper mine output",
+     "note": "2025 estimate · USGS Mineral Commodity Summaries 2026",
+     "value": "~23 Mt"
     },
     {
-     "label": "US crude steel",
-     "note": "2025, up 3% · worldsteel",
-     "value": "~82 Mt"
+     "label": "Copper price",
+     "note": "LME, Oct 2026 · market data",
+     "value": "~$14,400/t"
     }
    ],
    "kpis": [
-    "LME copper and iron ore prices",
-    "Hot-rolled coil steel price ($/ton)",
-    "Cost curve position (which quartile a mine sits in)",
-    "Mill capacity utilization",
-    "China steel output and exports"
+    "World crude steel output: ~1,849 Mt (2025)",
+    "China's share of steel: ~52%",
+    "World copper mine output: ~23 Mt (2025)",
+    "LME copper price (~$14,400/t)",
+    "Mill utilization and hot-rolled coil prices"
    ],
    "marketSize": {
     "global": "~1.9B t steel/yr",
@@ -4019,65 +4188,50 @@
     "usNote": "US crude steel output (worldsteel, 2024 approx.)"
    },
    "operatingModel": "Profit is commodity price minus production cost, so low-cost producers survive downturns. Integrated steelmakers (ore to sheet) have high fixed costs; mini-mills melt scrap in electric furnaces and flex output more easily.",
-   "overview": "Mining of iron ore, copper, lithium, gold and other minerals, and production of steel and aluminum. Commodity businesses where cost position and trade policy decide winners.",
+   "overview": "Metals and mining digs ore out of the ground and turns it into the metals that industry runs on, mainly iron ore for steel and copper for wiring and electrification. The chain runs from exploration and mines through smelting and refining to steel mills and fabricators. Prices are set on global markets, so profit comes from selling at market prices while holding costs below those of rivals. Electrification demand, Chinese steel volumes and trade policy are the main forces changing the industry.",
    "players": [
     "Steel: China Baowu (largest), ArcelorMittal, Nippon Steel (owns U.S. Steel), Nucor, Cleveland-Cliffs",
     "Diversified miners: BHP, Rio Tinto, Glencore, Vale, Anglo American",
     "Copper: Freeport-McMoRan, Codelco; Gold: Newmont"
    ],
-   "profileUpdated": "2026-10-27",
+   "profileUpdated": "2026-11-05",
    "sector": "energy-materials",
    "segments": {
     "items": [
      {
-      "cost": "iron ore, coking coal or scrap, and energy",
-      "leaders": "China Baowu · ArcelorMittal · Nucor · Vale",
-      "name": "Iron ore & steel",
-      "revenue": "steel or ore price × tonnes",
-      "takeaway": {
-       "label": "Cyclical and crowded",
-       "why": "Chinese oversupply depresses prices outside protected markets like the US."
-      },
-      "what": "The largest metal by volume; China made ~961 Mt of the world's ~1,849 Mt in 2025 (worldsteel)."
+      "growth": "flat",
+      "leaders": "Codelco · Escondida · Antofagasta",
+      "name": "Chile",
+      "share": "~23%",
+      "sharePct": 23,
+      "what": "The largest producer at about 5.3 Mt, slightly lower than in 2024."
      },
      {
-      "cost": "mining ever-lower-grade ore, energy and water",
-      "highlight": true,
-      "leaders": "Freeport-McMoRan · Codelco · BHP · Southern Copper",
-      "name": "Copper",
-      "revenue": "LME copper price × tonnes, plus gold and other by-products",
-      "takeaway": {
-       "label": "Tightest market, best margins",
-       "why": "Demand from electrification and data centers is outrunning slow-to-build mine supply."
-      },
-      "what": "The key metal for wires, motors and grids; LME prices hit records near $14,500/t in Sep 2026."
+      "growth": "fast",
+      "leaders": "CMOC · Glencore · Ivanhoe",
+      "name": "DR Congo",
+      "share": "~14%",
+      "sharePct": 14,
+      "what": "About 3.2 Mt, up from 2024 as new mines ramp up (share calculated)."
      },
      {
-      "cost": "power is often ~30–40% of smelting cost",
-      "leaders": "Chalco · Rio Tinto · Alcoa · Rusal",
-      "name": "Aluminum",
-      "revenue": "LME price plus regional premiums (high in the US due to tariffs)",
-      "takeaway": {
-       "label": "Power price decides winners",
-       "why": "Smelters with cheap hydro or coal power profit; high energy prices close plants."
-      },
-      "what": "Light metal for packaging, cars and aircraft; smelting uses huge amounts of electricity."
+      "leaders": "Cerro Verde · Antamina",
+      "name": "Peru",
+      "share": "~12%",
+      "sharePct": 12,
+      "what": "About 2.7 Mt, third in the world (share calculated)."
      },
      {
-      "cost": "mining and processing; lithium costs vary widely",
-      "leaders": "Newmont · Barrick · Albemarle · SQM",
-      "name": "Gold & battery metals",
-      "revenue": "spot price × ounces or tonnes",
-      "takeaway": {
-       "label": "Gold strong, lithium volatile",
-       "why": "Gold rises in uncertain times; lithium swung from boom to glut as Chinese supply surged."
-      },
-      "what": "Gold is a store of value; lithium, nickel and cobalt feed batteries."
+      "leaders": "China · United States · Indonesia · Australia",
+      "name": "Rest of world",
+      "share": "~51%",
+      "sharePct": 51,
+      "what": "Many mid-sized producers, including the US where Freeport's Bagdad mine is being expanded (calculated remainder)."
      }
     ],
-    "title": "Main commodity businesses"
+    "title": "Share of world copper mine output, by country (2025, USGS estimates)"
    },
-   "summary": "Miners dig up iron ore, copper, aluminum ore, gold and battery metals, and metal makers turn them into steel, aluminum and refined metal. These are commodity businesses: everyone sells at the market price, so the lowest-cost producers make the most money and survive downturns. China dominates steel, while copper is the metal of the moment because grids, data centers and electric vehicles all need it and new mines are slow to arrive.",
+   "summary": "Metals and mining digs ore out of the ground and turns it into the metals that industry runs on, mainly iron ore for steel and copper for wiring and electrification. The chain runs from exploration and mines through smelting and refining to steel mills and fabricators. Prices are set on global markets, so profit comes from selling at market prices while holding costs below those of rivals. Electrification demand, Chinese steel volumes and trade policy are the main forces changing the industry.",
    "threats": [
     "Chinese oversupply and price dumping",
     "Tariff policy reversals",
@@ -4094,55 +4248,85 @@
    "trendsThreats": [
     {
      "kind": "tailwind",
-     "text": "Copper demand from grids, data centers and EVs keeps the market tight and prices near records (LME, Sep 2026)."
+     "text": "Electrification and data centers are lifting copper demand, and copper trades near $14,400 a tonne."
     },
     {
      "kind": "tailwind",
-     "text": "US tariffs on steel, aluminum and proposed copper tariffs support domestic prices and producers."
+     "text": "Freeport's $4.5 billion Bagdad expansion shows producers investing to add copper supply."
     },
     {
      "kind": "tailwind",
-     "text": "Critical minerals are now a national-security priority, bringing government funding and offtake deals."
+     "text": "US tariffs keep steel imports low and domestic steel prices high."
     },
     {
      "kind": "headwind",
-     "text": "China's weak construction market pushes cheap steel exports onto world markets."
+     "text": "China produced about 52% of the world's steel in 2025, and its exports flood other markets when its own demand is weak."
     },
     {
      "kind": "headwind",
-     "text": "Chile's copper output fell to its weakest in at least 19 years in Q2 2026, showing how hard supply growth is."
+     "text": "Project costs are rising: Bagdad's budget is about 30% above a 2023 estimate."
     },
     {
      "kind": "headwind",
-     "text": "High energy prices squeeze smelters, and new mines face permitting delays of a decade or more."
+     "text": "Tariff reversals and permitting delays make planning new mines and mills harder."
     }
    ],
    "valueChain": [
     {
-     "name": "Exploration",
-     "players": "Junior explorers · BHP · Rio Tinto",
-     "what": "Geologists and junior miners find and test deposits; a new mine often takes 10–15 years to open."
+     "cost": "Drilling, studies, permits and large upfront capital that can run into billions.",
+     "name": "Exploration and development",
+     "players": "Freeport-McMoRan · BHP · Rio Tinto",
+     "revenue": "Little direct revenue; value comes from later production, or from selling projects.",
+     "takeaway": {
+      "label": "Slow and risky",
+      "why": "New mines take many years and expensive capital, so supply reacts slowly to price."
+     },
+     "what": "Companies find ore bodies and spend years on permits, studies and construction before first output."
     },
     {
+     "cost": "Labor, energy, equipment and diesel, plus ore grade, which sets how much rock is moved per tonne of metal.",
      "highlight": true,
      "name": "Mining",
-     "players": "BHP · Rio Tinto · Vale · Freeport-McMoRan · Codelco",
-     "what": "Open-pit and underground mines extract ore."
+     "players": "Codelco · Freeport-McMoRan · Vale · Glencore",
+     "revenue": "Sales of ore or concentrate at global market prices.",
+     "takeaway": {
+      "label": "Largest profit pool",
+      "why": "Low-cost mines keep earning when prices fall, and all mines gain when prices rise."
+     },
+     "what": "Ore is blasted or dug out and crushed to a concentrate at the mine."
     },
     {
-     "name": "Processing & smelting",
-     "players": "Jiangxi Copper · Glencore · Chinalco",
-     "what": "Ore is concentrated, smelted and refined into pure metal; China does most of this."
+     "cost": "Energy, concentrate purchase costs and environmental compliance.",
+     "name": "Smelting and refining",
+     "players": "Glencore · Aurubis · Jiangxi Copper",
+     "revenue": "Processing fees charged to miners, plus metal sold.",
+     "takeaway": {
+      "label": "Thin margins",
+      "why": "Processors earn a fee that is squeezed when concentrate supply is tight."
+     },
+     "what": "Concentrate is processed into pure metal, such as refined copper cathode."
     },
     {
-     "name": "Metal making",
+     "cost": "Iron ore, coking coal or scrap, electricity and fixed plant costs.",
+     "name": "Steelmaking and metal production",
      "players": "China Baowu · ArcelorMittal · Nucor · Nippon Steel",
-     "what": "Steel mills and aluminum smelters turn raw material into sheet, bar and plate."
+     "revenue": "Steel sold by the tonne, priced off benchmarks such as hot-rolled coil.",
+     "takeaway": {
+      "label": "Cyclical",
+      "why": "Profit depends on the gap between steel prices and input costs, and on mill utilization."
+     },
+     "what": "Mills turn iron ore and scrap into steel, using blast furnaces or electric arc furnaces."
     },
     {
-     "name": "Customers",
-     "players": "Builders · automakers · utilities",
-     "what": "Construction, autos, machinery, grids and packaging buy the finished metal."
+     "cost": "Metal purchases, inventory financing and labor.",
+     "name": "Fabrication and distribution",
+     "players": "Reliance Steel · Ryerson · Wieland",
+     "revenue": "A markup over the metal price plus service fees.",
+     "takeaway": {
+      "label": "Stable",
+      "why": "Margins are modest but steadier because they are a markup, not a bet on price."
+     },
+     "what": "Metal is rolled, cast, cut and sold to builders, carmakers and manufacturers."
     }
    ]
   },
@@ -6305,11 +6489,35 @@
    ]
   },
   "transport-logistics": {
+   "economicsOn": "valueChain",
+   "keyFigures": [
+    {
+     "label": "US business logistics costs",
+     "note": "2025 · CSCMP and Kearney State of Logistics 2026",
+     "value": "~$2.4T"
+    },
+    {
+     "label": "Logistics as share of US GDP",
+     "note": "2025, down from 8.7% in 2024 · CSCMP and Kearney",
+     "value": "~7.8%"
+    },
+    {
+     "label": "Largest container carrier",
+     "note": "Share of global container fleet capacity, May 2026 · Alphaliner via press reports",
+     "value": "MSC ~21.5%"
+    },
+    {
+     "label": "Container ships on order",
+     "note": "2026 · Alphaliner via press reports",
+     "value": "~13M TEU"
+    }
+   ],
    "kpis": [
-    "Diesel price ($/gal)",
-    "Spot vs. contract truckload rates",
+    "US logistics costs: ~$2.4T, ~7.8% of GDP (2025)",
+    "MSC share of container capacity: ~21.5%",
+    "Container ships on order: ~13M TEU",
     "Operating ratio (costs/revenue; lower is better)",
-    "Container freight index (e.g. Drewry WCI)"
+    "Diesel price and spot versus contract truckload rates"
    ],
    "marketSize": {
     "global": "~$10T+",
@@ -6318,7 +6526,7 @@
     "usNote": "US business logistics costs, about 8% of GDP (CSCMP State of Logistics, 2024 approx.)"
    },
    "operatingModel": "Asset-heavy carriers earn revenue per mile or per container and live on utilization. Contract rates are set annually while spot rates swing daily; fuel surcharges pass part of fuel cost to shippers with a lag. Brokers are asset-light and earn the spread between shipper and carrier rates.",
-   "overview": "Moving goods and people: trucking, rail, parcel, ocean shipping, air cargo, airlines and the freight brokers in between.",
+   "overview": "Transport and logistics moves goods and people through trucks, trains, ships, planes, warehouses and the brokers that arrange them. It is built from asset-heavy carriers that own vehicles and asset-light intermediaries that sell capacity they do not own. Money is made by keeping assets full and by charging for reliability, with fuel, freight cycles and chokepoints driving the swings. The industry is currently shaped by shipping detours, high fuel costs and large container-ship orderbooks.",
    "players": [
     "Parcel: UPS, FedEx, Amazon Logistics",
     "Rail: Union Pacific, BNSF, CSX, Norfolk Southern",
@@ -6326,8 +6534,45 @@
     "Trucking and brokerage: J.B. Hunt, Knight-Swift, C.H. Robinson",
     "Highly fragmented trucking: most US carriers run fewer than 10 trucks"
    ],
-   "profileUpdated": "2026-10-19",
+   "profileUpdated": "2026-11-05",
    "sector": "infrastructure-logistics",
+   "segments": {
+    "items": [
+     {
+      "growth": "fast",
+      "leaders": "MSC",
+      "name": "MSC",
+      "share": "~21.5%",
+      "sharePct": 21.5,
+      "what": "The largest carrier, at a record share and about 7.4 million TEU."
+     },
+     {
+      "growth": "falling",
+      "leaders": "Maersk",
+      "name": "Maersk",
+      "share": "~13.7%",
+      "sharePct": 13.7,
+      "what": "Second-largest, with its share at the lowest in two decades."
+     },
+     {
+      "growth": "fast",
+      "leaders": "CMA CGM",
+      "name": "CMA CGM",
+      "share": "~12.5%",
+      "sharePct": 12.5,
+      "what": "Third-largest, and it grew the most of the top ten in the first half of 2026."
+     },
+     {
+      "leaders": "COSCO · Hapag-Lloyd · ONE · Evergreen",
+      "name": "All other carriers",
+      "share": "~52%",
+      "sharePct": 52.3,
+      "what": "Dozens of smaller lines (calculated remainder)."
+     }
+    ],
+    "title": "Share of global container ship capacity, by carrier (May 2026)"
+   },
+   "summary": "Transport and logistics moves goods and people through trucks, trains, ships, planes, warehouses and the brokers that arrange them. It is built from asset-heavy carriers that own vehicles and asset-light intermediaries that sell capacity they do not own. Money is made by keeping assets full and by charging for reliability, with fuel, freight cycles and chokepoints driving the swings. The industry is currently shaped by shipping detours, high fuel costs and large container-ship orderbooks.",
    "threats": [
     "Fuel price spikes",
     "Freight recessions with overcapacity",
@@ -6340,6 +6585,90 @@
     "Truckers on fixed contracts are losing money; capacity may exit",
     "Nearshoring to Mexico is lifting cross-border freight",
     "Automation in warehouses and autonomous trucking pilots"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "Platforms such as Uber Freight are growing quickly: Uber's Freight bookings rose 35% in the third quarter."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Nearshoring to Mexico is lifting cross-border freight."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Automation in warehouses and autonomous trucking pilots aim to lower labor costs."
+    },
+    {
+     "kind": "headwind",
+     "text": "Container carriers have about 13 million TEU of ships on order, which raises the risk of overcapacity."
+    },
+    {
+     "kind": "headwind",
+     "text": "Rerouting away from Hormuz and the Red Sea raises freight and insurance costs."
+    },
+    {
+     "kind": "headwind",
+     "text": "High diesel prices squeeze truckers on fixed contracts, and some capacity may exit."
+    }
+   ],
+   "valueChain": [
+    {
+     "cost": "Fuel, vehicle and ship ownership, crews and maintenance.",
+     "highlight": true,
+     "name": "Linehaul (ocean, air, rail, truck)",
+     "players": "MSC · Maersk · Union Pacific · J.B. Hunt",
+     "revenue": "Rates per container, mile or kilogram, with contracts set in advance and spot rates moving daily.",
+     "takeaway": {
+      "label": "Cyclical",
+      "why": "Rates swing with capacity and demand, and a glut of ships or trucks can erase margins quickly."
+     },
+     "what": "Long-distance moves of containers and freight between regions and cities."
+    },
+    {
+     "cost": "Cranes, land, labor and port fees.",
+     "name": "Ports and terminals",
+     "players": "DP World · PSA · COSCO Shipping Ports",
+     "revenue": "Handling fees and storage charges.",
+     "takeaway": {
+      "label": "Steady",
+      "why": "Fees are paid for volume handled and are less volatile than freight rates."
+     },
+     "what": "Hubs where cargo is loaded, unloaded and moved between modes."
+    },
+    {
+     "cost": "Rent, labor and automation equipment.",
+     "name": "Warehousing and fulfilment",
+     "players": "Amazon · GXO · DHL Supply Chain",
+     "revenue": "Storage and handling fees, often under multi-year contracts.",
+     "takeaway": {
+      "label": "Contract-based",
+      "why": "Multi-year contracts give predictable revenue but thin margins."
+     },
+     "what": "Buildings and teams that store goods and pick, pack and ship orders."
+    },
+    {
+     "cost": "Technology, sales staff and the cost of buying capacity.",
+     "name": "Brokerage and forwarding",
+     "players": "C.H. Robinson · Uber Freight · DHL Global Forwarding",
+     "revenue": "The spread between what shippers pay and what carriers charge.",
+     "takeaway": {
+      "label": "Spread business",
+      "why": "The spread widens when capacity is tight and narrows when carriers have spare space."
+     },
+     "what": "Intermediaries arrange moves without owning the vehicles."
+    },
+    {
+     "cost": "Drivers, vehicles, fuel and sorting networks.",
+     "name": "Last-mile and parcel",
+     "players": "UPS · FedEx · Amazon Logistics",
+     "revenue": "Per-package fees, plus fuel surcharges.",
+     "takeaway": {
+      "label": "Density matters",
+      "why": "More stops per route lower the cost per package, so volume is key."
+     },
+     "what": "Delivery of packages to homes and businesses."
+    }
    ]
   },
   "travel-hospitality": {
