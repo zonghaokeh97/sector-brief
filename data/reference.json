@@ -84,6 +84,23 @@
    "ticker": "Private (Enlightenment Capital; Maximus deal pending)",
    "updated": "2026-10-25"
   },
+  "airbnb": {
+   "businessModel": "Runs an online marketplace for stays and experiences and earns a service fee from guests and hosts on each booking.",
+   "competitors": [
+    "Booking Holdings",
+    "Expedia",
+    "Vrbo",
+    "Marriott",
+    "Hilton"
+   ],
+   "hq": "San Francisco, CA",
+   "name": "Airbnb",
+   "sector": "consumer-retail",
+   "size": "Q3 2026 revenue $4.9B; gross booking value $27.7B in the quarter (company release)",
+   "subindustry": "travel-hospitality",
+   "ticker": "Nasdaq: ABNB",
+   "updated": "2026-11-06"
+  },
   "alphabet": {
    "businessModel": "Earns most revenue from advertising on Google Search and YouTube, and sells cloud computing, AI tools and subscriptions. Also funds long-term bets such as Waymo.",
    "competitors": [
@@ -304,6 +321,23 @@
    "ticker": "LSE: AZN (also US-listed)",
    "updated": "2026-11-01"
   },
+  "atlassian": {
+   "businessModel": "Sells team-collaboration and developer software such as Jira and Confluence through cloud subscriptions and self-hosted Data Center licenses.",
+   "competitors": [
+    "Microsoft",
+    "ServiceNow",
+    "Asana",
+    "monday.com",
+    "GitLab"
+   ],
+   "hq": "Sydney, Australia and San Francisco, CA",
+   "name": "Atlassian",
+   "sector": "tmt",
+   "size": "Revenue about $5B+ a year (approx., fiscal 2025)",
+   "subindustry": "software-cloud",
+   "ticker": "Nasdaq: TEAM",
+   "updated": "2026-11-06"
+  },
   "aurora-cannabis": {
    "businessModel": "Produces cannabis for Canadian recreational and medical use and exports medical cannabis to Europe, Australia and other markets.",
    "competitors": [
@@ -320,6 +354,21 @@
    "subindustry": "cpg",
    "ticker": "Nasdaq and TSX: ACB",
    "updated": "2026-11-04"
+  },
+  "axon-enterprise": {
+   "businessModel": "Sells Tasers, body cameras and drones to police, then earns recurring subscription revenue for cloud evidence storage and software.",
+   "competitors": [
+    "Motorola Solutions",
+    "Flock Safety",
+    "Genetec"
+   ],
+   "hq": "Scottsdale, AZ",
+   "name": "Axon Enterprise",
+   "sector": "advanced-industries",
+   "size": "Q3 2026 revenue $909M",
+   "subindustry": "aerospace-defense",
+   "ticker": "Nasdaq: AXON",
+   "updated": "2026-11-06"
   },
   "bank-of-america": {
    "businessModel": "Earns net interest income on its huge low-cost deposit base, plus fees from wealth management (Merrill), investment banking and trading.",
@@ -603,6 +652,23 @@
    "ticker": "NYSE: CLF",
    "updated": "2026-10-19"
   },
+  "cloudflare": {
+   "businessModel": "Sells network security, content delivery and edge computing services on subscriptions and usage-based plans.",
+   "competitors": [
+    "Akamai",
+    "Fastly",
+    "Zscaler",
+    "Amazon CloudFront",
+    "Palo Alto Networks"
+   ],
+   "hq": "San Francisco, CA",
+   "name": "Cloudflare",
+   "sector": "tmt",
+   "size": "Q3 2026 revenue $782.5M; 2026 revenue guidance about $2.96B (company release)",
+   "subindustry": "software-cloud",
+   "ticker": "NYSE: NET",
+   "updated": "2026-11-06"
+  },
   "coca-cola": {
    "businessModel": "Sells beverage concentrates and syrups to bottling partners, which package and distribute the drinks, so it earns high margins on brands and marketing with little capital tied up in plants.",
    "competitors": [
@@ -790,6 +856,23 @@
    "subindustry": "retail-ecommerce",
    "ticker": "NASDAQ: DASH",
    "updated": "2026-10-31"
+  },
+  "draftkings": {
+   "businessModel": "Runs online sports betting, casino games and a prediction-markets product, earning a margin on money wagered.",
+   "competitors": [
+    "FanDuel (Flutter)",
+    "BetMGM",
+    "Fanatics Sportsbook",
+    "Caesars Digital",
+    "Kalshi"
+   ],
+   "hq": "Boston, MA",
+   "name": "DraftKings",
+   "sector": "consumer-retail",
+   "size": "Q3 2026 revenue $1.33B; 2026 guidance $6.35-6.55B (company release)",
+   "subindustry": "travel-hospitality",
+   "ticker": "Nasdaq: DKNG",
+   "updated": "2026-11-06"
   },
   "eli-lilly": {
    "businessModel": "Develops and sells patented prescription drugs, led by the Mounjaro and Zepbound obesity and diabetes medicines, and earns high margins until patents expire.",
@@ -1081,6 +1164,23 @@
    "ticker": "NYSE: GPK",
    "updated": "2026-11-04"
   },
+  "guardant-health": {
+   "businessModel": "Sells blood-based cancer tests, charging per test to patients, insurers and drug companies, plus data services to biopharma.",
+   "competitors": [
+    "Natera",
+    "Exact Sciences",
+    "Tempus AI",
+    "Foundation Medicine (Roche)",
+    "Grail"
+   ],
+   "hq": "Palo Alto, CA",
+   "name": "Guardant Health",
+   "sector": "healthcare",
+   "size": "2026 revenue guidance $1.36-1.37B (company release)",
+   "subindustry": "medtech",
+   "ticker": "Nasdaq: GH",
+   "updated": "2026-11-06"
+  },
   "guidewire": {
    "businessModel": "Sells subscription software that property and casualty insurers use to run policies, claims and billing.",
    "competitors": [
@@ -1317,6 +1417,22 @@
    "subindustry": "semiconductors",
    "ticker": "TSE: 285A",
    "updated": "2026-11-02"
+  },
+  "lam-research": {
+   "businessModel": "Sells etch and deposition machines to chipmakers and earns service and spare-parts revenue on its installed base.",
+   "competitors": [
+    "Applied Materials",
+    "Tokyo Electron",
+    "KLA",
+    "ASML"
+   ],
+   "hq": "Fremont, CA",
+   "name": "Lam Research",
+   "sector": "tmt",
+   "size": "Revenue roughly $20B a year (approx., fiscal 2026)",
+   "subindustry": "semiconductors",
+   "ticker": "Nasdaq: LRCX",
+   "updated": "2026-11-06"
   },
   "landstar-system": {
    "businessModel": "Runs an asset-light freight network where independent truck owners haul loads it brokers, keeping a share of each shipment's revenue.",
@@ -1675,6 +1791,23 @@
    "subindustry": "software-cloud",
    "ticker": "Private (Nvidia-backed; filed for US IPO Sept 2026)",
    "updated": "2026-10-20"
+  },
+  "nvidia": {
+   "businessModel": "Designs GPUs and networking for AI data centers and sells them, with software, to cloud providers and enterprises.",
+   "competitors": [
+    "AMD",
+    "Broadcom",
+    "Intel",
+    "Google (TPU)",
+    "Amazon (Trainium)"
+   ],
+   "hq": "Santa Clara, CA",
+   "name": "NVIDIA",
+   "sector": "tmt",
+   "size": "Largest AI-chip maker; market cap in the trillions (approx., 2026)",
+   "subindustry": "semiconductors",
+   "ticker": "Nasdaq: NVDA",
+   "updated": "2026-11-06"
   },
   "octus": {
    "businessModel": "Sells subscriptions to credit intelligence, news, data and workflow tools for restructuring, distressed debt and private credit work, used by investors, banks, law firms and advisers.",
@@ -2512,6 +2645,22 @@
    "ticker": "Private (Tradeweb deal pending)",
    "updated": "2026-10-25"
   },
+  "tsmc": {
+   "businessModel": "Manufactures chips designed by other companies and charges per wafer, with the most advanced processes priced at a premium.",
+   "competitors": [
+    "Samsung Foundry",
+    "Intel Foundry",
+    "GlobalFoundries",
+    "SMIC"
+   ],
+   "hq": "Hsinchu, Taiwan",
+   "name": "TSMC",
+   "sector": "tmt",
+   "size": "Revenue above $100B a year (approx., 2025); the world's largest contract chipmaker",
+   "subindustry": "semiconductors",
+   "ticker": "NYSE: TSM (Taiwan: 2330)",
+   "updated": "2026-11-06"
+  },
   "uber": {
    "businessModel": "Runs a platform for ride-hailing, food and grocery delivery and freight brokerage, earning a take rate on each transaction.",
    "competitors": [
@@ -2749,6 +2898,23 @@
    "subindustry": "midstream-lng",
    "ticker": "ASX: WDS",
    "updated": "2026-11-04"
+  },
+  "wynn-resorts": {
+   "businessModel": "Owns luxury casino resorts in Las Vegas, Macau and the Gulf and earns money from gaming, rooms, dining and retail.",
+   "competitors": [
+    "Las Vegas Sands",
+    "MGM Resorts",
+    "Caesars",
+    "Melco Resorts",
+    "Galaxy Entertainment"
+   ],
+   "hq": "Las Vegas, NV",
+   "name": "Wynn Resorts",
+   "sector": "consumer-retail",
+   "size": "Q3 2026 revenue $1.69B",
+   "subindustry": "travel-hospitality",
+   "ticker": "Nasdaq: WYNN",
+   "updated": "2026-11-06"
   }
  },
  "sectors": {
@@ -4114,12 +4280,30 @@
    ]
   },
   "medtech": {
+   "economicsOn": "segments",
+   "keyFigures": [
+    {
+     "label": "Global medical device market",
+     "note": "2025; estimates vary by definition · Fortune Business Insights, Precedence Research",
+     "value": "~$570-680B"
+    },
+    {
+     "label": "North America share of sales",
+     "note": "2025 · Fortune Business Insights",
+     "value": "~38%"
+    },
+    {
+     "label": "Largest segment",
+     "note": "Projected share; basis unclear · DataM Intelligence",
+     "value": "Cardiovascular, ~22%"
+    }
+   ],
    "kpis": [
     "Procedure growth",
     "System placements and installed base",
     "Recurring revenue as a share of the total",
     "Gross margin: about 60-70%",
-    "R&D as a share of revenue: around 7-10%"
+    "North America: about 38% of global device sales"
    ],
    "marketSize": {
     "global": "~$580B",
@@ -4128,13 +4312,81 @@
     "usNote": "Derived estimate: North America is about 38% of global sales; approx."
    },
    "operatingModel": "Makers sell the device or system once, then earn recurring revenue from disposable supplies, software and service contracts. Gross margins are high, around 60% to 70%, and spending on R&D and sales teams is the main cost.",
-   "overview": "Medical technology companies make the devices, implants and equipment used in care, from surgical robots and heart valves to insulin pumps and imaging machines. They sell mainly to hospitals, which buy under tight budgets and care about clinical evidence. Once a device is installed and surgeons are trained on it, hospitals rarely switch, so a recurring stream of supplies and service follows the first sale.",
+   "overview": "Medical technology companies make the devices, implants and equipment used in care, from surgical robots and heart valves to insulin pumps and imaging machines. The industry is a few large diversified makers plus many specialists, selling mainly to hospitals that buy under tight budgets. Money is made by selling a device or system once and then earning recurring revenue from disposables, software and service. Change is coming from robotics, wearable monitors, AI in imaging and tariff costs.",
    "players": [
     "Leaders: Medtronic, Johnson & Johnson MedTech, Abbott, Stryker, Boston Scientific, Intuitive Surgical",
     "Structure: a few large diversified players plus many specialists that dominate one device category"
    ],
-   "profileUpdated": "2026-10-21",
+   "profileUpdated": "2026-11-06",
    "sector": "healthcare",
+   "segments": {
+    "items": [
+     {
+      "cost": "Clinical trials, regulatory work and a large specialist sales force.",
+      "growth": "steady",
+      "leaders": "Medtronic · Abbott · Boston Scientific",
+      "name": "Cardiovascular",
+      "revenue": "One-time device sales, plus follow-on supplies and implant upgrades.",
+      "share": "~22%",
+      "sharePct": 22,
+      "takeaway": {
+       "label": "Largest pool",
+       "why": "Heart disease is common and devices are implanted once, so each approved product can sell for many years."
+      },
+      "what": "Heart valves, stents, pacemakers and catheters used to treat heart disease."
+     },
+     {
+      "cost": "Manufacturing precision implants and sales support in the operating room.",
+      "growth": "steady",
+      "leaders": "Stryker · Zimmer Biomet · Johnson & Johnson MedTech",
+      "name": "Orthopedics",
+      "revenue": "Implants and instruments sold per surgery.",
+      "takeaway": {
+       "label": "Volume driven",
+       "why": "Sales rise with the number of procedures, which grows as populations age."
+      },
+      "what": "Joint replacements, spine implants and the tools used to place them."
+     },
+     {
+      "cost": "R&D for advanced hardware and global service networks.",
+      "growth": "steady",
+      "leaders": "GE HealthCare · Siemens Healthineers · Philips",
+      "name": "Diagnostic imaging",
+      "revenue": "System sales, then service contracts and software.",
+      "takeaway": {
+       "label": "Cyclical",
+       "why": "Hospitals delay big equipment purchases when budgets are tight."
+      },
+      "what": "MRI, CT, ultrasound and X-ray systems, now with AI software."
+     },
+     {
+      "cost": "Sensor manufacturing and consumer marketing.",
+      "growth": "fast",
+      "leaders": "Abbott · Dexcom · Medtronic",
+      "name": "Diabetes care",
+      "revenue": "Recurring sales of sensors and pump supplies.",
+      "takeaway": {
+       "label": "Recurring",
+       "why": "Patients replace sensors every one to two weeks, so revenue repeats."
+      },
+      "what": "Glucose monitors and insulin pumps worn by patients."
+     },
+     {
+      "cost": "Building complex robots and training surgeons.",
+      "growth": "fast",
+      "leaders": "Intuitive Surgical · Medtronic · Stryker",
+      "name": "Surgical robotics and instruments",
+      "revenue": "System sales plus per-procedure instruments and service.",
+      "takeaway": {
+       "label": "Razor and blade",
+       "why": "The system is sold once but disposables and service are bought with every procedure."
+      },
+      "what": "Robotic systems and the disposable tools used in minimally invasive surgery."
+     }
+    ],
+    "title": "Major medical device segments (shares shown only where a source exists)"
+   },
+   "summary": "Medical technology companies make the devices, implants and equipment used in care, from surgical robots and heart valves to insulin pumps and imaging machines. The industry is a few large diversified makers plus many specialists, selling mainly to hospitals that buy under tight budgets. Money is made by selling a device or system once and then earning recurring revenue from disposables, software and service. Change is coming from robotics, wearable monitors, AI in imaging and tariff costs.",
    "threats": [
     "Regulatory delays or recalls from the FDA",
     "Hospital budget pressure and price cuts",
@@ -4148,6 +4400,55 @@
     "AI is being added to imaging and surgical planning",
     "Tariffs and supply-chain costs weigh on manufacturers",
     "Large companies keep buying small device makers to fill product gaps"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "Robotic and minimally invasive surgery is spreading to more procedure types."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Wearable glucose monitors, pumps and cardiac devices move care out of hospitals."
+    },
+    {
+     "kind": "tailwind",
+     "text": "AI is being added to imaging and surgical planning to lift productivity."
+    },
+    {
+     "kind": "headwind",
+     "text": "Regulatory delays or recalls from the FDA can freeze sales of a product."
+    },
+    {
+     "kind": "headwind",
+     "text": "Hospital budget pressure and tariffs on parts and finished devices squeeze margins."
+    }
+   ],
+   "valueChain": [
+    {
+     "name": "Research and clinical trials",
+     "players": "Medtronic · Abbott · Boston Scientific",
+     "what": "Engineers design the device and test it on patients to prove it is safe and works."
+    },
+    {
+     "name": "Regulatory approval",
+     "players": "FDA · EU notified bodies",
+     "what": "Regulators such as the FDA review the evidence before the device can be sold."
+    },
+    {
+     "name": "Manufacturing and supply",
+     "players": "Medtronic · Stryker · Johnson & Johnson MedTech",
+     "what": "Plants make precision parts and finished devices, often with global component suppliers."
+    },
+    {
+     "name": "Sales and surgeon training",
+     "players": "Intuitive Surgical · Stryker · Abbott",
+     "what": "Sales teams train surgeons and staff, which makes hospitals reluctant to switch brands."
+    },
+    {
+     "name": "Hospital use, supplies and service",
+     "players": "Intuitive Surgical · Boston Scientific · Abbott",
+     "what": "After installation, hospitals buy disposables, software and service contracts for years."
+    }
    ]
   },
   "metals-mining": {

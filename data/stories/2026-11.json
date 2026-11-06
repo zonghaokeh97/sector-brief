@@ -1354,5 +1354,332 @@
   "subindustry": "macro",
   "summary": "Democrats won House and Senate majorities and flipped governorships in Texas, Nevada and Iowa, though most new members do not take office until January. Removing President Trump's tariffs is high on their agenda as part of a focus on domestic inflation. Analysts also expect pressure to toughen technology restrictions on China, though the president's wide executive powers limit what Congress can force. Trump and Xi are expected to meet in Shenzhen this month and in Miami next month, which should preserve the current trade truce.",
   "tags": []
+ },
+ "2026-11-06-01": {
+  "companies": [],
+  "date": "2026-11-06",
+  "headline": "US stocks suffer their worst day in years: S&P 500 falls 4.4% and the Nasdaq enters a correction",
+  "numbers": [
+   "S&P 500: -4.36% to 7,353.73",
+   "Nasdaq Composite: -5.52%",
+   "Dow: -3.44% to about 51,523",
+   "Nasdaq-100: about $2.3T of value lost"
+  ],
+  "order": 1,
+  "sector": "macro",
+  "soWhat": "A fall this broad shows how much of the market's value now rests on one theme, AI spending. When a few giant stocks drop together, index funds fall with them even if most companies are unchanged. Winners are investors who held cash or defensive sectors; losers are crowded positions in chips and AI software. The open question is whether this is profit-taking that fades within days or the start of a reassessment of how fast AI spending can grow.",
+  "sources": [
+   {
+    "title": "Yahoo Finance: Stock market today, Thursday Nov. 5",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+   },
+   {
+    "title": "Thrive in Markets: morning analysis, Nov. 6, 2026",
+    "url": "https://thriveinmarkets.com/market-insights/morning-analysis-2026-11-06/"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "A selloff led by AI and chip stocks erased Wednesday's post-election rally. The S&P 500 fell 4.36% to 7,353.73, the Nasdaq Composite dropped 5.52% to about 24,315, and the Dow lost 3.44%. The Nasdaq closed about 12% below its October record, which is the usual definition of a correction. Analysts pointed mainly to funds locking in 2026 gains rather than a sudden change in earnings, and Cboe's volatility index spiked above 27 at its peak. Retail investors were also heavy sellers.",
+  "tags": []
+ },
+ "2026-11-06-02": {
+  "companies": [],
+  "date": "2026-11-06",
+  "headline": "Brent holds near $98 as new tanker-attack claims keep the Strait of Hormuz in focus",
+  "numbers": [
+   "Brent: about $98 to $99.80",
+   "WTI settle: $90.52",
+   "Hormuz transits: 2 on Oct. 25 vs about 85/day before the crisis"
+  ],
+  "order": 2,
+  "sector": "energy-materials",
+  "soWhat": "With Gulf exports physically constrained, oil prices move on headlines about attacks and talks more than on production quotas or inventories. Producers outside the Gulf, especially US shale, gain from high prices, while importers, airlines and chemical makers absorb the cost. Prices have swung between roughly $80 and $108 over recent weeks, so budgets built on a single price are fragile. The open question is whether a deal reopens the strait or attacks deepen the shortage.",
+  "sources": [
+   {
+    "title": "Thrive in Markets: morning analysis, Nov. 6, 2026",
+    "url": "https://thriveinmarkets.com/market-insights/morning-analysis-2026-11-06/"
+   },
+   {
+    "title": "Yahoo Finance: Stock market today, Thursday Nov. 5",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+   },
+   {
+    "title": "Straits Daily Brief, Nov. 5, 2026",
+    "url": "https://straits.live/briefs/2026-11-05"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Brent crude traded near $98 a barrel and US WTI settled around $90.52 on Thursday, with Brent reported near $99.80 on Friday. Iranian state media and the Revolutionary Guard claimed more tankers were hit in or near the strait, though a shipping tracker noted that no maritime authority had confirmed the claims. The same tracker listed the strait as closed, with only 2 transits recorded on Oct. 25 against a pre-crisis baseline of about 85 a day. Traders are weighing the chance of renewed US-Iran escalation after the midterms against hopes of a diplomatic deal.",
+  "tags": []
+ },
+ "2026-11-06-03": {
+  "companies": [],
+  "date": "2026-11-06",
+  "headline": "Bank of England raises Bank Rate to 4% in an 8-1 vote as energy costs push inflation higher",
+  "numbers": [
+   "Bank Rate: 3.75% to 4%",
+   "Vote: 8-1 (one for 4.25%)",
+   "UK CPI: 3.5% in September, about 5% projected mid-2027",
+   "Brent average: $108/bbl to Oct. 27"
+  ],
+  "order": 3,
+  "sector": "macro",
+  "soWhat": "The hike shows a central bank choosing to lean against an energy-price shock rather than look through it, because it fears higher prices will feed into wages and expectations. Borrowers with variable-rate loans and mortgage holders lose; savers and banks with wide lending margins gain. For companies, a higher cost of capital makes debt-funded expansion harder. The Bank expects inflation to fall after mid-2027 as energy effects fade, so the open question is whether that fade arrives before wage settlements adjust.",
+  "sources": [
+   {
+    "title": "Bank of England: Monetary Policy Summary, November 2026",
+    "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "The Monetary Policy Committee lifted Bank Rate by a quarter point from 3.75% to 4%. One member, Catherine Mann, voted for a half-point rise to 4.25%. UK inflation was 3.5% in September and the Bank now projects about 4.5% in early 2027 and about 5% by mid-year. Energy is the main driver: Brent and UK gas futures averaged $108 a barrel and 216 pence a therm in the weeks to Oct. 27, and direct energy effects added about 1 percentage point to September's inflation rate. The Bank said activity has been stronger than expected and that second-round effects on wages and prices have become more of a risk.",
+  "tags": []
+ },
+ "2026-11-06-04": {
+  "companies": [
+   "nvidia",
+   "amd",
+   "micron",
+   "applied-materials",
+   "lam-research",
+   "tsmc"
+  ],
+  "date": "2026-11-06",
+  "headline": "Chip stocks crash: the Philadelphia semiconductor index drops about 12% in a day",
+  "numbers": [
+   "Semiconductor index: about -12.25%",
+   "AMD: about -15%",
+   "Nikkei: -5.96%",
+   "Lam and Applied Materials: about -33% in a month"
+  ],
+  "order": 4,
+  "sector": "tmt",
+  "soWhat": "Chip makers and chip-equipment suppliers sit at the start of the AI spending chain, so their stocks react most when investors doubt how long data-center budgets will keep growing. Equipment makers such as Lam and Applied Materials are cyclical: orders rise fast in booms and drop quickly when customers pause. The weeks of selling before Thursday suggest positioning was already crowded. Actual chip demand has not yet been shown to fall, so the open question is whether customers' spending plans change or only the share prices.",
+  "sources": [
+   {
+    "title": "Thrive in Markets: morning analysis, Nov. 6, 2026",
+    "url": "https://thriveinmarkets.com/market-insights/morning-analysis-2026-11-06/"
+   },
+   {
+    "title": "Yahoo Finance: Stock market today, Thursday Nov. 5",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "The PHLX Semiconductor Index fell about 12.25% on Thursday, far more than the S&P 500's 4.4% drop. Nvidia, Micron and AMD were among the hardest hit, with AMD down roughly 15%. Lam Research and Applied Materials had each already lost about a third of their value over the prior month. The rout spread to Asia, where Japan's Nikkei fell 5.96%, South Korea's Kospi triggered a 20-minute trading halt, TSMC dropped as much as 8.5% and SoftBank fell 11%.",
+  "tags": []
+ },
+ "2026-11-06-05": {
+  "companies": [],
+  "date": "2026-11-06",
+  "headline": "UK gas futures average 216 pence a therm, 81% above the July level, as the Middle East conflict enters its ninth month",
+  "numbers": [
+   "UK gas futures: 216 p/therm average",
+   "vs July report: +81%",
+   "Brent average: $108/bbl, +38%",
+   "Energy share of Sept CPI: about 1 pt"
+  ],
+  "order": 5,
+  "sector": "energy-materials",
+  "soWhat": "Gas and LNG prices are set at the margin by whoever must buy cargoes in a hurry, so a long disruption to Gulf supply pushes Europe and Asia to bid against each other. Exporters with spare capacity, such as US LNG plants, earn wider margins, while energy-intensive industries and households carry the cost. Lower storage levels mean there is less cushion for a cold winter. The open question is whether new supply or a Gulf reopening arrives before winter demand peaks.",
+  "sources": [
+   {
+    "title": "Bank of England: Monetary Policy Summary, November 2026",
+    "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
+   }
+  ],
+  "subindustry": "midstream-lng",
+  "summary": "The Bank of England said UK natural gas futures averaged 216 pence per therm over the 15 working days to Oct. 27, which is 81% higher than at the time of its July report. Brent over the same period averaged $108 a barrel, 38% higher. The Bank noted that energy supply buffers were drawn down during 2026, which could amplify price pressures if supply stays tight. Direct energy effects added about 1 percentage point to UK inflation in September, mostly through fuels.",
+  "tags": []
+ },
+ "2026-11-06-06": {
+  "companies": [
+   "airbnb"
+  ],
+  "date": "2026-11-06",
+  "headline": "Airbnb revenue rises 19% to $4.9 billion and shares jump about 11% after hours; board authorizes $12 billion more buybacks",
+  "numbers": [
+   "Revenue: $4.9B (+19%)",
+   "Gross booking value: $27.7B (+21%)",
+   "Adjusted EBITDA margin: 52%",
+   "Take rate: 17.6%",
+   "New buyback: up to $12B"
+  ],
+  "order": 6,
+  "sector": "consumer-retail",
+  "soWhat": "Airbnb is an asset-light marketplace: it owns no properties, so extra bookings turn into profit at very high margins and cash is returned through buybacks. The lower take rate is a timing effect, not a price cut, but it shows how payment flexibility can trade near-term revenue for more bookings. Hotels and online travel agencies compete for the same traveler, so strong demand here is a good sign for leisure travel overall. The open question is how long demand stays strong if energy-driven inflation squeezes household budgets.",
+  "sources": [
+   {
+    "title": "CNBC: Stocks making the biggest moves after hours",
+    "url": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-after-hours-dkng-net-abnb-team.html"
+   },
+   {
+    "title": "Airbnb Q3 2026 results (SEC Form 8-K, Exhibit 99.1)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001559720/000119312526449727/d437988dex991.htm"
+   }
+  ],
+  "subindustry": "travel-hospitality",
+  "summary": "Airbnb reported third-quarter revenue of $4.9 billion, up 19%, with nights and seats booked up 16% to 155 million and gross booking value up 21% to $27.7 billion. Net income was $1.9 billion and adjusted EBITDA was $2.5 billion, a 52% margin. The take rate slipped to 17.6%, mainly because more guests use Reserve Now, Pay Later, which pushes some revenue recognition later. It guided fourth-quarter revenue to $3.22 billion to $3.28 billion and added an authorization to repurchase up to $12 billion more stock.",
+  "tags": []
+ },
+ "2026-11-06-07": {
+  "companies": [
+   "cloudflare",
+   "atlassian"
+  ],
+  "date": "2026-11-06",
+  "headline": "Software earnings split: Cloudflare and JFrog surge on strong guidance while Atlassian falls more than 15%",
+  "numbers": [
+   "Cloudflare Q3 revenue: $782.5M (+39%)",
+   "Cloudflare Q4 guide: $845-846M",
+   "JFrog FY revenue guide: $680-682M",
+   "Atlassian: more than -15% after hours"
+  ],
+  "order": 7,
+  "sector": "tmt",
+  "soWhat": "Software stocks are moving on guidance relative to expectations rather than on last quarter's results. Companies that sit on the AI traffic and developer-tooling path, such as Cloudflare and JFrog, are gaining from usage that grows with AI workloads. Atlassian is in a different position: it is steering customers from self-hosted Data Center to its cloud product, which can lower reported revenue in the short term. The open question is whether the AI-usage winners can keep beating raised forecasts after Thursday's sell-off in tech shares.",
+  "sources": [
+   {
+    "title": "CNBC: Stocks making the biggest moves after hours",
+    "url": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-after-hours-dkng-net-abnb-team.html"
+   },
+   {
+    "title": "Cloudflare Q3 2026 results (SEC Form 8-K, Exhibit 99.1)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001477333/000147733326000060/q326exhibit991.htm"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Cloudflare's third-quarter revenue rose 39% to $782.5 million, and it guided fourth-quarter revenue to $845 million to $846 million against about $798 million expected; shares rose about 14% after hours. JFrog lifted its full-year revenue outlook to $680 million to $682 million, above the $651.9 million analysts expected, and jumped about 25%. Atlassian fell more than 15% after hours on a weaker outlook for its Data Center product, and Akamai slipped about 1% after guiding fourth-quarter revenue to $1.145 billion to $1.17 billion, below the $1.20 billion expected.",
+  "tags": []
+ },
+ "2026-11-06-08": {
+  "companies": [],
+  "date": "2026-11-06",
+  "headline": "Traders put 68% odds on a December Fed hike as the October jobs report arrives",
+  "numbers": [
+   "Dec. hike odds: 68%",
+   "Payroll forecast: +65,000 (Sept: +29,000)",
+   "Unemployment forecast: 4.2%",
+   "Challenger job cuts: 43,994, -71% y/y"
+  ],
+  "order": 8,
+  "sector": "macro",
+  "soWhat": "Markets are now pricing the Fed's next move as a hike, not a cut, because energy-driven inflation is lifting prices while hiring is slowing but not collapsing. A stronger jobs number would raise hike odds and push yields up, which hurts long-duration assets such as growth stocks and bonds. A weak number would ease those odds but would also revive growth worries. The open question is whether the Fed treats an oil-price shock as temporary or as a reason to tighten.",
+  "sources": [
+   {
+    "title": "Thrive in Markets: morning analysis, Nov. 6, 2026",
+    "url": "https://thriveinmarkets.com/market-insights/morning-analysis-2026-11-06/"
+   },
+   {
+    "title": "Yahoo Finance: Stock market today, Thursday Nov. 5",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "CME FedWatch pricing showed a 68% probability of a Federal Reserve rate hike in December, down from near certainty last month. Economists expected October payrolls of about +65,000 after +29,000 in September, with unemployment steady at 4.2% and hourly earnings up 0.3%. Challenger, Gray and Christmas reported 43,994 announced US job cuts in October, down 71% from a year earlier. The 10-year Treasury yield was near 4.84%, and the report was seen as able to reset hike odds in either direction.",
+  "tags": []
+ },
+ "2026-11-06-09": {
+  "companies": [
+   "guardant-health"
+  ],
+  "date": "2026-11-06",
+  "headline": "Guardant Health revenue jumps 36% to $361 million on blood-test screening growth and raises its 2026 outlook",
+  "numbers": [
+   "Revenue: $361.0M (+36%)",
+   "Screening revenue: $67.6M (+180%)",
+   "Shield tests: 83,000 (+246%)",
+   "2026 revenue guide: $1.36-1.37B",
+   "Cash: $1.1B"
+  ],
+  "order": 9,
+  "sector": "healthcare",
+  "soWhat": "Diagnostics makers spend heavily up front on sales, clinical evidence and insurance coverage, then earn a fee on each test, so growth in test volume is what eventually turns losses into profit. Screening is the larger long-term market because it targets millions of healthy adults rather than patients already diagnosed with cancer. Established lab and diagnostics companies and rival test makers are the ones to lose share if blood tests gain guideline support. The open question is how fast coverage and doctor adoption grow relative to the cash the company burns.",
+  "sources": [
+   {
+    "title": "Guardant Health Q3 2026 results (SEC Form 8-K, Exhibit 99.1)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001576280/000157628026000043/gh-09302026xexhibit991.htm"
+   }
+  ],
+  "subindustry": "medtech",
+  "summary": "Guardant Health's third-quarter revenue rose 36% to $361.0 million. Screening revenue, driven by its Shield blood test for colorectal cancer, grew 180% to $67.6 million as tests rose 246% to 83,000. Oncology revenue grew 25% to $231.3 million. The company still lost $124.4 million on a GAAP basis and burned $37.2 million of free cash flow in the quarter, but it raised 2026 revenue guidance to $1.36 billion to $1.37 billion and ended the quarter with $1.1 billion in cash.",
+  "tags": []
+ },
+ "2026-11-06-10": {
+  "companies": [
+   "draftkings",
+   "wynn-resorts"
+  ],
+  "date": "2026-11-06",
+  "headline": "DraftKings revenue grows 16% but its loss widens to $469 million as it funds prediction markets; shares fall about 22%",
+  "numbers": [
+   "Revenue: $1.329B (+16.2%)",
+   "Net loss: $468.7M",
+   "Sales and marketing: $605.7M (vs $360.4M)",
+   "2027 revenue guide: $7.35-7.75B",
+   "Wynn adjusted EPS: $0.33 vs $0.68 expected"
+  ],
+  "order": 10,
+  "sector": "consumer-retail",
+  "soWhat": "Online betting companies compete on customer acquisition, so profits depend on how much they must spend on promotions to win and keep users. Prediction markets offer a new product that could grow revenue but add near-term cost and regulatory risk. Rivals such as FanDuel and casino groups benefit if DraftKings keeps spending, while shareholders bear the cost until the new product scales. The open question is whether predictions revenue reaches the roughly $650 million to $750 million the company targets for 2027.",
+  "sources": [
+   {
+    "title": "CNBC: Stocks making the biggest moves after hours",
+    "url": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-after-hours-dkng-net-abnb-team.html"
+   },
+   {
+    "title": "DraftKings Q3 2026 results (SEC Form 8-K, Exhibit 99.1)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001883685/000188368526000039/q326-prx8kexx991.htm"
+   }
+  ],
+  "subindustry": "travel-hospitality",
+  "summary": "DraftKings' third-quarter revenue rose 16.2% to $1.329 billion, with Sportsbook revenue up 31.5% to $783.6 million, but its net loss widened to $468.7 million from $256.8 million a year earlier. Sales and marketing spending jumped to $605.7 million from $360.4 million as it launched its prediction-markets product. It cut 2026 adjusted EBITDA guidance to $175 million to $275 million and issued 2027 revenue guidance of $7.35 billion to $7.75 billion. Separately, casino operator Wynn Resorts missed estimates, with adjusted earnings of $0.33 a share against $0.68 expected on revenue of $1.69 billion.",
+  "tags": []
+ },
+ "2026-11-06-11": {
+  "companies": [],
+  "date": "2026-11-06",
+  "headline": "Gold slips to about $4,045 as Goldman Sachs cuts its end-2026 forecast to $4,150 on a more hawkish Fed",
+  "numbers": [
+   "Spot gold: about $4,045/oz",
+   "Goldman end-2026 forecast: $4,150 (was $4,650)",
+   "Dec. Fed hike odds: 68%"
+  ],
+  "order": 11,
+  "sector": "energy-materials",
+  "soWhat": "Gold pays no interest, so when rates are expected to rise it becomes less attractive compared with bonds and cash, and its price tends to soften. Gold miners earn more when prices are high, so a lower forecast weighs on their margins and cash flows, while central banks and jewelers that buy gold pay less. The forecast cut is still above where gold trades today, so the bank sees a recovery rather than a slide. The open question is whether inflation fears or higher rates dominate gold in the coming months.",
+  "sources": [
+   {
+    "title": "Thrive in Markets: morning analysis, Nov. 6, 2026",
+    "url": "https://thriveinmarkets.com/market-insights/morning-analysis-2026-11-06/"
+   }
+  ],
+  "subindustry": "metals-mining",
+  "summary": "Spot gold traded near $4,045 an ounce, down about 1%, after Goldman Sachs lowered its end-2026 forecast to $4,150 from $4,650. The bank cited a more hawkish Federal Reserve, with markets now pricing a 68% chance of a December rate hike. Bitcoin also fell more than 5% in the broad risk selloff, trading near $75,600.",
+  "tags": []
+ },
+ "2026-11-06-12": {
+  "companies": [
+   "axon-enterprise"
+  ],
+  "date": "2026-11-06",
+  "headline": "Axon misses third-quarter estimates and shares fall about 13% after hours",
+  "numbers": [
+   "Adjusted EPS: $1.72 vs $1.89 expected",
+   "Revenue: $909M vs $934.3M expected",
+   "Shares: about -13% after hours"
+  ],
+  "order": 12,
+  "sector": "advanced-industries",
+  "soWhat": "Axon sells hardware to police departments and then earns recurring subscription revenue for cameras, cloud storage and software, which is why investors value it like a software company. When growth misses forecasts, a high valuation leaves little room and the stock falls sharply. Public-safety budgets move slowly, so it benefits from multi-year contracts but can see timing swings between quarters. The open question is whether the miss reflects a timing shift in orders or slower demand.",
+  "sources": [
+   {
+    "title": "CNBC: Stocks making the biggest moves after hours",
+    "url": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-after-hours-dkng-net-abnb-team.html"
+   }
+  ],
+  "subindustry": "aerospace-defense",
+  "summary": "Axon Enterprise, the maker of Tasers, body cameras and evidence software, reported third-quarter adjusted earnings of $1.72 a share against $1.89 expected. Revenue was $909 million, below the $934.3 million analysts forecast. The stock had already fallen almost 10% in regular trading during the market-wide selloff, then dropped about 13% more after the report.",
+  "tags": []
  }
 }

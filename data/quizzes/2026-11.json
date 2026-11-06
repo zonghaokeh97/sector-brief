@@ -1393,5 +1393,252 @@
     "subindustry": "metals-mining"
    }
   ]
+ },
+ "2026-11-06": {
+  "date": "2026-11-06",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "A correction is a decline of 10% or more from a recent high. The Nasdaq closed about 12% below its October record.",
+    "id": "2026-11-06:x01",
+    "kind": "today",
+    "options": [
+     "It rises 10% in a single day",
+     "It falls 10% or more from a recent high",
+     "Trading is halted for a day",
+     "It is removed from major benchmarks"
+    ],
+    "prompt": "What does it mean when the Nasdaq enters a 'correction'?",
+    "sector": "macro",
+    "storyId": "2026-11-06-01",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 2,
+    "explanation": "The Bank of England said gas futures were 81% higher than at its July report, versus 38% for Brent.",
+    "id": "2026-11-06:x02",
+    "kind": "today",
+    "options": [
+     "About 8%",
+     "About 38%",
+     "About 81%",
+     "About 150%"
+    ],
+    "prompt": "UK gas futures averaged 216 pence a therm. How far above the July level was that?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-06-05",
+    "subindustry": "midstream-lng"
+   },
+   {
+    "answer": 3,
+    "explanation": "Goldman cut its end-2026 gold forecast to $4,150 from $4,650 citing a hawkish Fed, with a 68% chance of a December hike priced in.",
+    "id": "2026-11-06:x03",
+    "kind": "today",
+    "options": [
+     "Gold is used mainly in electronics",
+     "Gold must be insured at higher cost",
+     "Central banks sell gold when rates rise",
+     "Gold pays no interest, so higher rates make bonds and cash more attractive"
+    ],
+    "prompt": "Why does a more hawkish Fed tend to weigh on the gold price?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-06-11",
+    "subindustry": "metals-mining"
+   },
+   {
+    "answer": 0,
+    "explanation": "Stocks react to guidance relative to expectations. Cloudflare also grew revenue 39% to $782.5 million.",
+    "id": "2026-11-06:x04",
+    "kind": "today",
+    "options": [
+     "Its fourth-quarter revenue guidance of $845-846M was well above the roughly $798M expected",
+     "Its headquarters moved",
+     "It paid a special dividend",
+     "It reduced its product range"
+    ],
+    "prompt": "Cloudflare jumped about 14% after hours. Which factor mattered most to the market?",
+    "sector": "tmt",
+    "storyId": "2026-11-06-07",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 1,
+    "explanation": "North America accounted for about 38% of global device sales in 2025 (Fortune Business Insights).",
+    "id": "2026-11-06:x05",
+    "kind": "profile",
+    "options": [
+     "About 15%",
+     "About 38%",
+     "About 60%",
+     "About 80%"
+    ],
+    "prompt": "Roughly what share of global medical device sales is in North America?",
+    "sector": "healthcare",
+    "storyId": null,
+    "subindustry": "medtech"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "Analysts pointed to funds taking profits after Wednesday's rally rather than a sudden earnings deterioration. A correction means a fall of 10% or more from a recent high; the Nasdaq closed about 12% below its October record.",
+    "id": "2026-11-06:q01",
+    "kind": "today",
+    "options": [
+     "A sharp drop in company earnings reported that day",
+     "Funds locking in 2026 gains after a post-election rally, not a change in fundamentals",
+     "A central bank rate hike in the United States",
+     "A ban on exports of AI chips"
+    ],
+    "prompt": "The S&P 500 fell 4.4% and the Nasdaq entered a correction. What did analysts say was the main driver?",
+    "sector": "macro",
+    "storyId": "2026-11-06-01",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 3,
+    "explanation": "Energy is the main driver: Brent was 38% and gas futures 81% higher than at the July report, and direct energy effects added about 1 percentage point to September's 3.5% inflation. The Bank expects inflation to fall after mid-2027 as those effects fade.",
+    "id": "2026-11-06:q02",
+    "kind": "today",
+    "options": [
+     "Rapid wage growth in the public sector",
+     "A weak pound after the Budget",
+     "A fall in unemployment to record lows",
+     "Higher energy prices, with Brent and UK gas averaging $108 a barrel and 216 pence a therm"
+    ],
+    "prompt": "The Bank of England raised Bank Rate to 4% and projects UK inflation near 5% by mid-2027. What is the main cause of that projected inflation?",
+    "sector": "macro",
+    "storyId": "2026-11-06-03",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "The company said the lower take rate was mainly due to Reserve Now, Pay Later bookings, a timing effect, not a price cut. Gross booking value still rose 21% to $27.7 billion.",
+    "id": "2026-11-06:q03",
+    "kind": "today",
+    "options": [
+     "More guests use Reserve Now, Pay Later, which pushes some revenue recognition later",
+     "It cut its service fee to win share from hotels",
+     "Hosts shifted to longer stays that carry no fees",
+     "Foreign exchange losses wiped out its fee income"
+    ],
+    "prompt": "Airbnb's revenue grew 19% but its take rate slipped to 17.6%. Why?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-06-06",
+    "subindustry": "travel-hospitality"
+   },
+   {
+    "answer": 2,
+    "explanation": "Chip and equipment firms sit at the start of the AI spending chain, and equipment orders are cyclical. Lam Research and Applied Materials had already fallen about a third in a month, which shows positions were crowded.",
+    "id": "2026-11-06:q04",
+    "kind": "today",
+    "options": [
+     "Chipmakers carry far more debt than any other industry",
+     "Chip prices are set daily by regulators",
+     "Their earnings depend on a concentrated stream of AI data-center spending, so doubts about it hit them first",
+     "They pay most of their profits out as dividends"
+    ],
+    "prompt": "The semiconductor index fell about 12% in a day, three times the S&P 500's drop. Why do chip and chip-equipment stocks swing so much harder in an AI-driven selloff?",
+    "sector": "tmt",
+    "storyId": "2026-11-06-04",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 0,
+    "explanation": "Each test earns a fee, so margin per test and growing volume decide when losses end. Guardant's non-GAAP gross margin edged up to 67% while screening revenue grew 180%.",
+    "id": "2026-11-06:q05",
+    "kind": "today",
+    "options": [
+     "Gross margin per test as volume grows, alongside coverage and adoption",
+     "The number of sales offices opened",
+     "Total employees hired this year",
+     "The price of its stock the day after earnings"
+    ],
+    "prompt": "A diagnostics company's screening tests rose 246% to 83,000 but it still burns cash. Which measure best shows whether the spending is paying off?",
+    "sector": "healthcare",
+    "storyId": "2026-11-06-09",
+    "subindustry": "medtech"
+   },
+   {
+    "answer": 3,
+    "explanation": "Sportsbook revenue actually rose 31.5%. The loss widened because promotion and launch costs for the Predictions product rose sharply, which also led it to cut 2026 adjusted EBITDA guidance to $175 million to $275 million.",
+    "id": "2026-11-06:q06",
+    "kind": "today",
+    "options": [
+     "A fall in sportsbook revenue",
+     "A charge for paying off debt",
+     "Lower customer engagement",
+     "Heavy sales and marketing spending, $605.7 million versus $360.4 million, as it launched prediction markets"
+    ],
+    "prompt": "DraftKings' revenue grew 16% yet its net loss widened to $469 million. What drove the wider loss?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-06-10",
+    "subindustry": "travel-hospitality"
+   },
+   {
+    "answer": 2,
+    "explanation": "Franchisors earn royalties as a percentage of sales at restaurants that franchisees run, so higher comparable sales lift revenue without much extra cost. Net restaurant growth, not comparable sales, counts new openings.",
+    "id": "2026-11-01:q05",
+    "kind": "review",
+    "options": [
+     "They count how many new restaurants opened",
+     "They are set by fixed lease terms",
+     "Its royalties are a share of franchisee sales, so revenue rises with little added cost",
+     "It owns most restaurants and books all their costs"
+    ],
+    "prompt": "Burger King US comparable sales rose 8.4% while Popeyes fell 1.8%. Why do comparable sales matter so much to a franchisor like Restaurant Brands?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-01-05",
+    "subindustry": "travel-hospitality"
+   },
+   {
+    "answer": 1,
+    "explanation": "With Gulf exports physically disrupted, OPEC+ quotas matter little. Prices instead track the odds of a deal, which is why crude dropped to about $106 on reports of talks after rising more than 10% in October. Eurozone factory data was actually stronger than forecast (PMI 52.7), so weaker demand is not the cause.",
+    "id": "2026-11-02:q02",
+    "kind": "review",
+    "options": [
+     "A surprise rise in US shale output reported by OPEC+",
+     "Expectations that US-Iran talks could reopen the Strait of Hormuz",
+     "A fall in demand from European factories",
+     "A cut to refinery capacity in Asia"
+    ],
+    "prompt": "Brent fell more than 6% on Monday even though OPEC+ left December production targets unchanged. What mainly moved the price?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-02-02",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 2,
+    "explanation": "Excluding Paxlovid (-63%) and Comirnaty (-29%), revenue grew 7%, and launched and acquired products grew 32%. Guidance rose to $62-64B revenue from $60.5-62.5B.",
+    "id": "2026-11-03:q04",
+    "kind": "review",
+    "options": [
+     "It raised prices on all of its medicines",
+     "Cost cuts increased reported revenue",
+     "Growth in newer and acquired products, up 32%, offset steep falls in Paxlovid and Comirnaty",
+     "COVID vaccine sales rebounded sharply"
+    ],
+    "prompt": "Pfizer's revenue was flat at $16.6B, yet it raised its 2026 outlook. What explains this?",
+    "sector": "healthcare",
+    "storyId": "2026-11-03-04",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 0,
+    "explanation": "Medtech profit comes from a one-time system sale followed by disposables, software and service. Staff training and clinical familiarity make switching costly, which is why recurring revenue is a key metric.",
+    "id": "2026-11-06:q10",
+    "kind": "profile",
+    "options": [
+     "Surgeons are trained on it and recurring supplies and service follow the first sale",
+     "Regulators forbid replacing installed devices",
+     "Devices are leased for life at a fixed price",
+     "Only one company is allowed to sell each device type"
+    ],
+    "prompt": "Why do hospitals rarely switch medical device brands once a system is installed?",
+    "sector": "healthcare",
+    "storyId": null,
+    "subindustry": "medtech"
+   }
+  ]
  }
 }
