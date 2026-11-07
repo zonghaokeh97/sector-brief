@@ -1640,5 +1640,252 @@
     "subindustry": "medtech"
    }
   ]
+ },
+ "2026-11-07": {
+  "date": "2026-11-07",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "At 6% of expected sales and up 53% from the previous quarter, the pill is early in a launch, and analysts see it as the main route back to growth. US injectable Wegovy fell 13%, so volume has to rise to offset that.",
+    "id": "2026-11-07:x01",
+    "kind": "today",
+    "options": [
+     "The pill has little growth potential",
+     "The pill is early in its launch, and the recovery depends on volume growing quickly",
+     "Injectables have been discontinued",
+     "The pill earns lower revenue than the injection"
+    ],
+    "prompt": "Novo's Wegovy pill made DKK 5.39 billion in Q3 but is only about 6% of expected sales. What does that imply?",
+    "sector": "healthcare",
+    "storyId": "2026-11-07-08",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 1,
+    "explanation": "Higher pay raises companies' costs and consumers' spending power, which can keep inflation elevated. At 3.1% a year the figure is moderate, which is why the open question is whether it stays low.",
+    "id": "2026-11-07:x02",
+    "kind": "today",
+    "options": [
+     "It shows how much companies pay in taxes",
+     "Wage growth feeds into services prices and inflation expectations",
+     "It measures stock market returns",
+     "It sets the minimum wage"
+    ],
+    "prompt": "October average hourly earnings rose 0.4% on the month and 3.1% over a year. Why does the central bank watch this number?",
+    "sector": "macro",
+    "storyId": "2026-11-07-01",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 1,
+    "explanation": "Technology fell 8.23% and energy 12.00% while communication services rose 4.89%, so the index figure averages very different sector results. Oil falling more than 16% explains the energy drop.",
+    "id": "2026-11-07:x03",
+    "kind": "today",
+    "options": [
+     "Index declines are always spread evenly",
+     "Large sector moves can sit underneath a modest index move",
+     "Energy stocks have no link to oil prices",
+     "The S&P 500 contains no energy companies"
+    ],
+    "prompt": "Energy shares fell 12% in a week while the S&P 500 fell 2.7%. What does this show?",
+    "sector": "macro",
+    "storyId": "2026-11-07-02",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "Used together with Keytruda, the vaccine creates a new combination treatment as Keytruda's patents begin to expire from 2028. Regulators have not approved it yet; filings are being prepared.",
+    "id": "2026-11-07:x04",
+    "kind": "today",
+    "options": [
+     "It lets Merck extend value from a drug facing patent expiry from 2028",
+     "It makes Keytruda obsolete immediately",
+     "It removes the need for clinical trials",
+     "It lowers Merck's research costs to zero"
+    ],
+    "prompt": "Moderna and Merck's melanoma vaccine cut recurrence or death by 42% against Keytruda alone. Why does this matter for Merck?",
+    "sector": "healthcare",
+    "storyId": "2026-11-07-06",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 0,
+    "explanation": "With China the largest and fastest EV market, global automakers must compete there or accept lower scale, while Chinese rivals with cost advantages export abroad. North America was only about 9% and falling 4%.",
+    "id": "2026-11-07:x05",
+    "kind": "profile",
+    "options": [
+     "They face cheaper rivals and a market they must compete in to keep scale",
+     "EV demand is falling worldwide",
+     "Tariffs have no effect",
+     "Only Tesla sells EVs"
+    ],
+    "prompt": "China made up about 62% of global EV sales in 2025. What does that imply for automakers elsewhere?",
+    "sector": "advanced-industries",
+    "storyId": null,
+    "subindustry": "automotive-mobility"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "Strong hiring means the labor market is not weakening as fast as markets feared, which reduces the case for rate cuts. Unemployment actually dipped to 4.1%, so the first and third options are wrong.",
+    "id": "2026-11-07:q01",
+    "kind": "today",
+    "options": [
+     "The central bank has more reason to cut rates soon",
+     "The central bank has less reason to cut, since the labor market is slowing less than feared",
+     "Rates must fall because unemployment rose",
+     "Rates are unaffected, since jobs data does not influence policy"
+    ],
+    "prompt": "October payrolls rose 165,000 against a forecast of about 59,000. What does a result this far above forecast most directly suggest for interest rates?",
+    "sector": "macro",
+    "storyId": "2026-11-07-01",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "Prices dropped early in the week on reports that Iran sent a nuclear proposal to Washington through Qatar. Oil was trading on diplomacy rather than inventories or quotas, and Rapidan still sees 80% odds that fighting resumes.",
+    "id": "2026-11-07:q02",
+    "kind": "today",
+    "options": [
+     "Hopes for a diplomatic deal that could reopen Gulf supply",
+     "A sharp rise in US shale output",
+     "A fall in global oil demand",
+     "A decision by OPEC+ to raise quotas"
+    ],
+    "prompt": "Brent fell more than 16% in a week even though tanker attacks continued. What mainly drove the fall?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-07-03",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 1,
+    "explanation": "Memory and equipment makers sell to a handful of AI spenders, so any doubt about those budgets hits them first. Analysts also cited forced selling by funds, which can reverse quickly as the 4.21% US rebound showed.",
+    "id": "2026-11-07:q03",
+    "kind": "today",
+    "options": [
+     "They sell mostly to consumers who change habits fast",
+     "Their profits depend on the capital budgets of a few giant AI customers",
+     "They carry no debt, so investors sell quickly",
+     "They are priced in currencies that move daily"
+    ],
+    "prompt": "SK Hynix fell 10% in Asia on Friday, then US chip stocks rose 4%. Why do memory and equipment makers often react first to AI doubts?",
+    "sector": "tmt",
+    "storyId": "2026-11-07-04",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 1,
+    "explanation": "Axon sells devices to police and then earns recurring software and cloud revenue, and it now distributes Skydio drones exclusively in the US and Canada to the same buyers. The shares still fell 18% because three federal deployments worth about $130 million slipped.",
+    "id": "2026-11-07:q04",
+    "kind": "today",
+    "options": [
+     "Selling more hardware only, since software adds little",
+     "Extending its hardware-plus-recurring-software model to drones sold to existing police customers",
+     "Reducing exposure to government buyers",
+     "Replacing its camera business with drones"
+    ],
+    "prompt": "Axon invested another $1.2 billion in Skydio, lifting its stake to 37%. What business logic does this reflect?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-07-05",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 1,
+    "explanation": "R&D fell 27% to $583 million, which lifted operating income to $130 million from a $260 million loss. Cost of sales actually rose 54%, so the last option is wrong.",
+    "id": "2026-11-07:q05",
+    "kind": "today",
+    "options": [
+     "A price increase on all vaccines",
+     "Research spending down 27% as late-stage infectious disease trials wound down",
+     "A large one-off asset sale",
+     "Lower manufacturing costs, with cost of sales falling"
+    ],
+    "prompt": "Moderna swung to a $162 million quarterly profit while revenue grew 29%. Besides higher sales, what helped most?",
+    "sector": "healthcare",
+    "storyId": "2026-11-07-06",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 0,
+    "explanation": "The deal gives Tata European factories and market share and creates a group selling over 590,000 vehicles a year, helping spread engine, electric and software costs. It does not remove competitors or reduce Tata's commercial vehicle focus.",
+    "id": "2026-11-07:q06",
+    "kind": "today",
+    "options": [
+     "Access to European plants, customers and scale to spread development costs",
+     "Lower taxes in Italy",
+     "A way to exit commercial vehicles",
+     "Immediate removal of all European competitors"
+    ],
+    "prompt": "An Indian automaker with no European truck factories buys Iveco, which earns 74% of revenue in Europe. What is the main strategic gain?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-07-07",
+    "subindustry": "automotive-mobility"
+   },
+   {
+    "answer": 2,
+    "explanation": "Excluding Paxlovid (-63%) and Comirnaty (-29%), revenue grew 7%, and launched and acquired products grew 32%. Guidance rose to $62-64B revenue from $60.5-62.5B.",
+    "id": "2026-11-03:q04",
+    "kind": "review",
+    "options": [
+     "It raised prices on all of its medicines",
+     "Cost cuts increased reported revenue",
+     "Growth in newer and acquired products, up 32%, offset steep falls in Paxlovid and Comirnaty",
+     "COVID vaccine sales rebounded sharply"
+    ],
+    "prompt": "Pfizer's revenue was flat at $16.6B, yet it raised its 2026 outlook. What explains this?",
+    "sector": "healthcare",
+    "storyId": "2026-11-03-04",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 3,
+    "explanation": "LNG plants cost $10B or more, so lenders want committed offtake before they lend. The contracts secure revenue but do not stop spot prices moving or remove construction risk.",
+    "id": "2026-11-04:q04",
+    "kind": "review",
+    "options": [
+     "They remove all construction and cost risk from the project",
+     "They guarantee that the spot price of LNG will never fall",
+     "They let the developer avoid building any shipping or terminals",
+     "Lenders will finance a multi-billion-dollar plant only against years of committed buyers"
+    ],
+    "prompt": "QatarEnergy signed a 20-year deal to buy up to 3 Mtpa of LNG from Woodside's Louisiana project. Why do such long-term contracts matter to a developer?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-04-04",
+    "subindustry": "midstream-lng"
+   },
+   {
+    "answer": 0,
+    "explanation": "Memory profits depend on price much more than volume, and Kioxia guided operating profit of 2 trillion yen versus 2.35 trillion expected. Prices were still rising, so the problem was the pace of increase, not a loss or a price drop.",
+    "id": "2026-11-02:q03",
+    "kind": "review",
+    "options": [
+     "Slower price growth signals the shortage may be peaking, which cuts expected profit",
+     "Kioxia reported a quarterly loss",
+     "Customers cancelled all data-center orders",
+     "Prices actually fell by 25%"
+    ],
+    "prompt": "NAND prices rose in the mid-20% range last quarter, versus about 70% the quarter before, yet Kioxia fell about 14%. Why?",
+    "sector": "tmt",
+    "storyId": "2026-11-02-04",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 1,
+    "explanation": "Plants, tooling and engineering cost about the same whether a factory runs full or half-empty, so extra volume adds profit quickly and lost volume cuts it fast. That is why mass-market EBIT margins sit around 5% to 10%.",
+    "id": "2026-11-07:q10",
+    "kind": "profile",
+    "options": [
+     "Suppliers change their prices daily",
+     "High fixed costs of plants and engineering are spread over volume",
+     "Dealers keep most of the profit",
+     "Vehicle prices are set by regulators"
+    ],
+    "prompt": "Why do automaker profits swing sharply when sales rise or fall?",
+    "sector": "advanced-industries",
+    "storyId": null,
+    "subindustry": "automotive-mobility"
+   }
+  ]
  }
 }

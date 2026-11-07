@@ -1681,5 +1681,235 @@
   "subindustry": "aerospace-defense",
   "summary": "Axon Enterprise, the maker of Tasers, body cameras and evidence software, reported third-quarter adjusted earnings of $1.72 a share against $1.89 expected. Revenue was $909 million, below the $934.3 million analysts forecast. The stock had already fallen almost 10% in regular trading during the market-wide selloff, then dropped about 13% more after the report.",
   "tags": []
+ },
+ "2026-11-07-01": {
+  "companies": [],
+  "date": "2026-11-07",
+  "headline": "US employers add 165,000 jobs in October, almost three times what economists expected, and unemployment dips to 4.1%",
+  "numbers": [
+   "Payrolls: +165,000 (forecast ~59,000)",
+   "Unemployment rate: 4.1%",
+   "Average hourly earnings: +0.4% m/m, +3.1% y/y",
+   "Aug-Sept revisions: +84,000"
+  ],
+  "order": 1,
+  "sector": "macro",
+  "soWhat": "A hiring number this far above forecast shows the labor market is slowing less than markets feared, which is a reason for the central bank to keep rates high rather than cut. Gains were concentrated in services and health care, so the strength is narrower than the headline suggests. Borrowers and rate-sensitive stocks lose when strong data lifts yields, while workers and companies selling to consumers gain from steady employment. The open question is whether wage growth of 3.1% stays low enough for inflation to cool.",
+  "sources": [
+   {
+    "title": "BLS: The Employment Situation, October 2026",
+    "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+   },
+   {
+    "title": "The Closing Print: Post-Market and Weekly Summary, Nov. 6, 2026",
+    "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-06/"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "Nonfarm payrolls rose by 165,000 in October, against a forecast of about 59,000 and a 12-month average gain of 48,000. The unemployment rate was 4.1%, and it has stayed between 4.1% and 4.3% since March. August and September were revised up by a combined 84,000 jobs. Professional and business services added 70,000 jobs and health care 42,000, while construction, retail and government were little changed. Average hourly earnings rose 0.4% in the month to $38.00 and are up 3.1% from a year earlier.",
+  "tags": []
+ },
+ "2026-11-07-02": {
+  "companies": [],
+  "date": "2026-11-07",
+  "headline": "Wall Street ends a rough week: S&P 500 down 2.7% and Nasdaq down 3.4%, with energy shares the biggest losers",
+  "numbers": [
+   "S&P 500 week: -2.68%",
+   "Nasdaq week: -3.37%",
+   "Energy sector week: -12.00%",
+   "10-year yield: 4.86%",
+   "VIX: ~25.6"
+  ],
+  "order": 2,
+  "sector": "macro",
+  "soWhat": "Sector moves this large in one week show how much of the market's value sits in a few themes: AI hardware on the way down and, separately, energy as oil prices dropped on hopes of a Middle East deal. Index funds feel both at once, so a calm headline index can hide big winners and losers underneath. Falling oil helps airlines, chemical makers and consumers, while hurting producers. The open question is whether Friday's partial rebound holds once investors see next week's inflation data.",
+  "sources": [
+   {
+    "title": "The Closing Print: Post-Market and Weekly Summary, Nov. 6, 2026",
+    "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-06/"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "The S&P 500 rose 0.31% on Friday to 7,376.86 and the Nasdaq Composite gained 1.09% to 24,579.42, but the Dow slipped 0.46% to 51,285.73. For the week, the S&P 500 lost 2.68%, the Nasdaq 3.37% and the small-cap Russell 2000 2.05%. Technology fell 8.23% over the week and energy fell 12.00%, while communication services rose 4.89%. The VIX volatility index ended the week about 32% higher at 25.6. The 10-year Treasury yield closed at 4.86% and gold at about $4,080 an ounce.",
+  "tags": []
+ },
+ "2026-11-07-03": {
+  "companies": [],
+  "date": "2026-11-07",
+  "headline": "Brent ends the week near $98, down more than 16%, as hopes for a Middle East deal fight with fears that fighting resumes",
+  "numbers": [
+   "Brent: $98.32/bbl, over -16% on the week",
+   "WTI: $90.83/bbl, ~-13% on the week",
+   "Energy shares: -12.00% on the week",
+   "Rapidan: 80% odds fighting resumes"
+  ],
+  "order": 3,
+  "sector": "energy-materials",
+  "soWhat": "Oil is trading as a bet on diplomacy rather than on barrels, so a single headline can move prices by several dollars. Producers outside the Gulf and their shareholders lose when talks look promising, while airlines, refiners buying crude and consumers gain. The week's 12% fall in energy shares shows how fast equity investors reprice when the risk premium shrinks. The open question is whether a deal actually reopens the strait, since attacks on ships are still being reported.",
+  "sources": [
+   {
+    "title": "CNBC: Oil prices, Nov. 6, 2026",
+    "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html"
+   },
+   {
+    "title": "The Closing Print: Post-Market and Weekly Summary, Nov. 6, 2026",
+    "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-06/"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Brent crude settled at $98.32 a barrel on Friday and US WTI at $90.83, both roughly flat on the day. Brent lost more than 16% over the week and WTI nearly 13%, after prices fell early in the week on reports that Iran had sent a nuclear proposal to Washington through Qatar. Iran reported three more tanker attacks in the Strait of Hormuz on Thursday, and UKMTO data show attacks on ships continuing at a near-record rate. Rapidan Energy Group puts an 80% probability on military fighting resuming and expects both benchmarks could rise above $100.",
+  "tags": []
+ },
+ "2026-11-07-04": {
+  "companies": [
+   "sk-hynix",
+   "samsung-electronics",
+   "tsmc",
+   "kioxia",
+   "amd",
+   "nvidia",
+   "micron"
+  ],
+  "date": "2026-11-07",
+  "headline": "Asian chip stocks sink as much as 10% on Friday while US chip makers rebound; the Philadelphia semiconductor index gains 4.2%",
+  "numbers": [
+   "SK Hynix: -10.44%",
+   "Samsung Electronics: -6.35%",
+   "TSMC (Taiwan): -4.69%",
+   "US chip index Friday: +4.21%",
+   "AMD Friday: +11.04%"
+  ],
+  "order": 4,
+  "sector": "tmt",
+  "soWhat": "Memory and equipment makers in Korea and Japan react first because their earnings swing with the capital budgets of a few giant AI customers. When prices fall together, it often reflects forced selling by funds rather than any change in orders, which is why a rebound can follow within a day. Companies with a strong order book gain once the panic fades, while stocks with heavy borrowing or crowded ownership recover more slowly. The open question is whether customers' real spending plans change or only the share prices.",
+  "sources": [
+   {
+    "title": "CNBC: Asian chip stocks tumble, Nov. 6, 2026",
+    "url": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html"
+   },
+   {
+    "title": "The Closing Print: Post-Market and Weekly Summary, Nov. 6, 2026",
+    "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-06/"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "In Asia, SK Hynix fell 10.44%, Samsung Electronics 6.35%, Kioxia 8.72% and SoftBank 10.83%, while Tokyo Electron lost more than 5% and TSMC's Taiwan shares fell 4.69%. Analysts blamed the previous day's 12% drop in the US chip index, doubts about the returns on AI data-center spending, and fears that Democratic midterm wins could bring tighter data-center rules. Goldman Sachs' Timothy Moe also pointed to funds unwinding positions and stop-loss selling. US chip stocks then recovered: AMD rose 11.04%, Micron 5.1% and Nvidia 2.8%, and the Philadelphia semiconductor index closed up 4.21%.",
+  "tags": []
+ },
+ "2026-11-07-05": {
+  "companies": [
+   "axon-enterprise",
+   "skydio"
+  ],
+  "date": "2026-11-07",
+  "headline": "Axon invests another $1.2 billion in drone maker Skydio, lifting its stake to 37%, as the stock falls 18% on a lower outlook",
+  "numbers": [
+   "Additional investment: $1.2B",
+   "Axon stake in Skydio: 37%",
+   "Q3 revenue: $908.6M (+28%)",
+   "2026 growth guide: ~30% (was 32-34%)",
+   "Annual recurring revenue: $1.75B (+40%)"
+  ],
+  "order": 5,
+  "sector": "advanced-industries",
+  "soWhat": "The Skydio deal shows Axon extending its model of selling hardware to police and then earning recurring software revenue into drones, which gives it a new product to sell through its existing customer relationships. The cost is cash and exposure to one supplier, at the same time as government contract timing is hurting its near-term numbers. Competing drone and public-safety vendors lose a distribution partner for the largest US buyer group. The open question is whether the lost federal deployments are delayed or cancelled.",
+  "sources": [
+   {
+    "title": "Axon Q3 2026 results (SEC Form 8-K, Exhibit 99.1)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001069183/000162828026071086/axon-20261105xex991.htm"
+   },
+   {
+    "title": "The Closing Print: Post-Market and Weekly Summary, Nov. 6, 2026",
+    "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-06/"
+   }
+  ],
+  "subindustry": "aerospace-defense",
+  "summary": "Axon will invest an additional $1.2 billion in Skydio, which raises its fully diluted ownership to 37%, and will become Skydio's exclusive public-safety distributor in the US and Canada. Skydio expects about $1 billion of bookings this fiscal year. Axon's third-quarter revenue grew 28% to $908.6 million, but it cut its 2026 revenue growth outlook to about 30% from 32% to 34% after three large federal counter-drone deployments worth about $130 million were no longer expected this year. Free cash flow guidance fell to $350 million to $400 million from $450 million, and the stock closed down 18.18% at $313.00.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-07-06": {
+  "companies": [
+   "moderna",
+   "merck-co"
+  ],
+  "date": "2026-11-07",
+  "headline": "Moderna returns to profit with $1.3 billion in quarterly revenue and lifts its 2026 growth outlook to 15% to 25%",
+  "numbers": [
+   "Revenue: $1.313B (+29%)",
+   "GAAP net income: $162M",
+   "2026 revenue growth guide: 15-25%",
+   "Melanoma recurrence risk: -42% (HR 0.58)",
+   "Cash and investments: $8.0B"
+  ],
+  "order": 6,
+  "sector": "healthcare",
+  "soWhat": "Vaccine makers rise and fall with seasonal demand and government policy, so a profit comes from both selling more and cutting research costs once big trials end. The cancer vaccine matters more for the long term because it targets a larger and higher-priced market than respiratory shots. Keytruda's maker Merck gains a way to extend a drug facing patent expiry from 2028, while rivals in cancer immunotherapy face a new combination to beat. The open question is whether regulators accept the trial result and how many patients get treated.",
+  "sources": [
+   {
+    "title": "Moderna Q3 2026 results (SEC Form 8-K, Exhibit 99.1)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001682852/000168285226000194/exhibit9912026q3pressrelea.htm"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "Moderna reported third-quarter revenue of $1.313 billion, up 29%, and GAAP net income of $162 million, compared with a $200 million loss a year earlier. Research spending fell 27% to $583 million as late-stage infectious disease trials wound down. It raised 2026 revenue growth guidance to 15% to 25% from up to 10%, and cut its R&D outlook to about $2.7 billion. With its partner Merck, its personalized melanoma vaccine intismeran cut the risk of recurrence or death by 42% against Keytruda alone in a Phase 3 trial, and regulatory filings are being prepared.",
+  "tags": []
+ },
+ "2026-11-07-07": {
+  "companies": [
+   "tata-motors",
+   "iveco"
+  ],
+  "date": "2026-11-07",
+  "headline": "Tata Motors takes control of Iveco after raising its offer to EUR 14.40 a share, a deal valued at about EUR 3.9 billion",
+  "numbers": [
+   "Offer price: EUR 14.40 a share",
+   "Deal value: ~EUR 3.91B",
+   "Tata stake: ~89.42%",
+   "Combined volume: 590,000+ vehicles",
+   "Combined revenue: ~EUR 21B"
+  ],
+  "order": 7,
+  "sector": "advanced-industries",
+  "soWhat": "The deal gives Tata its first European truck and bus factories and customers, and gives Iveco a larger parent with access to Indian volume and cost expertise. Commercial vehicle makers compete on scale because engines, electric platforms and software are costly to develop, so combining volumes spreads those costs. Rival European truck makers face a larger competitor, while Iveco's workers and suppliers gain a commitment on jobs but also face integration risk. The open question is whether Tata can win more business in Europe without losing Iveco's local identity.",
+  "sources": [
+   {
+    "title": "electrive: Iveco now officially part of Tata Motors",
+    "url": "https://electrive.com/2026/11/03/commercial-vehicle-manufacturer-iveco-now-officially-part-of-tata-motors"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "Tata Motors now holds about 89.42% of Iveco through its Dutch subsidiary after raising its tender offer from EUR 14.10 to EUR 14.40 a share, lifting the deal value to about EUR 3.91 billion. A second acceptance period ran from Nov. 2 to 6, with settlement scheduled for Nov. 13, which could raise Tata's stake further. The combined group is expected to sell over 590,000 vehicles a year with about EUR 21 billion of revenue. Iveco earns 74% of its revenue in Europe and has about 33,325 employees, and Tata signed commitments to keep its factories, jobs and Turin headquarters for two years after completion.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-07-08": {
+  "companies": [
+   "novo-nordisk",
+   "eli-lilly"
+  ],
+  "date": "2026-11-07",
+  "headline": "Novo Nordisk raises its 2026 outlook for the third time as the Wegovy pill reaches DKK 5.4 billion in quarterly sales",
+  "numbers": [
+   "Wegovy pill Q3 sales: DKK 5.39B (+53% q/q)",
+   "Adjusted operating profit: +27% (CER)",
+   "2026 guidance: -2% to +2%",
+   "US injectable Wegovy: -13%",
+   "Pill share of expected sales: ~6%"
+  ],
+  "order": 8,
+  "sector": "healthcare",
+  "soWhat": "Patients are shifting from weekly injections to a daily pill, so Novo is replacing one product with another while still growing. The pill is only about 6% of expected sales, so the recovery depends on volume rising quickly enough to offset price cuts. Eli Lilly, with its own obesity pill, is the rival most exposed to a stronger Novo, while insurers and employers gain bargaining power as more products compete. The open question is how much of the pill's growth comes from new patients and how much from existing injection users switching.",
+  "sources": [
+   {
+    "title": "Reuters via TimesLIVE: Novo Nordisk lifts 2026 outlook as Wegovy pill surges",
+    "url": "https://www.timeslive.co.za/news/world/2026-11-04-novo-nordisk-lifts-2026-outlook-as-wegovy-pill-surges/"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "Novo Nordisk said Wegovy pill sales were DKK 5.39 billion in the third quarter, up 53% from the second quarter and above the DKK 4.62 billion analysts expected. Adjusted sales were DKK 79.2 billion and adjusted operating profit DKK 31.7 billion, up 27% at constant exchange rates. It now expects 2026 adjusted sales and operating profit growth of between -2% and +2%, up from a previous forecast of a decline. US injectable Wegovy sales fell 13%, but combined US Wegovy sales including the pill rose 21%.",
+  "tags": []
  }
 }

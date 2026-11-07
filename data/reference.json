@@ -1367,6 +1367,23 @@
    "ticker": "NASDAQ: ISRG",
    "updated": "2026-10-21"
   },
+  "iveco": {
+   "businessModel": "Builds trucks, buses and engines sold through dealers, then earns recurring revenue from parts, servicing and customer financing. Sold its defence unit to Leonardo in 2026.",
+   "competitors": [
+    "Daimler Truck",
+    "Volvo Group",
+    "Traton (MAN, Scania)",
+    "Paccar",
+    "Tata Motors"
+   ],
+   "hq": "Turin, Italy",
+   "name": "Iveco Group",
+   "sector": "advanced-industries",
+   "size": "About 33,325 employees; 74% of revenue from Europe (2026)",
+   "subindustry": "automotive-mobility",
+   "ticker": "Borsa Italiana: IVG (being delisted)",
+   "updated": "2026-11-07"
+  },
   "jio-platforms": {
    "businessModel": "Runs India's largest mobile and fixed-broadband network, earning monthly fees from hundreds of millions of subscribers plus enterprise and digital services.",
    "competitors": [
@@ -1774,6 +1791,23 @@
    "subindustry": "aerospace-defense",
    "ticker": "NYSE: NOC",
    "updated": "2026-10-21"
+  },
+  "novo-nordisk": {
+   "businessModel": "Develops and sells diabetes and obesity drugs, mainly the semaglutide family (Ozempic, Wegovy and the Wegovy pill), earning high margins from patented brands sold in large volumes.",
+   "competitors": [
+    "Eli Lilly",
+    "Pfizer",
+    "AstraZeneca",
+    "Amgen",
+    "Roche"
+   ],
+   "hq": "Bagsvaerd, Denmark",
+   "name": "Novo Nordisk",
+   "sector": "healthcare",
+   "size": "Q3 2026 adjusted sales DKK 79.2B in the quarter",
+   "subindustry": "pharma-biotech",
+   "ticker": "NYSE: NVO; Nasdaq Copenhagen: NOVO B",
+   "updated": "2026-11-07"
   },
   "nscale": {
    "businessModel": "Builds and operates data centers filled with Nvidia GPUs and rents the compute to large customers such as Microsoft under long-term contracts.",
@@ -2339,6 +2373,23 @@
    "ticker": "KRX: 000660",
    "updated": "2026-10-30"
   },
+  "skydio": {
+   "businessModel": "Makes autonomous drones for police, fire services, the military and utilities, selling the aircraft with software and support subscriptions.",
+   "competitors": [
+    "DJI",
+    "Parrot",
+    "Teal Drones",
+    "Anduril",
+    "AeroVironment"
+   ],
+   "hq": "San Mateo, CA",
+   "name": "Skydio",
+   "sector": "advanced-industries",
+   "size": "Expects about $1B of bookings this fiscal year (2026)",
+   "subindustry": "aerospace-defense",
+   "ticker": "Private (Axon holds ~37% fully diluted)",
+   "updated": "2026-11-07"
+  },
   "skyworks": {
    "businessModel": "Designs radio-frequency chips that connect phones and other devices to wireless networks, and sells them mainly to large smartphone makers.",
    "competitors": [
@@ -2474,6 +2525,23 @@
    "subindustry": "payers-providers",
    "ticker": "Nasdaq: SGRY (to be taken private)",
    "updated": "2026-10-28"
+  },
+  "tata-motors": {
+   "businessModel": "Designs and sells passenger cars, SUVs, trucks and buses, mainly in India, and owns the Jaguar Land Rover luxury brands. Earns most profit from premium vehicles and from domestic commercial vehicles.",
+   "competitors": [
+    "Mahindra",
+    "Maruti Suzuki",
+    "Volvo Group",
+    "Daimler Truck",
+    "Ashok Leyland"
+   ],
+   "hq": "Mumbai, India",
+   "name": "Tata Motors",
+   "sector": "advanced-industries",
+   "size": "Revenue roughly $45-50B including Jaguar Land Rover (approx., FY2025)",
+   "subindustry": "automotive-mobility",
+   "ticker": "NSE: TATAMOTORS",
+   "updated": "2026-11-07"
   },
   "telefonica": {
    "businessModel": "Sells mobile and fixed telecom services in Spain, Germany, the UK (via Virgin Media O2) and Brazil, earning recurring subscription revenue.",
