@@ -1887,5 +1887,412 @@
     "subindustry": "automotive-mobility"
    }
   ]
+ },
+ "2026-11-08": {
+  "date": "2026-11-08",
+  "extra": [
+   {
+    "answer": 2,
+    "explanation": "The October sell-off centered on AI-linked stocks: Alphabet had its worst day on record, Intel fell about 29% and a chip ETF lost more than 8% on Friday. The Dow holds fewer such companies, and money moved into health care and consumer staples.",
+    "id": "2026-11-01:q01",
+    "kind": "today",
+    "options": [
+     "Investors sold industrial and health care companies the most",
+     "Higher oil prices hurt technology companies through fuel costs",
+     "Doubts about returns on heavy AI spending hit the technology and chip stocks that dominate the Nasdaq",
+     "The Fed cut interest rates, which favors the largest banks"
+    ],
+    "prompt": "The Nasdaq fell 5.3% in October while the Dow rose 1.7%. What best explains the gap?",
+    "sector": "macro",
+    "storyId": "2026-11-01-01",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "A small beat on top of 30% growth means analysts had already raised their numbers. Stocks then need a stronger outlook, not just good results, to rise, which is why even strong reports can lead to share price drops.",
+    "id": "2026-11-01:q06",
+    "kind": "today",
+    "options": [
+     "Growth is strong but expectations were already high, leaving little room for upside surprises",
+     "Analysts have underestimated profits by more than usual",
+     "Corporate profits are falling",
+     "Companies have stopped giving forecasts"
+    ],
+    "prompt": "S&P 500 profits are on track to grow about 30%, yet companies are beating estimates by only 1.4% against a 7.5% five-year average. What does this suggest?",
+    "sector": "macro",
+    "storyId": "2026-11-01-04",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 1,
+    "explanation": "AI clusters are limited by how fast data moves between chips, so optical connections are becoming as valuable as the processors. Marvell says the combination expands its addressable market to $550 billion. The other options describe businesses neither company is in.",
+    "id": "2026-11-02:q01",
+    "kind": "today",
+    "options": [
+     "To replace its custom AI chips with commodity memory",
+     "To own the optical links that move data inside AI data centers, widening what it can sell to cloud customers",
+     "To exit chip design and become a pure component distributor",
+     "To gain Lumentum's retail brand with consumer electronics buyers"
+    ],
+    "prompt": "Why is Marvell paying $115 billion for an optical-components maker like Lumentum?",
+    "sector": "tmt",
+    "storyId": "2026-11-02-01",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 3,
+    "explanation": "Once a network is built, each added user and gigabyte brings revenue with little extra cost, so profit grows faster than sales. Jio added 9.1 million subscribers and data traffic rose 22%.",
+    "id": "2026-11-02:q06",
+    "kind": "today",
+    "options": [
+     "Jio cut the number of subscribers",
+     "Government subsidies replaced customer fees",
+     "Jio sold its network to a tower company",
+     "Network costs are mostly fixed, so extra subscribers and data use add profit at low cost"
+    ],
+    "prompt": "Jio's revenue rose 11% but EBITDA rose 17%, lifting the margin to 54.1%. What explains this?",
+    "sector": "tmt",
+    "storyId": "2026-11-02-07",
+    "subindustry": "telecom"
+   },
+   {
+    "answer": 1,
+    "explanation": "$57.6B is about half of $114.5B. Services was $31.6B, roughly 28%. Greater China grew fastest at about 21% but, at $17.5B, is well behind the Americas at $48.7B.",
+    "id": "2026-11-03:q01",
+    "kind": "today",
+    "options": [
+     "Services has already overtaken iPhone as the largest revenue line",
+     "iPhone still drives about half of revenue, so its upgrade cycle largely sets Apple's results",
+     "Hardware is now a minor part of Apple's business",
+     "Greater China is now Apple's largest region by revenue"
+    ],
+    "prompt": "Apple's iPhone sales were $57.6B of $114.5B total revenue in its September quarter. What does that mean for the business?",
+    "sector": "tmt",
+    "storyId": "2026-11-03-01",
+    "subindustry": "internet-platforms"
+   },
+   {
+    "answer": 0,
+    "explanation": "Exchanges hold customer assets, so doubt about withdrawals can trigger a run. Binance reported covering about 95% of the stolen assets and net withdrawals of $3.6B, about 2% of holdings, suggests most customers stayed.",
+    "id": "2026-11-03:q06",
+    "kind": "today",
+    "options": [
+     "Customers' confidence that they can withdraw in full is what prevents a run on the exchange",
+     "It lets the exchange avoid paying taxes",
+     "It makes the stolen coins instantly recoverable",
+     "It guarantees crypto prices stay stable"
+    ],
+    "prompt": "Binance said it will cover customer losses from a $6.3B theft. Why does that promise matter so much for an exchange?",
+    "sector": "financial-services",
+    "storyId": "2026-11-03-06",
+    "subindustry": "payments-fintech"
+   },
+   {
+    "answer": 2,
+    "explanation": "The 10-year yield is the main reference for many consumer and corporate loan rates, and it rose 6 basis points to 4.96%. The tempting last option is wrong because yields feed through to household borrowing costs.",
+    "id": "2026-11-04:q01",
+    "kind": "today",
+    "options": [
+     "It determines company profits directly through sales tax",
+     "It sets the price of oil, so fuel costs rise for consumers",
+     "It is the benchmark for mortgages, auto loans and credit card debt, so borrowing stays expensive",
+     "It only affects bond traders and has little effect on consumers"
+    ],
+    "prompt": "The 10-year Treasury yield rose to 4.96%. Why does that matter well beyond the government's own borrowing?",
+    "sector": "macro",
+    "storyId": "2026-11-04-01",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 3,
+    "explanation": "Ferrari earns more by increasing what each customer pays than by selling more cars. Shipments fell because of weaker sales to the Americas and China, but its order book now extends into 2028.",
+    "id": "2026-11-04:q06",
+    "kind": "today",
+    "options": [
+     "Large government subsidies for sports cars",
+     "A large increase in the number of cars it sells to China",
+     "A sharp cut in the prices of its entry models",
+     "Higher revenue per car from personalization and special models, with an order book into 2028"
+    ],
+    "prompt": "Ferrari delivered 318 fewer cars over nine months, yet raised its 2026 guidance for a second straight quarter. What best explains this?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-04-11",
+    "subindustry": "automotive-mobility"
+   },
+   {
+    "answer": 1,
+    "explanation": "Hyperscalers can wait out stricter rules or buy capacity from weaker operators, while a debt-funded provider faces wider spreads: CoreWeave's credit default swap spread passed 1,100 basis points. The projects are not all exempt, since only those already under construction reportedly are.",
+    "id": "2026-11-05:q01",
+    "kind": "today",
+    "options": [
+     "Microsoft and Amazon build fewer data centers than CoreWeave",
+     "Large cloud providers have diversified revenue and internal cash flow, while CoreWeave relies on borrowing that gets costlier",
+     "CoreWeave's projects are all exempt from the proposed rules",
+     "Investors expect permitting rules to apply only to Microsoft and Amazon"
+    ],
+    "prompt": "After the midterms, Microsoft and Amazon rose over 6% while CoreWeave fell about 10% as data center permitting risk rose. What best explains the split?",
+    "sector": "tmt",
+    "storyId": "2026-11-05-02",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 3,
+    "explanation": "Datadog bills mostly according to how much customers use its tools, so reduced use lowers revenue with no cancellation. That makes it more sensitive to a few large customers than a fixed-fee subscription would be.",
+    "id": "2026-11-05:q06",
+    "kind": "today",
+    "options": [
+     "The customer has cancelled its contract and must pay a penalty",
+     "Datadog's costs rise automatically when a customer leaves",
+     "Its guidance excluded that customer",
+     "Revenue is billed mostly on usage, so one big customer using less cuts revenue directly"
+    ],
+    "prompt": "Datadog's revenue grew 35% to about $1.2 billion, yet its filing warns that growth may slow. Why does lower usage by its largest customer matter so much?",
+    "sector": "tmt",
+    "storyId": "2026-11-05-09",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 1,
+    "explanation": "Analysts pointed to funds taking profits after Wednesday's rally rather than a sudden earnings deterioration. A correction means a fall of 10% or more from a recent high; the Nasdaq closed about 12% below its October record.",
+    "id": "2026-11-06:q01",
+    "kind": "today",
+    "options": [
+     "A sharp drop in company earnings reported that day",
+     "Funds locking in 2026 gains after a post-election rally, not a change in fundamentals",
+     "A central bank rate hike in the United States",
+     "A ban on exports of AI chips"
+    ],
+    "prompt": "The S&P 500 fell 4.4% and the Nasdaq entered a correction. What did analysts say was the main driver?",
+    "sector": "macro",
+    "storyId": "2026-11-06-01",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 3,
+    "explanation": "Sportsbook revenue actually rose 31.5%. The loss widened because promotion and launch costs for the Predictions product rose sharply, which also led it to cut 2026 adjusted EBITDA guidance to $175 million to $275 million.",
+    "id": "2026-11-06:q06",
+    "kind": "today",
+    "options": [
+     "A fall in sportsbook revenue",
+     "A charge for paying off debt",
+     "Lower customer engagement",
+     "Heavy sales and marketing spending, $605.7 million versus $360.4 million, as it launched prediction markets"
+    ],
+    "prompt": "DraftKings' revenue grew 16% yet its net loss widened to $469 million. What drove the wider loss?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-06-10",
+    "subindustry": "travel-hospitality"
+   },
+   {
+    "answer": 1,
+    "explanation": "Strong hiring means the labor market is not weakening as fast as markets feared, which reduces the case for rate cuts. Unemployment actually dipped to 4.1%, so the first and third options are wrong.",
+    "id": "2026-11-07:q01",
+    "kind": "today",
+    "options": [
+     "The central bank has more reason to cut rates soon",
+     "The central bank has less reason to cut, since the labor market is slowing less than feared",
+     "Rates must fall because unemployment rose",
+     "Rates are unaffected, since jobs data does not influence policy"
+    ],
+    "prompt": "October payrolls rose 165,000 against a forecast of about 59,000. What does a result this far above forecast most directly suggest for interest rates?",
+    "sector": "macro",
+    "storyId": "2026-11-07-01",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "The deal gives Tata European factories and market share and creates a group selling over 590,000 vehicles a year, helping spread engine, electric and software costs. It does not remove competitors or reduce Tata's commercial vehicle focus.",
+    "id": "2026-11-07:q06",
+    "kind": "today",
+    "options": [
+     "Access to European plants, customers and scale to spread development costs",
+     "Lower taxes in Italy",
+     "A way to exit commercial vehicles",
+     "Immediate removal of all European competitors"
+    ],
+    "prompt": "An Indian automaker with no European truck factories buys Iveco, which earns 74% of revenue in Europe. What is the main strategic gain?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-07-07",
+    "subindustry": "automotive-mobility"
+   },
+   {
+    "answer": 1,
+    "explanation": "Plants, tooling and engineering cost about the same whether a factory runs full or half-empty, so extra volume adds profit quickly and lost volume cuts it fast. That is why mass-market EBIT margins sit around 5% to 10%.",
+    "id": "2026-11-07:q10",
+    "kind": "profile",
+    "options": [
+     "Suppliers change their prices daily",
+     "High fixed costs of plants and engineering are spread over volume",
+     "Dealers keep most of the profit",
+     "Vehicle prices are set by regulators"
+    ],
+    "prompt": "Why do automaker profits swing sharply when sales rise or fall?",
+    "sector": "advanced-industries",
+    "storyId": null,
+    "subindustry": "automotive-mobility"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "SoftBank received notice on November 4 that China's foreign investment security review body prohibited the acquisition of ABB's robotics business in China. ABB Robotics has about 7,000 employees and $2.3 billion of revenue, so the China decision matters even though the deal was signed in October 2025.",
+    "id": "2026-11-08:q01",
+    "kind": "today",
+    "options": [
+     "Approval from the buyer's home regulator is enough to close a deal in every market",
+     "A deal can be signed and still fail when a market that matters to the target says no",
+     "Foreign investment reviews only apply to buyers based inside China itself",
+     "Selling a unit is always safer than listing it as a separate company"
+    ],
+    "prompt": "China's security review prohibited SoftBank's $5.375 billion purchase of ABB's robotics business in China a year after the deal was signed. What does this show about large cross-border deals?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-08-01",
+    "subindustry": "industrial-machinery"
+   },
+   {
+    "answer": 3,
+    "explanation": "Underwriting profit fell from about $2.4 billion to $1.352 billion, while investment income fell only 14% to $2.734 billion. Share buybacks of $9.6 billion use cash but are not a cost in operating earnings.",
+    "id": "2026-11-08:q02",
+    "kind": "today",
+    "options": [
+     "Railroad and energy earnings fell sharply",
+     "Insurance investment income dropped to almost nothing",
+     "Buyback spending was deducted from operating earnings",
+     "Insurance underwriting profit fell about 43% to $1.35 billion"
+    ],
+    "prompt": "Berkshire's third-quarter operating earnings fell 5.8% to $12.7 billion while railroad, energy and manufacturing earnings grew. Which change explains most of the decline?",
+    "sector": "financial-services",
+    "storyId": "2026-11-08-02",
+    "subindustry": "insurance"
+   },
+   {
+    "answer": 0,
+    "explanation": "The report does not say output or exports were affected. But Houthi attacks on Saudi targets have increased since July, and Aramco's headquarters was heavily damaged in October, so each strike adds to the perceived risk of a supply disruption.",
+    "id": "2026-11-08:q03",
+    "kind": "today",
+    "options": [
+     "It shows the conflict now reaches Saudi Arabia's financial district, which can raise the risk premium without lost barrels",
+     "Office damage immediately cuts the amount of crude Aramco can pump",
+     "Saudi law requires Aramco to halt exports after any attack on its buildings",
+     "Aramco stores its crude inventory in its Riyadh office towers"
+    ],
+    "prompt": "An Aramco office tower in Riyadh was damaged by debris with no injuries, and the Energy Ministry called the damage limited. Why can this still matter to oil markets?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-08-03",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 2,
+    "explanation": "The order uses Section 9714(a) of the Combating Russian Money Laundering Act and covers crypto as well as fiat transfers. It is not an OFAC sanction, so the effect comes from losing US banking links rather than from a freeze.",
+    "id": "2026-11-08:q04",
+    "kind": "today",
+    "options": [
+     "It freezes all MEXC assets held anywhere in the world",
+     "It orders MEXC to shut down its trading platform",
+     "It cuts MEXC off from US institutions without a freeze or a closure order",
+     "It applies only to cash transfers and not to crypto transfers"
+    ],
+    "prompt": "FinCEN's order against MEXC bars covered US institutions from transferring funds to or from it, starting 30 days after Federal Register publication. How does this differ from an OFAC sanctions designation?",
+    "sector": "financial-services",
+    "storyId": "2026-11-08-04",
+    "subindustry": "payments-fintech"
+   },
+   {
+    "answer": 2,
+    "explanation": "Tesla says the wind-down around mid-2027 frees Texas capacity for the Cybercab. A factory built for a high-volume product has large fixed costs, so the space is worth more used for a different product.",
+    "id": "2026-11-08:q05",
+    "kind": "today",
+    "options": [
+     "Early sales targets are reliable once a factory has been built",
+     "Recalls, not weak demand, explain most of the gap in sales",
+     "A plant planned around far more volume than sells carries idle capacity, so the maker repurposes it",
+     "Selling at a premium price always raises volume over time"
+    ],
+    "prompt": "Cybertruck US sales fell 48% in 2025 to 20,237, against Musk's early prediction of 250,000 a year. What business lesson fits best?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-08-05",
+    "subindustry": "automotive-mobility"
+   },
+   {
+    "answer": 3,
+    "explanation": "China leads, and advanced economies plus China together account for over 70% of the total. The figure covers all energy spending, not only clean energy.",
+    "id": "2026-11-08:q06",
+    "kind": "today",
+    "options": [
+     "The United States first, then China, then the EU",
+     "The EU first, then the United States, then China",
+     "Spending is spread evenly, with no region above $300 billion",
+     "China first at $940 billion, then the United States at $615 billion, then the EU at $440 billion"
+    ],
+    "prompt": "IEA data show about $3.4 trillion of global energy investment in 2026. Which ranking of the biggest spenders is correct?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-08-06",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 0,
+    "explanation": "Memory profits depend on price much more than volume, and Kioxia guided operating profit of 2 trillion yen versus 2.35 trillion expected. Prices were still rising, so the problem was the pace of increase, not a loss or a price drop.",
+    "id": "2026-11-02:q03",
+    "kind": "review",
+    "options": [
+     "Slower price growth signals the shortage may be peaking, which cuts expected profit",
+     "Kioxia reported a quarterly loss",
+     "Customers cancelled all data-center orders",
+     "Prices actually fell by 25%"
+    ],
+    "prompt": "NAND prices rose in the mid-20% range last quarter, versus about 70% the quarter before, yet Kioxia fell about 14%. Why?",
+    "sector": "tmt",
+    "storyId": "2026-11-02-04",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 1,
+    "explanation": "A goodwill impairment lowers the book value of past acquisitions without spending cash. Adjusted EPS was $1.75, savings targets doubled to $1B and a $500M buyback was planned, which outweighed the accounting loss.",
+    "id": "2026-11-04:q05",
+    "kind": "review",
+    "options": [
+     "Goodwill write-downs always signal that a company's earnings are about to rise",
+     "The write-down does not change cash flow, and investors focused on the $1B savings target and buyback restart",
+     "Investors ignored the results because the company missed its revenue forecast",
+     "The write-down raised Fiserv's merchant operating margin"
+    ],
+    "prompt": "Fiserv booked a $6.45B non-cash goodwill impairment, producing a GAAP loss of $11.17 a share, yet its shares rose about 12%. What best explains the reaction?",
+    "sector": "financial-services",
+    "storyId": "2026-11-04-05",
+    "subindustry": "payments-fintech"
+   },
+   {
+    "answer": 2,
+    "explanation": "The companies see an opening to sell a unified design package to the large majority of projects that now use only one of their products. They guide to more than $100 million in annual synergies. The deal is all-stock, and Shoals holders will own about 65%, not 35%.",
+    "id": "2026-11-05:q04",
+    "kind": "review",
+    "options": [
+     "Shoals holders will own only about 35% of the company",
+     "Only about 20% of projects used both companies' products, so there is room to cross-sell",
+     "Both companies already sell their products as a bundle on most projects",
+     "The deal was financed with cash instead of stock"
+    ],
+    "prompt": "Array Technologies (solar trackers) is merging with Shoals (electrical connection systems). Which fact best explains the revenue opportunity?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-05-06",
+    "subindustry": "renewables-transition"
+   },
+   {
+    "answer": 2,
+    "explanation": "The combined ratio compares claims and expenses with premiums, so a figure below 100% means underwriting profit before investment income. The US property and casualty industry's combined ratio was 92.9 in 2025, its best result in a decade.",
+    "id": "2026-11-08:q10",
+    "kind": "profile",
+    "options": [
+     "Investment income made up 91% of its profit",
+     "It lost money on underwriting that year",
+     "It made an underwriting profit before counting investment income",
+     "Its premiums fell 9% from the year before"
+    ],
+    "prompt": "An insurer reports a combined ratio of 91%. What does that tell you?",
+    "sector": "financial-services",
+    "storyId": null,
+    "subindustry": "insurance"
+   }
+  ]
  }
 }

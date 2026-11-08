@@ -1911,5 +1911,159 @@
   "subindustry": "pharma-biotech",
   "summary": "Novo Nordisk said Wegovy pill sales were DKK 5.39 billion in the third quarter, up 53% from the second quarter and above the DKK 4.62 billion analysts expected. Adjusted sales were DKK 79.2 billion and adjusted operating profit DKK 31.7 billion, up 27% at constant exchange rates. It now expects 2026 adjusted sales and operating profit growth of between -2% and +2%, up from a previous forecast of a decline. US injectable Wegovy sales fell 13%, but combined US Wegovy sales including the pill rose 21%.",
   "tags": []
+ },
+ "2026-11-08-01": {
+  "companies": [
+   "softbank-group",
+   "abb"
+  ],
+  "date": "2026-11-08",
+  "headline": "China blocks SoftBank's $5.4 billion purchase of ABB's robotics business in China",
+  "numbers": [
+   "Deal value: $5.375B",
+   "ABB Robotics 2024 revenue: $2.3B (~7% of ABB)",
+   "Employees: ~7,000",
+   "Notice received: Nov 4, 2026"
+  ],
+  "order": 1,
+  "sector": "advanced-industries",
+  "soWhat": "The block shows how a deal that looks settled can still fail when one large market holds a veto, here because China is a major buyer of industrial robots. For ABB, the sale was meant to fund focus on its other businesses, so a delay leaves the robotics unit in limbo. SoftBank's push into physical AI loses its planned robot-maker platform for now, while rival robot makers face one less well-funded competitor. The open question is whether SoftBank can restructure the deal to exclude China or must walk away.",
+  "sources": [
+   {
+    "title": "SoftBank Group: update on ABB Robotics acquisition (Nov 6, 2026)",
+    "url": "https://group.softbank/en/news/press/20261106"
+   },
+   {
+    "title": "Evertiq: China blocks SoftBank's purchase of ABB's robotics business in China",
+    "url": "https://evertiq.com/news/2026-11-05-china-blocks-softbanks-purchase-of-abbs-robotics-business-in-china"
+   }
+  ],
+  "subindustry": "industrial-machinery",
+  "summary": "China's foreign investment security review office prohibited the acquisition of ABB's robotics business in China, SoftBank told ABB on November 4. The two companies signed the $5.375 billion deal in October 2025, replacing ABB's earlier plan to list the unit separately. ABB Robotics has about 7,000 employees and had $2.3 billion of revenue in 2024, roughly 7% of ABB's total. SoftBank says it is in close contact with ABB and will announce any decision that needs disclosure. China's reasons were not given, and it is unclear whether the deal can close without the China business.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-08-02": {
+  "companies": [
+   "berkshire-hathaway"
+  ],
+  "date": "2026-11-08",
+  "headline": "Berkshire Hathaway's operating profit falls 5.8% as insurance underwriting drops 43%, while buybacks more than double to $9.6 billion",
+  "numbers": [
+   "Operating earnings: $12.705B (-5.8%)",
+   "Insurance underwriting: $1.352B (-43%)",
+   "Q3 buybacks: $9.6B (Q2: $4.5B)",
+   "Cash: $377.4B"
+  ],
+  "order": 2,
+  "sector": "financial-services",
+  "soWhat": "Berkshire earns money from underwriting, from investing the premiums it holds before claims are paid, and from businesses like rail and energy that grow steadily. When insurance profit weakens, the other units and the investment portfolio carry more of the load. Large buybacks can suggest managers see few acquisitions worth the price, and cash stays near record levels. Competing insurers face the same softer pricing and claims trends. The open question is how long underwriting profit stays below last year's level.",
+  "sources": [
+   {
+    "title": "CNBC: Berkshire Hathaway Q3 2026 earnings and buybacks (Nov 7, 2026)",
+    "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
+   }
+  ],
+  "subindustry": "insurance",
+  "summary": "Berkshire Hathaway reported third-quarter operating earnings of $12.705 billion, down 5.8% from $13.485 billion a year earlier. Insurance underwriting profit fell about 43% to $1.352 billion and insurance investment income fell 14% to $2.734 billion. Earnings at the railroad, energy and manufacturing units grew. Net earnings, which include investment gains, fell 28% to $22.112 billion. The company bought back $9.6 billion of its own stock, up from $4.5 billion in the second quarter, and held $377.4 billion of cash.",
+  "tags": []
+ },
+ "2026-11-08-03": {
+  "companies": [
+   "saudi-aramco"
+  ],
+  "date": "2026-11-08",
+  "headline": "Debris from a Houthi missile attack damages Aramco's Riyadh tower, with no injuries reported",
+  "numbers": [
+   "Injuries reported: none",
+   "Attack on Riyadh airport on Oct 10: 13 killed",
+   "Houthi attacks stepped up since: July 2026"
+  ],
+  "order": 3,
+  "sector": "energy-materials",
+  "soWhat": "Oil prices respond to risk as well as to lost barrels, and attacks that reach a major company's offices in the capital raise the cost of insurance, security and shipping across the region even when output continues. Producers outside the Gulf and traders gain from a higher risk premium, while importers, airlines and refiners lose. The reports do not say whether oil output or exports were affected. The open question is whether Houthi strikes shift from symbolic targets to facilities that cut supply.",
+  "sources": [
+   {
+    "title": "NBC News (Reuters): Saudi Aramco building in Riyadh damaged by falling debris after attempted attack",
+    "url": "https://www.nbcnews.com/world/saudi-arabia/saudi-aramco-building-riyadh-damaged-falling-debris-attempted-attack-rcna608090"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "An Aramco administrative building in Riyadh, the Aramco Tower in the King Abdullah Financial District, was damaged on Sunday by falling debris after an attempted attack, Saudi Arabia's Energy Ministry said. It reported no injuries or deaths and called the damage limited. A witness saw windows blown out across several floors. The Saudi-led coalition said it intercepted two missiles fired by Yemen's Houthis toward Riyadh. Houthi attacks on Saudi airports, ports and oil facilities have increased since fighting resumed in July, and Aramco's headquarters was heavily damaged in an October attack.",
+  "tags": []
+ },
+ "2026-11-08-04": {
+  "companies": [
+   "mexc"
+  ],
+  "date": "2026-11-08",
+  "headline": "US Treasury moves to cut crypto exchange MEXC off from American financial institutions over alleged $16 billion of illicit flows",
+  "numbers": [
+   "Alleged illicit flows: $16B+ (May 2021 to May 2026)",
+   "Russia-linked: ~$1.5B",
+   "Effective: 30 days after Federal Register publication",
+   "Reported daily turnover: above $1B"
+  ],
+  "order": 4,
+  "sector": "financial-services",
+  "soWhat": "Banks and payment firms are the choke point for crypto exchanges, so losing US dollar access hurts even an offshore platform that claims users in more than 170 countries. Compliance-focused exchanges gain customers as risky rivals lose access, while US firms must screen for MEXC exposure before the order takes effect. The order does not shut MEXC down. The open question is whether other regulators follow and whether MEXC can keep trading volume without US banking links.",
+  "sources": [
+   {
+    "title": "Bitcoin Magazine: FinCEN cuts MEXC off from the U.S. financial system (Nov 6, 2026)",
+    "url": "https://bitcoinmagazine.com/news/fincen-cuts-off-mexc-us-financial-system"
+   }
+  ],
+  "subindustry": "payments-fintech",
+  "summary": "The Treasury's FinCEN issued a final order on November 6 that bars covered US financial institutions from transmitting funds, including crypto, to or from MEXC Global and named affiliates. It uses Section 9714(a) of the Combating Russian Money Laundering Act, finding MEXC a primary money laundering concern tied to Russian illicit finance. Treasury alleges at least $16 billion of illicit transactions from May 2021 to May 2026, including nearly $1.5 billion tied to Russian sanctions evasion and about $1 billion of dealings with more than 40 Iranian exchangers. The order takes effect 30 days after Federal Register publication, and the order is not an asset freeze or an OFAC sanction.",
+  "tags": []
+ },
+ "2026-11-08-05": {
+  "companies": [
+   "tesla"
+  ],
+  "date": "2026-11-08",
+  "headline": "Tesla will wind down Cybertruck production in Texas around mid-2027 to make room for the Cybercab",
+  "numbers": [
+   "2025 US sales: 20,237 (-48%)",
+   "Musk's early sales prediction: 250,000 a year",
+   "Recalls since 2023: 11",
+   "Cybercab installed capacity: 125,000+"
+  ],
+  "order": 5,
+  "sector": "advanced-industries",
+  "soWhat": "A vehicle plant is a large fixed cost, so a model that sells at a fraction of plan leaves expensive idle space, and moving the space to a different product is often better than leaving it unused. The shift shows Tesla favoring a robotaxi business with software revenue over a niche premium truck. Rival truck makers gain a quieter competitor in electric pickups. The open question is whether regulators allow a vehicle without a steering wheel to be built and run at scale.",
+  "sources": [
+   {
+    "title": "Fox Business: Tesla to wind down Cybertruck production at Texas factory (Nov 6, 2026)",
+    "url": "https://www.foxbusiness.com/markets/tesla-wind-down-cybertruck-production-texas-factory-next-year-make-room-cybercab"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "Elon Musk said on X on November 6 that Tesla will wind down Cybertruck production at its Texas factory around mid-2027 to free capacity for the Cybercab robotaxi. Kelley Blue Book counted 20,237 Cybertrucks sold in the US last year, down 48% from 38,965 in 2024, against Musk's early prediction of 250,000 a year. NHTSA has logged 11 recalls since the truck launched in 2023. Cybercab entered production this year with installed capacity listed above 125,000 units, and NHTSA opened an audit in September on how Tesla certified its safety compliance.",
+  "tags": []
+ },
+ "2026-11-08-06": {
+  "companies": [],
+  "date": "2026-11-08",
+  "headline": "IEA data show global energy investment of about $3.4 trillion in 2026, with China the largest spender at $940 billion",
+  "numbers": [
+   "Global energy investment 2026: ~$3.4T",
+   "China: $940B",
+   "United States: $615B",
+   "European Union: $440B"
+  ],
+  "order": 6,
+  "sector": "energy-materials",
+  "soWhat": "Who spends determines who builds the plants, grids and supply chains for the next decade, and China outspending the US by about $325 billion a year (calculated) gives its equipment makers and utilities a large home market. Suppliers of turbines, transformers and cables gain from high spending, while countries with less capital face higher borrowing costs for the same projects. Utilities that earn a return on what they build benefit most when spending is high. The open question is how much of the total goes to power networks rather than fuel supply.",
+  "sources": [
+   {
+    "title": "Global Times: Global energy investment (IEA data, Nov 5, 2026)",
+    "url": "https://www.globaltimes.cn/page/202611/1373723.shtml"
+   }
+  ],
+  "subindustry": "power-utilities",
+  "summary": "Global energy investment is expected to reach about $3.4 trillion in 2026, according to International Energy Agency data presented in a November 5 report by Global Times. China leads at $940 billion, followed by the United States at $615 billion and the European Union at $440 billion. Advanced economies and China together account for more than 70% of the total. The figure covers all energy spending, not only clean energy.",
+  "tags": []
  }
 }

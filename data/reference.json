@@ -17,6 +17,24 @@
    "ticker": "NYSE: MMM",
    "updated": "2026-10-20"
   },
+  "abb": {
+   "businessModel": "Sells electrification equipment, motors and drives, automation and robots to utilities, factories and buildings. Earns revenue from equipment sales and long-term service.",
+   "competitors": [
+    "Siemens",
+    "Schneider Electric",
+    "Rockwell Automation",
+    "Fanuc",
+    "Yaskawa",
+    "KUKA"
+   ],
+   "hq": "Zurich, Switzerland",
+   "name": "ABB",
+   "sector": "advanced-industries",
+   "size": "Group revenue about $33B (2024, approx.); robotics $2.3B in 2024",
+   "subindustry": "industrial-machinery",
+   "ticker": "SIX: ABBN",
+   "updated": "2026-11-08"
+  },
   "acesur": {
    "businessModel": "Produces, bottles and sells olive oil and other edible oils under its own brands and for private labels.",
    "competitors": [
@@ -384,6 +402,24 @@
    "subindustry": "banking",
    "ticker": "NYSE: BAC",
    "updated": "2026-10-19"
+  },
+  "berkshire-hathaway": {
+   "businessModel": "Owns insurers such as Geico and reinsurance units that collect premiums and invest the float, plus the BNSF railroad, utilities, manufacturing and a large stock portfolio. Profit comes from underwriting, investment income and the earnings of wholly owned businesses.",
+   "competitors": [
+    "Chubb",
+    "Travelers",
+    "Munich Re",
+    "Swiss Re",
+    "Allstate",
+    "Progressive"
+   ],
+   "hq": "Omaha, NE",
+   "name": "Berkshire Hathaway",
+   "sector": "financial-services",
+   "size": "Cash about $377B and quarterly operating earnings $12.7B (Q3 2026)",
+   "subindustry": "insurance",
+   "ticker": "NYSE: BRK.A / BRK.B",
+   "updated": "2026-11-08"
   },
   "besi": {
    "businessModel": "Sells die-attach and hybrid bonding equipment used to assemble advanced chip packages.",
@@ -1657,6 +1693,24 @@
    "ticker": "Nasdaq: META",
    "updated": "2026-10-23"
   },
+  "mexc": {
+   "businessModel": "Runs a crypto exchange for spot and derivatives trading. Earns trading and listing fees from users in many countries.",
+   "competitors": [
+    "Binance",
+    "OKX",
+    "Bybit",
+    "Bitget",
+    "Coinbase",
+    "Kraken"
+   ],
+   "hq": "Seychelles (registered)",
+   "name": "MEXC",
+   "sector": "financial-services",
+   "size": "Treasury says daily turnover above $1B and reserves near $5B (mid-2026)",
+   "subindustry": "payments-fintech",
+   "ticker": "Private",
+   "updated": "2026-11-08"
+  },
   "micron": {
    "businessModel": "Makes memory chips (DRAM, high-bandwidth memory and NAND flash) and sells them to PC, phone and data center customers. Prices swing sharply with supply and demand, so profits are highly cyclical.",
    "competitors": [
@@ -2407,6 +2461,23 @@
    "ticker": "Nasdaq: SWKS",
    "updated": "2026-11-04"
   },
+  "softbank-group": {
+   "businessModel": "Holds and funds technology companies, including a controlling stake in chip designer Arm and AI investments through its Vision Funds. Returns come from gains on investments, dividends and borrowing against holdings.",
+   "competitors": [
+    "Tiger Global",
+    "Berkshire Hathaway",
+    "Mubadala",
+    "Temasek",
+    "Coatue"
+   ],
+   "hq": "Tokyo, Japan",
+   "name": "SoftBank Group",
+   "sector": "financial-services",
+   "size": "Large Japanese investment holding company; market value and assets approx., not verified",
+   "subindustry": "asset-wealth",
+   "ticker": "TSE: 9984",
+   "updated": "2026-11-08"
+  },
   "southwest-airlines": {
    "businessModel": "A US airline selling tickets and extras such as extra-legroom seats and bags, flying mainly point-to-point routes on a single aircraft type. Profit depends on fares, seat occupancy and fuel and labor costs.",
    "competitors": [
@@ -2988,43 +3059,43 @@
  "sectors": {
   "advanced-industries": {
    "overview": "Advanced industries covers engineering-heavy manufacturers: carmakers and their suppliers, aircraft and defense companies, and makers of industrial machinery and equipment. Products take years to design and depend on long, global supply chains, so these companies are shaped by how full their factories are, trade policy and the cost of materials like steel. A large share of their profit often comes from servicing and spare parts after the original sale.",
-   "recap": "Data center demand and defense orders drove results. Vertiv's sales jumped 61% and orders more than doubled, and Caterpillar's sales rose 17% to $20.7 billion with data center power generation up 30%. General Dynamics' backlog rose to $220 billion after $94 billion of submarine-led orders, and Boeing reported a record $745 billion backlog despite a quarterly loss. Ford raised the low end of its 2026 profit outlook to $10.5 to $11 billion while its electric vehicles still lose about $4 billion, and Rivian's revenue rose 38% to $2.16 billion.",
-   "recapUpdated": "2026-11-01"
+   "recap": "Deals reshaped the sector. Tata Motors took about 89% of Iveco in a deal worth roughly EUR 3.9 billion, Axon invested $1.2 billion more in Skydio and cut its growth outlook, and LS Power proposed buying out EVgo shareholders at $2.00 a share. Ferrari raised its 2026 revenue outlook to EUR 7.65 billion. Over the weekend, China blocked SoftBank's $5.4 billion purchase of ABB's robotics business in China, and Tesla said it will end Cybertruck production in Texas around mid-2027.",
+   "recapUpdated": "2026-11-08"
   },
   "consumer-retail": {
    "overview": "Consumer and retail covers the companies that make and sell what people buy day to day. That includes stores and online retailers, makers of food, drinks and household products, farm and food businesses, and travel and hospitality companies like airlines and hotels. Consumer spending is about two-thirds of the US economy, so these businesses rise and fall with how confident people feel and how much money they have left after essentials.",
-   "recap": "Delivery and restaurants led the news. DoorDash agreed to buy Instacart for about $17 billion, Starbucks reported same-store sales up 7.2%, and Restaurant Brands said Burger King US comparable sales rose 8.4% while Popeyes fell 1.8%. Coca-Cola raised its 2026 outlook on 7% organic revenue growth. Weaker names stood out: Whirlpool swung to a $249 million quarterly loss and skipped its dividend, and a Trian-led group proposed a $7.35-a-share cash buyout of Wendy's, a 20% premium.",
-   "recapUpdated": "2026-11-01"
+   "recap": "Deals and distress stood out. Organigram agreed to buy Aurora Cannabis for about C$561 million, Spain's Dcoop and Acesur took over olive oil maker Deoleo, and Poundland filed to appoint administrators, putting about 12,000 jobs at risk. Airbnb's revenue rose 19% and it authorized $12 billion more in buybacks, Shopify's revenue rose 32%, and DraftKings fell 22% as its loss widened to $469 million. US airline shares jumped about 4% when crude fell sharply on Monday.",
+   "recapUpdated": "2026-11-08"
   },
   "energy-materials": {
    "overview": "Energy and materials covers the companies that pull resources out of the ground and turn them into fuel, power and raw materials. That includes oil and gas producers, the pipelines, ships and terminals that move their output, refineries and chemical plants, electric utilities and renewable developers, and miners and steelmakers. These are capital-heavy businesses that live with commodity prices they don't control, so returns depend on keeping costs low and investing at the right point in the cycle.",
-   "recap": "Oil ended October sharply higher: Brent gained 13.6% on attacks on Saudi sites and a tanker mine strike in Hormuz, its highest since April, and Brent traded near $112 to $115 on Friday. Refining margins carried the big producers: Exxon's adjusted profit rose to $17.5 billion, Chevron nearly tripled its profit to $9.9 billion and plans a $7 billion Venezuela investment, and Shell's adjusted earnings doubled to $10.8 billion. Dealmaking continued with EQT buying Range Resources, Ovintiv buying Logan Energy for about $890 million and GE Vernova buying grid-equipment maker Trench for $9 billion. Gas-engine maker INNIO raised guidance on 57% revenue growth, while Enphase guided to weaker US residential solar demand.",
-   "recapUpdated": "2026-11-01"
+   "recap": "Oil swung on diplomacy. Brent hit about $103.60 on Tuesday, fell on reports Iran had cleared the way for talks, and ended Friday near $98, down more than 16% on the week, while energy shares fell 12%. UK gas averaged 216 pence a therm, 81% above July. BP earned $8.5 billion and Marathon Petroleum $7.4 billion on strong refining margins, QatarEnergy signed a 20-year deal for up to 3 million tonnes a year of Woodside's Louisiana LNG, and Freeport approved a $4.5 billion Arizona copper expansion. On Sunday, debris damaged Aramco's Riyadh tower, and IEA data put 2026 global energy investment near $3.4 trillion.",
+   "recapUpdated": "2026-11-08"
   },
   "financial-services": {
    "overview": "Financial services is the business of managing, lending, investing and moving money. Banks take deposits and make loans, insurers collect premiums to cover risks, asset managers invest on behalf of savers and pension funds, and payments companies handle the flow of money between people and businesses. It is one of the most heavily regulated industries, so how much capital firms must hold and how well they control risk shapes how profitable they can be.",
-   "recap": "Payments and banks reported strong quarters. American Express posted record revenue of $20.1 billion but announced a 5% job cut, Visa ended its fiscal year with $45.9 billion in revenue, up 15%, and Mastercard's net revenue rose 14% to $9.8 billion with cross-border volume up 11%. HSBC's third-quarter pre-tax profit rose 32% to $9.6 billion, helped by a legal charge from a year earlier not repeating. Deals focused on trading and credit: Tradeweb agreed to buy Trumid for about $1.97 billion, Ares Capital agreed to buy MidCap Financial for about $2.6 billion, and Markel moved $2.3 billion of old reinsurance claims to Enstar.",
-   "recapUpdated": "2026-11-01"
+   "recap": "Crypto and payments dominated. A $6.3 billion theft from Binance, linked by analysts to North Korean hackers, was called the largest crypto heist on record, and on Friday the US Treasury moved to cut MEXC off from American institutions over alleged illicit flows of at least $16 billion. Fiserv took a $6.45 billion goodwill write-down but doubled its cost-savings target to $1 billion. On Saturday, Berkshire Hathaway reported lower operating profit as insurance underwriting fell 43%, while it bought back $9.6 billion of stock.",
+   "recapUpdated": "2026-11-08"
   },
   "healthcare": {
    "overview": "Healthcare covers the companies that discover, make, pay for and deliver medical care. Drugmakers and biotech firms develop medicines, device makers build everything from surgical tools to heart implants, insurers pay for care, and hospitals and doctors provide it. In the US the system is large and complex, and prices are set through negotiation between manufacturers, insurers and the middlemen between them, so policy and regulation matter as much as science.",
-   "recap": "Large drugmakers kept growing. Eli Lilly's revenue jumped 39% to $24.4 billion and it raised its 2026 sales outlook to $91 to $92 billion, Merck's Keytruda sales reached $8.6 billion, and Bristol Myers Squibb raised its sales outlook as Eliquis grew 25% but cut earnings guidance on deal charges. AstraZeneca's cancer sales grew 18% and lifted nine-month revenue to $46.9 billion, while older heart and diabetes drugs shrank. Deals focused on care and tools: EQT agreed to take QIAGEN private for $12.1 billion and Bon Secours Mercy Health agreed to buy Surgery Partners for $5.7 billion.",
-   "recapUpdated": "2026-11-01"
+   "recap": "Drugmakers raised outlooks. Pfizer lifted its 2026 revenue range to $62 billion to $64 billion, Novo Nordisk raised its guidance for the third time as the Wegovy pill reached DKK 5.4 billion, and Moderna returned to profit and lifted its growth outlook to 15% to 25%. Neurocrine's revenue rose 41% and Guardant's 36%. CVS Health plans to split into two public companies by the first half of 2028, and Stevanato warned that lower GLP-1 volumes will slow its 2027 growth.",
+   "recapUpdated": "2026-11-08"
   },
   "infrastructure-logistics": {
    "overview": "Infrastructure and logistics covers the physical networks the rest of the economy runs on. That includes the trucking, rail, shipping and air freight companies that move goods, the developers and builders behind homes, offices and data centers, and the public sector that funds and regulates much of it. These businesses are sensitive to fuel costs and interest rates, because moving goods burns diesel and most buildings are paid for with borrowed money.",
-   "recap": "Freight and deals defined the week. UPS beat estimates and lifted its 2026 outlook as it winds down Amazon volume, and Landstar's revenue rose 25% to $1.51 billion on higher truck rates, although claims costs cut its profit. Maximus agreed to buy defense contractor Agile Defense for $660 million. Thrive Holdings agreed to take home-security company ADT private in a deal valued at $15.3 billion including debt, financed by Apollo funds, with a go-shop period running to November 28.",
-   "recapUpdated": "2026-11-01"
+   "recap": "Few stories were filed this week. Uber reported gross bookings up 20% to $59.8 billion, with Freight growing fastest. Only one infrastructure and logistics story was filed this week.",
+   "recapUpdated": "2026-11-08"
   },
   "macro": {
    "overview": "The macro picture covers the forces that move every industry at once: how fast economies are growing, how quickly prices are rising, where central banks set interest rates, and how goods and money flow between countries. When energy costs climb or borrowing gets more expensive, the effects show up in nearly every company's results, so this is the backdrop for reading the rest of the news.",
-   "recap": "The Fed held at 3.75% to 4% on Wednesday in a 10-2 vote, with two officials wanting a hike, and markets lean toward an increase in December. The economy grew 3.4% in the third quarter while September inflation held at 3.6%. The 10-year Treasury yield sat near 4.93% on Friday after reaching 5.00% a week earlier. Stocks ended the week in a sell-off, with the Nasdaq down 5.3% in October, its worst month since March 2025, as doubts about AI spending spread. This week brings midterm elections on Tuesday and the jobs report on Friday, with forecasts of about 55,000 new jobs.",
-   "recapUpdated": "2026-11-01"
+   "recap": "The week ended with stress in markets. The S&P 500 fell 2.7% and the Nasdaq 3.4% after Thursday's 4.4% drop, and the 10-year yield closed the week at 4.86%. October payrolls rose 165,000 against a forecast of about 59,000, while the Bank of England raised its rate to 4% and traders priced about a 68% chance of a December Fed hike. A Democratic sweep in the midterms put tariffs and tech export controls back in play, though changes are unlikely before January. October inflation data is due Tuesday.",
+   "recapUpdated": "2026-11-08"
   },
   "tmt": {
    "overview": "Tech, media and telecom covers the companies behind computing and communication: chipmakers, software and cloud providers, internet platforms like search and social media, entertainment and streaming companies, and the telecom networks that connect everything. Many of these businesses become more profitable as they grow, because serving one more customer costs very little, which is why a handful of very large companies dominate. Much of the sector's investment today is going into the data centers and chips that power AI.",
-   "recap": "AI spending dominated tech. Microsoft's Azure grew 48% and AWS grew 39% to $46.0 billion, but Alphabet fell 12% in a day and Amazon's free cash flow turned negative as capital spending soared. Intel's server chip revenue rose 78%, yet it fell about 29% on Friday after a weak fourth-quarter forecast, and a semiconductor ETF lost more than 8%. SK hynix earned an 80% operating margin and said the memory shortage will last until 2030, while Reddit and Fortinet shares plunged on weak outlooks. On the deal side, Anthropic filed publicly for a Nasdaq IPO, Guidewire agreed to buy hyperexponential for $1.7 billion and Applied Materials moved to lift its stake in Besi to about 20%.",
-   "recapUpdated": "2026-11-01"
+   "recap": "AI spending worries drove tech. Marvell agreed to buy Lumentum for $115 billion in stock, AMD posted record revenue of $13.4 billion, and Apple, Palantir and AppLovin posted strong growth. But the Philadelphia semiconductor index fell about 12% on Thursday, and Asian chip stocks fell as much as 10% on Friday before US chips rebounded 4.2%. Democratic governors-elect threatened slower data center permitting, and software earnings split, with Cloudflare surging while Atlassian fell more than 15%.",
+   "recapUpdated": "2026-11-08"
   }
  },
  "subindustries": {
@@ -3943,8 +4014,32 @@
    ]
   },
   "insurance": {
+   "economicsOn": "segments",
+   "keyFigures": [
+    {
+     "label": "Global insurance premiums",
+     "note": "Approx., 2024 · Swiss Re Institute",
+     "value": "~$7T+"
+    },
+    {
+     "label": "US P&C net premiums written",
+     "note": "2025, up about 5% · AM Best",
+     "value": "~$0.94-0.98T"
+    },
+    {
+     "label": "US P&C combined ratio",
+     "note": "2025, best in a decade; AM Best projects 96.9 for 2026",
+     "value": "92.9"
+    },
+    {
+     "label": "Global premium growth (real)",
+     "note": "2026 and 2027 forecast · Swiss Re Institute, Nov 2025",
+     "value": "~2.3% a year"
+    }
+   ],
    "kpis": [
     "Combined ratio: below 100% means underwriting profit",
+    "US P&C combined ratio: 92.9 in 2025 (AM Best)",
     "Net premiums written growth",
     "Return on equity: about 10-15% for good insurers",
     "Catastrophe losses per quarter"
@@ -3956,15 +4051,72 @@
     "usNote": "US insurance premiums, the world's largest market (Swiss Re, 2024 approx.)"
    },
    "operatingModel": "Insurers make money two ways: underwriting profit (premiums minus claims and expenses, shown by a combined ratio below 100%) and investment income on the float. Pricing discipline across the cycle is what separates top performers.",
-   "overview": "Insurance companies collect premiums from customers in exchange for paying their claims if something goes wrong. Property and casualty insurers cover homes, cars and businesses, life insurers cover death and retirement, and reinsurers insure the insurers. Because premiums come in before claims are paid, insurers invest that money, called float, and earn investment income.",
+   "overview": "Insurance companies collect premiums and pay claims when covered events happen. The industry is organized by type of risk: life and annuities, property and casualty (P&C), health, and reinsurance, which insures the insurers. Money is made from underwriting profit, shown by a combined ratio below 100%, and from investing the premiums held before claims are paid. Higher interest rates, softer commercial pricing and larger catastrophe losses are the main forces changing results.",
    "players": [
     "P&C: Chubb, Travelers, Allstate, Progressive, AIG, W. R. Berkley",
     "Life and retirement: MetLife, Prudential, Allianz, AIA",
     "Reinsurance: Munich Re, Swiss Re, Berkshire Hathaway",
     "Structure: fragmented globally, with specialty niches led by a few experts"
    ],
-   "profileUpdated": "2026-10-20",
+   "profileUpdated": "2026-11-08",
    "sector": "financial-services",
+   "segments": {
+    "items": [
+     {
+      "cost": "Benefit payments, commissions and the cost of guaranteed returns.",
+      "growth": "steady",
+      "leaders": "AIA · Prudential · MetLife · Allianz",
+      "name": "Life and annuities",
+      "revenue": "Premiums and annuity deposits, plus investment income on long-dated assets.",
+      "share": "~44%",
+      "sharePct": 44,
+      "takeaway": {
+       "label": "Rate sensitive",
+       "why": "Higher interest rates lift investment income but can also make policies easier to cancel."
+      },
+      "what": "Pays out on death or retirement; profit depends on investment returns and long-term assumptions."
+     },
+     {
+      "cost": "Claims from accidents and catastrophes, plus sales and running costs.",
+      "growth": "slowing",
+      "highlight": true,
+      "leaders": "Chubb · Travelers · Allstate · Progressive",
+      "name": "Property and casualty (non-life)",
+      "revenue": "Premiums, plus investment income on float.",
+      "share": "~56%",
+      "sharePct": 56,
+      "takeaway": {
+       "label": "Cyclical pricing",
+       "why": "Prices rise after big losses and fall when capacity is plentiful, so underwriting profit swings."
+      },
+      "what": "Covers homes, cars and businesses; this group also includes health premiums in the Swiss Re split."
+     },
+     {
+      "cost": "Large catastrophe claims paid out in bad years.",
+      "leaders": "Munich Re · Swiss Re · Berkshire Hathaway",
+      "name": "Reinsurance",
+      "revenue": "Premiums paid by primary insurers and investment income.",
+      "takeaway": {
+       "label": "Volatile",
+       "why": "A few severe events can erase a year of profit, so pricing must cover the worst years."
+      },
+      "what": "Insures insurers against large or clustered losses such as hurricanes."
+     },
+     {
+      "cost": "Large claims and legal costs, which can rise for years after a policy is sold.",
+      "leaders": "Markel · W. R. Berkley · AIG",
+      "name": "Specialty and commercial lines",
+      "revenue": "Higher premiums per policy for risks that need expert underwriting.",
+      "takeaway": {
+       "label": "Skill-driven",
+       "why": "Profit depends on picking and pricing unusual risks better than rivals."
+      },
+      "what": "Covers complex business risks such as cyber, marine and liability."
+     }
+    ],
+    "title": "Share of global premiums, life vs. non-life (2027 forecast, Swiss Re Institute)"
+   },
+   "summary": "Insurance companies collect premiums and pay claims when covered events happen. The industry is organized by type of risk: life and annuities, property and casualty (P&C), health, and reinsurance, which insures the insurers. Money is made from underwriting profit, shown by a combined ratio below 100%, and from investing the premiums held before claims are paid. Higher interest rates, softer commercial pricing and larger catastrophe losses are the main forces changing results.",
    "threats": [
     "Catastrophe losses and climate change",
     "Reserve shortfalls from rising claims costs (social inflation)",
@@ -3977,6 +4129,59 @@
     "Bigger catastrophe losses from storms and wildfires",
     "Private equity buying life insurers to manage their assets",
     "AI used in underwriting and claims"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "US P&C insurers posted a 92.9 combined ratio in 2025, the best result in a decade."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Higher interest rates raise investment income on the premiums insurers hold."
+    },
+    {
+     "kind": "headwind",
+     "text": "Commercial pricing is softening after several strong years, and AM Best expects the US combined ratio to rise to 96.9 in 2026."
+    },
+    {
+     "kind": "headwind",
+     "text": "Catastrophe losses from storms and wildfires keep rising."
+    },
+    {
+     "kind": "headwind",
+     "text": "Rising claims costs, known as social inflation, can leave earlier reserves too low."
+    },
+    {
+     "kind": "tailwind",
+     "text": "AI is used to speed up underwriting and claims handling."
+    }
+   ],
+   "valueChain": [
+    {
+     "name": "Distribution",
+     "players": "Marsh McLennan · Aon · Willis Towers Watson",
+     "what": "Agents, brokers, banks and online channels find customers and sell policies."
+    },
+    {
+     "name": "Underwriting and pricing",
+     "players": "Chubb · Travelers · Allianz",
+     "what": "The insurer estimates the chance and size of future claims and sets the premium."
+    },
+    {
+     "name": "Risk pooling and reinsurance",
+     "players": "Munich Re · Swiss Re · Berkshire Hathaway",
+     "what": "Insurers spread large risks across many policyholders and pass peak risks to reinsurers."
+    },
+    {
+     "name": "Investment of float",
+     "players": "MetLife · Prudential · Berkshire Hathaway",
+     "what": "Premiums are invested until claims are paid, earning investment income."
+    },
+    {
+     "name": "Claims handling",
+     "players": "Allstate · Progressive · State Farm",
+     "what": "Adjusters verify and pay claims, which is the main cost and the test of service."
+    }
    ]
   },
   "internet-platforms": {
@@ -5551,31 +5756,32 @@
    "economicsOn": "valueChain",
    "keyFigures": [
     {
-     "label": "US generation",
-     "note": "Record, 2025 · EIA",
-     "value": "~4,430 TWh"
+     "label": "Global electricity demand",
+     "note": "2025, growing about 3.6% in 2026 · IEA mid-year update",
+     "value": "~28,600 TWh"
     },
     {
-     "label": "Utility capex",
-     "note": "US investor-owned, record, 2025 · EEI",
-     "value": "~$208B"
+     "label": "Global energy investment",
+     "note": "2026; China $940B, US $615B, EU $440B · IEA via Global Times",
+     "value": "~$3.4T"
     },
     {
-     "label": "Five-year capex plan",
-     "note": "US utilities, 2025–2029 · EEI",
-     "value": "$1.1T+"
+     "label": "US gas share of generation",
+     "note": "2025, largest source · EIA",
+     "value": "~41%"
     },
     {
-     "label": "Residential price",
-     "note": "US average, 2026 forecast, up from ~17.3¢ · EIA STEO, Oct 2026",
-     "value": "~18.2¢/kWh"
+     "label": "US wind and solar share",
+     "note": "Utility-scale, 2025, a record · EIA",
+     "value": "~17%"
     }
    ],
    "kpis": [
-    "Allowed ROE: about 9–10% for US regulated utilities",
-    "Rate base growth: 6–9% a year for fast growers",
-    "Capacity auction prices (e.g., PJM) and wholesale power prices",
-    "Interconnection queue wait: often 4–5+ years"
+    "Allowed ROE: about 9-10% for US regulated utilities",
+    "Rate base growth: 6-9% a year for fast growers",
+    "Global electricity demand growth: ~3.6% in 2026 (IEA)",
+    "US gas share of generation: ~41% (2025, EIA)",
+    "Interconnection queue: often 4-5+ years"
    ],
    "marketSize": {
     "global": "~$3T+",
@@ -5584,45 +5790,59 @@
     "usNote": "US retail electricity sales revenue (EIA, 2024 approx.)"
    },
    "operatingModel": "Regulated utilities earn an allowed return on equity (typically around 9-10% in the US) on their rate base, so profit grows by investing more capital. Independent generators earn the market price of power minus fuel costs, which makes them more volatile.",
-   "overview": "Power and utilities generate electricity and deliver electricity, gas and water to homes and businesses. In much of the US, utilities are regulated monopolies: a state commission sets their prices so they can recover costs and earn an allowed return on the grid and plants they build. Other markets separate generation, which competes on price, from transmission and distribution, which stay regulated.",
+   "overview": "Power and utilities generate electricity and deliver it to homes and businesses through wires. In much of the US, the wires are regulated monopolies, where a state commission lets the utility recover its costs and earn an allowed return on what it builds. Generation is often competitive, selling at market prices. Profit grows mainly with capital invested in regulated assets, and demand from data centers, electrification and cooling is now pushing spending sharply higher.",
    "players": [
     "Regulated US utilities: NextEra, Duke, Southern, AEP, Dominion",
     "Independent power producers: Vistra, Constellation, NRG",
     "European integrated players: Iberdrola, Enel, EDF, RWE",
     "Structure: local monopolies for wires; competitive wholesale generation in many regions"
    ],
-   "profileUpdated": "2026-10-27",
+   "profileUpdated": "2026-11-08",
    "sector": "energy-materials",
    "segments": {
     "items": [
      {
+      "growth": "steady",
+      "leaders": "Vistra · NextEra · Southern",
       "name": "Natural gas",
-      "share": "~40%",
-      "sharePct": 40,
-      "what": "The largest source and the plant type most often added to meet new data center demand."
+      "share": "~41%",
+      "sharePct": 41,
+      "what": "The largest source and the one that most often sets wholesale prices."
      },
      {
-      "name": "Renewables",
-      "share": "~26%",
-      "sharePct": 26,
-      "what": "Wind ~10%, solar ~9% (incl. rooftop) and hydro ~5%; solar output rose ~28% in 2025."
-     },
-     {
+      "growth": "flat",
+      "leaders": "Constellation · Duke · Southern",
       "name": "Nuclear",
+      "share": "~18%",
+      "sharePct": 18,
+      "what": "Runs almost constantly; operators are signing long-term deals with data centers."
+     },
+     {
+      "growth": "mixed",
+      "leaders": "Vistra · Southern · AEP",
+      "name": "Coal",
       "share": "~17%",
       "sharePct": 17,
-      "what": "Steady carbon-free baseload, now prized by tech companies signing long-term deals."
+      "what": "Output rose about 13% in 2025 on cold weather and higher gas prices."
      },
      {
-      "name": "Coal",
-      "share": "~16%",
-      "sharePct": 16,
-      "what": "Rose ~13% in 2025 as planned plant retirements were delayed."
+      "growth": "fast",
+      "leaders": "NextEra · Invenergy · AES",
+      "name": "Wind and solar",
+      "share": "~17%",
+      "sharePct": 17,
+      "what": "A record share, but dependent on weather, so it needs backup supply."
+     },
+     {
+      "name": "Hydro and other",
+      "share": "~7%",
+      "sharePct": 7,
+      "what": "The remainder, including hydroelectric, biomass and geothermal."
      }
     ],
-    "title": "US electricity generation by source (2025, EIA data)"
+    "title": "Share of US utility-scale electricity generation by source, 2025 (EIA; other is calculated)"
    },
-   "summary": "Power companies generate electricity and deliver it, along with gas and water, to homes and businesses. In much of the US the wires business is a regulated monopoly that earns an allowed return on what it builds, while power plants compete on price in many regions. Data centers have brought the first sustained US demand growth in decades, so utilities are spending record sums on grids and new plants, and customer bills are rising.",
+   "summary": "Power and utilities generate electricity and deliver it to homes and businesses through wires. In much of the US, the wires are regulated monopolies, where a state commission lets the utility recover its costs and earn an allowed return on what it builds. Generation is often competitive, selling at market prices. Profit grows mainly with capital invested in regulated assets, and demand from data centers, electrification and cooling is now pushing spending sharply higher.",
    "threats": [
     "Regulators refusing rate increases as bills rise",
     "Wildfire and storm liabilities",
@@ -5639,85 +5859,74 @@
    "trendsThreats": [
     {
      "kind": "tailwind",
-     "text": "Data centers and industry drive record demand: EIA expects ~4,545 TWh of generation in 2026."
+     "text": "Global electricity demand is forecast to grow about 3.6% in 2026 as data centers, cooling and electrification expand."
     },
     {
      "kind": "tailwind",
-     "text": "Record capex grows the rate base that regulated utilities earn on: $1.1T+ planned over 2025–2029 (EEI)."
+     "text": "Large-load tariffs make big users such as data centers pay for the generation and grid they need."
     },
     {
      "kind": "tailwind",
-     "text": "Developers plan a record ~86 GW of new US capacity in 2026, more than half solar (EIA)."
+     "text": "Record global energy investment, about $3.4 trillion in 2026, funds new grids and plants."
     },
     {
      "kind": "headwind",
-     "text": "Rising bills (~18.2¢/kWh expected in 2026) make regulators more reluctant to approve rate increases."
+     "text": "Grid connection queues and transmission shortages delay new projects by years."
+    },
+    {
+     "kind": "headwind",
+     "text": "Regulators may refuse rate increases as customer bills rise."
     },
     {
      "kind": "headwind",
      "text": "Higher interest rates raise the cost of funding large capital programs."
-    },
-    {
-     "kind": "headwind",
-     "text": "Wildfire and storm liabilities, plus long grid connection queues, add risk and delay."
     }
    ],
    "valueChain": [
     {
-     "cost": "production and transport",
-     "name": "Fuel",
-     "players": "EQT · Peabody · Cameco",
-     "revenue": "commodity price × volume",
-     "takeaway": {
-      "label": "Volatile",
-      "why": "Fuel costs swing with gas prices and are usually passed through to customers."
-     },
-     "what": "Gas, coal and uranium are bought to run thermal plants; wind and sun are free."
-    },
-    {
-     "cost": "fuel, plant upkeep and financing",
+     "cost": "Fuel (for gas and coal plants) and plant construction financed with debt.",
      "name": "Generation",
-     "players": "Vistra · Constellation · NextEra Energy Resources",
-     "revenue": "wholesale power price × MWh, plus capacity payments and long-term contracts",
+     "players": "Vistra · Constellation · NextEra · NRG",
+     "revenue": "Market power prices and capacity payments, or regulated rates for utility-owned plants.",
      "takeaway": {
-      "label": "Volatile, now the fastest-growing pool",
-      "why": "Data center demand has pushed up capacity prices and the value of nuclear and gas plants."
+      "label": "Price exposed",
+      "why": "Independent generators earn the market price minus fuel cost, so profits swing with power and gas prices."
      },
-     "what": "Power plants sell electricity into wholesale markets or under contracts."
+     "what": "Plants burn gas or coal, split atoms, or capture wind, sun and water to make electricity."
     },
     {
-     "cost": "building lines, then depreciation and financing",
-     "name": "Transmission",
-     "players": "AEP · National Grid · ITC",
-     "revenue": "regulated return on the grid assets (rate base)",
-     "takeaway": {
-      "label": "Stable",
-      "why": "Federally regulated returns on a growing asset base, with a long backlog of needed lines."
-     },
-     "what": "High-voltage lines move bulk power across regions."
-    },
-    {
-     "cost": "poles, wires, storm and wildfire hardening",
+     "cost": "Equipment, land and construction, plus maintenance.",
      "highlight": true,
-     "name": "Distribution",
-     "players": "Duke · Southern · Dominion · PG&E",
-     "revenue": "allowed return (often ~9–10% ROE) on rate base, set by state regulators",
+     "name": "Transmission",
+     "players": "AEP · ITC · Duke · NextEra",
+     "revenue": "Regulated returns on the lines and substations the owner builds.",
      "takeaway": {
-      "label": "Largest and steadiest profit pool",
-      "why": "Profit grows with every dollar invested, as long as regulators approve rate increases."
+      "label": "Growing, regulated",
+      "why": "New lines earn an allowed return, so more investment raises earnings if regulators approve the cost."
      },
-     "what": "Local wires, substations and meters deliver power to each customer."
+     "what": "High-voltage lines carry power from plants to regional hubs."
     },
     {
-     "cost": "buying wholesale power and hedging",
-     "name": "Retail supply",
-     "players": "NRG · Vistra (TXU) · utilities",
-     "revenue": "per-kWh tariffs and fixed charges",
+     "cost": "Grid upgrades, storm repair and wildfire or outage liabilities.",
+     "name": "Distribution",
+     "players": "Duke · Southern · Dominion · Con Edison",
+     "revenue": "Regulated rates set by state commissions, based on the rate base.",
+     "takeaway": {
+      "label": "Stable, politically exposed",
+      "why": "Earnings are steady, but regulators can refuse rate increases when bills rise."
+     },
+     "what": "Local wires and transformers deliver power to homes and businesses."
+    },
+    {
+     "cost": "Wholesale power purchases and billing and service costs.",
+     "name": "Retail supply and customers",
+     "players": "NRG · Constellation · regulated utilities",
+     "revenue": "Energy charges, delivery charges and fees.",
      "takeaway": {
       "label": "Thin margins",
-      "why": "Retailers are squeezed when wholesale prices spike faster than contracts reset."
+      "why": "Where customers can choose a supplier, competition keeps the markup small."
      },
-     "what": "Selling power to end customers, by the utility or by competitive retailers in some states."
+     "what": "Retail suppliers or utilities bill customers and buy power on their behalf."
     }
    ]
   },
