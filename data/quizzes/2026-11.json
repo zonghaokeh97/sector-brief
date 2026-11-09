@@ -2294,5 +2294,252 @@
     "subindustry": "insurance"
    }
   ]
+ },
+ "2026-11-09": {
+  "date": "2026-11-09",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "Firefly keeps the designs and can sell to other customers, but AST can eventually make the engines itself, so Firefly trades part of later volume for about $1.3 billion over three years.",
+    "id": "2026-11-09:x01",
+    "kind": "today",
+    "options": [
+     "Ownership of its engine designs",
+     "Some of the future production volume, in exchange for a large upfront payment and funding",
+     "The right to sell engines to any other customer",
+     "Its test facilities in Texas"
+    ],
+    "prompt": "AST SpaceMobile's engine deal with Firefly includes a license to build the engines itself after the first three rockets. What does Firefly give up?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-09-09",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 3,
+    "explanation": "Data centers are one of the largest new sources of US electricity demand, so rules on siting and cost allocation decide how much generation and grid capacity utilities will plan. Demand does not disappear, but its growth path becomes less certain.",
+    "id": "2026-11-09:x02",
+    "kind": "today",
+    "options": [
+     "Demand for electricity falls to zero",
+     "Utilities no longer need transmission lines",
+     "Data-center companies stop paying for power",
+     "Uncertainty about how fast the largest new source of power demand will grow, which affects how much grid capacity to build"
+    ],
+    "prompt": "Local restrictions on data centers passed in 44 of 45 completed votes. What is the most direct effect on electric utilities?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-09-08",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 0,
+    "explanation": "A higher price lifts revenue for producers with a stable supply route, while airlines, chemical makers and importers pay more. The price moves on every sign of a deal or a breakdown in talks, as it did when it fell 4% on Monday.",
+    "id": "2026-11-09:x03",
+    "kind": "today",
+    "options": [
+     "Oil producers outside the Gulf, such as US shale operators, which sell at the higher price",
+     "Airlines, which buy jet fuel",
+     "Chemical makers that use oil as a raw material",
+     "Importing countries"
+    ],
+    "prompt": "Brent is near $94 with the Strait of Hormuz still disrupted. Which group gains most from the higher price?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-09-04",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 2,
+    "explanation": "Content costs a lot to make but little to copy, so extra subscribers add revenue with little added cost. That is why the leader earns an operating margin around 30% while smaller rivals earn far less.",
+    "id": "2026-11-09:x04",
+    "kind": "profile",
+    "options": [
+     "Content is free to make but expensive to deliver",
+     "Regulators require every service to have the same price",
+     "A large fixed content budget is spread over more subscribers, so profit per subscriber rises as the base grows",
+     "Subscribers pay more when there are fewer services"
+    ],
+    "prompt": "Why does scale matter so much for a streaming service?",
+    "sector": "tmt",
+    "storyId": null,
+    "subindustry": "media-entertainment"
+   },
+   {
+    "answer": 1,
+    "explanation": "Interest earned on loans, net of funding costs, is the biggest profit line for most banks. Fees from payments, markets and wealth add steadier or more cyclical income but are smaller.",
+    "id": "2026-11-09:x05",
+    "kind": "profile",
+    "options": [
+     "Wealth and insurance",
+     "Lending, where interest on loans produces net interest income",
+     "Card rewards",
+     "Branch networks"
+    ],
+    "prompt": "In the banking value chain, which step is the largest profit pool?",
+    "sector": "financial-services",
+    "storyId": null,
+    "subindustry": "banking"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "Contributing its own Italian businesses in exchange for new shares lifts the stake without a cash bid for the whole company, which would trigger a mandatory offer. The proposal still needs board and regulatory approval and offers holders a 20% premium and a €1 billion dividend, so the other options are wrong.",
+    "id": "2026-11-09:q01",
+    "kind": "today",
+    "options": [
+     "It guarantees the Banco BPM board will approve the deal",
+     "It raises the stake through new shares and avoids a mandatory takeover offer for the whole bank",
+     "It lets Crédit Agricole pay Banco BPM holders nothing at all",
+     "It removes the need for any regulatory review"
+    ],
+    "prompt": "Crédit Agricole wants to lift its Banco BPM stake from 29.6% to about 45% by merging its Italian unit into the bank rather than bidding for it. What is the main advantage of that structure?",
+    "sector": "financial-services",
+    "storyId": "2026-11-09-01",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 0,
+    "explanation": "The inquiry concerns a leader's contacts and possible national-security questions in a business that depends on US export rules for China sales. Demand for AI chips did not change that day, which is why rivals rose, and Nvidia's earnings are not due until November 17.",
+    "id": "2026-11-09:q02",
+    "kind": "today",
+    "options": [
+     "Investors priced in a governance and export-control risk specific to Nvidia, not a drop in AI chip demand",
+     "AMD and Broadcom stopped selling chips to China the same day",
+     "Nvidia announced it would stop making AI chips",
+     "Nvidia's earnings had already been cut in half"
+    ],
+    "prompt": "Nvidia fell about 5% to 6% after its board opened an inquiry into CEO Jensen Huang, while AMD and Broadcom rose about 5%. What best explains the gap?",
+    "sector": "tmt",
+    "storyId": "2026-11-09-02",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 2,
+    "explanation": "Oil feeds into transport, chemicals and consumer prices, so a lower price eases inflation and company costs. That matters when markets were pricing a December rate hike. Oil producers lose revenue, and the Fed does not respond mechanically to one day of prices.",
+    "id": "2026-11-09:q03",
+    "kind": "today",
+    "options": [
+     "It raises the profits of every oil company at once",
+     "It makes the US dollar worth less than gold",
+     "It lowers input costs and inflation pressure, which eases fears of further Fed rate rises",
+     "It forces the Fed to cut rates immediately"
+    ],
+    "prompt": "Brent fell about 4% to roughly $94 and the S&P 500 rose 1.5%. Why does cheaper oil tend to lift the broader stock market?",
+    "sector": "macro",
+    "storyId": "2026-11-09-03",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 3,
+    "explanation": "Mining and raw-material prices drove the 5.7% factory-price rise, the fastest since June 2022, but food prices fell and the property slump weighs on household confidence, so only 0.7% reached shops. Firms are squeezed between higher costs and cautious buyers.",
+    "id": "2026-11-09:q04",
+    "kind": "today",
+    "options": [
+     "Households are spending heavily on gasoline and food",
+     "The government raised retail prices to match factory costs",
+     "Chinese factories stopped buying raw materials",
+     "Raw-material costs and strong export demand are pushing factory prices up, while weak domestic demand, especially property, holds consumer prices down"
+    ],
+    "prompt": "China's producer prices rose 5.7% while consumer prices rose just 0.7%. What best explains this gap?",
+    "sector": "macro",
+    "storyId": "2026-11-09-05",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 1,
+    "explanation": "An 85% rise from a low base is still only about 3% of Q3 revenue, while net interest income grew 8.2% and fee and insurance income 10.7%. That left net profit up 24% at about €3.26 billion and supported a target well above €11.5 billion.",
+    "id": "2026-11-09:q05",
+    "kind": "today",
+    "options": [
+     "Provisions are not counted as a cost for banks",
+     "The provisions are small against €6.9 billion of quarterly revenue, so profit still rose 24% on higher interest and fee income",
+     "Regulators banned the bank from setting aside more",
+     "The bank sold its loan book during the quarter"
+    ],
+    "prompt": "UniCredit's loan loss provisions rose 85% to €210 million, yet it raised its 2026 profit target. Why is that consistent?",
+    "sector": "financial-services",
+    "storyId": "2026-11-09-06",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 3,
+    "explanation": "Owning the platform gives Fox direct access to viewers and ad inventory beyond its own channels. It cannot drop rivals without risking Roku's value, which is why Fox pledged to keep the platform open to all content partners.",
+    "id": "2026-11-09:q06",
+    "kind": "today",
+    "options": [
+     "It no longer needs to pay for any programming",
+     "It guarantees Netflix and Disney will drop their apps",
+     "It will stop selling advertising",
+     "It controls the home screen where viewers choose content and where ads are sold, giving it viewer data and a bigger ad business"
+    ],
+    "prompt": "A broadcaster that owns programs and sports buys Roku, whose TV platform reaches over 100 million households. Which benefit matters most?",
+    "sector": "tmt",
+    "storyId": "2026-11-09-07",
+    "subindustry": "media-entertainment"
+   },
+   {
+    "answer": 2,
+    "explanation": "Excluding Paxlovid (-63%) and Comirnaty (-29%), revenue grew 7%, and launched and acquired products grew 32%. Guidance rose to $62-64B revenue from $60.5-62.5B.",
+    "id": "2026-11-03:q04",
+    "kind": "review",
+    "options": [
+     "It raised prices on all of its medicines",
+     "Cost cuts increased reported revenue",
+     "Growth in newer and acquired products, up 32%, offset steep falls in Paxlovid and Comirnaty",
+     "COVID vaccine sales rebounded sharply"
+    ],
+    "prompt": "Pfizer's revenue was flat at $16.6B, yet it raised its 2026 outlook. What explains this?",
+    "sector": "healthcare",
+    "storyId": "2026-11-03-04",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 3,
+    "explanation": "LNG plants cost $10B or more, so lenders want committed offtake before they lend. The contracts secure revenue but do not stop spot prices moving or remove construction risk.",
+    "id": "2026-11-04:q04",
+    "kind": "review",
+    "options": [
+     "They remove all construction and cost risk from the project",
+     "They guarantee that the spot price of LNG will never fall",
+     "They let the developer avoid building any shipping or terminals",
+     "Lenders will finance a multi-billion-dollar plant only against years of committed buyers"
+    ],
+    "prompt": "QatarEnergy signed a 20-year deal to buy up to 3 Mtpa of LNG from Woodside's Louisiana project. Why do such long-term contracts matter to a developer?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-04-04",
+    "subindustry": "midstream-lng"
+   },
+   {
+    "answer": 0,
+    "explanation": "The expansion adds about 225 million pounds a year, lifting output above 400 million pounds. The 400 million figure is the new total, not the addition. The budget is about 30% above a 2023 estimate of $3.5 billion.",
+    "id": "2026-11-05:q03",
+    "kind": "review",
+    "options": [
+     "About 225 million pounds",
+     "About 50 million pounds",
+     "About 1 billion pounds",
+     "About 400 million pounds"
+    ],
+    "prompt": "Freeport-McMoRan approved a $4.5 billion expansion of its Bagdad mine. About how much copper per year will it add?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-05-05",
+    "subindustry": "metals-mining"
+   },
+   {
+    "answer": 1,
+    "explanation": "Banks earn most profit from lending at a higher rate than they pay for deposits and other funding. That spread narrows when rates fall (global margins slipped from 1.65% to 1.63% in 2025) and credit losses reduce it when borrowers default.",
+    "id": "2026-11-09:q10",
+    "kind": "profile",
+    "options": [
+     "Trading profits, which never fall",
+     "Net interest income, the spread between loan rates and funding costs, which shrinks when rates fall or loans default",
+     "Card rewards, which are fixed by law",
+     "Advisory fees, which do not change with markets"
+    ],
+    "prompt": "Which line is usually the largest source of profit for a typical bank, and what is its main weakness?",
+    "sector": "financial-services",
+    "storyId": null,
+    "subindustry": "banking"
+   }
+  ]
  }
 }

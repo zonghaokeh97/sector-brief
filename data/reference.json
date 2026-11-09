@@ -321,6 +321,22 @@
    "ticker": "Nasdaq: ARRY",
    "updated": "2026-11-05"
   },
+  "ast-spacemobile": {
+   "businessModel": "Plans to sell satellite-to-phone broadband coverage through wholesale agreements with mobile network operators, sharing revenue with them.",
+   "competitors": [
+    "SpaceX Starlink Direct to Cell",
+    "Lynk Global",
+    "Skylo",
+    "Iridium"
+   ],
+   "hq": "Midland, TX",
+   "name": "AST SpaceMobile",
+   "sector": "tmt",
+   "size": "Pre-scale satellite operator; market cap in the billions (approx., 2026)",
+   "subindustry": "telecom",
+   "ticker": "Nasdaq: ASTS",
+   "updated": "2026-11-09"
+  },
   "astrazeneca": {
    "businessModel": "Discovers, makes and sells patented prescription medicines, led by cancer drugs, with large franchises in rare disease and heart, kidney and metabolic care.",
    "competitors": [
@@ -387,6 +403,22 @@
    "subindustry": "aerospace-defense",
    "ticker": "Nasdaq: AXON",
    "updated": "2026-11-06"
+  },
+  "banco-bpm": {
+   "businessModel": "Italian retail and commercial bank that earns net interest income from loans to households and small firms, plus fees from asset management and insurance partnerships.",
+   "competitors": [
+    "Intesa Sanpaolo",
+    "UniCredit",
+    "Monte dei Paschi",
+    "BPER Banca"
+   ],
+   "hq": "Milan, Italy",
+   "name": "Banco BPM",
+   "sector": "financial-services",
+   "size": "Assets of roughly €200 billion (approx., 2025); one of Italy's largest banks",
+   "subindustry": "banking",
+   "ticker": "Borsa Italiana: BAMI",
+   "updated": "2026-11-09"
   },
   "bank-of-america": {
    "businessModel": "Earns net interest income on its huge low-cost deposit base, plus fees from wealth management (Merrill), investment banking and trading.",
@@ -739,6 +771,22 @@
    "ticker": "Nasdaq: CMCSA",
    "updated": "2026-10-23"
   },
+  "commerzbank": {
+   "businessModel": "German bank that earns interest on loans to mid-sized companies and retail customers, plus fees from payments, trade finance and securities.",
+   "competitors": [
+    "Deutsche Bank",
+    "DZ Bank",
+    "Sparkassen group",
+    "UniCredit (HypoVereinsbank)"
+   ],
+   "hq": "Frankfurt, Germany",
+   "name": "Commerzbank",
+   "sector": "financial-services",
+   "size": "Assets of roughly €550 billion (approx., 2025); Germany's second-largest listed bank",
+   "subindustry": "banking",
+   "ticker": "Xetra: CBK",
+   "updated": "2026-11-09"
+  },
   "coreweave": {
    "businessModel": "Rents Nvidia GPU compute to AI labs and big tech under multi-year, largely take-or-pay contracts. Revenue is concentrated in a few customers such as Microsoft and OpenAI.",
    "competitors": [
@@ -756,6 +804,23 @@
    "subindustry": "software-cloud",
    "ticker": "NASDAQ: CRWV",
    "updated": "2026-10-19"
+  },
+  "credit-agricole": {
+   "businessModel": "A cooperative-rooted French banking group that earns interest on retail and corporate loans and fees from asset management, insurance and investment banking.",
+   "competitors": [
+    "BNP Paribas",
+    "Société Générale",
+    "Santander",
+    "UniCredit",
+    "HSBC"
+   ],
+   "hq": "Montrouge, France",
+   "name": "Crédit Agricole",
+   "sector": "financial-services",
+   "size": "Assets of roughly €2.5 trillion (approx., 2025); among the largest banks in Europe",
+   "subindustry": "banking",
+   "ticker": "Euronext Paris: ACA",
+   "updated": "2026-11-09"
   },
   "cvs-health": {
    "businessModel": "Combines Aetna health insurance, the Caremark pharmacy benefit manager and about 9,000 retail pharmacies. It earns premiums from insurance, fees and drug spread from managing drug benefits, and dispensing margins in stores.",
@@ -1045,6 +1110,22 @@
    "ticker": "NYSE and Milan: RACE",
    "updated": "2026-11-04"
   },
+  "firefly-aerospace": {
+   "businessModel": "Builds launch vehicles, rocket engines and lunar landers, earning revenue from launch services, engine sales and government and commercial space contracts.",
+   "competitors": [
+    "SpaceX",
+    "Rocket Lab",
+    "Blue Origin",
+    "United Launch Alliance"
+   ],
+   "hq": "Cedar Park, TX",
+   "name": "Firefly Aerospace",
+   "sector": "advanced-industries",
+   "size": "Small-cap space company (approx., 2026)",
+   "subindustry": "aerospace-defense",
+   "ticker": "Nasdaq: FLY",
+   "updated": "2026-11-09"
+  },
   "fiserv": {
    "businessModel": "Earns fees from processing card payments for merchants (including the Clover point-of-sale platform) and from running core banking software for banks and credit unions.",
    "competitors": [
@@ -1096,6 +1177,23 @@
    "subindustry": "software-cloud",
    "ticker": "NASDAQ: FTNT",
    "updated": "2026-10-31"
+  },
+  "fox-corporation": {
+   "businessModel": "Owns Fox News, Fox Sports and the Fox broadcast network, earning advertising and fees from cable and satellite distributors, and runs the free streaming service Tubi.",
+   "competitors": [
+    "Comcast (NBCUniversal)",
+    "Disney",
+    "Paramount",
+    "Warner Bros. Discovery",
+    "Netflix"
+   ],
+   "hq": "New York, NY",
+   "name": "Fox Corporation",
+   "sector": "tmt",
+   "size": "Revenue of roughly $16 billion (approx., fiscal 2025)",
+   "subindustry": "media-entertainment",
+   "ticker": "Nasdaq: FOXA",
+   "updated": "2026-11-09"
   },
   "freeport-mcmoran": {
    "businessModel": "Mines copper, gold and molybdenum in the US, Indonesia and Peru, and sells concentrate and refined copper at market prices. Profit depends on copper prices and unit costs.",
@@ -2222,6 +2320,23 @@
    "ticker": "Nasdaq: RIVN",
    "updated": "2026-10-30"
   },
+  "roku": {
+   "businessModel": "Sells streaming devices and a TV operating system, and earns most revenue from advertising and a cut of subscriptions sold on its platform.",
+   "competitors": [
+    "Amazon Fire TV",
+    "Google TV",
+    "Samsung Tizen",
+    "Apple TV",
+    "LG webOS"
+   ],
+   "hq": "San Jose, CA",
+   "name": "Roku",
+   "sector": "tmt",
+   "size": "Revenue of roughly $4.5 billion (approx., 2025); acquired by Fox for about $22 billion",
+   "subindustry": "media-entertainment",
+   "ticker": "Private (Fox Corporation)",
+   "updated": "2026-11-09"
+  },
   "rtx": {
    "businessModel": "Three businesses: Collins Aerospace (aircraft systems), Pratt & Whitney (jet engines plus aftermarket service) and Raytheon (missiles, radars and air defense sold mainly to governments).",
    "competitors": [
@@ -2817,6 +2932,23 @@
    "subindustry": "transport-logistics",
    "ticker": "NYSE: UBER",
    "updated": "2026-11-05"
+  },
+  "unicredit": {
+   "businessModel": "Pan-European bank that earns net interest income on loans across Italy, Germany, Central and Eastern Europe, plus fees and insurance income.",
+   "competitors": [
+    "Intesa Sanpaolo",
+    "BNP Paribas",
+    "Santander",
+    "Deutsche Bank",
+    "Crédit Agricole"
+   ],
+   "hq": "Milan, Italy",
+   "name": "UniCredit",
+   "sector": "financial-services",
+   "size": "Assets of roughly €800 billion (approx., 2025); 2026 net profit target above €11.5 billion",
+   "subindustry": "banking",
+   "ticker": "Borsa Italiana: UCG",
+   "updated": "2026-11-09"
   },
   "union-pacific": {
    "businessModel": "Operates a freight railroad across the western US and earns fees per carload and shipment for hauling goods, with fuel surcharges added on top.",
@@ -3503,34 +3635,35 @@
    ]
   },
   "banking": {
-   "economicsOn": "segments",
+   "economicsOn": "valueChain",
    "keyFigures": [
     {
-     "label": "Global banking revenue",
-     "note": "2025 · McKinsey Global Banking Review",
-     "value": "~$6.4T"
-    },
-    {
-     "label": "Global net income",
-     "note": "2025, up 7% · McKinsey",
+     "label": "Global bank net income",
+     "note": "Record, 2025, up 7% · McKinsey Global Banking Annual Review 2026",
      "value": "~$1.3T"
     },
     {
-     "label": "US bank net income",
-     "note": "Q2 2026, FDIC-insured banks · FDIC",
-     "value": "~$90B"
+     "label": "Funds intermediated",
+     "note": "2024, about 4x global GDP · McKinsey Global Banking Annual Review 2025",
+     "value": "~$426T"
     },
     {
-     "label": "US bank ROA",
-     "note": "Q2 2026 · FDIC",
-     "value": "~1.37%"
+     "label": "Global net interest margin",
+     "note": "2025, down from 1.65% in 2024 · McKinsey 2026",
+     "value": "~1.63%"
+    },
+    {
+     "label": "US bank assets",
+     "note": "FDIC-insured banks, 2025 approx. · FDIC",
+     "value": "~$24T"
     }
    ],
    "kpis": [
-    "Net interest margin: ~2.5–3% for large US banks",
-    "ROTCE: 15%+ is strong; global average ~11.8% in 2025 (McKinsey)",
-    "CET1 capital ratio: ~11–13% at big banks",
-    "Efficiency ratio (costs ÷ revenue): ~55–65%"
+    "Net interest margin: ~1.63% global average (2025)",
+    "Return on tangible equity: 15%+ is strong; UniCredit earned ~25% in Q3 2026",
+    "CET1 capital ratio: ~11-13% at big banks",
+    "Efficiency ratio (costs / revenue): ~55-65%",
+    "Four largest US banks hold roughly 40% of US deposits"
    ],
    "marketSize": {
     "global": "~$7T",
@@ -3539,66 +3672,45 @@
     "usNote": "Total assets of FDIC-insured banks (FDIC, 2025 approx.)"
    },
    "operatingModel": "Banks borrow cheaply (deposits) and lend higher; that spread is net interest income, the largest profit line. Fee businesses add steadier revenue. Returns are capped by the capital regulators require them to hold.",
-   "overview": "Retail and commercial banking (deposits, loans, cards) and investment banking (advisory, underwriting, trading). The largest part of financial services by revenue.",
+   "overview": "Banks take in deposits and other funding, lend it out at a higher rate, and add fees from payments, advisory work and wealth management. Most profit comes from the gap between what they earn on loans and what they pay for funding, so rates, credit losses and the capital regulators require shape returns. Big banks hold most of the deposits in their home markets and are consolidating through mergers. Higher rates, private credit and AI are changing where the profit is made.",
    "players": [
     "US megabanks: JPMorgan Chase (largest), Bank of America, Citigroup, Wells Fargo",
     "Investment banks: Goldman Sachs, Morgan Stanley",
     "Global: HSBC, BNP Paribas, MUFG, ICBC (largest by assets)",
     "The four largest US banks hold roughly 40% of US deposits"
    ],
-   "profileUpdated": "2026-10-27",
+   "profileUpdated": "2026-11-09",
    "sector": "financial-services",
    "segments": {
     "items": [
      {
-      "cost": "branches, staff, technology and credit losses",
-      "highlight": true,
-      "leaders": "JPMorgan Chase · Bank of America · Wells Fargo",
-      "name": "Retail & small business",
-      "revenue": "net interest income (loan rate minus deposit rate), card fees",
-      "takeaway": {
-       "label": "Largest and steadiest pool",
-       "why": "Cheap, sticky deposits fund loans at a wide spread, especially when rates are higher."
-      },
-      "what": "Checking, savings, mortgages, cards and small-business loans."
+      "growth": "steady",
+      "leaders": "JPMorgan Chase · ICBC · HSBC",
+      "name": "Retail banking",
+      "share": "~33%",
+      "sharePct": 33,
+      "what": "Deposits, mortgages, cards and consumer loans for households."
      },
      {
-      "cost": "technology, compliance and credit losses",
-      "leaders": "JPMorgan · Citi · HSBC",
-      "name": "Commercial & transaction banking",
-      "revenue": "lending spread plus payment and cash-management fees",
-      "takeaway": {
-       "label": "Stable and highly valued",
-       "why": "Transaction banking and distribution earn ~57% of bank profits on 47% of revenue (McKinsey, 2025)."
-      },
-      "what": "Corporate loans, payments, cash management and trade finance."
+      "growth": "steady",
+      "leaders": "Citigroup · BNP Paribas · UniCredit",
+      "name": "Corporate and commercial banking",
+      "share": "~28%",
+      "sharePct": 28,
+      "what": "Loans, cash management and trade finance for companies."
      },
      {
-      "cost": "pay (often ~30–40% of revenue) and capital",
-      "leaders": "Goldman Sachs · Morgan Stanley · JPMorgan",
-      "name": "Investment banking & markets",
-      "revenue": "advisory and underwriting fees, trading spreads",
-      "takeaway": {
-       "label": "Volatile",
-       "why": "Fees rise and fall with deal activity and market swings."
-      },
-      "what": "Advising on M&A, underwriting stocks and bonds, and trading."
-     },
-     {
-      "cost": "advisor pay and platforms",
-      "leaders": "Morgan Stanley · UBS · Merrill",
-      "name": "Wealth management",
-      "revenue": "fees as a percentage of client assets",
-      "takeaway": {
-       "label": "Steady growth",
-       "why": "Fee income grows with markets and needs little capital."
-      },
-      "what": "Advice and investment management for wealthy households."
+      "growth": "mixed",
+      "leaders": "Goldman Sachs · Morgan Stanley · UBS",
+      "name": "Markets, wealth, payments and other",
+      "share": "~39%",
+      "sharePct": 39,
+      "what": "Trading, advisory, asset management and other businesses (calculated as the remainder)."
      }
     ],
-    "title": "Main bank businesses"
+    "title": "Share of global banking revenue by business line (McKinsey, 2024 edition; remainder calculated)"
    },
-   "summary": "Banks take deposits, lend money, move payments and help companies raise capital. Most profit comes from the spread between what banks pay depositors and what they charge borrowers, with fees from payments, wealth and dealmaking on top. Banking earned about $1.3T in 2025, more than any other industry, but returns are capped by the capital regulators require and banks face growing competition from private credit and fintechs.",
+   "summary": "Banks take in deposits and other funding, lend it out at a higher rate, and add fees from payments, advisory work and wealth management. Most profit comes from the gap between what they earn on loans and what they pay for funding, so rates, credit losses and the capital regulators require shape returns. Big banks hold most of the deposits in their home markets and are consolidating through mergers. Higher rates, private credit and AI are changing where the profit is made.",
    "threats": [
     "Credit losses in commercial real estate and consumer loans",
     "Deposit flight to money-market funds",
@@ -3615,55 +3727,85 @@
    "trendsThreats": [
     {
      "kind": "tailwind",
-     "text": "Higher rates support net interest income; US bank profit rose ~12% quarter on quarter in Q2 2026 (FDIC)."
+     "text": "Banks earned a record of about $1.3 trillion in 2025, up 7% on 2024, helped by higher-rate margins and low credit losses."
     },
     {
      "kind": "tailwind",
-     "text": "US capital rules are being eased, freeing capital for lending and buybacks."
+     "text": "Consolidation is gathering pace in Europe, with UniCredit taking control of Commerzbank and Crédit Agricole proposing to merge its Italian arm with Banco BPM."
     },
     {
      "kind": "tailwind",
-     "text": "AI is cutting costs in operations, fraud detection and software development."
+     "text": "US capital rules are being eased, freeing capital for buybacks and lending."
     },
     {
      "kind": "headwind",
-     "text": "Banks' share of financial assets fell to ~40% from 44% in 2022 as private credit and funds grow (McKinsey)."
+     "text": "Net interest margins are edging down (1.65% to 1.63% globally in 2025), which squeezes the biggest profit line."
     },
     {
      "kind": "headwind",
-     "text": "Credit losses could rise in commercial real estate and consumer loans if growth slows."
+     "text": "Private credit funds are taking lending share from banks, and fintechs are taking payments."
     },
     {
      "kind": "headwind",
-     "text": "Fintechs and stablecoins are competing for payments and deposits."
+     "text": "Credit losses in commercial real estate and consumer loans, plus rising sanctions and compliance enforcement."
     }
    ],
    "valueChain": [
     {
+     "cost": "Interest paid to depositors and bondholders, plus branch and app costs.",
      "name": "Funding",
-     "players": "JPMorgan Chase · Bank of America · Wells Fargo",
-     "what": "Banks gather deposits and borrow in wholesale markets."
+     "players": "JPMorgan Chase · Bank of America · HSBC",
+     "revenue": "A cheap, sticky deposit base that lets the bank pay less than it earns on loans.",
+     "takeaway": {
+      "label": "Funding advantage",
+      "why": "Banks with the cheapest deposits earn the widest margin on every loan."
+     },
+     "what": "Banks gather deposits and borrow in bond markets to get money to lend."
     },
     {
+     "cost": "Credit losses on loans that go bad, and the equity capital regulators require against each loan.",
      "highlight": true,
-     "name": "Lending & credit",
-     "players": "JPMorgan Chase · Citi · regional banks",
-     "what": "They lend to households and businesses and hold loans or sell them on."
+     "name": "Lending",
+     "players": "JPMorgan Chase · Wells Fargo · UniCredit",
+     "revenue": "Interest on loans, the largest source of profit (net interest income).",
+     "takeaway": {
+      "label": "Largest profit pool",
+      "why": "The spread on loans is the biggest line, but it shrinks when rates fall or defaults rise."
+     },
+     "what": "Money is lent to households, companies and property buyers, mostly at floating or fixed interest rates."
     },
     {
-     "name": "Payments & cash management",
-     "players": "JPMorgan · Citi · HSBC",
-     "what": "They move money for consumers and companies, here and across borders."
+     "cost": "Technology, fraud losses and card rewards.",
+     "name": "Payments and fees",
+     "players": "JPMorgan Chase · American Express · BNP Paribas",
+     "revenue": "Card interchange, account fees and payment-processing fees.",
+     "takeaway": {
+      "label": "Steady",
+      "why": "Fee income does not move with interest rates, so it steadies earnings."
+     },
+     "what": "Accounts, cards and transfers earn fees whether or not the customer borrows."
     },
     {
-     "name": "Capital markets",
-     "players": "Goldman Sachs · Morgan Stanley · JPMorgan",
-     "what": "They underwrite stocks and bonds, advise on deals and trade securities."
+     "cost": "Banker pay and the capital held against trading positions.",
+     "name": "Markets and investment banking",
+     "players": "Goldman Sachs · Morgan Stanley · JPMorgan Chase",
+     "revenue": "Advisory and underwriting fees and trading spreads.",
+     "takeaway": {
+      "label": "Cyclical",
+      "why": "Deal and trading volumes swing with markets, so income is lumpy."
+     },
+     "what": "Banks advise on deals, underwrite securities and trade for clients."
     },
     {
-     "name": "Wealth & advice",
-     "players": "Morgan Stanley · UBS · Bank of America (Merrill)",
-     "what": "They manage money for wealthy clients."
+     "cost": "Adviser pay and product distribution costs.",
+     "name": "Wealth and insurance",
+     "players": "Morgan Stanley · UBS · Crédit Agricole",
+     "revenue": "Fees charged as a percentage of assets managed, and insurance commissions.",
+     "takeaway": {
+      "label": "Recurring fees",
+      "why": "Fees on assets grow with markets and do not need much capital."
+     },
+     "what": "Banks manage savings for richer customers and sell insurance products through their branches."
     }
    ]
   },
@@ -4515,12 +4657,35 @@
    ]
   },
   "media-entertainment": {
+   "economicsOn": "segments",
+   "keyFigures": [
+    {
+     "label": "Global media and entertainment revenue",
+     "note": "2024, up 5.5%, forecast ~$3.5T by 2029 · PwC Global Entertainment & Media Outlook 2025-2029",
+     "value": "~$2.9T"
+    },
+    {
+     "label": "Global streaming revenue",
+     "note": "2025, incl. ads; subscriptions ~$157B, up 14% · Ampere Analysis",
+     "value": "~$177B"
+    },
+    {
+     "label": "Ad-supported share of streaming subscription revenue",
+     "note": "2025, up from under 5% in 2020 · Ampere Analysis",
+     "value": "~28%"
+    },
+    {
+     "label": "Advertising growth forecast",
+     "note": "To 2029, vs ~2% for consumer spending · PwC",
+     "value": "~6.1% a year"
+    }
+   ],
    "kpis": [
-    "Operating margin (leader about 30%+)",
+    "Operating margin: leader about 30%+, others far lower",
     "Paid memberships and average revenue per member",
-    "Churn (monthly cancellations)",
+    "Monthly churn (cancellations)",
     "Content spend vs revenue",
-    "Ad revenue as a share of the total"
+    "Ad revenue as a share of total (about 28% of subscription revenue)"
    ],
    "marketSize": {
     "global": "~$157B",
@@ -4529,14 +4694,61 @@
     "usNote": "US is about 50% of global streaming subscription revenue (Ampere, 2025); derived estimate"
    },
    "operatingModel": "Streamers collect monthly subscriptions and ad revenue and spend most of it on content, so profit depends on spreading a fixed content budget over more subscribers and higher prices. Operating margins for the leader run around 30%, while smaller rivals earn far less.",
-   "overview": "Media and entertainment companies make and distribute films, TV, music, games and news, and sell them through streaming subscriptions, advertising, cinemas and licensing. Content costs a lot to make but little to copy, so the winners are the services that spread those costs over the most viewers. Streaming has largely replaced cable, shifting money from bundles to monthly subscriptions and ads.",
+   "overview": "Media and entertainment companies make and distribute films, TV, music, games and news, and earn money from subscriptions, advertising, licensing and ticket sales. Content costs a lot to make but little to copy, so the winners spread it over the most viewers. Streaming has replaced much of cable, moving revenue from bundles to subscriptions and ads, and advertising is now the larger source of money across the industry. Consolidation, such as Fox buying Roku, is how companies try to gain scale and control of the viewer relationship.",
    "players": [
     "Streaming: Netflix, Amazon Prime Video, YouTube, Disney, Warner Bros. Discovery, Paramount",
     "Music and games: Universal Music, Sony, Tencent, Electronic Arts",
     "Structure: a few global platforms with scale, many smaller services that are bundling or being bought"
    ],
-   "profileUpdated": "2026-10-21",
+   "profileUpdated": "2026-11-09",
    "sector": "tmt",
+   "segments": {
+    "items": [
+     {
+      "cost": "Content production and licensing, the largest cost, plus marketing.",
+      "growth": "steady",
+      "highlight": true,
+      "leaders": "Netflix · Disney · Amazon Prime Video",
+      "name": "Subscription video",
+      "revenue": "Monthly subscription fees, lifted by price rises and password-sharing limits.",
+      "share": "~89%",
+      "sharePct": 89,
+      "takeaway": {
+       "label": "Largest profit pool",
+       "why": "A fixed content budget spread over more subscribers lifts margins, so scale wins."
+      },
+      "what": "Monthly fees from viewers, about half of it from the US."
+     },
+     {
+      "cost": "Ad technology, sales teams and revenue shared with platforms.",
+      "growth": "fast",
+      "leaders": "YouTube · Netflix · Roku",
+      "name": "Streaming advertising",
+      "revenue": "Ad sales priced per thousand views, on free and lower-priced tiers.",
+      "share": "~11%",
+      "sharePct": 11,
+      "takeaway": {
+       "label": "Fast growing",
+       "why": "Ad tiers grew from under 5% to 28% of subscription revenue in five years."
+      },
+      "what": "Ads sold on free and cheaper ad-supported tiers (calculated as the remainder)."
+     },
+     {
+      "cost": "Production, marketing and platform fees such as app-store cuts.",
+      "growth": "mixed",
+      "leaders": "Universal Music · Sony · Tencent",
+      "name": "Films, music, games and news outside streaming",
+      "revenue": "Ticket sales, music royalties, game sales and in-game purchases.",
+      "takeaway": {
+       "label": "Hit-driven",
+       "why": "A few big releases earn most of the money, so results swing from year to year."
+      },
+      "what": "Cinema tickets, music licensing, games and news sit outside this streaming share."
+     }
+    ],
+    "title": "Share of global streaming revenue by source, 2025 (calculated from Ampere: ~$157B subscriptions of ~$177B total)"
+   },
+   "summary": "Media and entertainment companies make and distribute films, TV, music, games and news, and earn money from subscriptions, advertising, licensing and ticket sales. Content costs a lot to make but little to copy, so the winners spread it over the most viewers. Streaming has replaced much of cable, moving revenue from bundles to subscriptions and ads, and advertising is now the larger source of money across the industry. Consolidation, such as Fox buying Roku, is how companies try to gain scale and control of the viewer relationship.",
    "threats": [
     "Subscribers lose interest and cancel, and churn rises",
     "Content costs and sports rights keep inflating",
@@ -4550,6 +4762,59 @@
     "Live sports and events are used to hold audiences and sell ads",
     "Cost cuts and layoffs as growth slows toward about 10% a year",
     "Generative AI is entering production and marketing workflows"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "Streaming subscription revenue passed $150 billion in 2025, up 14%."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Ad-supported tiers are growing quickly, reaching about 28% of subscription revenue in 2025."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Studios and platforms are merging, as with Fox's $22 billion purchase of Roku, to gain scale and control of the viewer relationship."
+    },
+    {
+     "kind": "headwind",
+     "text": "Subscriber growth is slowing, so price rises and password-sharing limits are carrying most of the growth."
+    },
+    {
+     "kind": "headwind",
+     "text": "Content and sports-rights costs keep rising while viewing time shifts to video platforms such as YouTube and TikTok."
+    },
+    {
+     "kind": "headwind",
+     "text": "Churn, piracy and cost cuts: companies are laying off staff as growth slows."
+    }
+   ],
+   "valueChain": [
+    {
+     "name": "Content creation",
+     "players": "Disney · Warner Bros. Discovery · Universal Music",
+     "what": "Studios, game developers, labels and newsrooms make the programs, games and music."
+    },
+    {
+     "name": "Rights and packaging",
+     "players": "Disney · Fox · Sony",
+     "what": "Rights are bundled, licensed and sold, including sports rights and catalogs."
+    },
+    {
+     "name": "Distribution platforms",
+     "players": "Netflix · YouTube · Roku",
+     "what": "Streaming apps, cable, broadcast, theaters and TV operating systems deliver content to viewers."
+    },
+    {
+     "name": "Monetization",
+     "players": "Netflix · Amazon · Comcast",
+     "what": "Money comes from subscriptions, advertising, tickets and licensing fees."
+    },
+    {
+     "name": "Audience",
+     "players": "Roku · Samsung · Apple",
+     "what": "Viewers and players choose what to watch, and their data decides how ads are priced."
+    }
    ]
   },
   "medtech": {

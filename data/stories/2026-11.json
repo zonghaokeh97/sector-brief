@@ -2065,5 +2065,264 @@
   "subindustry": "power-utilities",
   "summary": "Global energy investment is expected to reach about $3.4 trillion in 2026, according to International Energy Agency data presented in a November 5 report by Global Times. China leads at $940 billion, followed by the United States at $615 billion and the European Union at $440 billion. Advanced economies and China together account for more than 70% of the total. The figure covers all energy spending, not only clean energy.",
   "tags": []
+ },
+ "2026-11-09-01": {
+  "companies": [
+   "credit-agricole",
+   "banco-bpm"
+  ],
+  "date": "2026-11-09",
+  "headline": "Crédit Agricole proposes merging its Italian unit into Banco BPM to build Italy's third-largest bank",
+  "numbers": [
+   "Crédit Agricole stake: 29.6% to ~45%",
+   "Premium for BPM holders: 20%",
+   "Extraordinary dividend: €1B",
+   "Target completion: H2 2027"
+  ],
+  "order": 1,
+  "sector": "financial-services",
+  "soWhat": "A merger of this type lets Crédit Agricole lift its stake through new shares in a combined bank instead of a cash bid, which avoids a mandatory takeover offer for the whole company. Bank deals in Europe are driven by scale: a larger Italian franchise spreads technology, compliance and funding costs over more customers and gives it more weight against UniCredit and Intesa Sanpaolo. Banco BPM shareholders gain a premium and a cash payout but give up some control to a dominant holder. The open question is whether the board and Italian authorities accept a structure that leaves the French group close to majority ownership.",
+  "sources": [
+   {
+    "title": "Investing.com: Crédit Agricole proposes Banco BPM merger, 20% premium and €1 bln dividend",
+    "url": "https://www.investing.com/news/stock-market-news/credit-agricole-proposes-banco-bpm-merger-20-premium-and-1-bln-dividend-5010541"
+   },
+   {
+    "title": "Crédit Agricole SA release via Manila Times (Nov 9, 2026)",
+    "url": "https://www.manilatimes.net/2026/11/09/tmt-newswire/globenewswire/credit-agricole-sa-crdit-agricole-proposes-to-banco-bpm-to-create-together-a-new-leading-italian-bank/2464894"
+   },
+   {
+    "title": "Fintech Garden: Crédit Agricole tables €1 billion dividend and 20% premium",
+    "url": "https://fintech.garden/news/2026-11-09-credit-agricole-tables-1-billion-dividend-and-20-premium-to-fold-italian-unit-in/"
+   }
+  ],
+  "subindustry": "banking",
+  "summary": "Crédit Agricole made a friendly proposal on November 9 to combine Banco BPM with its own Italian arm, Crédit Agricole Italia, including the Italian insurance businesses. The French group's stake would rise from 29.6% to about 45% of the combined bank. Banco BPM shareholders would receive an exchange ratio that reflects a 20% premium plus an extraordinary dividend of €1 billion. The combined group would stay listed in Milan, and completion is targeted for the second half of 2027. Banco BPM's board has not yet agreed to open talks.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-09-02": {
+  "companies": [
+   "nvidia"
+  ],
+  "date": "2026-11-09",
+  "headline": "Nvidia's board opens an investigation after CEO Jensen Huang admits an affair with a businesswoman US intelligence links to China",
+  "numbers": [
+   "Share move Monday: about -5% to -6%",
+   "Q3 earnings date: Nov 17",
+   "Congressional briefing requested: Nov 18",
+   "AMD and Broadcom: about +5% each"
+  ],
+  "order": 2,
+  "sector": "tmt",
+  "soWhat": "Nvidia sells the chips that most AI data centers run on, and the US government controls which of them can go to China, so questions about a leader's contacts touch both investor confidence and export-control politics. A drop of this size is a governance discount rather than a change in demand: the chip order book is unchanged, and rivals such as AMD and Broadcom rose the same day. Customers and lawmakers will watch how the board handles the review and whether Huang's role in shaping chip export policy is questioned. The open question is whether the inquiry stays a personal matter or widens into scrutiny of Nvidia's China-related sales.",
+  "sources": [
+   {
+    "title": "CNBC: Nvidia board investigation into CEO Jensen Huang (Nov 8, 2026)",
+    "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+   },
+   {
+    "title": "CNBC: Stock market today, Nov 9, 2026",
+    "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Nvidia's board has opened an independent inquiry into reports that a foreign intelligence effort targeted Jensen Huang through his relationship with a businesswoman tied to Megaspeed, a cloud company and Nvidia customer accused of helping restricted Chinese firms obtain AI chips. Huang emailed staff on November 8 admitting he had been unfaithful and apologizing. The board said it has no reason to believe national security or company secrets were compromised, and a spokesperson said he will stay as CEO. Nvidia shares fell about 5% to 6% in Monday trading, and the company reports third-quarter earnings on November 17.",
+  "tags": []
+ },
+ "2026-11-09-03": {
+  "companies": [],
+  "date": "2026-11-09",
+  "headline": "US stocks surge as oil falls about 4%, with the Dow up about 650 points and the Nasdaq up 2%",
+  "numbers": [
+   "Dow: about +650 points (+1.3%)",
+   "S&P 500: +1.5%; Nasdaq: +2%",
+   "Brent: about -4% to ~$94",
+   "WTI: about -3% to ~$87"
+  ],
+  "order": 3,
+  "sector": "macro",
+  "soWhat": "Oil is an input cost for almost every business and a driver of inflation, so a fall in crude eases pressure on both company margins and the central bank. That matters now because markets have been pricing a December Fed rate hike after the strong jobs data, and high yields have hurt growth stocks. Winners from cheaper oil include airlines, chemical makers and consumers; oil producers lose revenue. The open question is whether the move lasts, since talks over Iran and the Strait of Hormuz have stalled before.",
+  "sources": [
+   {
+    "title": "CNBC: Stock market today, Nov 9, 2026",
+    "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+   },
+   {
+    "title": "Stock Market Watch: Nightly Market Digest, Nov 6, 2026",
+    "url": "https://stockmarketwatch.com/digest/2026-11-06"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "The Dow rose about 650 points (1.3%), the S&P 500 gained 1.5% and the Nasdaq added 2% on Monday as falling oil prices lifted the broader market. Brent dropped about 4% to roughly $94 a barrel and WTI fell 3% to about $87. The rally partly reversed Thursday's AI-driven selloff, which left the Nasdaq about 11% below its record. Traders still face a hot jobs report, with 165,000 jobs added in October, and US consumer price data due Tuesday. Broadcom and AMD rose about 5% each, Amazon gained 5%, and Nvidia fell 5% to 6%.",
+  "tags": []
+ },
+ "2026-11-09-04": {
+  "companies": [],
+  "date": "2026-11-09",
+  "headline": "Oil slips as Iran talks stall: Brent near $94 after eight months of war, with Hormuz still disrupted",
+  "numbers": [
+   "Brent: ~$94 (about -4%)",
+   "WTI: ~$87 (about -3%)",
+   "War length: more than 8 months",
+   "US carriers in region: 3"
+  ],
+  "order": 4,
+  "sector": "energy-materials",
+  "soWhat": "A large share of the world's oil and LNG moves through the Strait of Hormuz, so every sign of a deal or a breakdown moves crude within hours, and prices near $90 or above mean producers earn windfall margins while importers face inflation. Upstream companies outside the Gulf, such as US shale and Norwegian operators, gain most from the higher price. Refiners and airlines lose when crude spikes and gain when it falls. The open question is whether a signed deal can reopen the strait for good after earlier attempts failed.",
+  "sources": [
+   {
+    "title": "CNBC: Trump says Iran strikes unlikely if talks produce a deal (Nov 8, 2026)",
+    "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html"
+   },
+   {
+    "title": "CNBC: Stock market today, Nov 9, 2026",
+    "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Brent fell about 4% to roughly $94 and WTI about 3% to $87 on Monday, even though talks to end the US-Iran war looked stalled. President Trump said renewed strikes are highly unlikely if Iran signs a deal on its nuclear program and the Strait of Hormuz, but kept strikes on bridges and power plants as an option. Secretary of State Marco Rubio called Iran's demands outrageous. The war is now more than eight months old, the US has kept a naval blockade of Iranian ports for months, and three US aircraft carriers are in the region.",
+  "tags": []
+ },
+ "2026-11-09-05": {
+  "companies": [],
+  "date": "2026-11-09",
+  "headline": "China's factory-gate prices rise 5.7%, the fastest since 2022, while consumer inflation slows to 0.7%",
+  "numbers": [
+   "Producer prices (PPI): +5.7% y/y",
+   "Consumer prices (CPI): +0.7% y/y",
+   "Core CPI: +0.8%",
+   "PPI forecast: 5.3%"
+  ],
+  "order": 5,
+  "sector": "macro",
+  "soWhat": "The wide gap between factory prices and shop prices squeezes manufacturers, who pay more for raw materials but cannot pass the cost on to cautious households. It also shows two different Chinas: strong external demand and commodity costs on the supply side, and a property slump weighing on consumer confidence at home. For global buyers, higher Chinese producer prices can feed into the price of exported goods. The open question is whether firms will eventually raise consumer prices or absorb the cost through thinner margins.",
+  "sources": [
+   {
+    "title": "CNBC: China inflation at four-year high (Nov 9, 2026)",
+    "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "China's producer price index rose 5.7% year on year in October, above the 5.3% economists expected and the fastest since June 2022. It was the third straight month of acceleration, driven by sharp price rises in mining and raw materials. Consumer prices rose only 0.7%, down from 0.9% in September, and core inflation slowed to 0.8% from 1%. Gasoline was the largest upward push on consumer prices, but a bigger-than-expected fall in food prices offset much of it. Weak property-market demand is holding back consumer inflation, and the CSI 300 index rose 0.56% after the data.",
+  "tags": []
+ },
+ "2026-11-09-06": {
+  "companies": [
+   "unicredit",
+   "commerzbank"
+  ],
+  "date": "2026-11-09",
+  "headline": "UniCredit posts record third-quarter profit of €3.3 billion and lifts its 2026 target",
+  "numbers": [
+   "Q3 net profit: €3.26B (+24%)",
+   "Q3 revenue: €6.9B (+11.8%)",
+   "RoTE: ~25.5%",
+   "2026 target: well above €11.5B"
+  ],
+  "order": 6,
+  "sector": "financial-services",
+  "soWhat": "Profit is rising faster than revenue because the bank keeps costs and credit losses low relative to income, and fee and insurance income reduces dependence on interest rates. A bank earning a 25% return on tangible equity can fund large dividends and an acquisition at once, which is why it can afford to take control of a rival such as Commerzbank. Rivals and smaller banks face a stronger consolidator, as the Crédit Agricole proposal for Banco BPM shows. The open question is how much of the profit growth depends on interest rates staying high.",
+  "sources": [
+   {
+    "title": "RTTNews: UniCredit lifts FY26 profit view after higher Q3 (Nov 9, 2026)",
+    "url": "https://www.rttnews.com/story.aspx?Id=3711743"
+   },
+   {
+    "title": "Investing.com: UniCredit tops Q3 2026 forecasts, lifts guidance",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-unicredit-tops-q3-2026-forecasts-lifts-guidance-93CH-5011097"
+   }
+  ],
+  "subindustry": "banking",
+  "summary": "UniCredit reported third-quarter net profit of about €3.26 billion, up 24% from a year earlier, on revenues of €6.9 billion, up 11.8%. Net interest income rose 8.2% to €3.83 billion and fees and insurance income rose 10.7% to €2.39 billion. Loan loss provisions rose 85% to €210 million. The bank now expects 2026 net profit well above €11.5 billion, up from well above €11 billion, and expects the remaining approvals for taking control of Commerzbank by late November. UniCredit shares rose about 5% in Milan.",
+  "tags": []
+ },
+ "2026-11-09-07": {
+  "companies": [
+   "fox-corporation",
+   "roku"
+  ],
+  "date": "2026-11-09",
+  "headline": "Fox completes its $22 billion purchase of Roku, putting a TV operating system under a broadcaster",
+  "numbers": [
+   "Deal value: ~$22B",
+   "Per Roku share: $95.30 cash + 0.9799 Fox shares",
+   "Cost savings: ~$400M within 2 years",
+   "Roku reach: 100M+ households"
+  ],
+  "order": 7,
+  "sector": "tmt",
+  "soWhat": "The deal joins a company that owns programs and sports with the company that controls the TV home screen, where viewers choose what to watch and where ads are sold. Owning the platform gives Fox direct data on viewers and a larger ad business, but it also invites suspicion from Netflix, Disney and others whose apps sit on Roku devices. Roku shareholders gain a premium and a stake in the combined company; rival streamers lose a neutral distributor. The open question is whether Fox's promise to keep Roku open holds as it pushes its own services.",
+  "sources": [
+   {
+    "title": "The Desk: Fox completes acquisition of Roku (Nov 9, 2026)",
+    "url": "https://thedesk.net/2026/11/fox-completes-acquisition-of-roku/"
+   },
+   {
+    "title": "Advanced Television: Fox closes Roku deal (Nov 6, 2026)",
+    "url": "https://www.advanced-television.com/2026/11/06/fox-completes-roku-acquisition/"
+   }
+  ],
+  "subindustry": "media-entertainment",
+  "summary": "Fox closed its roughly $22 billion acquisition of streaming platform Roku, ahead of the first-half-2027 timetable. Each Roku share converted into $95.30 in cash plus 0.9799 Fox Class A shares, and former Roku holders will own about 26% of the combined company. Roku joins Tubi, Fox One and Red Seat Ventures in a new unit called Fox Digital Platforms, and founder Anthony Wood joins the Fox board. Fox expects about $400 million of annual cost savings within two years. Roku's platform reaches more than 100 million households, and Fox says it will keep Roku open to all content partners.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-09-08": {
+  "companies": [],
+  "date": "2026-11-09",
+  "headline": "Voters back limits on data centers: restrictions passed in 44 of 45 local votes as power bills become a campaign issue",
+  "numbers": [
+   "Local votes passing limits: 44 of 45",
+   "Governor winners backing tighter rules: 32 of 34",
+   "Data-center TV ad spending: $380M+",
+   "Voters opposing a local data center: ~75%"
+  ],
+  "order": 8,
+  "sector": "energy-materials",
+  "soWhat": "Data centers are now one of the largest new sources of electricity demand in the US, so rules on where they go and who pays for new power lines decide how much grid capacity utilities will build. Tighter rules could slow demand growth for utilities and gas-turbine makers and raise costs for cloud companies, while helping developers who already hold permits. Texas, expected to overtake northern Virginia as the largest data-center market by 2030, is the key test. The open question is whether new rules will mainly shift costs onto the data centers or reduce how many get built.",
+  "sources": [
+   {
+    "title": "AP via OPB: AI data centers took a beating in the midterm elections (Nov 6, 2026)",
+    "url": "https://www.opb.org/article/2026/11/06/ai-data-centers-took-a-beating-in-the-midterm-elections-a-reckoning-may-be-ahead-for-tech-giants/"
+   }
+  ],
+  "subindustry": "power-utilities",
+  "summary": "In the November midterms, restrictions on data centers passed in 44 of the 45 local referendums where counting was complete, across 47 votes in 44 municipalities in 12 states. Data Center Watch found that 32 of 34 governors elected, in races AP called, support stronger regulation or restrictions, and 12 support bans or moratoriums. Campaigns spent more than $380 million on TV ads mentioning data centers, and about three-quarters of voters oppose a new data center in their own community. The Nasdaq fell 11% below its record on Thursday amid worries that costlier borrowing and tighter rules could slow construction.",
+  "tags": []
+ },
+ "2026-11-09-09": {
+  "companies": [
+   "firefly-aerospace",
+   "ast-spacemobile"
+  ],
+  "date": "2026-11-09",
+  "headline": "AST SpaceMobile signs a $1.3 billion deal for Firefly rocket engines and the right to build them itself",
+  "numbers": [
+   "Deal value: $1.3B+ over 3 years",
+   "Engines: 27 Miranda + 9 Vira",
+   "Firefly shares: about +18%",
+   "Announced: Nov 6, 2026"
+  ],
+  "order": 9,
+  "sector": "advanced-industries",
+  "soWhat": "Launch is a bottleneck for satellite operators, so AST is buying its way toward its own rocket instead of waiting for others. The license shows a different model from a normal parts supply deal: the engine maker earns a large upfront payment but gives up part of the future production volume. Firefly gains funding and a major customer; rocket providers such as SpaceX lose a potential launch customer. The open question is whether AST can build and fly a new reusable rocket on a late-2028 schedule.",
+  "sources": [
+   {
+    "title": "New Space Economy: AST SpaceMobile is buying Firefly engines and the right to build them (Nov 6, 2026)",
+    "url": "https://newspaceeconomy.ca/2026/11/06/ast-spacemobile-is-buying-firefly-engines-and-the-right-to-build-them/"
+   },
+   {
+    "title": "Devdiscourse (Reuters): Firefly inks $1.3 billion deal to supply engines for AST SpaceMobile",
+    "url": "https://www.devdiscourse.com/article/international/4002859-firefly-inks-13-billion-deal-to-supply-engines-for-new-ast-spacemobile-blacklift-rocket"
+   }
+  ],
+  "subindustry": "aerospace-defense",
+  "summary": "AST SpaceMobile agreed a three-year, $1.3 billion-plus contract with Firefly Aerospace for engines for AST's planned heavy-lift rocket. Firefly will deliver 36 engines (27 Miranda and 9 Vira) for the first three rockets, and AST gets a license to make the same engines itself afterward. Firefly keeps the designs and can sell to other customers. AST will pay in cash and Class A shares, and Firefly plans to expand test bays in Briggs, Texas. Firefly shares rose about 18% on the news, according to Reuters, and defense and space stocks led gains on Friday.",
+  "tags": [
+   "deal"
+  ]
  }
 }
