@@ -787,6 +787,23 @@
    "ticker": "Xetra: CBK",
    "updated": "2026-11-09"
   },
+  "constellation-energy": {
+   "businessModel": "Generates power from a large nuclear fleet and sells it at market prices or under long-term contracts, including to data-center customers.",
+   "competitors": [
+    "Vistra",
+    "NRG Energy",
+    "Talen Energy",
+    "Duke Energy",
+    "Dominion Energy"
+   ],
+   "hq": "Baltimore, USA",
+   "name": "Constellation Energy",
+   "sector": "energy-materials",
+   "size": "One of the largest US nuclear power operators (approx.)",
+   "subindustry": "power-utilities",
+   "ticker": "Nasdaq: CEG",
+   "updated": "2026-11-10"
+  },
   "coreweave": {
    "businessModel": "Rents Nvidia GPU compute to AI labs and big tech under multi-year, largely take-or-pay contracts. Revenue is concentrated in a few customers such as Microsoft and OpenAI.",
    "competitors": [
@@ -992,6 +1009,23 @@
    "ticker": "NYSE: LLY",
    "updated": "2026-10-29"
   },
+  "embraer": {
+   "businessModel": "Builds regional commercial jets, executive jets and defense aircraft, earning revenue on delivery plus aftermarket services.",
+   "competitors": [
+    "Airbus",
+    "Boeing",
+    "Bombardier",
+    "Gulfstream (General Dynamics)",
+    "COMAC"
+   ],
+   "hq": "Sao Jose dos Campos, Brazil",
+   "name": "Embraer",
+   "sector": "advanced-industries",
+   "size": "2026 revenue guidance $8.4-8.6B; backlog $35.7B",
+   "subindustry": "aerospace-defense",
+   "ticker": "NYSE: ERJ",
+   "updated": "2026-11-10"
+  },
   "enphase-energy": {
    "businessModel": "Sells microinverters, batteries and software for home solar systems, mostly through installers and distributors.",
    "competitors": [
@@ -1092,6 +1126,23 @@
    "subindustry": "oil-gas-upstream",
    "ticker": "NYSE: XOM",
    "updated": "2026-10-30"
+  },
+  "ferguson": {
+   "businessModel": "Distributes plumbing, heating and building products to contractors and builders, earning a margin on goods and services and growing through acquisitions.",
+   "competitors": [
+    "Home Depot (HD Supply)",
+    "Core & Main",
+    "Watsco",
+    "Builders FirstSource",
+    "Winsupply"
+   ],
+   "hq": "Newport News, USA",
+   "name": "Ferguson Enterprises",
+   "sector": "infrastructure-logistics",
+   "size": "Q3 sales $9.03B; about $35B a year (approx.)",
+   "subindustry": "real-estate-construction",
+   "ticker": "NYSE: FERG",
+   "updated": "2026-11-10"
   },
   "ferrari": {
    "businessModel": "Builds limited numbers of high-priced sports cars, earning most profit from personalization, special series and brand licensing, with deliberately constrained supply.",
@@ -1297,6 +1348,23 @@
    "subindustry": "cpg",
    "ticker": "NYSE: GPK",
    "updated": "2026-11-04"
+  },
+  "greenfire-resources": {
+   "businessModel": "Produces bitumen from Alberta oil sands using steam-assisted wells and sells it at benchmark-linked prices less a heavy-oil discount.",
+   "competitors": [
+    "Cenovus Energy",
+    "Canadian Natural Resources",
+    "Suncor",
+    "MEG Energy",
+    "Strathcona Resources"
+   ],
+   "hq": "Calgary, Canada",
+   "name": "Greenfire Resources",
+   "sector": "energy-materials",
+   "size": "Deal value about C$2.7-2.9B including ~C$550M net debt (Nov 2026)",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "NYSE/TSX: GFR",
+   "updated": "2026-11-10"
   },
   "guardant-health": {
    "businessModel": "Sells blood-based cancer tests, charging per test to patients, insurers and drug companies, plus data services to biopharma.",
@@ -1636,6 +1704,23 @@
    "ticker": "LSE: LSEG",
    "updated": "2026-10-22"
   },
+  "lucid": {
+   "businessModel": "Designs and sells premium electric cars such as the Air and Gravity, earning revenue per vehicle while still losing money at current volumes.",
+   "competitors": [
+    "Tesla",
+    "Mercedes-Benz",
+    "BMW",
+    "Porsche",
+    "Rivian"
+   ],
+   "hq": "Newark, USA",
+   "name": "Lucid Group",
+   "sector": "advanced-industries",
+   "size": "Q3 2026 revenue $350.3M",
+   "subindustry": "automotive-mobility",
+   "ticker": "Nasdaq: LCID",
+   "updated": "2026-11-10"
+  },
   "lumentum": {
    "businessModel": "Makes lasers and optical components used in data-center links and telecom networks, selling to transceiver makers and network equipment companies.",
    "competitors": [
@@ -1652,6 +1737,23 @@
    "subindustry": "semiconductors",
    "ticker": "NASDAQ: LITE",
    "updated": "2026-11-02"
+  },
+  "maersk": {
+   "businessModel": "Operates container ships, ports and logistics services, earning freight rates per container plus terminal and logistics fees.",
+   "competitors": [
+    "MSC",
+    "CMA CGM",
+    "Hapag-Lloyd",
+    "COSCO Shipping",
+    "Evergreen"
+   ],
+   "hq": "Copenhagen, Denmark",
+   "name": "A.P. Moller-Maersk",
+   "sector": "infrastructure-logistics",
+   "size": "2026 EBITDA guidance $14.0-14.5B",
+   "subindustry": "transport-logistics",
+   "ticker": "Nasdaq Copenhagen: MAERSK B",
+   "updated": "2026-11-10"
   },
   "marathon-petroleum": {
    "businessModel": "Refines crude oil into gasoline, diesel and jet fuel and sells it through wholesale and branded retail, and owns a majority of pipeline operator MPLX.",
@@ -1961,6 +2063,23 @@
    "ticker": "NYSE: NVO; Nasdaq Copenhagen: NOVO B",
    "updated": "2026-11-07"
   },
+  "novonesis": {
+   "businessModel": "Makes enzymes, microbes and cultures sold to food, beverage, household, agriculture and health customers, earning recurring revenue from ingredients used in their products.",
+   "competitors": [
+    "IFF",
+    "DSM-Firmenich",
+    "Kerry Group",
+    "BASF",
+    "ADM"
+   ],
+   "hq": "Bagsvaerd, Denmark",
+   "name": "Novonesis",
+   "sector": "consumer-retail",
+   "size": "Roughly half of the enzymes and cultures market (Morningstar est.)",
+   "subindustry": "agriculture-food",
+   "ticker": "Nasdaq Copenhagen: NSIS B",
+   "updated": "2026-11-10"
+  },
   "nscale": {
    "businessModel": "Builds and operates data centers filled with Nvidia GPUs and rents the compute to large customers such as Microsoft under long-term contracts.",
    "competitors": [
@@ -2235,6 +2354,23 @@
    "subindustry": "semiconductors",
    "ticker": "Merged into Skyworks (Nasdaq: SWKS)",
    "updated": "2026-11-04"
+  },
+  "qualys": {
+   "businessModel": "Sells cloud-based security and compliance scanning on annual subscriptions, earning recurring revenue.",
+   "competitors": [
+    "CrowdStrike",
+    "Tenable",
+    "Rapid7",
+    "Palo Alto Networks",
+    "Microsoft"
+   ],
+   "hq": "Foster City, USA",
+   "name": "Qualys",
+   "sector": "tmt",
+   "size": "Q3 2026 revenue $188M",
+   "subindustry": "software-cloud",
+   "ticker": "Nasdaq: QLYS",
+   "updated": "2026-11-10"
   },
   "quest-diagnostics": {
    "businessModel": "Runs clinical laboratories and earns a fee per test, billed to health insurers, hospitals and patients.",
@@ -2679,6 +2815,23 @@
    "ticker": "NYSE: STVN",
    "updated": "2026-11-04"
   },
+  "strathcona-resources": {
+   "businessModel": "Produces heavy oil and bitumen in Alberta and sells it at prices tied to benchmark crude, less a discount for quality and transport.",
+   "competitors": [
+    "Cenovus Energy",
+    "Canadian Natural Resources",
+    "Suncor",
+    "Imperial Oil",
+    "MEG Energy"
+   ],
+   "hq": "Calgary, Canada",
+   "name": "Strathcona Resources",
+   "sector": "energy-materials",
+   "size": "Alberta oil sands and heavy oil producer; Waterous Energy Fund owns about 57%",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "TSX: SCR",
+   "updated": "2026-11-10"
+  },
   "stripe": {
    "businessModel": "Gives online businesses software to accept payments, charging a percentage plus a fixed fee per transaction, and sells add-ons such as billing, fraud tools and stablecoin services.",
    "competitors": [
@@ -2831,6 +2984,23 @@
    "subindustry": "asset-wealth",
    "ticker": "Private (permanent-capital holding company)",
    "updated": "2026-11-01"
+  },
+  "trade-desk": {
+   "businessModel": "Runs an independent platform where advertisers buy digital ads across the open internet, earning a share of the spend that passes through it.",
+   "competitors": [
+    "Amazon Ads",
+    "Google (DV360)",
+    "Meta",
+    "Magnite",
+    "PubMatic"
+   ],
+   "hq": "Ventura, USA",
+   "name": "The Trade Desk",
+   "sector": "tmt",
+   "size": "Q3 2026 revenue $736M",
+   "subindustry": "internet-platforms",
+   "ticker": "Nasdaq: TTD",
+   "updated": "2026-11-10"
   },
   "tradeweb": {
    "businessModel": "Operates electronic marketplaces for bonds, derivatives and other assets, earning fees on trades plus subscription and data fees.",
@@ -3102,6 +3272,23 @@
    "ticker": "NYSE: WRB",
    "updated": "2026-10-20"
   },
+  "walmart": {
+   "businessModel": "Sells groceries and general merchandise through stores and online at low prices, earning thin margins on very large volume plus advertising and membership income.",
+   "competitors": [
+    "Amazon",
+    "Costco",
+    "Target",
+    "Kroger",
+    "Aldi"
+   ],
+   "hq": "Bentonville, USA",
+   "name": "Walmart",
+   "sector": "consumer-retail",
+   "size": "Revenue about $700B (approx., FY2026)",
+   "subindustry": "retail-ecommerce",
+   "ticker": "NYSE: WMT",
+   "updated": "2026-11-10"
+  },
   "wendys": {
    "businessModel": "Franchises fast-food restaurants, earning royalties and rent from franchisees and sales from a small number of company-owned restaurants.",
    "competitors": [
@@ -3186,6 +3373,23 @@
    "subindustry": "travel-hospitality",
    "ticker": "Nasdaq: WYNN",
    "updated": "2026-11-06"
+  },
+  "zipline": {
+   "businessModel": "Builds and operates delivery drones, charging retailers and health partners per delivery as it expands to more sites.",
+   "competitors": [
+    "Wing (Alphabet)",
+    "Amazon Prime Air",
+    "Flytrex",
+    "Manna",
+    "DoorDash"
+   ],
+   "hq": "South San Francisco, USA",
+   "name": "Zipline",
+   "sector": "consumer-retail",
+   "size": "Valued at $21.5B after a $1.5B round (Nov 2026)",
+   "subindustry": "retail-ecommerce",
+   "ticker": "Private (venture-backed)",
+   "updated": "2026-11-10"
   }
  },
  "sectors": {
@@ -3398,6 +3602,29 @@
    ]
   },
   "agriculture-food": {
+   "economicsOn": "valueChain",
+   "keyFigures": [
+    {
+     "label": "Agrifood systems, share of world GDP",
+     "note": "About $13T in 2019 · study of 170 countries",
+     "value": "~15%"
+    },
+    {
+     "label": "Primary farming, share of world GDP",
+     "note": "IFPRI analysis",
+     "value": "~4%"
+    },
+    {
+     "label": "Share of global employment in agrifood",
+     "note": "IFPRI analysis",
+     "value": "~1/3"
+    },
+    {
+     "label": "FAO Food Price Index",
+     "note": "Sep 2026, +5.8% on a year earlier, highest since late 2022 · FAO",
+     "value": "136.0"
+    }
+   ],
    "kpis": [
     "Urea and ammonia prices",
     "Corn, wheat and soybean prices",
@@ -3411,15 +3638,41 @@
     "usNote": "US agriculture, food and related industries' GDP contribution (USDA ERS, 2023 approx.)"
    },
    "operatingModel": "Input suppliers earn margins tied to crop prices and energy costs; traders earn a small margin per ton on huge volumes plus logistics; farmers earn crop prices minus input costs. Fertilizer is made from natural gas, so gas prices drive fertilizer prices.",
-   "overview": "Agriculture and food covers the chain from farm inputs (seeds, fertilizer, crop protection, machinery) through farming and grain trading to food processing. Farmers sell crops and livestock at commodity prices they do not control, so their profits depend on input costs, weather and global trade. Large traders and processors move and transform crops, earning a margin on volume.",
+   "overview": "Agriculture and food covers the chain from farm inputs such as seed, fertilizer and machinery, through farming and grain trading, to food processing and retail. Farmers sell crops at commodity prices they do not control, while a small number of large suppliers and traders on either side earn steadier margins on volume. Profits depend on input costs, weather and trade policy, and fertilizer ties the sector to natural gas prices. The main shifts now are higher energy and fertilizer costs, tariffs redirecting grain flows, and demand changes such as GLP-1 drugs.",
    "players": [
     "Grain traders (the 'ABCD'): ADM, Bunge, Cargill, Louis Dreyfus",
     "Fertilizer: Nutrien, Yara, CF Industries, Mosaic",
     "Seeds and crop protection: Bayer, Corteva, Syngenta",
     "Structure: millions of farms in the middle, with concentrated suppliers and buyers on either side"
    ],
-   "profileUpdated": "2026-10-20",
+   "profileUpdated": "2026-11-10",
    "sector": "consumer-retail",
+   "segments": {
+    "items": [
+     {
+      "leaders": "ADM · Bunge · Cargill",
+      "name": "Grains and oilseeds",
+      "what": "Wheat, corn, rice and soybeans traded globally, with prices set in commodity markets."
+     },
+     {
+      "leaders": "Tyson Foods · JBS · Danone",
+      "name": "Livestock and dairy",
+      "what": "Meat, milk and eggs, where feed costs and disease outbreaks drive profit."
+     },
+     {
+      "leaders": "Nutrien · Yara · CF Industries · Bayer",
+      "name": "Fertilizer and crop inputs",
+      "what": "Nutrients and chemicals that raise yields, priced off energy and crop prices."
+     },
+     {
+      "leaders": "Nestle · PepsiCo · Novonesis",
+      "name": "Ingredients and processed food",
+      "what": "Products made from crops, from snacks to enzymes and cultures."
+     }
+    ],
+    "title": "Main parts of the agrifood system (no reliable global share data used)"
+   },
+   "summary": "Agriculture and food covers the chain from farm inputs such as seed, fertilizer and machinery, through farming and grain trading, to food processing and retail. Farmers sell crops at commodity prices they do not control, while a small number of large suppliers and traders on either side earn steadier margins on volume. Profits depend on input costs, weather and trade policy, and fertilizer ties the sector to natural gas prices. The main shifts now are higher energy and fertilizer costs, tariffs redirecting grain flows, and demand changes such as GLP-1 drugs.",
    "threats": [
     "Weather and climate shocks",
     "Energy and fertilizer price spikes",
@@ -3432,9 +3685,115 @@
     "Biofuel demand is supporting prices for vegetable oils and corn",
     "Trade disputes shift grain flows between the US, China and Brazil",
     "Precision farming and data tools to raise yields"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "headwind",
+     "text": "Disruption around Hormuz has raised fertilizer, sulfur and diesel costs for farmers."
+    },
+    {
+     "kind": "headwind",
+     "text": "Weather shocks such as El Nino threaten crops in Brazil, Australia and Southeast Asia."
+    },
+    {
+     "kind": "headwind",
+     "text": "Trade disputes and export bans shift grain flows between the US, China and Brazil."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Biofuel demand is supporting prices for vegetable oils and corn."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Precision farming and data tools are raising yields per acre."
+    },
+    {
+     "kind": "headwind",
+     "text": "GLP-1 weight-loss drugs are reducing snack purchases, with about 70% of users in a PwC survey spending less on snacks."
+    }
+   ],
+   "valueChain": [
+    {
+     "cost": "Natural gas for nitrogen fertilizer, research and development, and mining for potash and phosphate.",
+     "name": "Farm inputs",
+     "players": "Bayer · Corteva · Nutrien · Deere",
+     "revenue": "Sales of inputs priced off crop prices and energy costs, with high pricing power for patented seed and chemicals.",
+     "takeaway": {
+      "label": "Energy-linked",
+      "why": "Fertilizer prices follow natural gas, so input makers swing with energy markets."
+     },
+     "what": "Companies sell seed, fertilizer, crop protection and machinery to farmers."
+    },
+    {
+     "cost": "Fertilizer, seed, fuel, labor, land and interest on debt.",
+     "name": "Farming",
+     "players": "Millions of family farms · large operators in the US, Brazil and Ukraine",
+     "revenue": "Crop and livestock sales at commodity prices set in global markets.",
+     "takeaway": {
+      "label": "Price takers",
+      "why": "Farmers cannot set prices, so margins depend on weather, yields and input costs."
+     },
+     "what": "Farmers grow crops and raise livestock on land they own or lease."
+    },
+    {
+     "cost": "Storage, shipping, freight and financing for inventory.",
+     "name": "Grain trading and logistics",
+     "players": "ADM · Bunge · Cargill · Louis Dreyfus",
+     "revenue": "A small margin per ton on very large volumes, plus processing and logistics fees.",
+     "takeaway": {
+      "label": "Thin but steady",
+      "why": "Margins per ton are small, so profit comes from volume and skill in moving grain."
+     },
+     "what": "Traders buy, store, ship and finance crops across borders."
+    },
+    {
+     "cost": "Crops and other raw materials, energy, packaging and marketing.",
+     "name": "Food processing and ingredients",
+     "players": "Nestle · PepsiCo · Unilever · Novonesis",
+     "revenue": "Branded and private-label food sales plus specialty ingredient sales.",
+     "takeaway": {
+      "label": "Brand-protected",
+      "why": "Strong brands can pass cost increases on to shoppers better than farmers can."
+     },
+     "what": "Processors turn crops into food, feed and ingredients."
+    },
+    {
+     "cost": "Goods purchased, labor, rent and delivery.",
+     "name": "Retail and food service",
+     "players": "Walmart · Costco · Kroger · Aldi",
+     "revenue": "Food and grocery sales to shoppers, plus advertising and membership income.",
+     "takeaway": {
+      "label": "Thin margins",
+      "why": "Grocers compete on price and earn a small margin on very large volume."
+     },
+     "what": "Grocers, restaurants and online sellers deliver food to consumers."
+    }
    ]
   },
   "asset-wealth": {
+   "economicsOn": "segments",
+   "keyFigures": [
+    {
+     "label": "Global assets under management",
+     "note": "2025, about +11% · BCG Global Asset Management Report 2026",
+     "value": "~$147T"
+    },
+    {
+     "label": "Industry profit margin",
+     "note": "Aggregate margin, 2025 · BCG",
+     "value": ">30%"
+    },
+    {
+     "label": "Alternatives, share of AUM vs revenue",
+     "note": "Alternatives hold under a quarter of assets but over half of revenue · BCG 2025 report",
+     "value": "<25% / >50%"
+    },
+    {
+     "label": "Retail share of AUM growth",
+     "note": "2020-2025 · BCG",
+     "value": "~61%"
+    }
+   ],
    "kpis": [
     "Assets under management (AUM): the base fees are charged on",
     "Net flows: new money in minus money out",
@@ -3448,15 +3807,70 @@
     "usNote": "Rough estimate of about 40% of global AUM for North America; not sourced this run"
    },
    "operatingModel": "Managers charge a fee on assets, from a few basis points on index funds to about 2% plus a share of profits in private equity. Costs such as staff and technology are mostly fixed, so margins widen when markets rise and assets grow, and shrink when markets fall or clients move to cheaper funds.",
-   "overview": "Asset and wealth management is the business of investing money for institutions and individuals and charging a fee for it. It covers mutual funds and ETFs, alternatives such as private equity and private credit, and the advisers and platforms that serve wealthy households. Fees are a small percentage of the assets managed.",
+   "overview": "Asset and wealth management invests money for institutions and households and charges a fee on the assets it manages. It runs from index funds and active mutual funds to private equity and private credit, and to the advisers and platforms that serve wealthy clients. Money is made mainly on fees as a percentage of assets, so earnings rise with markets and with new money. The big changes are fee pressure from passive funds, the growth of private markets and the move to bring them to retail investors.",
    "players": [
     "Index and traditional: BlackRock, Vanguard, Fidelity, State Street",
     "Alternatives: Blackstone, Apollo, KKR, EQT, Brookfield",
     "Wealth platforms: Morgan Stanley, UBS, Charles Schwab",
     "Concentrated at the top, with thousands of smaller boutique managers"
    ],
-   "profileUpdated": "2026-10-22",
+   "profileUpdated": "2026-11-10",
    "sector": "financial-services",
+   "segments": {
+    "items": [
+     {
+      "cost": "Deal teams, fundraising and advisers.",
+      "growth": "fast",
+      "highlight": true,
+      "leaders": "Blackstone · Apollo · KKR · Brookfield",
+      "name": "Alternatives (private equity, credit, real estate, infrastructure)",
+      "revenue": "Management fees plus a share of investment profits, far above index-fund fees.",
+      "share": "<25%",
+      "takeaway": {
+       "label": "Largest revenue pool",
+       "why": "A small asset base produces over half of revenue because fees per dollar are much higher."
+      },
+      "what": "Under a quarter of assets but over half of industry revenue, with growth faster than the rest of the industry."
+     },
+     {
+      "cost": "Technology and operations, largely fixed.",
+      "growth": "fast",
+      "leaders": "BlackRock · Vanguard · State Street",
+      "name": "Passive index funds and ETFs",
+      "revenue": "Very small fees of a few basis points on very large assets.",
+      "takeaway": {
+       "label": "Scale game",
+       "why": "Margins depend on being very large because each dollar earns almost nothing."
+      },
+      "what": "Low-cost funds that track an index and compete on price."
+     },
+     {
+      "cost": "Research staff and distribution payments.",
+      "growth": "slow",
+      "leaders": "Fidelity · Capital Group · T. Rowe Price",
+      "name": "Active mutual funds",
+      "revenue": "Fees of a fraction of a percent to about 1% of assets.",
+      "takeaway": {
+       "label": "Fee squeeze",
+       "why": "Clients keep shifting to cheaper passive products, pushing active fees down."
+      },
+      "what": "Managers pick investments to beat an index and charge more for it."
+     },
+     {
+      "cost": "Adviser pay and technology.",
+      "leaders": "Morgan Stanley · UBS · Charles Schwab",
+      "name": "Wealth management and advice",
+      "revenue": "Advice fees on assets and interest on client cash.",
+      "takeaway": {
+       "label": "Sticky clients",
+       "why": "Advisory relationships keep money in place, so revenue is steadier."
+      },
+      "what": "Advisers and platforms that serve wealthy households."
+     }
+    ],
+    "title": "Main product segments of asset management (alternatives share from BCG 2025 report)"
+   },
+   "summary": "Asset and wealth management invests money for institutions and households and charges a fee on the assets it manages. It runs from index funds and active mutual funds to private equity and private credit, and to the advisers and platforms that serve wealthy clients. Money is made mainly on fees as a percentage of assets, so earnings rise with markets and with new money. The big changes are fee pressure from passive funds, the growth of private markets and the move to bring them to retail investors.",
    "threats": [
     "A market downturn cuts assets and fees at the same time",
     "Fee compression as clients shift to passive and low-cost products",
@@ -3469,6 +3883,55 @@
     "Public and private markets are converging, with McKinsey estimating $6-10.5T of money in motion over five years",
     "Retail investors drove 61% of AUM growth from 2020 to 2025 (BCG)",
     "Managers and data groups are buying technology and data to win on distribution"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "Market gains drove about 80% of industry revenue growth in 2025, with net new business only about 20% (BCG)."
+    },
+    {
+     "kind": "headwind",
+     "text": "Passive funds and ETFs keep pushing fees down on traditional products."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Private markets grew at 11.1% a year from 2014 to 2024 against 6.5% for the rest of the industry (BCG)."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Semi-liquid private funds have grown more than fivefold in four years to over $300B as retail access widens (BCG)."
+    },
+    {
+     "kind": "headwind",
+     "text": "A market downturn cuts assets and fees at the same time."
+    }
+   ],
+   "valueChain": [
+    {
+     "name": "Clients",
+     "players": "Pension funds · sovereign funds · retail savers",
+     "what": "Households, pension funds, insurers and sovereign funds provide the money."
+    },
+    {
+     "name": "Distribution",
+     "players": "Morgan Stanley · UBS · Charles Schwab",
+     "what": "Advisers, banks and platforms reach clients and recommend products."
+    },
+    {
+     "name": "Asset managers",
+     "players": "BlackRock · Vanguard · Fidelity · Blackstone",
+     "what": "Firms pool money into funds and invest it for a fee."
+    },
+    {
+     "name": "Markets and assets",
+     "players": "Public markets · private equity · private credit",
+     "what": "Funds buy stocks, bonds, loans, property and private companies."
+    },
+    {
+     "name": "Custody and administration",
+     "players": "State Street · BNY · JPMorgan",
+     "what": "Banks hold assets and run settlement and record-keeping."
+    }
    ]
   },
   "automotive-mobility": {

@@ -2324,5 +2324,367 @@
   "tags": [
    "deal"
   ]
+ },
+ "2026-11-10-01": {
+  "companies": [
+   "eli-lilly",
+   "novo-nordisk"
+  ],
+  "date": "2026-11-10",
+  "headline": "FDA orders new vision-loss warnings on Mounjaro, Zepbound, Ozempic and Wegovy, yet Lilly and Novo shares rise",
+  "numbers": [
+   "Probable cases: 6.4 vs 3.8 per 100,000 person-years",
+   "Trials reviewed: 126",
+   "Lilly Q3 revenue: $24.4B",
+   "Lilly 2026 revenue forecast: $91-92B"
+  ],
+  "order": 1,
+  "sector": "healthcare",
+  "soWhat": "A label change is a lighter regulatory step than a restriction, and the absolute risk is small, so investors treated it as manageable. The stakes are highest for Lilly, where Mounjaro and Zepbound make up about two-thirds of $24.4 billion in quarterly revenue, so any slowdown in new prescriptions would be visible quickly. Rivals developing obesity drugs also rose, which suggests the market sees the warning as applying to the whole drug class rather than to one maker. The open question is whether doctors and patients start fewer treatments once the new labels reach them.",
+  "sources": [
+   {
+    "title": "IBTimes: FDA orders GLP-1 vision-loss warnings, Lilly and Novo shares rebound",
+    "url": "https://www.ibtimes.com/fda-eye-risk-warnings-glp-1-drug-shares-rebound-3809592"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "On November 9 the FDA required updated labels for GLP-1 drugs to cover non-arteritic anterior ischemic optic neuropathy (NAION), a rare eye condition that can cause sudden, permanent vision loss in one eye. In a review of 126 clinical trials, the agency found 6.4 probable cases per 100,000 person-years among GLP-1 patients, against 3.8 for patients on a placebo or another diabetes drug. Lilly shares rose 4.3% to $1,412.05 and Novo Nordisk's US-listed shares rose 2.7% to $41.40, helped by a market-wide rally. Lilly said it is reviewing the decision and Novo said it remains confident in its drugs' benefit-risk profile.",
+  "tags": []
+ },
+ "2026-11-10-02": {
+  "companies": [
+   "strathcona-resources",
+   "greenfire-resources"
+  ],
+  "date": "2026-11-10",
+  "headline": "Strathcona agrees to buy Greenfire in an Alberta oil sands deal worth up to C$2.9 billion",
+  "numbers": [
+   "Deal value: C$2.7-2.9B including debt",
+   "Cash option: C$11.00 per share, ~39% premium",
+   "Share option: 0.25 Strathcona shares",
+   "Greenfire net debt: ~C$550M"
+  ],
+  "order": 2,
+  "sector": "energy-materials",
+  "soWhat": "Oil sands projects have large fixed costs for steam, processing and transport, so combining two Alberta producers lets one operator spread those costs over more barrels. Waterous Energy Fund owns about 72% of Greenfire and 57% of Strathcona, so the largest owner is on both sides and has backed the deal, which makes approval more likely. Greenfire holders gain a sizeable premium, while the choice of cash or shares lets smaller holders either exit or stay exposed to the larger company. The open question is whether the remaining shareholder and regulatory approvals arrive on the early-2027 timetable.",
+  "sources": [
+   {
+    "title": "BOE Report (Reuters): Canada's Strathcona to buy Greenfire in up to C$2.9 billion deal",
+    "url": "https://boereport.com/2026/11/09/canadas-strathcona-to-buy-greenfire-in-up-to-c2-9-billion-deal/"
+   },
+   {
+    "title": "BNN Bloomberg: Strathcona Resources signs deal to buy Greenfire Resources",
+    "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/09/strathcona-resources-signs-deal-to-buy-greenfire-resources/"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Strathcona Resources agreed to acquire Greenfire Resources in a deal valued at about C$2.7 billion to C$2.9 billion (roughly US$1.9 billion) including debt. Greenfire holders can choose C$11.00 in cash or 0.25 Strathcona shares per share; the cash option is a premium of nearly 39% to the November 6 close and the share option about 15%. Strathcona expects to issue 43 million to 60 million shares and pay up to C$740 million in cash, depending on elections. Greenfire had net debt of about C$550 million at September 30, and closing is expected in early 2027.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-10-03": {
+  "companies": [
+   "constellation-energy"
+  ],
+  "date": "2026-11-10",
+  "headline": "Constellation Energy jumps 10.5% as quarterly profit and revenue beat estimates",
+  "numbers": [
+   "Share move: +10.5%",
+   "CoreWeave: +5.6% after -15.4% the prior week",
+   "Driver: results above analyst estimates plus data-center power deals"
+  ],
+  "order": 3,
+  "sector": "energy-materials",
+  "soWhat": "A generator without long-term contracts earns whatever the wholesale power market pays, so contracts with data-center customers turn volatile revenue into steadier, pre-agreed income. That is why the stock reacts so strongly to evidence that these deals are producing profit. The risk runs the other way too: if local limits or higher financing costs slow data-center building, demand growth for power would be lower than investors have priced in. The open question is how widely restrictions spread beyond the local votes held so far.",
+  "sources": [
+   {
+    "title": "BNN Bloomberg: US stocks rally and recover most of last week's losses as oil prices swing lower",
+    "url": "https://bnnbloomberg.ca/markets/dow-jones/2026/11/09/world-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street"
+   }
+  ],
+  "subindustry": "power-utilities",
+  "summary": "Constellation Energy shares rose 10.5% on November 9 after the nuclear-heavy power producer reported summer-quarter profit and revenue above analyst expectations. The company has benefited from deals to supply power to data centers run by large technology firms. The jump came as AI-infrastructure stocks rebounded: CoreWeave rose 5.6% after a 15.4% fall the week before. That sell-off was driven by worries that Democratic gains in state elections could bring limits on data centers, which are drawing voter anger over power bills, and by rising borrowing costs.",
+  "tags": []
+ },
+ "2026-11-10-04": {
+  "companies": [
+   "trade-desk"
+  ],
+  "date": "2026-11-10",
+  "headline": "Trade Desk surges after hours as third-quarter revenue of $736 million beats estimates by a wide margin",
+  "numbers": [
+   "Q3 revenue: $736M vs $650M estimate",
+   "Q3 adjusted EPS: $0.33 vs $0.25 estimate",
+   "Q4 revenue guide: at least $755M",
+   "After-hours move: up to +19%"
+  ],
+  "order": 4,
+  "sector": "tmt",
+  "soWhat": "The Trade Desk is an independent platform that advertisers use to buy ads across the open internet, and it earns a share of the spend that runs through it. Its stock had fallen on fears that large rivals such as Amazon were taking budget, so a quarter 13% above the revenue it had guided shows spend through independent platforms held up. Growth is still flat on a year earlier, so the market is rewarding stabilization, not a return to fast growth. The open question is whether the fourth-quarter guide of at least $755 million proves the bottom or only a short bounce.",
+  "sources": [
+   {
+    "title": "CNBC: Stocks making the biggest moves after hours, Trade Desk, Sanmina, Securitize and more",
+    "url": "https://www.cnbc.com/2026/11/09/stock-market-movers-live-updates.html"
+   },
+   {
+    "title": "PPC Land: Trade Desk stock drops 24% as Q3 guidance points to 12% revenue decline",
+    "url": "https://ppc.land/trade-desk-stock-drops-24-as-q3-guidance-points-to-12-revenue-decline/"
+   }
+  ],
+  "subindustry": "internet-platforms",
+  "summary": "The Trade Desk reported third-quarter adjusted earnings of 33 cents a share on revenue of $736 million, against analyst estimates of 25 cents and $650 million. It guided fourth-quarter revenue to at least $755 million, also above expectations, and the shares rose as much as 19% after hours. The result follows an August outlook that sent the stock down about 24%, when the company guided to at least $650 million for the quarter. Revenue was roughly flat on the $739 million reported a year earlier.",
+  "tags": []
+ },
+ "2026-11-10-05": {
+  "companies": [
+   "embraer"
+  ],
+  "date": "2026-11-10",
+  "headline": "Embraer posts record third-quarter revenue of $2.35 billion and raises its 2026 sales and cash targets",
+  "numbers": [
+   "Q3 revenue: $2.35B, +17%",
+   "Backlog: $35.7B record",
+   "Adjusted EBIT margin: 10.9% vs 8.6%",
+   "2026 revenue guide: $8.4-8.6B"
+  ],
+  "order": 5,
+  "sector": "advanced-industries",
+  "soWhat": "Aircraft makers book revenue when jets are delivered, so a backlog is a forward view of demand: $35.7 billion equals about four years of sales at this year's guided pace. Embraer sells commercial regional jets, business jets and defense aircraft, which spreads its exposure beyond airline cycles. Higher margins on higher volume show the benefit of fixed factory costs being spread over more aircraft. The open question is whether suppliers and the factory can keep delivery rates rising to convert the backlog on schedule.",
+  "sources": [
+   {
+    "title": "Investing.com: Embraer Q3 2026 results lift stock on record revenue",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-embraer-q3-2026-results-lift-stock-on-record-revenue-93CH-5015518"
+   }
+  ],
+  "subindustry": "aerospace-defense",
+  "summary": "Embraer reported third-quarter revenue of $2.35 billion, up 17% on a year earlier, with adjusted EBIT of $255 million and a margin of 10.9% versus 8.6% a year ago. Its backlog reached a record $35.7 billion, up 14%, and it delivered 22 commercial and 41 executive jets in the quarter. The company raised 2026 revenue guidance to $8.4 billion to $8.6 billion and lifted its adjusted free cash flow target to at least $700 million, while keeping delivery and margin guidance. Shares rose about 5.7% in premarket trading to above their 52-week high.",
+  "tags": []
+ },
+ "2026-11-10-06": {
+  "companies": [
+   "ferguson"
+  ],
+  "date": "2026-11-10",
+  "headline": "Ferguson lifts its 2026 sales outlook after quarterly sales rise 9.5% to $9.03 billion",
+  "numbers": [
+   "Q3 sales: $9.03B, +9.5%",
+   "Adjusted EPS: $3.43 vs $2.46 estimate",
+   "Non-residential sales: +15%; residential: +6%",
+   "2026 sales growth guide: ~7%"
+  ],
+  "order": 6,
+  "sector": "infrastructure-logistics",
+  "soWhat": "A building-products distributor earns a margin on the goods it moves, so growth comes from more volume, more customers and acquisitions rather than from higher margins, which is what a flat 10.7% margin shows. Faster non-residential growth shows commercial and industrial projects are carrying demand while housing grows more slowly. Ferguson completed eleven acquisitions this year adding about $1.5 billion of annualized revenue, a sign that fragmented regional distributors are being consolidated into larger networks. The open question is how long non-residential demand stays strong.",
+  "sources": [
+   {
+    "title": "Investing.com: Ferguson soars on earnings beat, raised guidance",
+    "url": "https://uk.investing.com/news/earnings/ferguson-soars-on-earnings-beat-raised-guidance-4969096"
+   }
+  ],
+  "subindustry": "real-estate-construction",
+  "summary": "Ferguson reported fiscal third-quarter sales of $9.03 billion, up 9.5%, with organic growth of 7.0% and acquisitions adding 2.7%. Adjusted earnings were $3.43 a share against an estimate of $2.46, and adjusted operating profit rose 8.9% to $962 million at a flat 10.7% margin. The distributor now expects calendar 2026 sales growth of about 7%, up from mid-single digits, and raised the low end of its margin range to 9.6% to 9.8%. Non-residential sales grew 15% and residential 6%, and shares rose about 12% on Monday.",
+  "tags": []
+ },
+ "2026-11-10-07": {
+  "companies": [
+   "maersk"
+  ],
+  "date": "2026-11-10",
+  "headline": "Maersk raises its 2026 profit outlook a third time, but shares fall about 11%",
+  "numbers": [
+   "2026 EBITDA guide: $14.0-14.5B (from $10.5-12.5B)",
+   "Q3 EBITDA: $4.7B vs $2.7B a year earlier",
+   "Freight index: +46% quarter on quarter",
+   "Share move: about -11%"
+  ],
+  "order": 7,
+  "sector": "infrastructure-logistics",
+  "soWhat": "A container line's profit depends mostly on the price per box compared with a fixed cost of ships and terminals, so a rate spike lifts earnings sharply without any extra cargo. Shares fell because the guidance raise was largely expected and the quarter came in under forecasts. Congestion that ties up ships works like a cut in supply, which helps carriers and hurts shippers who pay more. The open question is whether rates hold once congestion clears.",
+  "sources": [
+   {
+    "title": "Baird Maritime: Maersk shares fall despite third profit guidance raise in 2026",
+    "url": "https://www.bairdmaritime.com/shipping/boxships/maersk-shares-fall-despite-third-profit-guidance-raise-in-2026"
+   },
+   {
+    "title": "Devdiscourse (Reuters): Maersk raises outlook again as AI buildout, port congestion keep freight rates high",
+    "url": "https://www.devdiscourse.com/article/international/4001890-maersk-raises-outlook-again-as-ai-buildout-port-congestion-keep-freight-rates-high"
+   },
+   {
+    "title": "IA Insights: The Shippers News Brief, November 9, 2026",
+    "url": "https://www.intelligentaudit.com/blog/ia-insights-november-9-2026"
+   }
+  ],
+  "subindustry": "transport-logistics",
+  "summary": "Maersk reported third-quarter EBITDA of $4.7 billion, up from $2.7 billion a year earlier but below the $5.04 billion analysts expected, and raised its 2026 underlying EBITDA guidance to $14.0 billion to $14.5 billion from $10.5 billion to $12.5 billion. The upgrade came from higher freight rates, with the Shanghai container freight index averaging 46% above the previous quarter amid port congestion, while Maersk's own volumes fell about 1%. It now expects free cash flow above $3 billion. The report came on November 5 and was still being digested in shipping briefs on November 9.",
+  "tags": []
+ },
+ "2026-11-10-08": {
+  "companies": [],
+  "date": "2026-11-10",
+  "headline": "Treasury yields hold near 4.9% as stocks rebound, with falling oil the main relief",
+  "numbers": [
+   "10-year Treasury yield: 4.87%",
+   "Peak last month: above 5.30%",
+   "S&P 500: +2.3% to 7,549.94",
+   "Brent: -5.8% to $92.57"
+  ],
+  "order": 8,
+  "sector": "macro",
+  "soWhat": "The 10-year yield is the benchmark behind mortgage rates, corporate borrowing and the discount rate investors apply to stocks, so a yield near 4.9% weighs on everything from housing to data-center financing. Oil is the swing factor: lower crude cuts fuel costs and eases the inflation pressure that keeps yields high. The open question is whether oil stays lower long enough to pull yields down, or whether strong jobs data keeps rate expectations rising.",
+  "sources": [
+   {
+    "title": "BNN Bloomberg: US stocks rally and recover most of last week's losses as oil prices swing lower",
+    "url": "https://bnnbloomberg.ca/markets/dow-jones/2026/11/09/world-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street"
+   },
+   {
+    "title": "CNBC: Post Market Wrap, November 9, 2026",
+    "url": "https://www.cnbc.com/video/2026/11/09/post-market-wrap-november-9-2026.html"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "The 10-year Treasury yield edged up to 4.87% on November 9 from 4.86% on Friday, still well below last month's peak above 5.30%, the highest in two decades. Stocks rallied as the S&P 500 rose 2.3% to 7,549.94, its best day since April, while Brent crude fell 5.8% to $92.57 from above $112 at the start of the month. The New York Fed's survey showed inflation expectations unchanged at still-elevated levels, and strong jobs data on Friday had reinforced expectations of higher rates.",
+  "tags": []
+ },
+ "2026-11-10-09": {
+  "companies": [],
+  "date": "2026-11-10",
+  "headline": "Airlines and cruise lines rise as oil slides on hopes the Iran war will not resume",
+  "numbers": [
+   "Brent: -5.8% to $92.57",
+   "Brent early November: above $112",
+   "WTI: near $87"
+  ],
+  "order": 9,
+  "sector": "consumer-retail",
+  "soWhat": "Fuel is one of the largest costs for airlines and cruise operators, so a fall in crude flows straight into profit forecasts, while oil producers lose the same amount. That is why the two groups move in opposite directions on a day like this. Travel demand also depends on confidence that conflict will not spread, so progress in talks helps both costs and bookings. The open question is whether the talks hold, since a return to strikes would send oil back up.",
+  "sources": [
+   {
+    "title": "BNN Bloomberg: US stocks rally and recover most of last week's losses as oil prices swing lower",
+    "url": "https://bnnbloomberg.ca/markets/dow-jones/2026/11/09/world-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street"
+   },
+   {
+    "title": "CNBC: Stocks making the biggest moves after hours, November 9, 2026",
+    "url": "https://www.cnbc.com/2026/11/09/stock-market-movers-live-updates.html"
+   }
+  ],
+  "subindustry": "travel-hospitality",
+  "summary": "Brent crude fell 5.8% to $92.57 a barrel on November 9, from above $112 at the start of the month, after President Trump said resuming strikes on Iran was highly unlikely if negotiations progress. WTI traded near $87. Energy stocks fell while cruise lines and airlines rose. Secretary of State Marco Rubio described some Iranian demands for ending the war as outrageous, so talks remain unsettled.",
+  "tags": []
+ },
+ "2026-11-10-10": {
+  "companies": [
+   "novonesis",
+   "novo-nordisk"
+  ],
+  "date": "2026-11-10",
+  "headline": "GLP-1 users cut snack spending and buy more supplements, and Novonesis sees an opening",
+  "numbers": [
+   "GLP-1 users spending less on snacks: ~70%",
+   "Spending more on supplements: 40%",
+   "Supplements market 2025: ~$209.5B",
+   "Novonesis Human Health Q3 organic sales: -8%"
+  ],
+  "order": 10,
+  "sector": "consumer-retail",
+  "soWhat": "Weight-loss drugs change what households buy: snack volumes fall and spending shifts toward products that address nutrient gaps. Ingredient suppliers such as Novonesis hope to follow that demand, but its own probiotic sales fell, which shows the opportunity is not yet in the results. Packaged-food makers face lower volumes, while suppliers with scientific proof for a health claim could win. The open question is whether clinical evidence appears to support supplements for GLP-1 users.",
+  "sources": [
+   {
+    "title": "CNBC: Could supplements be the next big opportunity in the GLP-1 weight-loss drug boom?",
+    "url": "https://cnbc.com/2026/11/09/novonesis-glp1-weight-loss-drugs-supplements-probiotics.html"
+   }
+  ],
+  "subindustry": "agriculture-food",
+  "summary": "A PwC survey of UK adults found about 70% of GLP-1 users spend less on snacks while 40% spend more on vitamins and supplements, and over 80% of those who stopped the drugs kept some diet changes. Ingredient maker Novonesis, formed in 2024 from Novozymes and Chr. Hansen, is studying probiotic, prebiotic and postbiotic combinations for patients on Wegovy and Ozempic, though any benefit is unproven. Its Human Health unit, about 11% of sales, saw organic sales fall 8% in the third quarter on weaker North American probiotic demand. The global dietary supplements market was about $209.5 billion in 2025.",
+  "tags": []
+ },
+ "2026-11-10-11": {
+  "companies": [
+   "zipline",
+   "walmart"
+  ],
+  "date": "2026-11-10",
+  "headline": "Drone delivery firm Zipline raises $1.5 billion at a $21.5 billion valuation as Walmart adds 300 sites",
+  "numbers": [
+   "Funding: $1.5B at $21.5B post-money",
+   "Walmart sites: 300 new vs 21 active",
+   "Valuation in January 2026: ~$7.6B"
+  ],
+  "order": 11,
+  "sector": "consumer-retail",
+  "soWhat": "Delivery from the last warehouse or store to the customer is one of retail's most expensive steps, and drones aim to make fast delivery cheaper by using store parking lots as launch points. For Walmart, the stores it already operates become hubs, which is an advantage over rivals without a dense store network. The valuation depends on drones scaling from dozens of sites to hundreds. The open question is whether regulators and communities accept the noise and safety trade-offs.",
+  "sources": [
+   {
+    "title": "The Next Web: Zipline raises $1.5bn at $21.5bn valuation as Walmart adds 300 drone sites",
+    "url": "https://thenextweb.com/news/zipline-1-5bn-raise-21-5bn-valuation-walmart-300-drone-sites"
+   },
+   {
+    "title": "DroneXL: Zipline $1.5 billion raise, Walmart 300 sites",
+    "url": "https://dronexl.co/2026/11/05/zipline-1-5-billion-raise-walmart-300-sites/"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "Zipline raised $1.5 billion at a $21.5 billion post-money valuation, announced November 5, nearly triple the roughly $7.6 billion it was valued at in January. The round was led by Paradigm, WCM Investment Management and Layer Global, with Fidelity, Uber and others taking part. A new multi-year Walmart agreement adds 300 US drone delivery sites, up from 21 active sites today. Zipline plans to spend the money on manufacturing and hiring.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-10-12": {
+  "companies": [
+   "lucid"
+  ],
+  "date": "2026-11-10",
+  "headline": "Lucid's third-quarter revenue of $350 million misses estimates as it resets production",
+  "numbers": [
+   "Q3 revenue: $350.3M vs $407M estimate",
+   "Q3 deliveries: 3,806; production: 2,954",
+   "Production cut: 38% quarter on quarter",
+   "Withdrawn 2026 target: 25,000-27,000 vehicles"
+  ],
+  "order": 12,
+  "sector": "advanced-industries",
+  "soWhat": "A low-volume carmaker carries large fixed costs for its factory and engineering, so building fewer cars than it delivers cuts cash burn and clears inventory but also pushes the loss per car higher. Withdrawing the volume target shows how hard it is to reach scale in premium electric cars when demand is uneven. The open question is whether its Gravity SUV can lift volumes enough to cover those fixed costs.",
+  "sources": [
+   {
+    "title": "CNBC: Stocks making the biggest moves after hours, November 9, 2026",
+    "url": "https://www.cnbc.com/2026/11/09/stock-market-movers-live-updates.html"
+   },
+   {
+    "title": "InsideEVs: Lucid production plunges as the EV maker tries to clear inventory",
+    "url": "https://insideevs.com/news/810884/lucid-sales-production-q3-2026/"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "Lucid reported third-quarter revenue of $350.3 million against an estimate of $407 million and a wider-than-expected loss, and shares fell more than 3% after hours. Earlier in October it said it delivered 3,806 vehicles but built only 2,954, a 38% cut in production from the prior quarter after it ended a second shift at its Arizona plant in June. It withdrew its 2026 target of 25,000 to 27,000 vehicles and is aiming for $1.4 billion of cash-flow improvements this year.",
+  "tags": []
+ },
+ "2026-11-10-13": {
+  "companies": [
+   "qualys"
+  ],
+  "date": "2026-11-10",
+  "headline": "Qualys beats third-quarter estimates but its shares fall about 8% on a cautious outlook",
+  "numbers": [
+   "Q3 revenue: $188M",
+   "Q3 EPS: $2.12",
+   "Q4 revenue guide: $191-193M vs $190.9M consensus",
+   "After-hours move: -7.9% to $186.54"
+  ],
+  "order": 13,
+  "sector": "tmt",
+  "soWhat": "Subscription software is valued on how fast recurring revenue grows, so a guide that only matches consensus can disappoint even when profit beats. Qualys sells cloud-based security scanning on annual contracts, which makes revenue steady but slow to accelerate. The market is signaling that profit beats count for less than evidence of faster sales growth. The open question is whether new products can lift revenue growth above the current pace.",
+  "sources": [
+   {
+    "title": "Investing.com: Qualys beats Q3 2026 estimates but shares fall after hours",
+    "url": "https://in.investing.com/news/stock-market-news/earnings-call-transcript-qualys-beats-q3-2026-estimates-but-shares-fall-after-hours-93CH-5692183"
+   },
+   {
+    "title": "MarketBeat: Qualys issues Q4 2026 earnings guidance",
+    "url": "https://marketbeat.com/instant-alerts/guidance-qualys-nasdaq-qlys-issues-q4-2026-earnings-guidance-2026-11-10"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Qualys reported third-quarter earnings of $2.12 per diluted share on revenue of $188 million, ahead of estimates. It guided fourth-quarter revenue to $191 million to $193 million, in line with the $190.9 million consensus, and earnings of $2.05 to $2.12 a share against a $1.86 consensus. Shares fell 7.9% after hours to $186.54 as investors weighed a solid quarter against a modest sales outlook.",
+  "tags": []
  }
 }
