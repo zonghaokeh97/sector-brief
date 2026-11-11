@@ -2788,5 +2788,252 @@
     "subindustry": "agriculture-food"
    }
   ]
+ },
+ "2026-11-11": {
+  "date": "2026-11-11",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "Cheaper crude moves money from producers to fuel buyers; US gasoline fell below $4 a gallon for the first time since July. Producers and their lenders see lower cash flow.",
+    "id": "2026-11-11:x01",
+    "kind": "today",
+    "options": [
+     "Oil producers in the Permian",
+     "Airlines, truckers and drivers who buy fuel",
+     "Owners of supertankers in the Gulf",
+     "Banks that lend to drillers"
+    ],
+    "prompt": "Brent fell below $90 for the first time since August, down almost $30 since the midterms. Who gains most directly?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-11-04",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 0,
+    "explanation": "Occidental borrowed heavily for past acquisitions, so repaying $10.4 billion this year lowers interest costs and risk if Brent falls further, and management says it opens room for larger shareholder returns.",
+    "id": "2026-11-11:x02",
+    "kind": "today",
+    "options": [
+     "Lower debt cuts interest costs and makes it safer if prices keep falling",
+     "Lenders require all cash to be used for debt",
+     "Drilling is banned when prices are high",
+     "Debt repayment raises the oil price"
+    ],
+    "prompt": "Occidental cut its debt by $1.8 billion to $10.0 billion while oil was near $86. Why would a producer pay down debt rather than drill more?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-11-09",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 2,
+    "explanation": "Certified, often sole-source parts give TransDigm pricing power, especially in the aftermarket, and it keeps buying such businesses, spending about $4.4 billion in fiscal 2026.",
+    "id": "2026-11-11:x03",
+    "kind": "today",
+    "options": [
+     "It builds whole aircraft at scale",
+     "It sells mostly to new startups",
+     "It owns many sole-source parts makers and earns most profit on spare parts sold for decades",
+     "It receives government subsidies on every part"
+    ],
+    "prompt": "TransDigm's EBITDA margin is about 53%, far above aircraft makers. What best explains this?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-11-14",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 1,
+    "explanation": "A beef packer's margin is the spread between cattle and meat prices; with US herds small, cattle costs stay high for years. Poultry supply can respond within weeks, so margins normalize faster.",
+    "id": "2026-11-11:x04",
+    "kind": "today",
+    "options": [
+     "Chicken is sold only in Brazil",
+     "Chickens grow in weeks, so supply adjusts quickly, while cattle herds take years to rebuild",
+     "Beef has no buyers outside the US",
+     "Chicken processors own all their customers"
+    ],
+    "prompt": "JBS's North American beef unit roughly broke even while its chicken units earned 10% to 13% margins. Why do chicken margins recover faster than beef?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-11-15",
+    "subindustry": "agriculture-food"
+   },
+   {
+    "answer": 1,
+    "explanation": "Hybrids sell well in the US and a weaker yen raises the yen value of overseas profits. China sales are falling, which is why Honda cut its vehicle sales forecast 7% to 3.16 million.",
+    "id": "2026-11-11:x05",
+    "kind": "today",
+    "options": [
+     "Rising EV sales in China",
+     "Strong hybrid demand and a weaker yen",
+     "Lower US tariffs on Japanese cars",
+     "Higher motorcycle prices in Europe"
+    ],
+    "prompt": "Honda raised its profit forecast to ¥780 billion despite ¥484.8 billion of EV restructuring costs in one quarter. What mainly supported the higher forecast?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-11-12",
+    "subindustry": "automotive-mobility"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "825 million shares at $78 is about $64.4 billion, valuing Anthropic at up to $1.405 trillion fully diluted. $26 billion is the separate strategic placement, $965 billion was the May funding round, and $2 trillion was an earlier hope.",
+    "id": "2026-11-11:q01",
+    "kind": "today",
+    "options": [
+     "About $26 billion, at roughly $965 billion",
+     "About $64 billion, at up to about $1.4 trillion",
+     "About $100 billion, at about $2 trillion",
+     "About $33 billion, at about $1 trillion"
+    ],
+    "prompt": "Anthropic set its IPO range at $70 to $78 a share for 825 million shares. Roughly how much would it raise at the top of the range, and at what valuation?",
+    "sector": "tmt",
+    "storyId": "2026-11-11-02",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 3,
+    "explanation": "A higher discount rate cuts the present value of distant earnings most, which is why the Nasdaq fell 0.74% versus 0.30% for the Dow. Banks can actually earn more on new loans and bonds when rates rise.",
+    "id": "2026-11-11:q02",
+    "kind": "today",
+    "options": [
+     "Banks, because higher rates always reduce lending",
+     "Oil producers, because inflation lowers crude prices",
+     "Utilities, because power demand falls when prices rise",
+     "Growth and tech stocks, because higher yields lower the value of profits expected far in the future"
+    ],
+    "prompt": "October consumer prices rose 0.4% against a 0.3% forecast, and the 10-year Treasury yield rose back to about 5%. Which stocks does this hurt most, and why?",
+    "sector": "macro",
+    "storyId": "2026-11-11-01",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "European power markets clear at the cost of the marginal plant, so when wind and solar drop, gas plants set the price for every megawatt-hour. With gas already expensive, Germany's day-ahead price hit €345.64 and France's €334.12, its highest since December 2022.",
+    "id": "2026-11-11:q03",
+    "kind": "today",
+    "options": [
+     "The most expensive plant needed to meet demand, usually gas-fired, sets the price paid to all generators",
+     "Wind farms raise their prices when output falls",
+     "Grid operators add a fixed scarcity tax to every bill",
+     "Nuclear plants shut down when wind output falls"
+    ],
+    "prompt": "During a windless, cloudy spell, European peak power prices topped €600/MWh even though most hours are still supplied by cheaper plants. Why does the whole market price jump?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-11-05",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 2,
+    "explanation": "Africa provides about 32% of EBITDAaL, almost as much as Germany at about 33%. The UK, at about 15%, is the tempting wrong answer; Africa's fast growth is why it now rivals Vodafone's largest European market.",
+    "id": "2026-11-11:q04",
+    "kind": "today",
+    "options": [
+     "About 5%",
+     "About 15%",
+     "About one-third",
+     "About two-thirds"
+    ],
+    "prompt": "Vodafone's Africa business grew service revenue 13.4%. Roughly what share of group adjusted EBITDAaL does Africa now provide?",
+    "sector": "tmt",
+    "storyId": "2026-11-11-11",
+    "subindustry": "telecom"
+   },
+   {
+    "answer": 1,
+    "explanation": "Demand is not the problem: the backlog rose from $104.2 billion in three months. CoreWeave borrows to buy chips before customers pay, so interest costs exceed its $379 million of adjusted operating income, and rising yields make that model more expensive.",
+    "id": "2026-11-11:q05",
+    "kind": "today",
+    "options": [
+     "Whether it can sign any new customers at all",
+     "Whether contracted revenue arrives fast enough to cover debt costs and heavy capital spending",
+     "Whether its software prices rise faster than inflation",
+     "Whether its headquarters city offers tax breaks"
+    ],
+    "prompt": "An AI cloud provider grows revenue 168% to $3.66 billion and has a $132.5 billion backlog, yet its net loss widens to $709 million with interest expense of $846 million. Which factor matters most for its shares from here?",
+    "sector": "tmt",
+    "storyId": "2026-11-11-06",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 2,
+    "explanation": "Xarelto's sales fell to €738 million as generics arrived, a classic patent cliff, and a new patented drug in a large market helps refill that gap. Rivals' milvexian is still in trials, and Sunharbo failed in atrial fibrillation, so its first market is secondary stroke prevention.",
+    "id": "2026-11-11:q06",
+    "kind": "today",
+    "options": [
+     "It lets Bayer raise Xarelto's price",
+     "It ends competition from Bristol Myers Squibb and J&J",
+     "It gives Bayer a patented replacement for revenue lost as Xarelto faces generics",
+     "It is approved for all atrial fibrillation patients"
+    ],
+    "prompt": "Bayer won FDA approval for Sunharbo, the first factor XIa blood thinner, while sales of its older drug Xarelto fell almost 43% in the first half. Why does the approval matter so much to Bayer?",
+    "sector": "healthcare",
+    "storyId": "2026-11-11-10",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 2,
+    "explanation": "The companies see an opening to sell a unified design package to the large majority of projects that now use only one of their products. They guide to more than $100 million in annual synergies. The deal is all-stock, and Shoals holders will own about 65%, not 35%.",
+    "id": "2026-11-05:q04",
+    "kind": "review",
+    "options": [
+     "Shoals holders will own only about 35% of the company",
+     "Only about 20% of projects used both companies' products, so there is room to cross-sell",
+     "Both companies already sell their products as a bundle on most projects",
+     "The deal was financed with cash instead of stock"
+    ],
+    "prompt": "Array Technologies (solar trackers) is merging with Shoals (electrical connection systems). Which fact best explains the revenue opportunity?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-05-06",
+    "subindustry": "renewables-transition"
+   },
+   {
+    "answer": 0,
+    "explanation": "The company said the lower take rate was mainly due to Reserve Now, Pay Later bookings, a timing effect, not a price cut. Gross booking value still rose 21% to $27.7 billion.",
+    "id": "2026-11-06:q03",
+    "kind": "review",
+    "options": [
+     "More guests use Reserve Now, Pay Later, which pushes some revenue recognition later",
+     "It cut its service fee to win share from hotels",
+     "Hosts shifted to longer stays that carry no fees",
+     "Foreign exchange losses wiped out its fee income"
+    ],
+    "prompt": "Airbnb's revenue grew 19% but its take rate slipped to 17.6%. Why?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-06-06",
+    "subindustry": "travel-hospitality"
+   },
+   {
+    "answer": 1,
+    "explanation": "R&D fell 27% to $583 million, which lifted operating income to $130 million from a $260 million loss. Cost of sales actually rose 54%, so the last option is wrong.",
+    "id": "2026-11-07:q05",
+    "kind": "review",
+    "options": [
+     "A price increase on all vaccines",
+     "Research spending down 27% as late-stage infectious disease trials wound down",
+     "A large one-off asset sale",
+     "Lower manufacturing costs, with cost of sales falling"
+    ],
+    "prompt": "Moderna swung to a $162 million quarterly profit while revenue grew 29%. Besides higher sales, what helped most?",
+    "sector": "healthcare",
+    "storyId": "2026-11-07-06",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 2,
+    "explanation": "Agencies award through formal bids and weigh past performance, and many contracts require cleared staff, so incumbents hold an edge at renewal. The big risk is the recompete: losing one large contract can remove a large share of revenue at once.",
+    "id": "2026-11-11:q10",
+    "kind": "profile",
+    "options": [
+     "Charging higher prices than rivals at every bid",
+     "Owning the factories that agencies must use",
+     "Security clearances, past performance and long multi-year contracts that make it hard for new bidders to win",
+     "Selling directly to consumers"
+    ],
+    "prompt": "Government contractors usually earn single-digit to low-teens margins. What most protects an incumbent contractor's profits?",
+    "sector": "infrastructure-logistics",
+    "storyId": null,
+    "subindustry": "public-sector"
+   }
+  ]
  }
 }

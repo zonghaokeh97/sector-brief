@@ -2686,5 +2686,441 @@
   "subindustry": "software-cloud",
   "summary": "Qualys reported third-quarter earnings of $2.12 per diluted share on revenue of $188 million, ahead of estimates. It guided fourth-quarter revenue to $191 million to $193 million, in line with the $190.9 million consensus, and earnings of $2.05 to $2.12 a share against a $1.86 consensus. Shares fell 7.9% after hours to $186.54 as investors weighed a solid quarter against a modest sales outlook.",
   "tags": []
+ },
+ "2026-11-11-01": {
+  "companies": [],
+  "date": "2026-11-11",
+  "headline": "Hotter October inflation pushes the 10-year Treasury yield back above 5% as the Fed signals a December hike",
+  "numbers": [
+   "October CPI: +0.4% m/m (forecast 0.3%)",
+   "Core CPI: +0.3% m/m (forecast 0.2%)",
+   "10-year Treasury yield: ~5.00%, up 14+ bp",
+   "S&P 500: -0.38% to 7,520.93"
+  ],
+  "order": 1,
+  "sector": "macro",
+  "soWhat": "A 10-year yield at 5% raises the cost of mortgages, corporate bonds and project finance across the economy, and it lowers what investors will pay today for profits expected far in the future. That hits growth and tech stocks hardest, while banks and insurers can earn more on new loans and bonds. Falling gasoline prices should cool headline inflation in November, so the open question is whether core prices keep running hot enough to force more than one hike.",
+  "sources": [
+   {
+    "title": "CNBC: Stock market live updates, November 10, 2026",
+    "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
+   },
+   {
+    "title": "Eurasia Business News: Dow, Nasdaq, S&P 500 fall on November 10, 2026; oil and gold retreat",
+    "url": "https://eurasiabusinessnews.com/2026/11/11/stock-market-today-dow-jones-nasdaq-sp-500-fall-on-november-10-2026-oil-and-gold-retreat/"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "US consumer prices rose 0.4% in October against a 0.3% forecast, and core prices, which strip out food and energy, rose 0.3% against 0.2%. Fed Governor Christopher Waller said he leans toward raising rates in December and that a half-point move should be considered, while Dallas Fed President Lorie Logan said two more quarter-point hikes are likely needed. The 10-year Treasury yield jumped more than 14 basis points to about 5.00%. The S&P 500 fell 0.38% to 7,520.93 and the Nasdaq 0.74%, a day after the S&P's best session since April.",
+  "tags": []
+ },
+ "2026-11-11-02": {
+  "companies": [
+   "anthropic"
+  ],
+  "date": "2026-11-11",
+  "headline": "Anthropic sets its IPO range at $70 to $78 a share, aiming to raise up to $64 billion at a value of up to $1.4 trillion",
+  "numbers": [
+   "Price range: $70 to $78 a share",
+   "Shares offered: 825 million",
+   "Proceeds at top of range: ~$64.4B",
+   "Valuation: up to $1.405T fully diluted",
+   "Strategic placement: $26B"
+  ],
+  "order": 2,
+  "sector": "tmt",
+  "soWhat": "This would be one of the largest share sales ever, and it gives public investors their first direct stake in a leading AI model developer rather than in the chip and cloud companies that supply it. The strategic placement shows how tightly the AI supply chain is linked: chipmakers and cloud providers are investing in a customer that buys their products. The range sits below the roughly $2 trillion some early holders hoped for, a sign that the recent selloff in AI stocks has made investors more careful about price. The open question is whether demand holds up at the top of the range after a week of falling tech shares.",
+  "sources": [
+   {
+    "title": "CNBC: Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19",
+    "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Anthropic launched the roadshow for its Nasdaq listing under the ticker ANT, offering 825 million shares at $70 to $78 each. At the top of the range the deal would raise about $64.4 billion and value the company at up to $1.405 trillion on a fully diluted basis, against $965 billion in a May funding round. Seven strategic partners, AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC, agreed to buy $26 billion of non-voting stock at the IPO price. The filing shows nine-month revenue of $33.24 billion and a $104 billion net loss, mostly from fair-value changes on convertible notes and derivatives; pricing is planned for November 18.",
+  "tags": []
+ },
+ "2026-11-11-03": {
+  "companies": [
+   "nvidia"
+  ],
+  "date": "2026-11-11",
+  "headline": "Nvidia's board hires Wachtell Lipton for an independent review of CEO Jensen Huang, and the shares fall another 6%",
+  "numbers": [
+   "Tuesday share move: about -6%",
+   "Monday share move: more than -4%",
+   "Market value: briefly below $4T"
+  ],
+  "order": 3,
+  "sector": "tmt",
+  "soWhat": "Nvidia supplies most of the chips used to train and run AI models, so investors treat its leadership as part of the AI industry's own risk. A long review raises key-person risk for a company closely identified with its founder, and it lands while Washington is already debating chip export rules for China. Customers are unlikely to switch suppliers quickly, so the near-term effect is on the stock's valuation more than on orders. The open question is how long the review takes and whether it leads to any change in leadership or export controls.",
+  "sources": [
+   {
+    "title": "CNBC: Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
+    "url": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html"
+   },
+   {
+    "title": "CNBC: Stock market live updates, November 10, 2026",
+    "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Nvidia's independent directors retained law firm Wachtell, Lipton, Rosen & Katz, with former acting US Attorney Joon H. Kim leading the work, to examine whether company secrets or national security were compromised. The review follows reports that Huang was the target of a foreign intelligence effort and his acknowledgment of a personal relationship with a woman reported to be linked to Chinese intelligence. The board said on Sunday it had no reason to believe secrets or security were compromised, and Nvidia said Huang is committed to continuing as CEO. The stock fell more than 4% on Monday and about 6% on Tuesday, and its market value briefly dipped below $4 trillion.",
+  "tags": []
+ },
+ "2026-11-11-04": {
+  "companies": [],
+  "date": "2026-11-11",
+  "headline": "Brent briefly drops below $90 for the first time since August as hopes grow that the Iran conflict is ending",
+  "numbers": [
+   "Brent settle: $91.49 (lowest since Aug 31)",
+   "WTI settle: $86.04",
+   "Fall since midterms: ~$30/bbl",
+   "Gulf-to-China VLCC freight: ~$36-37/bbl",
+   "US gasoline: below $4/gal"
+  ],
+  "order": 4,
+  "sector": "energy-materials",
+  "soWhat": "Falling crude moves money from producers to consumers: airlines, truckers, chemical makers and drivers pay less, while oil companies' cash flow and budgets shrink. The high freight cost for Gulf barrels shows that buyers in Asia still pay a war premium to move oil, which favors exporters in the Americas whose cargoes avoid Hormuz. US drilling has kept rising, with the rig count at 604, the most since May 2024, so a lasting drop in prices could slow that growth next year. The open question is whether a deal with Iran restores Gulf flows fully or the tanker attacks keep a floor under prices.",
+  "sources": [
+   {
+    "title": "OilPrice.com: Oil falls to lowest level since August",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Falls-to-Lowest-Level-Since-August.html"
+   },
+   {
+    "title": "Eurasia Business News: Dow, Nasdaq, S&P 500 fall on November 10, 2026; oil and gold retreat",
+    "url": "https://eurasiabusinessnews.com/2026/11/11/stock-market-today-dow-jones-nasdaq-sp-500-fall-on-november-10-2026-oil-and-gold-retreat/"
+   },
+   {
+    "title": "CNBC: Stock market live updates, November 10, 2026",
+    "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Brent crude for January settled at $91.49 a barrel on Tuesday, down 1.2%, after briefly trading below $90, and WTI settled at $86.04; both were the lowest closes since August 31. Crude has fallen almost $30 a barrel since the US midterm elections, as the administration signaled it is reluctant to strike Iran again and markets priced in an end to the conflict. Shipping risk has not gone away: drones and missiles have hit at least 16 tankers in the Strait of Hormuz this month, and a supertanker voyage from the Gulf to China costs about $36 to $37 a barrel against about $22.50 from the US. The US average gasoline price fell below $4 a gallon for the first time since July.",
+  "tags": []
+ },
+ "2026-11-11-05": {
+  "companies": [],
+  "date": "2026-11-11",
+  "headline": "A windless cold spell sends European power prices above €600 per megawatt-hour in peak hours",
+  "numbers": [
+   "Peak evening prices: above €600/MWh",
+   "Germany day-ahead (Mon): €345.64/MWh",
+   "France day-ahead (Mon): €334.12/MWh, highest since Dec 2022",
+   "German Oct average: ~€171/MWh vs €82 a year earlier"
+  ],
+  "order": 5,
+  "sector": "energy-materials",
+  "soWhat": "When wind and solar drop, the most expensive plants still running, usually gas-fired, set the price for every megawatt-hour sold, so a calm cold week lifts power bills across the whole system. That rewards owners of flexible gas plants, batteries and pumped storage, which earn the most in scarce hours, and hurts energy-intensive industry and retailers that have not hedged. Episodes like this are why grid operators pay for backup capacity and why storage investment keeps rising. The open question is how many more of these windless spells Europe faces this winter while gas prices stay high.",
+  "sources": [
+   {
+    "title": "Irish Examiner (Bloomberg): European power prices shoot above €600 as wind generation slumps",
+    "url": "https://www.irishexaminer.com/business/economy/arid-41935167.html"
+   },
+   {
+    "title": "Energy Connects (Bloomberg): Soaring gas costs squeeze out Europe's negative power prices",
+    "url": "https://www.energyconnects.com/news/gas-lng/2026/november/soaring-gas-costs-squeeze-out-europe-s-negative-power-prices/"
+   }
+  ],
+  "subindustry": "power-utilities",
+  "summary": "A slow-moving weather front left northwest and central Europe still and cloudy this week, cutting wind and solar output, with the lull expected to last through Wednesday. Peak evening prices rose above €600 per megawatt-hour on Monday; Germany's day-ahead price for the day was €345.64 and France's €334.12, the highest for France since December 2022. December power futures in both countries traded near €200, more than double a year earlier, and Britain's grid operator forecast a supply shortfall of about 1.4 GW. Higher gas prices had already pushed Germany's average October power price to about €171, more than double a year earlier.",
+  "tags": []
+ },
+ "2026-11-11-06": {
+  "companies": [
+   "coreweave"
+  ],
+  "date": "2026-11-11",
+  "headline": "CoreWeave's revenue jumps 168% to $3.66 billion and it raises its outlook, but its loss widens on interest costs",
+  "numbers": [
+   "Q3 revenue: $3.66B (+168%)",
+   "Backlog: ~$132.5B",
+   "2026 revenue guide: $13.0-13.3B",
+   "Q3 interest expense: $846M",
+   "Q3 net loss: $709M"
+  ],
+  "order": 6,
+  "sector": "tmt",
+  "soWhat": "CoreWeave rents out Nvidia-powered computing capacity under multi-year contracts, so its backlog is a direct read on how much AI developers have committed to spend. The catch is financing: it borrows heavily to buy chips and build data centers before customers pay, so interest costs can wipe out operating profit even as sales soar. Rising Treasury yields make that model more expensive, which is why the stock had fallen so far. The open question is whether contracted revenue arrives fast enough to cover debt costs and $37 billion to $39 billion of planned capital spending this year.",
+  "sources": [
+   {
+    "title": "Yahoo Finance: CRWV stock climbs 8% after hours as $132B revenue backlog reinforces AI compute demand",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/crwv-stock-climbs-8-hours-220940004.html"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "AI cloud provider CoreWeave reported third-quarter revenue of $3.66 billion, up 168% from a year earlier and above the roughly $3.54 billion analysts expected. Its revenue backlog rose to about $132.5 billion from $104.2 billion at the end of June, and it raised its 2026 revenue forecast to $13.0 billion to $13.3 billion. Adjusted operating income was $379 million, a 10% margin, but the net loss widened to $709 million from $110 million as interest expense reached $846 million. The shares rose as much as 8% after hours, having fallen about 42% before the report.",
+  "tags": []
+ },
+ "2026-11-11-07": {
+  "companies": [
+   "tsmc",
+   "anthropic",
+   "openai"
+  ],
+  "date": "2026-11-11",
+  "headline": "TSMC's board approves up to $500 million each for stakes in Anthropic and OpenAI, plus about $41 billion of new capacity",
+  "numbers": [
+   "Anthropic stake: up to $500M",
+   "OpenAI stake: up to $500M",
+   "Capital appropriations: ~$40.9B",
+   "Q3 net income: NT$763B"
+  ],
+  "order": 7,
+  "sector": "tmt",
+  "soWhat": "The world's dominant contract chipmaker is taking small stakes in two of its largest indirect customers, the AI labs whose models run on chips TSMC makes for Nvidia, AMD, Google and others. The sums are tiny next to its capital budget, so the stakes are more about relationships and visibility into future demand than about financial return. The $41 billion approval shows TSMC still plans to add capacity despite the recent selloff in AI stocks. The open question is whether investors see these cross-investments as healthy partnerships or as a sign of circular financing in the AI supply chain.",
+  "sources": [
+   {
+    "title": "SEC: TSMC Form 6-K, board meeting resolutions, November 10, 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000797/tsm-boardx202611xx.htm"
+   },
+   {
+    "title": "Everhint: Stock market news, November 10, 2026 evening update",
+    "url": "https://www.everhint.com/stock-market-news-november-10-2026-evening-update-last-12-hours-pacific-time/"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "TSMC's board approved buying up to $500 million of Anthropic common shares at its IPO price and up to $500 million of OpenAI preferred stock, along with up to $500 million to set up a separate vehicle for semiconductor and ecosystem investments. The same meeting approved about $40.9 billion of capital appropriations for advanced chipmaking, advanced packaging, specialty processes and new fabs. TSMC reported third-quarter revenue of NT$1,494 billion and net income of NT$763 billion, and approved a NT$9 cash dividend per share. Its Taipei shares rose 4.2% on the day.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-11-08": {
+  "companies": [
+   "softbank-group",
+   "openai"
+  ],
+  "date": "2026-11-11",
+  "headline": "SoftBank swings to a ¥1.1 trillion quarterly loss as AI stocks fall and a US data-center power plan is reworked",
+  "numbers": [
+   "Q2 net loss: ¥1.1153T (~$7B)",
+   "Year-earlier profit: ¥2.5T",
+   "Power-equipment losses (H1): ¥597.2B",
+   "Q2 financing costs: ¥461.9B",
+   "OpenAI stake: 13% for $64.6B"
+  ],
+  "order": 8,
+  "sector": "financial-services",
+  "soWhat": "SoftBank is an investment holding company, so its profits swing with the market value of what it owns, and this quarter the AI selloff worked against it. It has also moved from investing in startups to financing physical AI infrastructure, which means borrowing, prepaying for equipment and taking losses when plans change. Higher interest rates make that strategy costlier: the yield on its bonds rose to about 8.2%. The open question is whether a successful round of AI listings, such as Anthropic's, lifts the value of private AI stakes like its holding in OpenAI.",
+  "sources": [
+   {
+    "title": "The Star (Reuters): SoftBank swings to US$7bil net loss in second quarter",
+    "url": "https://www.thestar.com.my/business/business-news/2026/11/10/softbank-swings-to-us7bil-net-loss-in-second-quarter"
+   },
+   {
+    "title": "Seoul Economic Daily: SoftBank posts $7.2 billion quarterly loss, first in two years",
+    "url": "https://en.sedaily.com/society/2026/11/11/softbank-posts-72-billion-quarterly-loss-first-in-two-years"
+   }
+  ],
+  "subindustry": "asset-wealth",
+  "summary": "SoftBank Group posted a net loss of ¥1.1153 trillion, about $7 billion, for July to September, against a ¥2.5 trillion profit a year earlier and analyst expectations of a small profit. Falling share prices at holdings including Arm, Intel and Coupang hurt results, and SoftBank booked ¥597.2 billion of losses in the first half on advance payments after changing plans to supply power equipment to an Ohio data-center project. Financing costs reached ¥461.9 billion in the quarter, about 2.6 times a year earlier, after heavy borrowing. SoftBank has spent $64.6 billion on a 13% stake in OpenAI, and its shares have nearly halved since June.",
+  "tags": []
+ },
+ "2026-11-11-09": {
+  "companies": [
+   "occidental-petroleum"
+  ],
+  "date": "2026-11-11",
+  "headline": "Occidental beats forecasts and cuts debt to $10 billion, using high oil prices to repair its balance sheet",
+  "numbers": [
+   "Adjusted EPS: $1.91 vs ~$1.47 expected",
+   "Production: 1,427 Mboe/d",
+   "Free cash flow: $2.8B",
+   "Debt: $10.0B after $1.8B cut"
+  ],
+  "order": 9,
+  "sector": "energy-materials",
+  "soWhat": "Occidental took on heavy debt to buy Anadarko in 2019 and CrownRock in 2024, and it is using this year's high prices to pay that down instead of expanding drilling. Lower debt cuts interest costs and makes the company safer if oil keeps falling from wartime highs, and management says it opens the way for larger shareholder returns. Its midstream unit earned far less than in the second quarter as the gap between West Texas and Gulf Coast gas prices narrowed. The open question is how quickly cash flow falls if Brent stays near $90 or lower.",
+  "sources": [
+   {
+    "title": "SEC: Occidental third quarter 2026 earnings release",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000797468/000162828026072193/oxyex9919-30x26earningsrel.htm"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Occidental reported third-quarter adjusted earnings of $1.91 a share, against a consensus of about $1.47, on production of 1,427 thousand barrels of oil equivalent a day, above the middle of its guidance. Its realized oil price was $85.91 a barrel, down 11% from the second quarter. It generated $2.8 billion of free cash flow before working capital and cut principal debt by $1.8 billion to $10.0 billion, bringing repayments this year to $10.4 billion. A third-party pipeline constraint cut Gulf of America volumes by about 24% from the prior quarter.",
+  "tags": []
+ },
+ "2026-11-11-10": {
+  "companies": [
+   "bayer",
+   "bristol-myers-squibb",
+   "johnson-johnson"
+  ],
+  "date": "2026-11-11",
+  "headline": "FDA approves Bayer's Sunharbo, the first factor XIa blood thinner, for secondary stroke prevention",
+  "numbers": [
+   "Ischemic stroke risk reduction: 26%",
+   "Trial size: 12,000+ adults",
+   "List price: $748.50 per month",
+   "Xarelto H1 2026 sales: €738M (-43%)"
+  ],
+  "order": 10,
+  "sector": "healthcare",
+  "soWhat": "Factor XIa drugs aim to prevent clots with less bleeding than existing blood thinners, a long-standing trade-off that has limited how widely they are used, so the class could become a multibillion-dollar market. Being first gives Bayer a lead over Bristol Myers Squibb and Johnson & Johnson's milvexian, which has had setbacks, and a partial replacement for Xarelto revenue lost to generics. Sunharbo failed in a key atrial fibrillation study, so for now it addresses a smaller group of patients. The open question is how fast insurers cover it and doctors beyond stroke specialists adopt it.",
+  "sources": [
+   {
+    "title": "BioPharma Dive: Bayer wins FDA approval for stroke prevention drug Sunharbo",
+    "url": "https://www.biopharmadive.com/news/bayer-sunharbo-asundexian-fda-approve-stroke-factor-xi/872837/"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "The FDA approved Bayer's asundexian, sold as Sunharbo, for adults who have had a non-cardioembolic ischemic stroke or a high-risk warning stroke, taken alongside antiplatelet drugs. In the OCEANIC-STROKE trial of more than 12,000 adults it cut the risk of ischemic stroke by 26% versus placebo, with similar rates of major bleeding. The list price is $748.50 for a 30-day supply. Bayer's older blood thinner Xarelto faces generic competition, and its sales fell almost 43% to €738 million in the first half of 2026.",
+  "tags": []
+ },
+ "2026-11-11-11": {
+  "companies": [
+   "vodafone"
+  ],
+  "date": "2026-11-11",
+  "headline": "Vodafone raises its profit and cash outlook as Africa grows 13%, while Germany stays weak",
+  "numbers": [
+   "H1 service revenue growth: +5.8% (Q2 +6.4%)",
+   "FY EBITDAaL guide: €13.2-13.4B",
+   "Africa service revenue: +13.4%",
+   "Germany service revenue: +0.4%"
+  ],
+  "order": 11,
+  "sector": "tmt",
+  "soWhat": "Telecom is a high fixed-cost business, so small changes in revenue growth swing profits, and Vodafone's growth now comes mostly from African mobile money and data rather than Europe. Germany, its largest market, is still losing customers to rivals and faces a court ruling on 26 November about past price increases, so cost cuts are carrying the profit there. The UK merger with Three is starting to deliver savings. The open question is whether Germany can return to growth or whether Vodafone's European business keeps relying on cutting jobs.",
+  "sources": [
+   {
+    "title": "Investing.com: Vodafone H1 FY27 slides: guidance raised on 6.4% growth, Germany lags",
+    "url": "https://www.investing.com/news/company-news/vodafone-h1-fy27-slides-guidance-raised-on-64-growth-germany-lags-93CH-5014748"
+   }
+  ],
+  "subindustry": "telecom",
+  "summary": "Vodafone's group service revenue grew 5.8% organically in the six months to September, accelerating to 6.4% in the second quarter, and adjusted EBITDAaL rose 6.4% to €6.5 billion. It raised its full-year EBITDAaL forecast to €13.2 billion to €13.4 billion and adjusted free cash flow to €2.8 billion to €3.0 billion. Africa's service revenue rose 13.4% and now provides about 32% of group EBITDAaL, while Germany, about 33%, grew service revenue just 0.4% and lost 85,000 mobile contract customers in the quarter. Vodafone announced about 2,300 more job cuts in Germany on top of about 3,000 across Europe in the half.",
+  "tags": []
+ },
+ "2026-11-11-12": {
+  "companies": [
+   "honda"
+  ],
+  "date": "2026-11-11",
+  "headline": "Honda raises its annual profit forecast 20% on hybrids and a weaker yen, despite another ¥485 billion in EV costs",
+  "numbers": [
+   "FY operating profit forecast: ¥780B (from ¥650B)",
+   "Q2 operating profit: ¥118B (-39%)",
+   "Q2 EV restructuring costs: ¥484.8B",
+   "Global sales forecast: 3.16M (-7%)"
+  ],
+  "order": 12,
+  "sector": "advanced-industries",
+  "soWhat": "Japanese carmakers are being squeezed in China by local EV makers such as BYD, and Honda is responding by cutting EV spending and leaning on hybrids, which sell well in the US and earn better margins today. A weaker yen raises the value of overseas profits when converted back to yen, which helps cover the restructuring costs. The new Ohio plant moves more production into the US, reducing exposure to tariffs. The open question is whether pulling back on EVs leaves Honda behind if EV demand recovers later in the decade.",
+  "sources": [
+   {
+    "title": "CBT News (Reuters): Honda raises annual profit outlook 20% despite EV restructuring costs",
+    "url": "https://www.cbtnews.com/honda-raises-annual-profit-outlook-20"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "Honda raised its forecast for operating profit in the year to March 2027 to ¥780 billion from ¥650 billion, though analysts had expected more. Operating profit for July to September fell 39% to ¥118 billion, well below the ¥250 billion analysts expected, after ¥484.8 billion of costs to restructure its electric-vehicle business. It cut its global vehicle sales forecast 7% to 3.16 million, mainly because of falling sales in China. Honda also plans a $3 billion assembly plant in Ohio that could build 240,000 vehicles a year from 2029.",
+  "tags": []
+ },
+ "2026-11-11-13": {
+  "companies": [
+   "sea-limited"
+  ],
+  "date": "2026-11-11",
+  "headline": "Sea's revenue jumps 43% to $8.6 billion as Shopee and its Monee lending arm keep growing fast",
+  "numbers": [
+   "Revenue: $8.6B (+43.4%)",
+   "Shopee GMV: $39.7B (+23.3%)",
+   "Monee loans: $12.6B (+60%)",
+   "New buyback: $1.0B"
+  ],
+  "order": 13,
+  "sector": "consumer-retail",
+  "soWhat": "Shopee earns more per order than a year ago because it charges sellers more for advertising, logistics and payment services, which is how e-commerce platforms turn scale into profit. Lending to the same shoppers and sellers through Monee is now growing even faster, and it carries credit risk that rises if Southeast Asian consumers come under strain. Rivals such as TikTok Shop and Lazada compete on price, which limits how far fees can rise. The open question is whether bad loans stay near 1.3% as the loan book grows 60% a year.",
+  "sources": [
+   {
+    "title": "SEC: Sea Limited third quarter 2026 results (Form 6-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001703399/000119312526455420/d17880dex991.htm"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "Sea Limited, the Singapore owner of Shopee, reported third-quarter revenue of $8.6 billion, up 43.4%, and net income of $502.5 million, up 34%. Shopee's gross merchandise value rose 23.3% to $39.7 billion on 4.5 billion orders, and its adjusted EBITDA rose 44.7% to $269.2 million. Digital finance arm Monee grew revenue 63.9% to $1.6 billion, with $12.6 billion of loans outstanding, up 60%, and a 90-day non-performing loan ratio of 1.3%. The board approved another $1.0 billion share buyback.",
+  "tags": []
+ },
+ "2026-11-11-14": {
+  "companies": [
+   "transdigm"
+  ],
+  "date": "2026-11-11",
+  "headline": "TransDigm guides to about 14% sales growth in fiscal 2027 after a year of $4.4 billion in acquisitions",
+  "numbers": [
+   "FY2026 net sales: $10.56B (+20%)",
+   "EBITDA As Defined margin: 52.7%",
+   "FY2027 sales guide: $11.95-12.15B",
+   "FY2026 acquisitions: ~$4.4B"
+  ],
+  "order": 14,
+  "sector": "advanced-industries",
+  "soWhat": "TransDigm buys makers of specialized aircraft parts that are often the only certified source, then raises prices, especially on spare parts sold to airlines for decades after a plane is delivered. That is why its margins are above 50%, far higher than aircraft makers, and why it keeps buying more such businesses with borrowed money. Airlines are flying older planes longer because new jets are late, which keeps aftermarket demand strong. The open question is whether defense right-to-repair rules or pricing scrutiny limit its pricing power.",
+  "sources": [
+   {
+    "title": "SEC: TransDigm fiscal 2026 fourth quarter results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001260221/000126022126000073/exhibit991tdg2026q4earning.htm"
+   }
+  ],
+  "subindustry": "aerospace-defense",
+  "summary": "Aircraft parts maker TransDigm reported fiscal fourth-quarter net sales of $2.99 billion, up 23%, and full-year sales of $10.56 billion, up 20%. Its EBITDA As Defined margin was 52.7% for the year. For fiscal 2027 it expects net sales of $11.95 billion to $12.15 billion, about 14% growth at the midpoint, with high single-digit growth in commercial aftermarket and defense. It spent about $4.4 billion on acquisitions in fiscal 2026, including Simmonds Precision Products and Prince & Izant.",
+  "tags": []
+ },
+ "2026-11-11-15": {
+  "companies": [
+   "jbs"
+  ],
+  "date": "2026-11-11",
+  "headline": "JBS's quarterly EBITDA falls 36% as costly cattle squeeze beef margins in the US and Brazil",
+  "numbers": [
+   "Net sales: $22.7B (+1%)",
+   "Adjusted EBITDA: $1.18B (-36%)",
+   "Beef North America margin: ~0%",
+   "Leverage: 3.54x"
+  ],
+  "order": 15,
+  "sector": "consumer-retail",
+  "soWhat": "Beef packers buy live cattle and sell meat, so their margin is the spread between the two, and when herds are small, as in the US now, cattle prices rise faster than beef prices. Chicken grows in weeks rather than years, so poultry margins recover faster, which is why chicken is carrying JBS's profits. Shoppers pay more for beef while processors earn less, and ranchers capture most of the gain. The open question is how long the US cattle shortage lasts before herds are rebuilt.",
+  "sources": [
+   {
+    "title": "SEC: JBS third quarter 2026 earnings release",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001791942/000179194226000009/a991earningsrelease3q26.htm"
+   }
+  ],
+  "subindustry": "agriculture-food",
+  "summary": "Meat processor JBS reported third-quarter net sales of $22.7 billion, up 1%, but adjusted EBITDA fell 36% to $1.18 billion, a 5.2% margin. Its North American beef business roughly broke even, while chicken units Seara and Pilgrim's Pride earned margins of 13.2% and 9.9%. Net income attributable to JBS fell to $164 million from $581 million, free cash flow was negative $167 million, and leverage rose to 3.54 times EBITDA from 2.39. Brazil was hurt by higher cattle prices and lower exports to China after a quota was filled.",
+  "tags": []
+ },
+ "2026-11-11-16": {
+  "companies": [
+   "barrick"
+  ],
+  "date": "2026-11-11",
+  "headline": "Barrick files to list its North American gold mines as American Barrick Gold on the NYSE",
+  "numbers": [
+   "Ticker: ABGC (NYSE)",
+   "2025 attributable output: ~2.0 Moz",
+   "Reserves: ~40 Moz (~20-year life)",
+   "H1 2026 revenue: $7.26B"
+  ],
+  "order": 16,
+  "sector": "energy-materials",
+  "soWhat": "Barrick is separating its lower-risk North American mines from operations in Africa and elsewhere because investors often pay higher valuations for gold mines in stable jurisdictions. With gold near $4,000, those mines earn wide margins, and a separate listing lets the market price them directly. Part of the proceeds will repay a note to Barrick, returning cash to the parent. The open question is whether the remaining Barrick, with more of its value in riskier countries, ends up trading at a deeper discount.",
+  "sources": [
+   {
+    "title": "SEC: American Barrick Gold Corp Form S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002162540/000119312526455481/d338869ds1.htm"
+   },
+   {
+    "title": "Eurasia Business News: Dow, Nasdaq, S&P 500 fall on November 10, 2026; oil and gold retreat",
+    "url": "https://eurasiabusinessnews.com/2026/11/11/stock-market-today-dow-jones-nasdaq-sp-500-fall-on-november-10-2026-oil-and-gold-retreat/"
+   }
+  ],
+  "subindustry": "metals-mining",
+  "summary": "American Barrick Gold filed for a New York Stock Exchange IPO under the ticker ABGC, holding Barrick's 61.5% of Nevada Gold Mines and 60% of Pueblo Viejo in the Dominican Republic, with Newmont owning the rest of both. The business produced about 2.0 million attributable ounces of gold in 2025 and holds about 40 million ounces of reserves, roughly 20 years of output. It reported revenue of $7.26 billion for the six months to June. Barrick will keep a majority stake, and the filing does not yet give a size or price; gold fell about 2.6% to around $4,030 an ounce on Tuesday.",
+  "tags": []
  }
 }

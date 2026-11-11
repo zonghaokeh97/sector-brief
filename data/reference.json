@@ -435,6 +435,41 @@
    "ticker": "NYSE: BAC",
    "updated": "2026-10-19"
   },
+  "barrick": {
+   "businessModel": "Mines and sells gold and copper from large operations in North America, Africa, Latin America and Asia; profit is the gap between the gold price and its cost per ounce.",
+   "competitors": [
+    "Newmont",
+    "Agnico Eagle",
+    "AngloGold Ashanti",
+    "Gold Fields",
+    "Kinross Gold"
+   ],
+   "hq": "Toronto, Canada",
+   "name": "Barrick Mining",
+   "sector": "energy-materials",
+   "size": "Revenue ~$12.9B (2024, approx.)",
+   "subindustry": "metals-mining",
+   "ticker": "NYSE: B; TSX: ABX",
+   "updated": "2026-11-11"
+  },
+  "bayer": {
+   "businessModel": "Sells prescription drugs, consumer health products and crop science products (seeds and pesticides); profits depend on patented drugs and on seed and crop-protection pricing.",
+   "competitors": [
+    "Novartis",
+    "Pfizer",
+    "Bristol Myers Squibb",
+    "Johnson & Johnson",
+    "Corteva",
+    "Syngenta"
+   ],
+   "hq": "Leverkusen, Germany",
+   "name": "Bayer",
+   "sector": "healthcare",
+   "size": "Revenue ~€46.6B (2024, approx.)",
+   "subindustry": "pharma-biotech",
+   "ticker": "XETRA: BAYN",
+   "updated": "2026-11-11"
+  },
   "berkshire-hathaway": {
    "businessModel": "Owns insurers such as Geico and reinsurance units that collect premiums and invest the float, plus the BNSF railroad, utilities, manufacturing and a large stock portfolio. Profit comes from underwriting, investment income and the earnings of wholly owned businesses.",
    "competitors": [
@@ -1417,6 +1452,24 @@
    "ticker": "NYSE: HAL",
    "updated": "2026-10-21"
   },
+  "honda": {
+   "businessModel": "Designs, builds and sells cars and motorcycles worldwide, and earns finance income from loans and leases to buyers; motorcycles are its highest-margin business.",
+   "competitors": [
+    "Toyota",
+    "Nissan",
+    "Hyundai",
+    "General Motors",
+    "BYD",
+    "Yamaha Motor"
+   ],
+   "hq": "Tokyo, Japan",
+   "name": "Honda Motor",
+   "sector": "advanced-industries",
+   "size": "Revenue ~¥21.7T (FY to Mar 2025, approx.)",
+   "subindustry": "automotive-mobility",
+   "ticker": "NYSE: HMC; TSE: 7267",
+   "updated": "2026-11-11"
+  },
   "hsbc": {
    "businessModel": "Global bank earning net interest income on loans and deposits, plus fees from wealth management, payments, trade finance and markets, with a large Asia and Hong Kong franchise.",
    "competitors": [
@@ -1585,6 +1638,24 @@
    "subindustry": "automotive-mobility",
    "ticker": "Borsa Italiana: IVG (being delisted)",
    "updated": "2026-11-07"
+  },
+  "jbs": {
+   "businessModel": "Buys cattle, hogs and chickens and processes them into beef, pork, poultry and prepared foods sold to retailers and restaurants worldwide, earning the spread between animal and meat prices.",
+   "competitors": [
+    "Tyson Foods",
+    "Cargill",
+    "MBRF (Marfrig-BRF)",
+    "Minerva",
+    "National Beef",
+    "Hormel Foods"
+   ],
+   "hq": "São Paulo, Brazil (JBS N.V. incorporated in the Netherlands)",
+   "name": "JBS",
+   "sector": "consumer-retail",
+   "size": "Revenue ~$77B (2024, approx.)",
+   "subindustry": "agriculture-food",
+   "ticker": "NYSE: JBS",
+   "updated": "2026-11-11"
   },
   "jio-platforms": {
    "businessModel": "Runs India's largest mobile and fixed-broadband network, earning monthly fees from hundreds of millions of subscribers plus enterprise and digital services.",
@@ -2114,6 +2185,24 @@
    "ticker": "Nasdaq: NVDA",
    "updated": "2026-11-06"
   },
+  "occidental-petroleum": {
+   "businessModel": "Produces oil and gas, mainly in the Permian Basin, Rockies, Gulf of America and the Middle East, and earns more from a midstream and marketing arm that moves and sells hydrocarbons.",
+   "competitors": [
+    "ConocoPhillips",
+    "Diamondback Energy",
+    "EOG Resources",
+    "Devon Energy",
+    "ExxonMobil",
+    "Chevron"
+   ],
+   "hq": "Houston, Texas, USA",
+   "name": "Occidental Petroleum",
+   "sector": "energy-materials",
+   "size": "Revenue ~$27B (2024, approx.); Q3 2026 output 1,427 Mboe/d",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "NYSE: OXY",
+   "updated": "2026-11-11"
+  },
   "octus": {
    "businessModel": "Sells subscriptions to credit intelligence, news, data and workflow tools for restructuring, distressed debt and private credit work, used by investors, banks, law firms and advisers.",
    "competitors": [
@@ -2131,6 +2220,23 @@
    "subindustry": "asset-wealth",
    "ticker": "Private (Permira; sale to LSEG agreed)",
    "updated": "2026-10-22"
+  },
+  "openai": {
+   "businessModel": "Develops AI models and sells access through ChatGPT subscriptions for consumers and businesses and through an API that developers pay for by usage.",
+   "competitors": [
+    "Anthropic",
+    "Google DeepMind",
+    "Meta",
+    "xAI",
+    "Mistral AI"
+   ],
+   "hq": "San Francisco, California, USA",
+   "name": "OpenAI",
+   "sector": "tmt",
+   "size": "Quarterly revenue ~$10B (Q3 2026, reported)",
+   "subindustry": "software-cloud",
+   "ticker": "Private (OpenAI Foundation, Microsoft, SoftBank and others)",
+   "updated": "2026-11-11"
   },
   "oracle": {
    "businessModel": "Sells database and business software through subscriptions and licenses, and rents out cloud computing capacity (Oracle Cloud Infrastructure), including large AI contracts.",
@@ -2559,6 +2665,23 @@
    "subindustry": "oil-gas-upstream",
    "ticker": "Tadawul: 2222",
    "updated": "2026-10-20"
+  },
+  "sea-limited": {
+   "businessModel": "Runs Shopee, Southeast Asia's largest online marketplace, which earns fees, advertising and logistics revenue from sellers; Monee, which lends to shoppers and merchants; and Garena, a mobile games publisher.",
+   "competitors": [
+    "Lazada (Alibaba)",
+    "TikTok Shop",
+    "Tokopedia",
+    "Mercado Libre",
+    "Grab"
+   ],
+   "hq": "Singapore",
+   "name": "Sea Limited",
+   "sector": "tmt",
+   "size": "Revenue $8.6B in Q3 2026; market cap ~$80-100B (2026, approx.)",
+   "subindustry": "internet-platforms",
+   "ticker": "NYSE: SE",
+   "updated": "2026-11-11"
   },
   "servicenow": {
    "businessModel": "Sells subscription workflow software that automates IT, HR and customer service tasks for large companies, with multi-year contracts.",
@@ -3018,6 +3141,24 @@
    "subindustry": "payments-fintech",
    "ticker": "NASDAQ: TW",
    "updated": "2026-10-25"
+  },
+  "transdigm": {
+   "businessModel": "Owns makers of specialized, often sole-source aircraft components and earns most of its profit selling spare parts to airlines and defense customers over the decades a plane flies.",
+   "competitors": [
+    "Honeywell Aerospace",
+    "Safran",
+    "Parker-Hannifin",
+    "Woodward",
+    "HEICO",
+    "Moog"
+   ],
+   "hq": "Cleveland, Ohio, USA",
+   "name": "TransDigm Group",
+   "sector": "advanced-industries",
+   "size": "Net sales $10.56B (FY to Sep 2026)",
+   "subindustry": "aerospace-defense",
+   "ticker": "NYSE: TDG",
+   "updated": "2026-11-11"
   },
   "trench-group": {
    "businessModel": "Makes high-voltage grid equipment for utilities and grid operators, such as instrument transformers and bushings, and sells it by project.",
@@ -6659,12 +6800,35 @@
    ]
   },
   "public-sector": {
+   "economicsOn": "valueChain",
+   "keyFigures": [
+    {
+     "label": "OECD public procurement",
+     "note": "OECD average, 2023 · OECD Government at a Glance 2025",
+     "value": "~12.7% of GDP"
+    },
+    {
+     "label": "US federal contracts",
+     "note": "FY2025, up $17.8B after inflation · GAO",
+     "value": "~$793B"
+    },
+    {
+     "label": "Procurement share of government spending",
+     "note": "OECD average, 2023 · OECD Government at a Glance 2025",
+     "value": "~30%"
+    },
+    {
+     "label": "Largest spending area",
+     "note": "Share of OECD procurement, 2023 · OECD",
+     "value": "Health, ~30%"
+    }
+   ],
    "kpis": [
+    "Public procurement: ~12.7% of GDP across the OECD (2023)",
+    "US federal contract obligations: ~$793B (FY2025)",
     "Backlog and book-to-bill ratio",
-    "Contract win rate and recompete rate",
-    "Adjusted EBITDA margin (5-12% typical)",
-    "Headcount and utilization of billable staff",
-    "Federal contract obligations (about $793B in FY2025)"
+    "Recompete win rate",
+    "Adjusted EBITDA margin (5-12% typical)"
    ],
    "marketSize": {
     "global": "~$11T",
@@ -6673,7 +6837,7 @@
     "usNote": "US federal contract obligations, FY2025 (GAO, approx.); Defense is about 62%"
    },
    "operatingModel": "Contractors win multi-year contracts through competitive bids and earn revenue by time and materials, cost-plus or fixed price. Margins are thin, typically 5-12%, so profit depends on keeping billable staff busy and winning contracts again at renewal. Security clearances and past performance are barriers to entry that protect incumbents.",
-   "overview": "The public sector as a market is made up of government agencies that buy goods and services, and the companies that supply them. Suppliers include IT and cybersecurity contractors, firms that run benefit and health programs, defense technology providers and builders of public works. Agencies buy through formal bidding, so winning contracts and keeping them at renewal drives results.",
+   "overview": "The public sector as a market is government agencies buying goods and services from companies. Spending flows from budgets set by legislatures, through formal bidding, to contractors who supply defense systems, IT, health products, program administration and public works. Contractors earn thin but steady margins on multi-year contracts, so winning bids and keeping them at renewal drives results. Defense budgets are rising, while AI and cloud work is replacing older staffing-based IT contracts.",
    "players": [
     "IT and defense services: Booz Allen Hamilton, Leidos, SAIC, CACI",
     "Program administration: Maximus, Conduent",
@@ -6681,8 +6845,44 @@
     "Fragmented: thousands of small firms hold prime or subcontract roles",
     "Customers are concentrated: the US Defense Department alone is about 62% of federal contract spending"
    ],
-   "profileUpdated": "2026-10-25",
+   "profileUpdated": "2026-11-11",
    "sector": "infrastructure-logistics",
+   "segments": {
+    "items": [
+     {
+      "growth": "fast",
+      "leaders": "Lockheed Martin · General Dynamics · Leidos",
+      "name": "Defense and security",
+      "what": "Weapons, equipment and support services; the largest single buyer in the US is the Defense Department."
+     },
+     {
+      "leaders": "McKesson · Cencora · Maximus",
+      "name": "Health",
+      "share": "~30%",
+      "sharePct": 30,
+      "what": "Drugs, medical supplies and health program administration; the largest area of OECD procurement in 2023."
+     },
+     {
+      "growth": "steady",
+      "leaders": "Booz Allen Hamilton · Accenture Federal · CACI",
+      "name": "IT, cloud and cybersecurity",
+      "what": "Modernizing old systems, moving to cloud and protecting networks."
+     },
+     {
+      "leaders": "Fluor · Jacobs · AECOM",
+      "name": "Public works and infrastructure",
+      "what": "Roads, buildings and utilities paid for from capital budgets."
+     },
+     {
+      "growth": "policy-driven",
+      "leaders": "Maximus · Conduent · Accenture",
+      "name": "Benefits and program administration",
+      "what": "Running eligibility, enrollment and contact centers for social programs."
+     }
+    ],
+    "title": "Main buying areas in government procurement (no reliable cross-country shares for each)"
+   },
+   "summary": "The public sector as a market is government agencies buying goods and services from companies. Spending flows from budgets set by legislatures, through formal bidding, to contractors who supply defense systems, IT, health products, program administration and public works. Contractors earn thin but steady margins on multi-year contracts, so winning bids and keeping them at renewal drives results. Defense budgets are rising, while AI and cloud work is replacing older staffing-based IT contracts.",
    "threats": [
     "Budget cuts, shutdowns or policy shifts that delay or cancel contracts",
     "Losing a large contract at recompete",
@@ -6695,6 +6895,90 @@
     "Contractors are buying small technical firms to add talent and security clearances",
     "Agencies are consolidating contracts and pushing for fixed-price work",
     "Civilian program budgets and policy change with each election cycle"
+   ],
+   "trendsThreats": [
+    {
+     "kind": "tailwind",
+     "text": "Defense budgets are rising, and US federal contract spending reached about $793 billion in fiscal 2025."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Agencies are moving IT work to cloud, AI and cybersecurity contracts, which pay better than staffing-based work."
+    },
+    {
+     "kind": "tailwind",
+     "text": "Primes are buying small firms with security clearances, giving founders an exit and buyers scarce talent."
+    },
+    {
+     "kind": "headwind",
+     "text": "Budget fights, shutdowns and continuing resolutions delay new awards and cash flow."
+    },
+    {
+     "kind": "headwind",
+     "text": "Fixed-price contracts shift cost overruns onto the contractor."
+    },
+    {
+     "kind": "headwind",
+     "text": "Policy changes after elections can cancel civilian programs or cut advisory and staffing work."
+    }
+   ],
+   "valueChain": [
+    {
+     "cost": "Debt interest and entitlement programs that compete with discretionary spending.",
+     "name": "Budgets and appropriations",
+     "players": "US Congress · EU institutions · national treasuries",
+     "revenue": "Taxes and government borrowing fund every later step.",
+     "takeaway": {
+      "label": "Sets the ceiling",
+      "why": "Shutdowns, delays or cuts here stall contract awards everywhere downstream."
+     },
+     "what": "Legislatures set how much each agency can spend, which fixes the size of the market each year."
+    },
+    {
+     "cost": "Contracting staff, compliance and long evaluation cycles.",
+     "name": "Agency procurement",
+     "players": "US Defense Department · GSA · NHS Supply Chain",
+     "revenue": "No revenue; agencies spend appropriated funds.",
+     "takeaway": {
+      "label": "Slow and rule-bound",
+      "why": "Formal rules and bid protests make awards slow but hard to overturn once won."
+     },
+     "what": "Agencies define requirements and run competitive bids or use pre-approved contract vehicles."
+    },
+    {
+     "cost": "Billable staff, especially cleared engineers, and bid costs.",
+     "highlight": true,
+     "name": "Prime contractors",
+     "players": "Lockheed Martin · Leidos · Booz Allen Hamilton",
+     "revenue": "Cost-plus, time-and-materials or fixed-price contracts over several years.",
+     "takeaway": {
+      "label": "Largest profit pool",
+      "why": "Primes hold the relationship and backlog, so they keep the most value despite single-digit to low-teens margins."
+     },
+     "what": "Large firms win the main contract and manage delivery, often subcontracting parts of the work."
+    },
+    {
+     "cost": "Staff, certifications and security clearances.",
+     "name": "Subcontractors and specialists",
+     "players": "CACI · SAIC · thousands of small businesses",
+     "revenue": "Subcontract fees and set-aside awards reserved for small businesses.",
+     "takeaway": {
+      "label": "Acquisition targets",
+      "why": "Primes often buy specialists to add clearances and skills rather than hire them."
+     },
+     "what": "Smaller firms supply niche technology, cleared talent or local services to the primes."
+    },
+    {
+     "cost": "Call-center and case staff, technology and penalties for missed service levels.",
+     "name": "Program delivery",
+     "players": "Maximus · Accenture Federal Services · Conduent",
+     "revenue": "Per-transaction or per-case fees and fixed program fees.",
+     "takeaway": {
+      "label": "Recompete risk",
+      "why": "Contracts are rebid every few years, so losing one can remove a large share of revenue at once."
+     },
+     "what": "Services reach citizens and troops: benefits processing, health programs, IT systems and infrastructure."
+    }
    ]
   },
   "real-estate-construction": {
