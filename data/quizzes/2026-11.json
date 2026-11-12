@@ -3035,5 +3035,252 @@
     "subindustry": "public-sector"
    }
   ]
+ },
+ "2026-11-12": {
+  "date": "2026-11-12",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "Book-to-bill compares new orders with revenue. At 1.30, Siemens booked €108.2 billion of orders against €83.4 billion of sales, which builds the backlog and supports future growth.",
+    "id": "2026-11-12:x01",
+    "kind": "today",
+    "options": [
+     "Sales were 30% higher than orders",
+     "Orders were about 30% higher than sales, so the backlog is growing",
+     "Profit margins rose 30%",
+     "Siemens billed customers 30% more than last year"
+    ],
+    "prompt": "Siemens reported a book-to-bill ratio of 1.30 for fiscal 2026. What does that mean?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-12-06",
+    "subindustry": "industrial-machinery"
+   },
+   {
+    "answer": 3,
+    "explanation": "Services grew 0.9%, and the ONS pointed to computer programming tied to AI and cloud businesses. Construction actually fell 0.7% and production rose only 0.1%.",
+    "id": "2026-11-12:x02",
+    "kind": "today",
+    "options": [
+     "Construction, helped by housebuilding",
+     "Manufacturing, helped by a weaker pound",
+     "Energy production, helped by high gas prices",
+     "Services, especially computer programming linked to AI and cloud work"
+    ],
+    "prompt": "UK GDP grew 0.7% in the third quarter. Which part of the economy led the growth?",
+    "sector": "macro",
+    "storyId": "2026-11-12-07",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "Trading desks and flexible gas plants earn most when prices swing, as they did this year with war-driven spikes. That is also why the gain may not repeat once prices calm.",
+    "id": "2026-11-12:x03",
+    "kind": "today",
+    "options": [
+     "Volatile power and gas prices that reward flexible supply and trading positions",
+     "Regulated tariffs set by the German government",
+     "Lower interest rates on its debt",
+     "A fall in the number of customers it supplies"
+    ],
+    "prompt": "RWE's energy-trading earnings jumped to €543 million from €150 million. What usually drives a windfall like this?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-12-08",
+    "subindustry": "renewables-transition"
+   },
+   {
+    "answer": 2,
+    "explanation": "Brazilian farmers finance inputs against future harvests, so tight, expensive credit makes them buy later and less. Distributors also cut orders while they run down high inventories.",
+    "id": "2026-11-12:x04",
+    "kind": "today",
+    "options": [
+     "Brazil bans imports of crop chemicals when rates rise",
+     "Seeds become more expensive to produce",
+     "Farmers buy on credit against the next harvest, so costly credit delays and shrinks orders",
+     "Crop prices always rise when rates rise"
+    ],
+    "prompt": "Corteva's Latin American sales fell 31%. Why do Brazilian farmers' purchases of seeds and crop chemicals drop when interest rates are high?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-12-13",
+    "subindustry": "agriculture-food"
+   },
+   {
+    "answer": 1,
+    "explanation": "Air cargo is priced by demand for scarce space. Shipments for Black Friday and Christmas surged while transatlantic passenger flights, which carry cargo in their holds, were cut for winter.",
+    "id": "2026-11-12:x05",
+    "kind": "today",
+    "options": [
+     "Rising fuel surcharges",
+     "Holiday peak-season demand and less belly space on winter passenger flights",
+     "A new tariff on air cargo",
+     "A strike at major cargo airports"
+    ],
+    "prompt": "Air freight rates rose 6.6% in a week to their 2026 high even though jet fuel fell 6.5%. What drove the rise?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-11-12-15",
+    "subindustry": "transport-logistics"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 2,
+    "explanation": "Huang led Nvidia for 33 years, so investors priced his product vision and relationships with big buyers into the shares. Nothing in the business changed overnight: results are still due November 17 and no guidance was cut.",
+    "id": "2026-11-12:q01",
+    "kind": "today",
+    "options": [
+     "Nvidia lost its largest customer the same day",
+     "The resignation forced Nvidia to cancel its November 17 results",
+     "Investors had valued Huang's leadership and customer ties as part of the company",
+     "The board announced a cut to its revenue guidance"
+    ],
+    "prompt": "Nvidia's board says customer commitments and the product roadmap continue, yet the shares fell about 10% after Jensen Huang resigned. What best explains the drop?",
+    "sector": "tmt",
+    "storyId": "2026-11-12-01",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 0,
+    "explanation": "OPEC sees 2026 growth of just 180,000 barrels a day, far below the 1.4 million it expected before the Iran war. The 2.55 million figure is its forecast for the 2027 rebound, not 2026.",
+    "id": "2026-11-12:q02",
+    "kind": "today",
+    "options": [
+     "About 0.2 million barrels a day, versus 1.4 million before the war",
+     "About 1.4 million barrels a day, unchanged from before the war",
+     "About 2.5 million barrels a day, versus 1.4 million before the war",
+     "Demand shrinks by about 1 million barrels a day"
+    ],
+    "prompt": "OPEC now expects world oil demand to grow by how much in 2026, compared with its pre-war forecast?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-12-02",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 3,
+    "explanation": "Buyers who exit Qatari contracts still need gas, and US exporters can sign them to new long-term deals, as Orlen already did with Port Arthur and Plaquemines. QatarEnergy cannot deliver at all while its force majeure lasts, so it gains nothing.",
+    "id": "2026-11-12:q03",
+    "kind": "today",
+    "options": [
+     "Asian buyers that depend heavily on Qatar",
+     "QatarEnergy, which can resell the gas at spot prices",
+     "Shipowners on the Qatar-to-Europe route",
+     "US LNG exporters offering new long-term volumes away from Hormuz"
+    ],
+    "prompt": "Orlen cancelled a long-term LNG contract with QatarEnergy. Which group stands to gain most if other buyers follow?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-12-03",
+    "subindustry": "midstream-lng"
+   },
+   {
+    "answer": 1,
+    "explanation": "The margin improved because revenue grew faster than costs, so each dollar of sales loses less. Total losses still rose from $10.1 billion to $10.9 billion, and revenue is now split about evenly between enterprise and consumer.",
+    "id": "2026-11-12:q04",
+    "kind": "today",
+    "options": [
+     "OpenAI is now profitable on an operating basis",
+     "Losses per dollar of revenue are shrinking, even though total losses still grow",
+     "Its costs fell in absolute terms during the quarter",
+     "Consumer subscriptions now produce most of its revenue"
+    ],
+    "prompt": "OpenAI's revenue rose about 50% to $10 billion while its operating loss widened to $10.9 billion. What does the margin moving from about -150% to -109% tell you?",
+    "sector": "tmt",
+    "storyId": "2026-11-12-04",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 2,
+    "explanation": "Many buyers want the same scarce gear at once, so makers can raise prices and fill order books for years. Wind is the weak spot, not the driver: Siemens Gamesa only just reached break-even.",
+    "id": "2026-11-12:q05",
+    "kind": "today",
+    "options": [
+     "Government price controls on power equipment",
+     "Falling demand from utilities, which lowers costs",
+     "Demand from data centers, electrification and grid upgrades has outrun factory capacity",
+     "Wind turbines have become their most profitable product"
+    ],
+    "prompt": "Siemens Energy targets 20% to 22% margins by 2030 and holds a €164 billion backlog. What gives gas-turbine and grid-equipment makers this pricing power?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-12-05",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 0,
+    "explanation": "Remittances are a thin-margin scale business, so the case for the deal rests on removing duplicate agents and costs. That is why Western Union walked away from its $500 million Intermex deal after California's conditions, even though 54 other jurisdictions had approved it.",
+    "id": "2026-11-12:q06",
+    "kind": "today",
+    "options": [
+     "The planned cost savings from merging overlapping agent networks disappear",
+     "The buyer's foreign-exchange spreads would rise automatically",
+     "The rival's digital app would no longer be allowed",
+     "The deal would need approval again in every other state"
+    ],
+    "prompt": "A remittance company agrees to buy a rival with an overlapping network of retail agents. A state regulator then bars it from cutting any agent locations. Which factor matters most for the deal?",
+    "sector": "financial-services",
+    "storyId": "2026-11-12-10",
+    "subindustry": "payments-fintech"
+   },
+   {
+    "answer": 1,
+    "explanation": "Axon sells devices to police and then earns recurring software and cloud revenue, and it now distributes Skydio drones exclusively in the US and Canada to the same buyers. The shares still fell 18% because three federal deployments worth about $130 million slipped.",
+    "id": "2026-11-07:q04",
+    "kind": "review",
+    "options": [
+     "Selling more hardware only, since software adds little",
+     "Extending its hardware-plus-recurring-software model to drones sold to existing police customers",
+     "Reducing exposure to government buyers",
+     "Replacing its camera business with drones"
+    ],
+    "prompt": "Axon invested another $1.2 billion in Skydio, lifting its stake to 37%. What business logic does this reflect?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-07-05",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 1,
+    "explanation": "Contributing its own Italian businesses in exchange for new shares lifts the stake without a cash bid for the whole company, which would trigger a mandatory offer. The proposal still needs board and regulatory approval and offers holders a 20% premium and a €1 billion dividend, so the other options are wrong.",
+    "id": "2026-11-09:q01",
+    "kind": "review",
+    "options": [
+     "It guarantees the Banco BPM board will approve the deal",
+     "It raises the stake through new shares and avoids a mandatory takeover offer for the whole bank",
+     "It lets Crédit Agricole pay Banco BPM holders nothing at all",
+     "It removes the need for any regulatory review"
+    ],
+    "prompt": "Crédit Agricole wants to lift its Banco BPM stake from 29.6% to about 45% by merging its Italian unit into the bank rather than bidding for it. What is the main advantage of that structure?",
+    "sector": "financial-services",
+    "storyId": "2026-11-09-01",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 0,
+    "explanation": "The company said the lower take rate was mainly due to Reserve Now, Pay Later bookings, a timing effect, not a price cut. Gross booking value still rose 21% to $27.7 billion.",
+    "id": "2026-11-06:q03",
+    "kind": "review",
+    "options": [
+     "More guests use Reserve Now, Pay Later, which pushes some revenue recognition later",
+     "It cut its service fee to win share from hotels",
+     "Hosts shifted to longer stays that carry no fees",
+     "Foreign exchange losses wiped out its fee income"
+    ],
+    "prompt": "Airbnb's revenue grew 19% but its take rate slipped to 17.6%. Why?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-06-06",
+    "subindustry": "travel-hospitality"
+   },
+   {
+    "answer": 3,
+    "explanation": "Liquefaction plants cost $10 billion or more and are financed against long-term fees, so payments stay steady whatever happens to gas prices. Gas producers are exposed to prices, and shipping rates swing with the number of available ships.",
+    "id": "2026-11-12:q10",
+    "kind": "profile",
+    "options": [
+     "Liquefaction plants are cheap to build, so costs stay low",
+     "Liquefaction owners own the gas and benefit from every price rise",
+     "Governments guarantee liquefaction margins",
+     "Plants are paid fixed tolling fees under 20-year contracts, even when gas prices move"
+    ],
+    "prompt": "In the LNG value chain, why does liquefaction usually earn steadier profits than gas production or shipping?",
+    "sector": "energy-materials",
+    "storyId": null,
+    "subindustry": "midstream-lng"
+   }
+  ]
  }
 }

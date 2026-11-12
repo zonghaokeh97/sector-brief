@@ -3122,5 +3122,416 @@
   "subindustry": "metals-mining",
   "summary": "American Barrick Gold filed for a New York Stock Exchange IPO under the ticker ABGC, holding Barrick's 61.5% of Nevada Gold Mines and 60% of Pueblo Viejo in the Dominican Republic, with Newmont owning the rest of both. The business produced about 2.0 million attributable ounces of gold in 2025 and holds about 40 million ounces of reserves, roughly 20 years of output. It reported revenue of $7.26 billion for the six months to June. Barrick will keep a majority stake, and the filing does not yet give a size or price; gold fell about 2.6% to around $4,030 an ounce on Tuesday.",
   "tags": []
+ },
+ "2026-11-12-01": {
+  "companies": [
+   "nvidia"
+  ],
+  "date": "2026-11-12",
+  "headline": "Jensen Huang resigns as Nvidia's CEO after a personal scandal, and CFO Colette Kress becomes interim chief",
+  "numbers": [
+   "Huang's tenure: 33 years",
+   "Close on Nov 11: $173.73, about 27% below the Oct 6 record",
+   "Pre-market Nov 12: about -10%",
+   "Next results: Nov 17"
+  ],
+  "order": 1,
+  "sector": "tmt",
+  "soWhat": "Huang co-founded Nvidia and led it for 33 years, so investors have treated his product and customer relationships as part of the company's value. The business itself does not change overnight: the board says customer commitments and the product roadmap continue, and quarterly results come as scheduled on November 17. The open question is whether a new leader can keep Nvidia's pace of yearly chip launches and its ties with hyperscale buyers, while rivals such as AMD and in-house chips at cloud companies try to take share during the transition.",
+  "sources": [
+   {
+    "title": "NVIDIA Announces CEO Transition",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+   },
+   {
+    "title": "Tech stocks closed higher, then Nvidia fell after hours (StockTitan)",
+    "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-11-2026"
+   },
+   {
+    "title": "Nvidia CEO Jensen Huang resigns, effective immediately (FOX 9)",
+    "url": "https://www.fox9.com/news/nvidia-ceo-jensen-huang-resigns-effective-immediately"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Nvidia's board accepted Jensen Huang's resignation as president, CEO and director late on November 11, effective immediately, after reports of two personal relationships, one with an executive at Megaspeed, a large Singapore-based customer, whom US intelligence reportedly suspects of passing information to Beijing. Chief financial officer Colette Kress becomes interim CEO while keeping the CFO role, and former Synopsys CEO Harvey Jones becomes the company's first-ever board chair. The board will consider internal and external candidates for a permanent CEO. Nvidia shares had closed up about 2.9% at $173.73 on Wednesday, roughly 27% below their October record, then fell about 10% before Thursday's open.",
+  "tags": []
+ },
+ "2026-11-12-02": {
+  "companies": [],
+  "date": "2026-11-12",
+  "headline": "Brent climbs back to about $93 after Trump says no Iran deal is needed, as OPEC keeps its weak 2026 demand forecast",
+  "numbers": [
+   "Brent: ~$93/bbl (Nov 12 morning)",
+   "OPEC 2026 demand growth: 0.18M b/d (pre-war forecast 1.4M)",
+   "OPEC 2027 demand growth: 2.55M b/d to 108.28M b/d",
+   "Global stock draw Feb-Sep: 537M barrels"
+  ],
+  "order": 2,
+  "sector": "energy-materials",
+  "soWhat": "Oil now trades on two forces pulling in opposite directions: a war premium that rises and falls with every Iran headline, and a physical market where the war itself has cut demand. Stocks have been drawn down hard, which leaves little cushion if Hormuz flows are hit again, but returning Saudi and Iraqi barrels add supply quickly once tankers move. For producers, prices in the $85 to $95 range still support strong cash flow; for refiners and airlines, the swings make fuel costs hard to hedge. The open question is whether OPEC's 2027 rebound assumes a reopening of Gulf trade that has not yet happened.",
+  "sources": [
+   {
+    "title": "Oil prices jump after Trump says no Iran deal needed (CNBC)",
+    "url": "https://cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
+   },
+   {
+    "title": "OPEC forecasts 2027 global oil demand to hit 108.28 mb/d (allAfrica)",
+    "url": "https://allafrica.com/stories/202611120397.html"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Brent crude rose about 0.5% to roughly $93 a barrel on Thursday morning after President Trump wrote that the US does not need a deal with Iran, cooling hopes of a quick end to the war that has disrupted shipping through the Strait of Hormuz. Brent had briefly slipped below $90 earlier in the week, and WTI is still down about 16% in November. OPEC's monthly report kept its forecasts unchanged: world demand grows just 180,000 barrels a day in 2026 to 105.72 million, far below the 1.4 million it expected before the war, then jumps 2.55 million in 2027. OPEC also estimates that global stocks fell 537 million barrels from February to end-September, while OPEC+ crude output rose 2.04 million barrels a day in October as Saudi Arabia and Iraq restored supply.",
+  "tags": []
+ },
+ "2026-11-12-03": {
+  "companies": [
+   "orlen",
+   "qatarenergy"
+  ],
+  "date": "2026-11-12",
+  "headline": "Poland's Orlen becomes the first buyer to cancel a long-term LNG contract with QatarEnergy, citing endless force majeure",
+  "numbers": [
+   "Contract volume: 1 Mt a year",
+   "Contract term: 2016 deliveries to 2034",
+   "Estimated 2026 value: €570M ($637M)",
+   "Qatar trains damaged: 2 of 14"
+  ],
+  "order": 3,
+  "sector": "energy-materials",
+  "soWhat": "Long-term LNG contracts work because buyers trust them more than the spot market; a prolonged force majeure breaks that trust and gives buyers a legal exit. Qatar supplied about a fifth of world LNG before the war, so if other European and Asian buyers follow Orlen, QatarEnergy could lose committed demand just as its large expansion is due. US exporters gain most, because they can offer new long-term volumes away from Hormuz. The open question is whether Asian buyers, who rely far more on Qatar, follow Orlen or wait for repairs.",
+  "sources": [
+   {
+    "title": "Poland's Orlen becomes first buyer to cancel QatarEnergy LNG contract (The National)",
+    "url": "https://thenationalnews.com/business/energy/2026/11/11/polands-orlen-becomes-first-buyer-to-cancel-qatarenergy-lng-contract"
+   }
+  ],
+  "subindustry": "midstream-lng",
+  "summary": "Orlen has terminated a 1 million tonne-a-year LNG supply contract with QatarEnergy, signed in 2009 and due to run to 2034, saying the seller's force majeure has gone on too long. Missile strikes in March damaged two of the 14 production trains at Qatar's main export plant, and QatarEnergy has extended force majeure month by month, most recently through the end of 2026. The oil-linked contract was worth an estimated €570 million ($637 million) this year. Orlen keeps a second Qatari contract of up to 1 million tonnes a year and has signed deals for US LNG from Port Arthur and Plaquemines.",
+  "tags": []
+ },
+ "2026-11-12-04": {
+  "companies": [
+   "openai",
+   "anthropic"
+  ],
+  "date": "2026-11-12",
+  "headline": "OpenAI's quarterly revenue jumps about 50% to $10 billion, but its operating loss widens to $10.9 billion",
+  "numbers": [
+   "Q3 revenue: ~$10B, up ~50% q/q",
+   "Adjusted operating loss: $10.9B (Q2: $10.1B)",
+   "Operating margin: -109% (Q2: -150%)",
+   "ChatGPT weekly users: ~1.2B"
+  ],
+  "order": 4,
+  "sector": "tmt",
+  "soWhat": "The figures show that AI labs can grow revenue very fast, but the cost of computing power grows almost as fast, so scale alone has not produced profits. The shift toward enterprise customers matters because businesses sign larger, steadier contracts than consumers. The comparison with Anthropic, reported at about $17 billion of quarterly revenue and a small operating loss, sharpens the contrast as Anthropic prepares its IPO. The open question is how long investors keep funding losses of about $11 billion a quarter before demanding a path to profit.",
+  "sources": [
+   {
+    "title": "OpenAI posts $10B revenue in Q3 with $10.9B operating loss (Storyboard18)",
+    "url": "https://www.storyboard18.com/brand-marketing/openai-posts-10b-revenue-in-q3-with-10-9b-operating-loss-ws-l-114468.htm"
+   },
+   {
+    "title": "OpenAI hits $10 billion in quarterly revenue (Yahoo Finance)",
+    "url": "https://finance.yahoo.com/technology/ai/articles/openai-hits-10-billion-quarterly-190211001.html"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "OpenAI's revenue rose nearly 50% from the prior quarter to about $10 billion in the third quarter, according to figures reported by the Wall Street Journal, its first quarter above $10 billion and an annual run rate of about $50 billion. Its adjusted operating loss widened to $10.9 billion from $10.1 billion, though the loss per dollar of revenue improved, with the operating margin moving from about -150% to -109%. Enterprise revenue doubled from the prior quarter and now roughly equals consumer revenue. ChatGPT has about 1.2 billion weekly users and more than 100 million paid subscriptions.",
+  "tags": []
+ },
+ "2026-11-12-05": {
+  "companies": [
+   "siemens-energy"
+  ],
+  "date": "2026-11-12",
+  "headline": "Siemens Energy reports a record year, a €164 billion backlog and a 2030 target of 20% to 22% margins",
+  "numbers": [
+   "FY2026 revenue: €44.2B, +15.5%",
+   "Order backlog: €164B",
+   "Profit margin before special items: 12.4% (2030 target 20-22%)",
+   "FY2026 free cash flow pre-tax: €8.8B"
+  ],
+  "order": 5,
+  "sector": "energy-materials",
+  "soWhat": "Demand for gas turbines and grid equipment has outrun factory capacity, because data centers, electrification and grid upgrades all need the same scarce gear. That gives makers like Siemens Energy and GE Vernova pricing power and multi-year order books, and it is why gas turbines now earn higher margins than wind. Utilities and data-center developers lose bargaining power and face waits of years for equipment. The open question is how long the boom lasts once new factory capacity comes online across the industry.",
+  "sources": [
+   {
+    "title": "Siemens Energy Q4 FY2026 earnings release",
+    "url": "https://www.siemens-energy.com/global/en/home/press-releases/earnings-release-q4-fy-2026--siemens-energy-reports-a-record-yea.html"
+   },
+   {
+    "title": "Siemens Energy investor relations",
+    "url": "https://www.siemens-energy.com/global/en/home/investor-relations.html"
+   }
+  ],
+  "subindustry": "power-utilities",
+  "summary": "Siemens Energy's revenue rose 15.5% on a comparable basis to €44.2 billion in fiscal 2026, and orders rose 18.8% to €68.1 billion, leaving a record backlog of €164 billion. Profit before special items more than doubled to €5.5 billion, a 12.4% margin, and net income reached €4.1 billion. Gas Services grew 20% and Grid Technologies 26%, while the Siemens Gamesa wind unit reached break-even as planned. For fiscal 2027 it guides 14% to 16% revenue growth, and by 2030 it targets a profit margin of 20% to 22%, plus up to €9 billion of further share buybacks.",
+  "tags": []
+ },
+ "2026-11-12-06": {
+  "companies": [
+   "siemens"
+  ],
+  "date": "2026-11-12",
+  "headline": "Siemens books a record €108 billion of orders on data-center and rail demand and plans to spin off its Healthineers stake",
+  "numbers": [
+   "FY2026 orders: €108.2B, +25%",
+   "FY2026 revenue: €83.4B, +8%",
+   "Free cash flow: €12.1B",
+   "FY2027 revenue growth guide: 9-11%"
+  ],
+  "order": 6,
+  "sector": "advanced-industries",
+  "soWhat": "Data centers are lifting demand far beyond chips: they need switchgear, cooling controls and building automation, which is where Siemens' Smart Infrastructure arm sits. A book-to-bill of 1.30 means orders are arriving faster than Siemens can turn them into sales, which supports several years of growth. Spinning off Healthineers makes Siemens a purer industrial and software company, which investors usually value more clearly than a conglomerate. The open question is whether data-center orders stay this strong if AI spending slows.",
+  "sources": [
+   {
+    "title": "Siemens raises mid-term targets after record €108 billion in orders (MLQ)",
+    "url": "https://mlq.ai/news/siemens-raises-its-mid-term-targets-after-record-108-billion-in-orders-with-data-centers-lifting-smart-infrastructure/"
+   }
+  ],
+  "subindustry": "industrial-machinery",
+  "summary": "Siemens' comparable orders rose 25% to a record €108.2 billion in fiscal 2026, and revenue grew 8% to €83.4 billion, with fourth-quarter orders up 58% to €34.8 billion helped by a €2.4 billion German high-speed train order. Smart Infrastructure, which supplies power and building systems, won many large data-center contracts and lifted full-year orders 34% to €31.4 billion. Free cash flow hit a record €12.1 billion, and the dividend rises to €5.50 a share. Siemens plans to hand its 34.1% stake in Siemens Healthineers to its own shareholders during fiscal 2027 and raised its mid-term growth target to 7% to 11% a year.",
+  "tags": []
+ },
+ "2026-11-12-07": {
+  "companies": [],
+  "date": "2026-11-12",
+  "headline": "UK economy grows 0.7% in the third quarter, its fastest in more than two years, as AI and software work lift services",
+  "numbers": [
+   "Q3 GDP: +0.7% q/q (Q2: +0.5%)",
+   "GDP vs a year earlier: +1.9%",
+   "Services: +0.9%; construction: -0.7%",
+   "OBR 2027 growth forecast: ~1%"
+  ],
+  "order": 7,
+  "sector": "macro",
+  "soWhat": "Stronger growth makes the Bank of England's job harder: it raised rates this month with inflation heading toward 5%, and a resilient economy removes a reason to stop. Growth concentrated in software and AI work helps tech services and commercial property in London, while construction and energy-heavy industries lag. The open question is whether the higher energy bills now feeding through to households slow consumer spending enough to bring growth down next year.",
+  "sources": [
+   {
+    "title": "UK economy grows 0.7 per cent as AI lifts business investment (City AM)",
+    "url": "https://www.cityam.com/uk-economy-grows-0-7-per-cent-in-third-quarter/"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "The UK economy grew 0.7% between July and September, up from 0.5% in the second quarter and about 1.9% higher than a year earlier, according to the Office for National Statistics. Services grew 0.9%, led by computer programming, which the ONS linked to AI and cloud businesses, while production rose 0.1% and construction fell 0.7%. September alone grew 0.2%, against forecasts of no growth. The Office for Budget Responsibility expects the energy shock from the Iran war to slow growth to about 1% in 2027.",
+  "tags": []
+ },
+ "2026-11-12-08": {
+  "companies": [
+   "rwe"
+  ],
+  "date": "2026-11-12",
+  "headline": "RWE's nine-month earnings rise 35% on new wind and solar capacity and strong trading, pointing to the top of its 2026 range",
+  "numbers": [
+   "9M adjusted EBITDA: €4.6B, +35%",
+   "Adjusted EPS: €2.52, +42%",
+   "Supply & Trading EBITDA: €543M (prior year €150M)",
+   "Capacity under construction: 13.5 GW"
+  ],
+  "order": 8,
+  "sector": "energy-materials",
+  "soWhat": "RWE shows how a utility in transition earns money from both sides: new wind and solar farms add steady contracted profits, while gas plants and the trading desk profit when volatile prices, like this year's war-driven spikes, reward flexible supply. Sharing big offshore projects with partners such as KKR lets it keep building without stretching its balance sheet. The open question is how much of the trading windfall repeats once energy prices calm down.",
+  "sources": [
+   {
+    "title": "RWE delivers an excellent earnings performance in the first three quarters",
+    "url": "https://www.rwe.com/en/press/rwe-ag/2026-11-11-rwe-delivers-an-excellent-earnings-performance-in-the-first-three-quarters/"
+   }
+  ],
+  "subindustry": "renewables-transition",
+  "summary": "RWE's adjusted EBITDA rose 35% to €4.6 billion in the first nine months of 2026, and adjusted earnings per share rose 42% to €2.52, about 85% of its full-year target. Onshore wind and solar earned €1.5 billion and offshore wind €1.1 billion, both up about 20%, while gas and other flexible plants rose 25% to €1.3 billion. Energy trading jumped to €543 million from €150 million and will beat its full-year range. RWE now expects results toward the top of its €5.75 billion to €6.35 billion EBITDA guidance, has 13.5 GW under construction and won German capacity contracts for 2.5 GW of new gas plants.",
+  "tags": []
+ },
+ "2026-11-12-09": {
+  "companies": [
+   "eli-lilly",
+   "novo-nordisk"
+  ],
+  "date": "2026-11-12",
+  "headline": "Lilly wins China's first approval for an oral GLP-1 weight-loss pill, getting ahead of Novo Nordisk",
+  "numbers": [
+   "Chinese adults overweight or obese: more than half",
+   "Lilly China supply-chain investment: $3B over 10 years",
+   "Lilly pre-market move: ~+3%"
+  ],
+  "order": 9,
+  "sector": "healthcare",
+  "soWhat": "A pill is cheaper to make and easier to ship than an injection, which matters in a market where patients pay themselves and where scale will depend on price. Being first gives Lilly time to build doctor habits and distribution before Novo's pill arrives, and Lilly has committed $3 billion over 10 years to supply chains in China. Local makers of GLP-1 drugs and copies of semaglutide are the main threat to both. The open question is what price Lilly sets, since self-paying patients limit how much it can charge.",
+  "sources": [
+   {
+    "title": "Lilly beats Novo to China with an oral GLP-1 for obesity (pharmaphorum)",
+    "url": "https://pharmaphorum.com/news/lilly-beats-novo-china-oral-glp-1-obesity"
+   },
+   {
+    "title": "Lilly becomes first drugmaker to have a GLP-1 weight-loss pill approved in China (Daily Guardian/Reuters)",
+    "url": "https://thedailyguardian.com/world/update-5-eli-lilly-becomes-first-drugmaker-to-have-a-glp-1-weight-loss-pill-approved-in-china-774053"
+   },
+   {
+    "title": "Premarket movers: Nvidia sinks; Lilly gains on China approval (Investing.com)",
+    "url": "https://www.investing.com/news/stock-market-news/premarket-movers-nvidia-sinks-lilly-gains-on-china-approval-5021050"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "China's drug regulator has approved Eli Lilly's orforglipron, sold as Foundayo in the US and UK, for weight management in adults with obesity or who are overweight with a related condition. It is the first oral GLP-1 weight-loss medicine approved in China; Novo Nordisk's oral Wegovy is still under review there, though Novo's injectable semaglutide has been sold in China since 2024. More than half of Chinese adults are overweight or obese, but weight-loss drugs are paid for out of pocket. Lilly shares rose about 3% before the US open.",
+  "tags": []
+ },
+ "2026-11-12-10": {
+  "companies": [
+   "western-union",
+   "intermex"
+  ],
+  "date": "2026-11-12",
+  "headline": "Western Union walks away from its $500 million Intermex deal over California's conditions, and Intermex says it will fight",
+  "numbers": [
+   "Deal value: ~$500M",
+   "Approvals received: 54 jurisdictions; California conditional",
+   "Termination fee: none"
+  ],
+  "order": 10,
+  "sector": "financial-services",
+  "soWhat": "Remittances to Latin America are a scale business with thin margins, and the deal was meant to cut overlapping agent networks and costs. California's condition to keep every agent location blocks exactly those savings, which shows how state regulators can reshape a deal even after federal clearance. Digital players such as Remitly and Wise keep gaining share while the two incumbents are distracted. The open question is whether a court agrees that Western Union had the right to exit.",
+  "sources": [
+   {
+    "title": "Western Union Announces Termination of Agreement to Acquire Intermex",
+    "url": "https://ir.westernunion.com/news/archived-press-releases/press-release-details/2026/Western-Union-Announces-Termination-of-Agreement-to-Acquire-Intermex/default.aspx"
+   },
+   {
+    "title": "Western Union, Intermex clash (Payments Dive)",
+    "url": "https://www.paymentsdive.com/news/western-union-intermex-acquisition-fight-California-regulator/874396/"
+   }
+  ],
+  "subindustry": "payments-fintech",
+  "summary": "Western Union terminated its agreement to buy remittance company International Money Express (Intermex), announced in August 2025 for about $500 million, effective just after midnight on November 12. California's financial regulator issued final conditions on November 10 that included barring cuts to California agent locations and tougher anti-fraud measures, which Western Union said would force material changes to its business model. Every other jurisdiction, 54 in all, had approved the deal, and neither side owes a break fee. Intermex rejects the termination, says it expects the deal to close and has threatened legal action.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-12-11": {
+  "companies": [
+   "marsh",
+   "wilshire"
+  ],
+  "date": "2026-11-12",
+  "headline": "Marsh agrees to buy investment consultant Wilshire, adding $221 billion under management",
+  "numbers": [
+   "Wilshire assets under management: $221B",
+   "Assets under advisement: $1.6T",
+   "Expected close: Q1 2027"
+  ],
+  "order": 11,
+  "sector": "financial-services",
+  "soWhat": "Large insurance brokers are building investment businesses because advising pension plans and running outsourced portfolios earn steady, fee-based income that fits next to brokerage and consulting. Wilshire adds model portfolios sold through financial advisers and alternative-investment skills, the fastest-growing part of wealth management. Smaller investment consultants face rivals with more scale and data. The open question is whether clients stay through the change of ownership, since the deal needs their consent.",
+  "sources": [
+   {
+    "title": "Marsh to acquire Wilshire (Mercer newsroom)",
+    "url": "https://www.mercer.com/en-us/about/newsroom/marsh-to-acquire-wilshire/"
+   }
+  ],
+  "subindustry": "asset-wealth",
+  "summary": "Marsh agreed to acquire Wilshire, an investment consulting, portfolio and index-analytics firm, from private-equity owners Motive Partners and CC Capital; terms were not disclosed. Wilshire manages $221 billion and advises on $1.6 trillion for pension plans, endowments, foundations and wealth advisers. The deal is Marsh's third major investments move in 2026 after buying AltamarCAM in March, and it is expected to close in the first quarter of 2027.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-12-12": {
+  "companies": [
+   "munich-re"
+  ],
+  "date": "2026-11-12",
+  "headline": "Munich Re raises its 2026 profit target to €6.6 billion even as third-quarter profit dips",
+  "numbers": [
+   "Q3 net result: €1.74B (prior year €2.0B)",
+   "Q3 insurance revenue: €16.6B",
+   "2026 profit guidance: €6.6B (originally €6.3B)"
+  ],
+  "order": 12,
+  "sector": "financial-services",
+  "soWhat": "Reinsurers have enjoyed several years of high prices after heavy catastrophe losses, and a quiet loss year lets that pricing turn into record profits. Raising guidance late in the year signals that catastrophe losses have stayed below budget. The flip side is that strong profits attract new capital, which pushes reinsurance prices down at the January renewals. The open question is how much prices fall at those renewals.",
+  "sources": [
+   {
+    "title": "Munich Re Q3 net result declines (RTTNews)",
+    "url": "https://rttnews.com/3713523/munich-re-q3-net-result-declines.aspx"
+   }
+  ],
+  "subindustry": "insurance",
+  "summary": "Munich Re's third-quarter net result fell to €1.74 billion from €2.0 billion a year earlier, while insurance revenue rose to €16.6 billion from €14.6 billion. The reinsurer raised its full-year 2026 net profit guidance to €6.6 billion from an original target of €6.3 billion. For the first nine months, insurance revenue rose to €46.6 billion from €45.2 billion.",
+  "tags": []
+ },
+ "2026-11-12-13": {
+  "companies": [
+   "corteva"
+  ],
+  "date": "2026-11-12",
+  "headline": "Corteva cuts its 2026 outlook as Brazilian farmers delay buying, and sales in Latin America fall 31%",
+  "numbers": [
+   "Q3 pro forma sales: $1.59B, -9%",
+   "Latin America organic sales: -31%",
+   "2026 adjusted pro forma EBITDA guide: $1.1-1.125B"
+  ],
+  "order": 13,
+  "sector": "consumer-retail",
+  "soWhat": "Brazil is the largest crop-protection market in the world, and its farmers buy on credit against the next harvest. When interest rates are high and crop prices low, they buy later and in smaller amounts, and distributors run down their stock before ordering more. That hits sellers of seeds and crop chemicals, including Bayer and Syngenta, as well as Corteva. The open question is whether the weakness is a one-season timing shift or a longer squeeze on Brazilian farm income.",
+  "sources": [
+   {
+    "title": "Corteva swings to Q3 loss, cuts FY26 outlook (RTTNews)",
+    "url": "https://www.rttnews.com/3713282/corteva-swings-to-q3-loss-cuts-fy26-outlook.aspx"
+   },
+   {
+    "title": "Corteva cuts 2026 guidance after Brazil weakness (Basis Report)",
+    "url": "https://www.basisreport.com/news/ctva-corteva-fy26-guidance-cut-brazil-weakness"
+   }
+  ],
+  "subindustry": "agriculture-food",
+  "summary": "Corteva's pro forma third-quarter sales fell 9% to $1.59 billion, with organic sales in Latin America down 31% while North America rose 7% and Europe, Middle East and Africa rose 14%. The company blamed weak Brazilian conditions, high distributor inventories and farmers' tight access to credit. It cut its 2026 guidance to adjusted pro forma operating EBITDA of $1.1 billion to $1.125 billion and EPS of $0.76 to $0.80. Shares fell about 8% after the results.",
+  "tags": []
+ },
+ "2026-11-12-14": {
+  "companies": [
+   "b-and-m"
+  ],
+  "date": "2026-11-12",
+  "headline": "B&M shares jump about 17% as UK sales return to growth and the discounter issues its first full-year profit guidance",
+  "numbers": [
+   "H1 revenue: £2.85B, +3.6%",
+   "UK like-for-like sales Q2: +3.2% (Q1: -2.3%)",
+   "FY profit guide: £280-330M pre-tax"
+  ],
+  "order": 14,
+  "sector": "consumer-retail",
+  "soWhat": "Discounters make money on high volumes and tight costs, so a return to positive like-for-like sales quickly lifts profit because store costs are largely fixed. Shoppers squeezed by higher energy bills tend to trade down to discounters, which helps B&M against mid-market general retailers. The open question is whether the UK recovery holds through Christmas, the quarter that decides the year.",
+  "sources": [
+   {
+    "title": "B&M European Value Retail reports revenue growth in H1 (Investing.com)",
+    "url": "https://uk.investing.com/news/stock-market-news/bm-european-value-retail-reports-revenue-growth-in-h1-93CH-4976388"
+   },
+   {
+    "title": "Why is B&M European Value Retail stock surging today? (Investing.com)",
+    "url": "https://investing.com/news/stock-market-news/why-is-bm-european-value-retail-stock-surging-today-93CH-5020707"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "UK discount retailer B&M's first-half revenue rose 3.6% to £2.85 billion and pre-tax profit rose 16.6% to £121 million. UK like-for-like sales grew 3.2% in the second quarter after falling 2.3% in the first, and French like-for-like sales rose 6.5%. Gross margin improved by 0.67 points to 37.2%. B&M guided full-year adjusted pre-tax profit of £280 million to £330 million, and its shares rose about 16.6% to 325p.",
+  "tags": []
+ },
+ "2026-11-12-15": {
+  "companies": [],
+  "date": "2026-11-12",
+  "headline": "Air freight rates hit their 2026 high as the holiday peak arrives, up 28% on a year ago",
+  "numbers": [
+   "Baltic Air Freight Index: +6.6% w/w, 2026 high",
+   "Rates vs a year ago: +28.2%",
+   "Jet fuel: -6.5% w/w"
+  ],
+  "order": 15,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Air cargo is priced by supply and demand for scarce space, so a rush of goods in a few weeks lifts rates fast, and falling fuel costs then widen carrier margins. Cargo airlines, airlines with large belly-cargo operations and freight forwarders gain; e-commerce sellers and shippers of high-value goods pay more. The open question is how much rates drop after the holiday peak, as they usually do in January.",
+  "sources": [
+   {
+    "title": "Airfreight rates reach 2026 high on peak season demand (Air Cargo News)",
+    "url": "https://www.aircargonews.net/data/2026/11/airfreight-rates-reach-2026-high-on-peak-season-demand/"
+   }
+  ],
+  "subindustry": "transport-logistics",
+  "summary": "The Baltic Air Freight Index rose 6.6% in a week to its highest level of 2026, and rates are 28.2% above a year earlier, according to price agency TAC. Outbound rates from Hong Kong rose 4.6% in the week and from Shanghai 5.7%, while Frankfurt jumped 9.9%. Rates climbed even though jet fuel prices fell 6.5% in a week. Demand is being driven by shipments for Black Friday, Thanksgiving and Christmas, and by less belly space on transatlantic passenger flights in winter.",
+  "tags": []
  }
 }

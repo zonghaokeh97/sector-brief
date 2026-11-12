@@ -404,6 +404,23 @@
    "ticker": "Nasdaq: AXON",
    "updated": "2026-11-06"
   },
+  "b-and-m": {
+   "businessModel": "Runs discount variety stores in the UK and France selling homewares, groceries and general merchandise at low prices, relying on high volumes and low costs.",
+   "competitors": [
+    "Home Bargains",
+    "Poundland",
+    "The Range",
+    "Aldi",
+    "Action"
+   ],
+   "hq": "Luxembourg (UK operations in Liverpool)",
+   "name": "B&M European Value Retail",
+   "sector": "consumer-retail",
+   "size": "Revenue approx. £5.6B (FY2026, approx.)",
+   "subindustry": "retail-ecommerce",
+   "ticker": "LSE: BME",
+   "updated": "2026-11-12"
+  },
   "banco-bpm": {
    "businessModel": "Italian retail and commercial bank that earns net interest income from loans to households and small firms, plus fees from asset management and insurance partnerships.",
    "competitors": [
@@ -856,6 +873,23 @@
    "subindustry": "software-cloud",
    "ticker": "NASDAQ: CRWV",
    "updated": "2026-10-19"
+  },
+  "corteva": {
+   "businessModel": "Sells patented seeds and crop-protection chemicals to farmers through distributors, earning premium prices on seed genetics and new crop chemistries.",
+   "competitors": [
+    "Bayer",
+    "Syngenta",
+    "BASF",
+    "FMC",
+    "UPL"
+   ],
+   "hq": "Indianapolis, Indiana, USA",
+   "name": "Corteva",
+   "sector": "consumer-retail",
+   "size": "Revenue approx. $17B (2024, before separation; approx.)",
+   "subindustry": "agriculture-food",
+   "ticker": "NYSE: CTVA",
+   "updated": "2026-11-12"
   },
   "credit-agricole": {
    "businessModel": "A cooperative-rooted French banking group that earns interest on retail and corporate loans and fees from asset management, insurance and investment banking.",
@@ -1605,6 +1639,23 @@
    "ticker": "Nasdaq: INTC",
    "updated": "2026-10-30"
   },
+  "intermex": {
+   "businessModel": "Earns fees and foreign-exchange spreads on remittances, mainly from the US to Mexico and Central America, through independent retail agents and a digital app.",
+   "competitors": [
+    "Western Union",
+    "Remitly",
+    "Euronet (Ria)",
+    "MoneyGram",
+    "Viamericas"
+   ],
+   "hq": "Miami, Florida, USA",
+   "name": "International Money Express (Intermex)",
+   "sector": "financial-services",
+   "size": "Revenue approx. $650M (2024, approx.)",
+   "subindustry": "payments-fintech",
+   "ticker": "NASDAQ: IMXI",
+   "updated": "2026-11-12"
+  },
   "intuitive-surgical": {
    "businessModel": "Sells da Vinci robotic surgery systems and earns most revenue from instruments, accessories and service used on every procedure, plus leasing and system sales.",
    "competitors": [
@@ -1860,6 +1911,22 @@
    "ticker": "NYSE: MKL",
    "updated": "2026-10-29"
   },
+  "marsh": {
+   "businessModel": "Earns commissions and fees as the world's largest insurance broker and from consulting and investment businesses, including Mercer's pension and investment advice.",
+   "competitors": [
+    "Aon",
+    "Willis Towers Watson",
+    "Arthur J. Gallagher",
+    "Brown & Brown"
+   ],
+   "hq": "New York, New York, USA",
+   "name": "Marsh",
+   "sector": "financial-services",
+   "size": "Revenue approx. $24B (2024, approx.)",
+   "subindustry": "insurance",
+   "ticker": "NYSE: MRSH",
+   "updated": "2026-11-12"
+  },
   "marvell-technology": {
    "businessModel": "Designs custom AI accelerators, networking and optical interconnect chips for cloud providers and telecom, earning revenue from chips sold into large multi-year programs.",
    "competitors": [
@@ -2048,6 +2115,23 @@
    "subindustry": "pharma-biotech",
    "ticker": "Nasdaq: MRNA",
    "updated": "2026-10-23"
+  },
+  "munich-re": {
+   "businessModel": "Earns premiums for taking on risk from other insurers as one of the world's largest reinsurers, plus primary insurance through ERGO and investment income on its reserves.",
+   "competitors": [
+    "Swiss Re",
+    "Hannover Re",
+    "SCOR",
+    "Berkshire Hathaway",
+    "Allianz"
+   ],
+   "hq": "Munich, Germany",
+   "name": "Munich Re",
+   "sector": "financial-services",
+   "size": "2026 net profit guide €6.6B",
+   "subindustry": "insurance",
+   "ticker": "XETRA: MUV2",
+   "updated": "2026-11-12"
   },
   "netflix": {
    "businessModel": "Charges monthly subscriptions at several price tiers and sells advertising on cheaper ad-supported plans, using the revenue to fund original shows and licensed content.",
@@ -2288,6 +2372,22 @@
    "subindustry": "cpg",
    "ticker": "Nasdaq and TSX: OGI",
    "updated": "2026-11-04"
+  },
+  "orlen": {
+   "businessModel": "Refines and sells fuels and petrochemicals across Central Europe, and also produces and imports oil and gas and runs power plants and retail stations.",
+   "competitors": [
+    "MOL",
+    "OMV",
+    "Shell",
+    "Eni"
+   ],
+   "hq": "Plock, Poland",
+   "name": "Orlen",
+   "sector": "energy-materials",
+   "size": "Revenue approx. PLN 300B+ (2024, approx.)",
+   "subindustry": "refining-chemicals",
+   "ticker": "WSE: PKN",
+   "updated": "2026-11-12"
   },
   "ovintiv": {
    "businessModel": "Drills for oil, natural gas liquids and gas in North American basins and sells the output at market prices, returning most free cash flow to shareholders.",
@@ -2597,6 +2697,23 @@
    "ticker": "NYSE: RTX",
    "updated": "2026-10-20"
   },
+  "rwe": {
+   "businessModel": "Generates and sells electricity from wind, solar, gas and other plants, mainly in Europe and the US, and earns trading profits from its energy trading desk.",
+   "competitors": [
+    "Iberdrola",
+    "Orsted",
+    "EnBW",
+    "Vattenfall",
+    "Enel"
+   ],
+   "hq": "Essen, Germany",
+   "name": "RWE",
+   "sector": "energy-materials",
+   "size": "Adjusted EBITDA guide €5.75-6.35B (2026)",
+   "subindustry": "power-utilities",
+   "ticker": "XETRA: RWE",
+   "updated": "2026-11-12"
+  },
   "salesforce": {
    "businessModel": "Sells cloud software for sales, service, marketing and data on subscription, and adds AI agents and acquired products to the same customer base.",
    "competitors": [
@@ -2750,6 +2867,40 @@
    "subindustry": "retail-ecommerce",
    "ticker": "Nasdaq and TSX: SHOP",
    "updated": "2026-11-04"
+  },
+  "siemens": {
+   "businessModel": "Sells factory automation hardware and industrial software, building and power-distribution systems, and trains and rail signaling, with a growing share of recurring software revenue.",
+   "competitors": [
+    "Schneider Electric",
+    "ABB",
+    "Rockwell Automation",
+    "Honeywell",
+    "Alstom"
+   ],
+   "hq": "Munich, Germany",
+   "name": "Siemens",
+   "sector": "advanced-industries",
+   "size": "Revenue €83.4B; orders €108.2B (FY2026)",
+   "subindustry": "industrial-machinery",
+   "ticker": "XETRA: SIE",
+   "updated": "2026-11-12"
+  },
+  "siemens-energy": {
+   "businessModel": "Makes and services gas turbines, grid equipment such as transformers and switchgear, and wind turbines through Siemens Gamesa, earning much of its profit from long-term service contracts.",
+   "competitors": [
+    "GE Vernova",
+    "Mitsubishi Heavy Industries",
+    "Hitachi Energy",
+    "Vestas",
+    "Schneider Electric"
+   ],
+   "hq": "Munich, Germany",
+   "name": "Siemens Energy",
+   "sector": "energy-materials",
+   "size": "Revenue €44.2B (FY2026); backlog €164B",
+   "subindustry": "power-utilities",
+   "ticker": "XETRA: ENR",
+   "updated": "2026-11-12"
   },
   "silence-therapeutics": {
    "businessModel": "Develops siRNA medicines that switch off disease-causing genes. Earns money mainly from partnership payments now and aims to earn drug sales later; lead drug is divesiran for polycythemia vera.",
@@ -3463,6 +3614,23 @@
    "ticker": "NASDAQ: WDC",
    "updated": "2026-10-20"
   },
+  "western-union": {
+   "businessModel": "Earns fees and currency spreads on cross-border money transfers sent through a global network of retail agents and digital channels.",
+   "competitors": [
+    "Intermex",
+    "Remitly",
+    "Wise",
+    "MoneyGram",
+    "Euronet (Ria)"
+   ],
+   "hq": "Denver, Colorado, USA",
+   "name": "Western Union",
+   "sector": "financial-services",
+   "size": "Revenue approx. $4.2B (2024, approx.)",
+   "subindustry": "payments-fintech",
+   "ticker": "NYSE: WU",
+   "updated": "2026-11-12"
+  },
   "whirlpool": {
    "businessModel": "Makes major home appliances such as washers, dryers and refrigerators and sells them through retailers and to builders, earning margin from brand, scale and replacement demand.",
    "competitors": [
@@ -3479,6 +3647,23 @@
    "subindustry": "cpg",
    "ticker": "NYSE: WHR",
    "updated": "2026-10-28"
+  },
+  "wilshire": {
+   "businessModel": "Earns advisory and management fees from investment consulting, outsourced portfolio management and model portfolios, plus licensing fees for its market indexes and analytics.",
+   "competitors": [
+    "Mercer",
+    "Aon Investments",
+    "Callan",
+    "NEPC",
+    "Russell Investments"
+   ],
+   "hq": "Santa Monica, California, USA",
+   "name": "Wilshire",
+   "sector": "financial-services",
+   "size": "AUM $221B; assets under advisement $1.6T (June 2026)",
+   "subindustry": "asset-wealth",
+   "ticker": "Private (Motive Partners, CC Capital; being acquired by Marsh)",
+   "updated": "2026-11-12"
   },
   "woodside": {
    "businessModel": "Produces oil and gas and sells LNG mostly under long-term contracts to Asian and European buyers, with growth projects in Australia and the US Gulf Coast.",
