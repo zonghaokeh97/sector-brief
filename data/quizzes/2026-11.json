@@ -3282,5 +3282,252 @@
     "subindustry": "midstream-lng"
    }
   ]
+ },
+ "2026-11-13": {
+  "date": "2026-11-13",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "Asset management earned a record €1.12 billion, up 35%, offsetting weaker property-casualty results. Owning fee-based asset managers gives insurers earnings that are hit by different shocks than insurance.",
+    "id": "2026-11-13:x01",
+    "kind": "today",
+    "options": [
+     "Higher life insurance premiums",
+     "Record asset management profit, up 35%",
+     "A lower tax rate",
+     "Selling a large subsidiary"
+    ],
+    "prompt": "Allianz's property-casualty profit fell 7.9% on catastrophe losses, yet group profit rose 6.2%. What made the difference?",
+    "sector": "financial-services",
+    "storyId": "2026-11-13-08",
+    "subindustry": "insurance"
+   },
+   {
+    "answer": 2,
+    "explanation": "The average rate rose to $1,808 per container from $1,413, about 28%. Because shipping costs are largely fixed, most of that extra revenue fell straight to profit.",
+    "id": "2026-11-13:x02",
+    "kind": "today",
+    "options": [
+     "About 5%",
+     "About 50%",
+     "About 28%",
+     "About 100%"
+    ],
+    "prompt": "Hapag-Lloyd's volumes were flat, yet its quarterly EBIT rose to about $1.1 billion from $228 million. Roughly how much did its average freight rate rise?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-11-13-14",
+    "subindustry": "transport-logistics"
+   },
+   {
+    "answer": 0,
+    "explanation": "Most owners hold much cheaper mortgages, so moving means taking on a 7%-plus loan, and buyers face the same cost. Sales hit their lowest since 2010 while the median price still rose 0.4%.",
+    "id": "2026-11-13:x03",
+    "kind": "today",
+    "options": [
+     "Owners with low locked-in rates avoid selling, and buyers cannot afford new loans",
+     "Builders stop building new homes",
+     "Banks are banned from lending above 7%",
+     "Prices fall so fast that buyers wait"
+    ],
+    "prompt": "US existing-home sales fell to a 3.75 million annual rate in October. Why do higher mortgage rates cut sales so sharply even while prices hold up?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-11-13-10",
+    "subindustry": "real-estate-construction"
+   },
+   {
+    "answer": 1,
+    "explanation": "Fuel costs rose 33.7% and revenue per seat-kilometre fell 2.9%. Budget carriers compete on price, so they find it hard to pass on higher fuel costs.",
+    "id": "2026-11-13:x04",
+    "kind": "today",
+    "options": [
+     "It raised fares too much and lost customers",
+     "Fuel costs rose a third while fast growth pushed unit revenue down",
+     "It stopped selling bag and seat fees",
+     "Its planes were grounded for most of the period"
+    ],
+    "prompt": "Wizz Air carried 26% more passengers but its half-year profit fell 67%. What best explains this for a low-cost airline?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-13-15",
+    "subindustry": "travel-hospitality"
+   },
+   {
+    "answer": 3,
+    "explanation": "€9.1 billion out of €12.3 billion is about 74%. Jewellery has become luxury's most reliable growth engine, though gold costs and Chinese demand are its main risks.",
+    "id": "2026-11-13:x05",
+    "kind": "today",
+    "options": [
+     "About a quarter",
+     "About half",
+     "About 90%",
+     "About three quarters"
+    ],
+    "prompt": "Richemont's jewellery sales were €9.1 billion of about €12.3 billion. Roughly what share of its sales comes from jewellery?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-13-09",
+    "subindustry": "cpg"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "A surplus lets inventories rebuild, which tends to pull oil prices lower over time. That squeezes producers whose budgets assume high prices, while fuel buyers such as airlines and drivers gain.",
+    "id": "2026-11-13:q01",
+    "kind": "today",
+    "options": [
+     "Airlines that buy jet fuel",
+     "High-cost producers that budgeted for $90-plus oil",
+     "Refiners that buy crude as their main input",
+     "Consumers who drive long distances"
+    ],
+    "prompt": "The IEA now sees fourth-quarter oil supply about 1.7 million barrels a day above demand. Who is most likely to be hurt if that call is right?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-13-01",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 3,
+    "explanation": "Higher long-term yields raise mortgage rates and the discount rate applied to future profits, so housing and growth stocks lose most. A stronger dollar actually hurts exporters, so that option is the wrong way round.",
+    "id": "2026-11-13:q02",
+    "kind": "today",
+    "options": [
+     "Exporters, because a stronger dollar helps them",
+     "Banks with mostly fixed-rate deposits",
+     "Utilities, because power demand rises with rates",
+     "Housing and highly valued growth stocks"
+    ],
+    "prompt": "The US 10-year Treasury yield rose above 5.1% as markets started to expect Fed rate hikes. Which part of the economy usually feels this first?",
+    "sector": "macro",
+    "storyId": "2026-11-13-02",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "The previous record was Vodafone's $183 billion purchase of Mannesmann in 2000. A deal combining two companies worth well over $3 trillion would be many times larger.",
+    "id": "2026-11-13:q03",
+    "kind": "today",
+    "options": [
+     "About $183 billion, Vodafone's purchase of Mannesmann",
+     "About $1 trillion, a Big Tech merger",
+     "About $50 billion, a carmaker merger",
+     "About $500 billion, an oil major merger"
+    ],
+    "prompt": "SpaceX (over $1.9 trillion) and Tesla (about $1.5 trillion) are in merger talks. What is the previous record for a takeover that this would dwarf?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-13-03",
+    "subindustry": "automotive-mobility"
+   },
+   {
+    "answer": 2,
+    "explanation": "Training and running AI models means connecting thousands of chips so they work as one system, which takes large amounts of high-speed networking. Cisco expects about $9 billion of AI revenue from hyperscalers in fiscal 2027, more than double the prior year.",
+    "id": "2026-11-13:q04",
+    "kind": "today",
+    "options": [
+     "AI models are trained on office Wi-Fi networks",
+     "Governments require new routers for AI",
+     "AI data centers must link thousands of chips with fast switches and optics",
+     "Cloud providers stopped buying chips and bought routers instead"
+    ],
+    "prompt": "Cisco's networking revenue grew 43% while its services grew only 1%. Why is AI spending lifting networking gear so sharply?",
+    "sector": "tmt",
+    "storyId": "2026-11-13-04",
+    "subindustry": "telecom"
+   },
+   {
+    "answer": 1,
+    "explanation": "Both banks operate in the Gulf South, so the combined bank can close duplicate branches and merge systems. The price is about 7% dilution to tangible book value per share, earned back in about 2.8 years.",
+    "id": "2026-11-13:q05",
+    "kind": "today",
+    "options": [
+     "Charging depositors higher fees right away",
+     "Cutting overlapping branches and back-office costs in shared markets",
+     "Raising loan rates above competitors",
+     "Selling the target's loans at a profit"
+    ],
+    "prompt": "Hancock Whitney expects buying Trustmark to add about 7% to its 2028 earnings per share. Where does most of that gain usually come from in a bank merger like this?",
+    "sector": "financial-services",
+    "storyId": "2026-11-13-05",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 3,
+    "explanation": "Diesel is tight because of disrupted product exports and offline refining capacity, problems that more crude does not fix quickly. That is why diesel stays about $2 above gasoline even as crude moves toward surplus.",
+    "id": "2026-11-13:q06",
+    "kind": "today",
+    "options": [
+     "The IEA's forecast of a 2027 crude surplus",
+     "OPEC+ crude output returning to 97% of pre-war levels",
+     "Gasoline prices at the pump",
+     "How fast diesel inventories rebuild before heating demand peaks"
+    ],
+    "prompt": "A US trucking company sees crude prices easing, but diesel is still about $6.13 a gallon and distillate stocks are near a 23-year low. Which factor matters most for its fuel bill this winter?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-13-07",
+    "subindustry": "refining-chemicals"
+   },
+   {
+    "answer": 1,
+    "explanation": "Axon sells devices to police and then earns recurring software and cloud revenue, and it now distributes Skydio drones exclusively in the US and Canada to the same buyers. The shares still fell 18% because three federal deployments worth about $130 million slipped.",
+    "id": "2026-11-07:q04",
+    "kind": "review",
+    "options": [
+     "Selling more hardware only, since software adds little",
+     "Extending its hardware-plus-recurring-software model to drones sold to existing police customers",
+     "Reducing exposure to government buyers",
+     "Replacing its camera business with drones"
+    ],
+    "prompt": "Axon invested another $1.2 billion in Skydio, lifting its stake to 37%. What business logic does this reflect?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-07-05",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 1,
+    "explanation": "Contributing its own Italian businesses in exchange for new shares lifts the stake without a cash bid for the whole company, which would trigger a mandatory offer. The proposal still needs board and regulatory approval and offers holders a 20% premium and a €1 billion dividend, so the other options are wrong.",
+    "id": "2026-11-09:q01",
+    "kind": "review",
+    "options": [
+     "It guarantees the Banco BPM board will approve the deal",
+     "It raises the stake through new shares and avoids a mandatory takeover offer for the whole bank",
+     "It lets Crédit Agricole pay Banco BPM holders nothing at all",
+     "It removes the need for any regulatory review"
+    ],
+    "prompt": "Crédit Agricole wants to lift its Banco BPM stake from 29.6% to about 45% by merging its Italian unit into the bank rather than bidding for it. What is the main advantage of that structure?",
+    "sector": "financial-services",
+    "storyId": "2026-11-09-01",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 2,
+    "explanation": "The quarter was about 13% above the guided floor, so fears of a steep drop eased. But the prior-year quarter was about $739 million, so the market is rewarding stabilization rather than fast growth.",
+    "id": "2026-11-10:q04",
+    "kind": "review",
+    "options": [
+     "Strong growth, with revenue far above last year's level",
+     "A sign the company is losing ad spend to Amazon",
+     "A sign spend through independent platforms held up better than feared, though revenue is roughly flat on a year earlier",
+     "A sign the company stopped taking a share of ad spend"
+    ],
+    "prompt": "Trade Desk reported $736 million of revenue against a guide of at least $650 million. How should this be read?",
+    "sector": "tmt",
+    "storyId": "2026-11-10-04",
+    "subindustry": "internet-platforms"
+   },
+   {
+    "answer": 0,
+    "explanation": "Refiners buy crude at market prices, so crude is a pass-through cost. They earn the gap between product prices and crude, which is why diesel tightness can lift refining profits even when crude falls.",
+    "id": "2026-11-13:q10",
+    "kind": "profile",
+    "options": [
+     "The crack spread: product prices minus the crude it buys",
+     "The absolute price of crude oil",
+     "The number of gas stations it owns",
+     "How much crude it produces from its own wells"
+    ],
+    "prompt": "A refiner's profit is driven mainly by which of these?",
+    "sector": "energy-materials",
+    "storyId": null,
+    "subindustry": "refining-chemicals"
+   }
+  ]
  }
 }

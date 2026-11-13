@@ -3533,5 +3533,486 @@
   "subindustry": "transport-logistics",
   "summary": "The Baltic Air Freight Index rose 6.6% in a week to its highest level of 2026, and rates are 28.2% above a year earlier, according to price agency TAC. Outbound rates from Hong Kong rose 4.6% in the week and from Shanghai 5.7%, while Frankfurt jumped 9.9%. Rates climbed even though jet fuel prices fell 6.5% in a week. Demand is being driven by shipments for Black Friday, Thanksgiving and Christmas, and by less belly space on transatlantic passenger flights in winter.",
   "tags": []
+ },
+ "2026-11-13-01": {
+  "companies": [],
+  "date": "2026-11-13",
+  "headline": "IEA says the oil market is swinging back to surplus in the fourth quarter as Gulf exports recover",
+  "numbers": [
+   "Q4 2026 supply: ~105 mb/d, ~1.7 mb/d above demand",
+   "2026 demand: 102.3 mb/d, down 2.7 mb/d",
+   "OPEC+ October crude output: 41.23 mb/d (97% of pre-war)",
+   "2027 surplus forecast: ~3.8 mb/d"
+  ],
+  "order": 1,
+  "sector": "energy-materials",
+  "soWhat": "A surplus forecast from the main agency that tracks oil balances shifts the debate from scarcity to how fast inventories rebuild, which usually pulls futures prices lower over time and squeezes producers that budgeted for $90-plus oil. Consumers and airlines gain if the call is right, while high-cost producers and OPEC+ face pressure to restrain output again. The IEA also flagged that diesel supply remains very tight, so crude and fuel prices can move apart. The open question is whether shipping through Hormuz stays open long enough for the rebuild to happen.",
+  "sources": [
+   {
+    "title": "World oil market is returning to surplus as Gulf exports recover, IEA says (Reuters via CP24)",
+    "url": "https://www.cp24.com/news/money/2026/11/13/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover-iea-says/"
+   },
+   {
+    "title": "Oil Market Report - November 2026 (IEA)",
+    "url": "https://www.iea.org/reports/oil-market-report-november-2026"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "The International Energy Agency's November report says world oil supply in the fourth quarter will average about 105 million barrels a day, roughly 1.7 million above demand, after it had earlier forecast a deficit. Gulf producers are rebuilding exports through the Strait of Hormuz, and OPEC+ pumped 41.23 million barrels a day of crude in October, up about 2 million from September and 97% of the pre-war level. The agency sees 2026 demand falling 2.7 million barrels a day to 102.3 million because of high prices, then rebounding by 2 million in 2027. It expects a 2027 surplus of about 3.8 million barrels a day, and Brent hovered near $96 after the report.",
+  "tags": []
+ },
+ "2026-11-13-02": {
+  "companies": [],
+  "date": "2026-11-13",
+  "headline": "US 10-year Treasury yield climbs above 5.1% as producer prices rise 6.5% a year and Bank of America expects three Fed hikes",
+  "numbers": [
+   "US PPI, October: +0.3% m/m, +6.5% y/y",
+   "US 10-year yield: ~5.17%, highest since Oct 15",
+   "Initial jobless claims: 200,000",
+   "Fed hikes expected by BofA: Dec, Jan, Mar"
+  ],
+  "order": 2,
+  "sector": "macro",
+  "soWhat": "When long-term borrowing costs rise above 5%, every other price in the economy adjusts: mortgages, corporate bonds and the discount rate investors apply to future profits. Highly valued growth stocks and rate-sensitive sectors such as housing and small companies tend to lose most, while savers and banks with lots of floating-rate assets gain. The shift from expected rate cuts to expected hikes also strengthens the dollar, which hurts US exporters and countries that borrow in dollars. The open question is whether inflation cools fast enough for the Fed to stop after one or two moves.",
+  "sources": [
+   {
+    "title": "Newsquawk European Market Wrap, 13 November 2026",
+    "url": "https://www.newsquawk.com/headlines/newsquawk-european-market-wrap---13th-november-2026"
+   },
+   {
+    "title": "Stock market news for Nov. 12, 2026 (CNBC)",
+    "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "US producer prices rose 0.3% in October, a little below forecasts, but were still up 6.5% from a year earlier, with core producer prices up 5.0%. A day earlier, consumer prices rose 0.4% in the month, and jobless claims stayed low at 200,000. The 10-year Treasury yield climbed to about 5.17% on Friday, its highest since mid-October, and the dollar rose past 160 yen. Bank of America now expects Federal Reserve rate hikes in December, January and March, and the S&P 500 fell 0.35% on Thursday.",
+  "tags": []
+ },
+ "2026-11-13-03": {
+  "companies": [
+   "tesla",
+   "spacex"
+  ],
+  "date": "2026-11-13",
+  "headline": "SpaceX and Tesla could announce a merger as soon as December, in what would be the largest deal ever",
+  "numbers": [
+   "SpaceX value: >$1.9T",
+   "Tesla value: ~$1.5T",
+   "Prior record deal: $183B (Vodafone-Mannesmann, 2000)",
+   "Tesla shareholder meeting: Dec 3"
+  ],
+  "order": 3,
+  "sector": "advanced-industries",
+  "soWhat": "Combining a rocket, satellite internet and AI business with a carmaker would create one company spanning launch, connectivity, robotics and vehicles, which supporters argue lets Tesla's factories and SpaceX's cash flow fund each other. The deal would dwarf the previous record, Vodafone's $183 billion purchase of Mannesmann in 2000. The obstacles are governance and regulation: Tesla's large China business sits awkwardly next to SpaceX's US defense work, and a change of control would speed up vesting of large stock awards. The open question is how many SpaceX shares Tesla investors would receive and whether they approve.",
+  "sources": [
+   {
+    "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report (Electrek)",
+    "url": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "Bloomberg reported on November 12 that SpaceX and Tesla are negotiating price and control in a combination that could be announced as soon as December or slip into early 2027. SpaceX is valued at more than $1.9 trillion after its June listing and Tesla at about $1.5 trillion, and the talks describe SpaceX absorbing Tesla. Both boards have set up special committees, and Tesla's shareholder meeting is on December 3. Tesla shares rose as much as 1.9% on the report, and neither company commented.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-13-04": {
+  "companies": [
+   "cisco"
+  ],
+  "date": "2026-11-13",
+  "headline": "Cisco's revenue jumps 24% to a record $18.5 billion as AI data-center networking sales climb 43%",
+  "numbers": [
+   "Q1 FY27 revenue: $18.5B, +24%",
+   "Networking revenue: $11.1B, +43%",
+   "FY27 AI revenue from hyperscalers: ~$9B",
+   "FY27 revenue guide: $74.8B-$75.8B"
+  ],
+  "order": 4,
+  "sector": "tmt",
+  "soWhat": "AI data centers need huge amounts of networking to connect thousands of chips, and Cisco's numbers show that spending is now reaching the equipment makers that sit beside the chip suppliers. This is good news for networking and optics suppliers and a sign that cloud budgets are still growing, but it also makes Cisco more dependent on a handful of very large buyers. Services barely grew, so the mix is shifting toward hardware sales that can be lumpier. The open question is how long hyperscalers keep raising capital spending at this pace.",
+  "sources": [
+   {
+    "title": "Cisco Reports First Quarter Earnings (Cisco)",
+    "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-reports-first-quarter-earnings.html"
+   }
+  ],
+  "subindustry": "telecom",
+  "summary": "Cisco's fiscal first-quarter revenue rose 24% to $18.5 billion, with product revenue up 32% and services up just 1%. Networking, its largest unit, grew 43% to $11.1 billion as cloud providers bought switches and optics to link AI chips. Cisco now expects about $9 billion of AI infrastructure revenue from hyperscalers in fiscal 2027, more than double last year. It raised full-year revenue guidance to $74.8 billion to $75.8 billion and adjusted EPS to $5.47 to $5.53.",
+  "tags": []
+ },
+ "2026-11-13-05": {
+  "companies": [
+   "hancock-whitney",
+   "trustmark"
+  ],
+  "date": "2026-11-13",
+  "headline": "Hancock Whitney agrees to buy Trustmark for about $3.2 billion, creating a $58 billion Gulf South bank",
+  "numbers": [
+   "Deal value: ~$3.2B, all stock",
+   "Combined assets: ~$58B",
+   "EPS accretion: ~7% (2028)",
+   "Tangible book earn-back: ~2.8 years"
+  ],
+  "order": 5,
+  "sector": "financial-services",
+  "soWhat": "Regional banks are merging to spread rising technology, compliance and deposit costs over a bigger base. Buying a neighbor in overlapping markets lets the acquirer close branches and back-office functions, which is where most of the earnings gain comes from. The price is about 7% dilution to tangible book value per share, which the bank expects to earn back in about 2.8 years. Larger regional players gain scale, while smaller community banks face a tougher competitor.",
+  "sources": [
+   {
+    "title": "Hancock Whitney and Trustmark merger press release (SEC 8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000750577/000119312526457037/hwc-ex99_1.htm"
+   }
+  ],
+  "subindustry": "banking",
+  "summary": "Hancock Whitney will acquire Mississippi-based Trustmark in an all-stock deal valued at about $3.2 billion, issuing 0.7463 of its shares for each Trustmark share. The combined bank will have about $58 billion of assets across six Southeastern states, with Hancock Whitney holders owning about 65%. Trustmark had $19.1 billion of assets at the end of September. The deal is expected to add about 7% to Hancock Whitney's 2028 earnings per share and to close late in the first quarter of 2027.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-13-06": {
+  "companies": [
+   "applied-materials"
+  ],
+  "date": "2026-11-13",
+  "headline": "Applied Materials posts a record $10.4 billion quarter and guides higher as chipmakers add AI capacity",
+  "numbers": [
+   "Q4 revenue: $10.41B (record)",
+   "Semiconductor systems: $8B, +64%",
+   "FY2026 revenue: $34.45B, +21%",
+   "Next-quarter guide: ~$11.1B"
+  ],
+  "order": 6,
+  "sector": "tmt",
+  "soWhat": "Equipment makers are paid when chipmakers build new capacity, so their orders are an early read on how much the industry plans to produce. Strong guidance says that the AI buildout is now lifting spending on leading-edge logic and memory fabs, not only on the chips themselves. Equipment suppliers and their component vendors benefit, while chipmakers carry the cost and risk if demand cools. The open question is whether export limits on China, historically a large buyer of tools, cut into future growth.",
+  "sources": [
+   {
+    "title": "Applied Materials posts record $10.41B revenue (Crypto Briefing)",
+    "url": "https://cryptobriefing.com/applied-materials-earnings-record-q4-revenue-2026-11/"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Applied Materials, the largest maker of chip manufacturing equipment, reported fiscal fourth-quarter revenue of $10.41 billion and adjusted EPS of $4.16, both above forecasts. Its semiconductor systems unit brought in $8 billion, up 64% from a year earlier. Full-year revenue rose 21% to $34.45 billion. It guided next-quarter revenue to about $11.1 billion, above the roughly $10.9 billion analysts expected.",
+  "tags": []
+ },
+ "2026-11-13-07": {
+  "companies": [],
+  "date": "2026-11-13",
+  "headline": "US diesel stocks fall to about 99 million barrels, near a 23-year low, keeping pump prices above $6",
+  "numbers": [
+   "US distillate stocks: ~99.3M bbl",
+   "Diesel price: ~$6.13/gal, +60% y/y",
+   "Diesel premium over gasoline: ~$2/gal",
+   "2026 record diesel price: ~$6.53/gal (Sept)"
+  ],
+  "order": 7,
+  "sector": "energy-materials",
+  "soWhat": "Refiners earn the gap between product and crude prices, so when crude eases but diesel stays scarce, that gap widens and refiners' profits rise. Truckers, farmers, railroads and anyone who ships goods pay more, which feeds into freight rates and food prices. Diesel is tight because Gulf exports of refined products were disrupted and some refining capacity is offline, problems that more crude does not fix quickly. The open question is whether stocks recover before winter heating demand peaks.",
+  "sources": [
+   {
+    "title": "America's diesel stockpiles are running low (24/7 Wall St.)",
+    "url": "https://247wallst.com/investing/2026/11/12/americas-diesel-stockpiles-are-running-low-and-families-could-pay-the-price/"
+   },
+   {
+    "title": "World oil market is returning to surplus, IEA says (Reuters via CP24)",
+    "url": "https://www.cp24.com/news/money/2026/11/13/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover-iea-says/"
+   }
+  ],
+  "subindustry": "refining-chemicals",
+  "summary": "US distillate inventories, which include diesel and heating oil, are about 99.3 million barrels, which would be the lowest comparable weekly level since May 2003. The national average diesel price is about $6.13 a gallon, up about 60% from a year earlier and about $2 more than gasoline. Refineries are running near capacity and strong overseas margins keep US exports high, so stocks are slow to rebuild. The IEA said on Friday that tight diesel supply remains its main concern even as crude moves into surplus.",
+  "tags": []
+ },
+ "2026-11-13-08": {
+  "companies": [
+   "allianz"
+  ],
+  "date": "2026-11-13",
+  "headline": "Allianz lifts its 2026 profit goal to about €18.6 billion as asset management offsets higher catastrophe losses",
+  "numbers": [
+   "Q3 operating profit: €4.71B, +6.2%",
+   "Asset management profit: €1.12B, +35%",
+   "P&C combined ratio: 93.8%",
+   "2026 profit target: up to ~€18.6B"
+  ],
+  "order": 8,
+  "sector": "financial-services",
+  "soWhat": "Large insurers own asset managers partly because the two businesses are hit by different shocks: a bad catastrophe quarter in insurance can be offset by fee income when markets are strong. Allianz shows that diversification at work, which supports steadier earnings and dividends than a pure insurer. Higher catastrophe losses also tend to push up reinsurance and home insurance prices in the next renewal round. The open question is whether asset management fees hold up if bond and equity markets weaken.",
+  "sources": [
+   {
+    "title": "Allianz Results 3Q 2026 (Allianz)",
+    "url": "https://www.allianz.com/en/mediacenter/news/media-releases/financials/261112-3q-2026-earnings-release.html"
+   }
+  ],
+  "subindustry": "insurance",
+  "summary": "Allianz's third-quarter operating profit rose 6.2% to €4.71 billion, beating the €4.30 billion analysts expected. Asset management, which includes PIMCO and Allianz Global Investors, earned a record €1.12 billion, up 35%, while property-casualty profit fell 7.9% to €2.20 billion. Natural catastrophes added 5.1 points to the loss ratio, against 0.3 points a year earlier, pushing the combined ratio to 93.8%. Allianz raised the top of its 2026 operating profit range to about €18.6 billion, and its Solvency II ratio was 219%.",
+  "tags": []
+ },
+ "2026-11-13-09": {
+  "companies": [
+   "richemont"
+  ],
+  "date": "2026-11-13",
+  "headline": "Richemont's profit rises 39% to €2.5 billion on jewellery, but shares fall as growth misses hopes",
+  "numbers": [
+   "H1 sales: ~€12.3B, +16%",
+   "Net profit: €2.5B, +39%",
+   "Jewellery sales: €9.1B, +18%",
+   "Shares: -4.2% on results day"
+  ],
+  "order": 9,
+  "sector": "consumer-retail",
+  "soWhat": "In luxury, jewellery has become the most reliable growth engine because it holds value and is less exposed to fashion cycles than handbags or watches. Richemont, with about three quarters of sales from jewellery, has gained from that shift while many fashion groups have struggled. Its main risk is the cost of gold, which raises input costs, and demand from Chinese buyers. Investors now expect so much growth that even strong results can disappoint.",
+  "sources": [
+   {
+    "title": "Richemont: half-year net profit climbs to 2.5 billion euros (FashionUnited)",
+    "url": "https://fashionunited.uk/news/business/richemont-half-year-net-profit-climbs-to-2-5-billion-euros/2026111391373"
+   },
+   {
+    "title": "Newsquawk European Market Wrap, 13 November 2026",
+    "url": "https://www.newsquawk.com/headlines/newsquawk-european-market-wrap---13th-november-2026"
+   }
+  ],
+  "subindustry": "cpg",
+  "summary": "Richemont, owner of Cartier and Van Cleef & Arpels, said first-half sales rose 16% to nearly €12.3 billion and net profit rose 39% to €2.5 billion. Jewellery sales grew 18% to €9.1 billion, while watches grew 9% to €1.7 billion. Sales rose 30% in Japan and 23% in the Americas but fell 2% in the Middle East and Africa. The shares fell 4.2% on Friday as jewellery came in slightly below forecasts and comments on China and gold prices weighed.",
+  "tags": []
+ },
+ "2026-11-13-10": {
+  "companies": [],
+  "date": "2026-11-13",
+  "headline": "US existing-home sales drop 5.5% to their slowest pace since 2010 as mortgage rates top 7%",
+  "numbers": [
+   "Existing-home sales: 3.75M annual rate",
+   "Change: -5.5% m/m, -8.8% y/y",
+   "Median price: $416,700, +0.4% y/y",
+   "30-year mortgage rate: 7.33% (Oct avg)"
+  ],
+  "order": 10,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Most homeowners locked in much lower mortgage rates, so higher rates freeze the market: owners do not want to sell and buyers cannot afford to buy. Fewer sales hit businesses paid per transaction, such as real estate brokers, mortgage lenders, title insurers and movers, even while prices hold up. Rising inventory hints that prices could start to soften if rates stay high. With markets now expecting Fed hikes, a quick rebound looks unlikely.",
+  "sources": [
+   {
+    "title": "Existing-Home Sales Decreased 5.5% in October (NAR)",
+    "url": "https://www.nar.realtor/newsroom/existing-home-sales-decreased-5-5-percent-october-nar-report"
+   },
+   {
+    "title": "October existing-home sales sink to 16-year low (RISMedia)",
+    "url": "https://www.rismedia.com/2026/11/12/october-existing-home-sales-sink-to-16-year-low-rates-only-partly-to-blame/"
+   }
+  ],
+  "subindustry": "real-estate-construction",
+  "summary": "Sales of previously owned US homes fell 5.5% in October to a seasonally adjusted annual rate of 3.75 million, the lowest since August 2010, the National Association of Realtors said. Sales were 8.8% lower than a year earlier and fell in every region, most in the West. The median price still rose 0.4% to $416,700, and inventory rose to 1.59 million homes, or 5.1 months of supply. NAR put the average 30-year mortgage rate at 7.33% in October, up from 6.86% in September.",
+  "tags": []
+ },
+ "2026-11-13-11": {
+  "companies": [
+   "enbridge",
+   "bp"
+  ],
+  "date": "2026-11-13",
+  "headline": "Canada plans to invest C$200 million in Woodfibre LNG to raise the plant's capacity by up to 24%",
+  "numbers": [
+   "Government investment: C$200M (~US$140M)",
+   "Original capacity: 2.1 Mtpa, all to BP",
+   "New capacity: 2.5-2.6 Mtpa (+up to 24%)",
+   "Start-up target: late 2027"
+  ],
+  "order": 11,
+  "sector": "energy-materials",
+  "soWhat": "Canada wants to sell more gas to Asia and Europe to reduce its dependence on US buyers, and Pacific coast plants have a shorter shipping route to Asia than US Gulf Coast terminals. Adding capacity to a plant already under construction is usually cheaper per tonne than building a new one, which improves project returns. Woodfibre's cost has risen to about US$8.8 billion from an early estimate of US$5.1 billion, so extra output helps spread that cost. Gas producers in western Canada gain a new outlet for their gas.",
+  "sources": [
+   {
+    "title": "Canada to invest C$200 million in Woodfibre LNG (Reuters via BOE Report)",
+    "url": "https://boereport.com/2026/11/13/canada-to-invest-c200-million-in-woodfibre-lng-to-grow-projects-capacity-source-says/"
+   },
+   {
+    "title": "Pension funds face mounting legal pressure over LNG bets (National Observer)",
+    "url": "https://www.nationalobserver.com/2026/11/12/analysis/pension-funds-face-mounting-legal-pressure-over-risky-lng-bets"
+   }
+  ],
+  "subindustry": "midstream-lng",
+  "summary": "Canada's government plans to invest C$200 million (about US$140 million) in the Woodfibre LNG export plant being built near Squamish, British Columbia, Reuters reported, citing a source. The plant, owned by Enbridge and Pacific Energy, was designed for 2.1 million tonnes a year, all contracted to BP. Cooling upgrades and floating storage would lift capacity to 2.5 to 2.6 million tonnes, and the owners are exploring a second phase. Operations are targeted for late 2027.",
+  "tags": []
+ },
+ "2026-11-13-12": {
+  "companies": [
+   "rolls-royce"
+  ],
+  "date": "2026-11-13",
+  "headline": "Rolls-Royce keeps its profit outlook and brings forward a £1.5 billion buyback as data centers lift engine orders",
+  "numbers": [
+   "2026 profit guide: £4.7B-£4.9B",
+   "Interim buyback: £1.5B by Feb 2027",
+   "Power Systems backlog: £8.6B (record)",
+   "Engine flying hours: 114% of 2019"
+  ],
+  "order": 12,
+  "sector": "advanced-industries",
+  "soWhat": "Rolls-Royce earns most of its civil profit from long-term service contracts paid per hour an engine flies, so higher flying hours translate directly into cash. Its smaller Power Systems unit is now riding the same data-center wave as turbine makers, since operators want on-site generators when the grid cannot connect them quickly. Strong cash flow lets the company return money to shareholders while still investing. The risk is that long-haul flying slows or maintenance costs rise faster than expected.",
+  "sources": [
+   {
+    "title": "Rolls-Royce trading update: guidance on track, £1.5bn buyback (Hargreaves Lansdown)",
+    "url": "https://www.hl.co.uk/shares/share-research/rolls-royce-trading-update-guidance-on-track-15bn-buyback-announced"
+   },
+   {
+    "title": "Rolls-Royce speeds up share buybacks with £1.5 billion top-up (The Market Reporter)",
+    "url": "https://www.themarketreporter.co.uk/a/bbb1ad6e/rolls-royce-speeds-up-share-buybacks-with-1-5-billion-top-up"
+   }
+  ],
+  "subindustry": "aerospace-defense",
+  "summary": "Rolls-Royce reaffirmed 2026 guidance for underlying operating profit of £4.7 billion to £4.9 billion and free cash flow of £3.8 billion to £4.0 billion. It will buy back £1.5 billion of shares by February 2027, bringing forward part of its existing £7 billion to £9 billion program. Power Systems orders rose 62% in the first nine months and its backlog hit a record £8.6 billion, with gas engine orders for power generation nearly tripling on data-center demand. Engine flying hours in civil aerospace reached 114% of 2019 levels.",
+  "tags": []
+ },
+ "2026-11-13-13": {
+  "companies": [
+   "nissan"
+  ],
+  "date": "2026-11-13",
+  "headline": "Nissan's quarterly operating profit falls 96% and it cuts its sales outlook again on China",
+  "numbers": [
+   "Q2 operating profit: ¥2.1B, -96%",
+   "Revenue: ¥3.1T, +8.2%",
+   "FY sales forecast: 2.97-3.0M vehicles (was 3.15M)",
+   "Restructuring savings so far: ¥365B"
+  ],
+  "order": 13,
+  "sector": "advanced-industries",
+  "soWhat": "Nissan shows how foreign carmakers are being squeezed in China, where local brands with cheaper electric models are taking share fast. Losing volume hurts because car plants have high fixed costs, so profit falls faster than sales. Nissan's answer is to design cars in China with local suppliers and export them to other markets, using China's cost advantage rather than fighting it. The open question is whether cost cuts arrive fast enough to hit the full-year target.",
+  "sources": [
+   {
+    "title": "Nissan cuts sales forecast again on China woes (CNBC)",
+    "url": "https://www.cnbc.com/2026/11/11/nissan-sales-forecast-earnings-china.html"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "Nissan's July-September operating profit fell 96% to 2.1 billion yen (about $13 million), far below the roughly 55 billion yen analysts expected, as a one-off US emissions benefit from a year earlier did not repeat. Revenue rose 8.2% to 3.1 trillion yen. Nissan cut its full-year sales forecast to 2.97 to 3.0 million vehicles from 3.15 million, its second cut since August, but kept its operating profit target. Its restructuring plan, which cuts 15% of the workforce, has saved 365 billion yen so far.",
+  "tags": []
+ },
+ "2026-11-13-14": {
+  "companies": [
+   "hapag-lloyd"
+  ],
+  "date": "2026-11-13",
+  "headline": "Hapag-Lloyd raises its 2026 profit outlook again as container freight rates climb 28%",
+  "numbers": [
+   "Q3 EBIT: $1.09B (vs $228M)",
+   "Average freight rate: $1,808/TEU (vs $1,413)",
+   "Q3 volume: 3.38M TEU, flat",
+   "2026 EBIT guide: $2.0B-$2.4B"
+  ],
+  "order": 14,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Container shipping has high fixed costs, so small changes in freight rates swing profits sharply: here a 28% rise in average rates turned a thin quarter into a very strong one. Rates are high because Middle East disruption and weather have tied up ships and capacity, not because demand jumped. Carriers gain, while importers and retailers pay more to ship goods ahead of the holidays. The open question is how quickly rates fall once routes normalize and new ships arrive.",
+  "sources": [
+   {
+    "title": "Hapag-Lloyd profit jumps as stronger freight rates drive guidance upgrade (FreightWaves)",
+    "url": "https://www.freightwaves.com/news/hapag-lloyd-profit-jumps-as-stronger-freight-rates-drive-guidance-upgrade"
+   }
+  ],
+  "subindustry": "transport-logistics",
+  "summary": "Hapag-Lloyd's third-quarter EBIT jumped to $1.09 billion from $228 million a year earlier, as its average freight rate rose to $1,808 per container from $1,413. Volumes were flat at 3.38 million containers, so the gain came almost entirely from price. The German carrier raised 2026 EBIT guidance to $2.0 billion to $2.4 billion from $1.25 billion to $1.75 billion, saying the fourth quarter is going better than expected. It warned that rates are volatile and geopolitics remain a risk.",
+  "tags": []
+ },
+ "2026-11-13-15": {
+  "companies": [
+   "wizz-air"
+  ],
+  "date": "2026-11-13",
+  "headline": "Wizz Air's half-year profit falls 67% as fuel costs jump a third despite 26% more passengers",
+  "numbers": [
+   "H1 net profit: €108.1M, -66.6%",
+   "Revenue: €3.80B, +13.8%",
+   "Passengers: 46.1M, +26.2%",
+   "Fuel costs: €1.24B, +33.7%"
+  ],
+  "order": 15,
+  "sector": "consumer-retail",
+  "soWhat": "Low-cost airlines compete on price, so they struggle to pass higher fuel costs on to passengers and profits shrink fast when jet fuel spikes. Growing capacity quickly can also push fares down, which is what happened here as unit revenue fell. Hedging softens the blow but locks in prices for only part of the year. Airlines with more premium traffic and stronger pricing power, such as large network carriers, are better placed.",
+  "sources": [
+   {
+    "title": "Wizz Air profit falls 66.6% as costs rise (Airways)",
+    "url": "https://www.airwaysmag.com/new-post/wizz-air-half-year-profit-cost-outlook-november-2026"
+   },
+   {
+    "title": "Wizz Air's profit tumbles 67% on rising jet fuel prices (Bloomberg)",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/wizz-air-s-profit-tumbles-by-67-on-rising-jet-fuel-prices"
+   }
+  ],
+  "subindustry": "travel-hospitality",
+  "summary": "Wizz Air's net profit for the six months to September fell 66.6% to €108.1 million, even though revenue rose 13.8% to €3.80 billion and passengers rose 26.2% to 46.1 million. Fuel costs climbed 33.7% to €1.24 billion, and revenue per seat-kilometre fell 2.9% while total cost per seat-kilometre rose 4.3%. The budget airline has hedged 82% of its fuel for the second half and expects non-fuel unit costs to rise by a mid-single-digit percentage. It gave no full-year profit forecast.",
+  "tags": []
+ },
+ "2026-11-13-16": {
+  "companies": [
+   "telefonica"
+  ],
+  "date": "2026-11-13",
+  "headline": "Telefónica returns to a profit and cuts debt by €1.6 billion after selling Latin American units",
+  "numbers": [
+   "9M net profit: €464M (vs €1.08B loss)",
+   "9M revenue: €24.8B, +2.8%",
+   "Spain revenue growth: +2.5%",
+   "Net debt: €25.2B, -10.8%"
+  ],
+  "order": 16,
+  "sector": "tmt",
+  "soWhat": "European telecom operators have struggled for years with heavy network spending and price competition, so many are selling non-core countries to cut debt and focus on markets where they are large. Telefónica's exit from most of Spanish-speaking Latin America leaves it centered on Spain, Brazil, Germany and the UK. Stronger home-market growth and lower debt give it more room to invest or consolidate. The open question is whether European regulators allow the in-market mergers operators want.",
+  "sources": [
+   {
+    "title": "Telefónica gana 464 millones hasta septiembre (Infobae/EP)",
+    "url": "https://www.infobae.com/america/agencias/2026/11/12/telefonica-gana-464-millones-hasta-septiembre-y-eleva-objetivos-tras-ingresar-un-28-mas/"
+   }
+  ],
+  "subindustry": "telecom",
+  "summary": "Telefónica earned €464 million in the first nine months, against a €1.08 billion loss a year earlier, and profit from continuing operations rose 21.6% to €1.33 billion. Revenue rose 2.8% to €24.8 billion, and third-quarter revenue rose 4.8% to €8.43 billion. Spain revenue grew 2.5%, its fastest in more than 15 years. Net debt fell 10.8% to €25.2 billion, and the company raised several 2026 targets.",
+  "tags": []
+ },
+ "2026-11-13-17": {
+  "companies": [
+   "paysafe"
+  ],
+  "date": "2026-11-13",
+  "headline": "Paysafe shares sink about 24% after a quarterly miss, a $203 million write-down and a guidance cut",
+  "numbers": [
+   "Q3 adj. EPS: $0.44 vs $0.55 est.",
+   "Goodwill impairment: $203.3M",
+   "2026 EPS guide: $1.45-$1.54 (was $1.90-$2.03)",
+   "Shares: about -24% pre-market"
+  ],
+  "order": 17,
+  "sector": "financial-services",
+  "soWhat": "Payment processors earn small fees on very large volumes, so a dip in volumes or pricing plus heavy debt can quickly wipe out earnings. A goodwill write-down means past acquisitions are now worth less than was paid, a common problem for firms that grew by buying. Larger, less indebted rivals with broader merchant bases are better placed in this environment. Higher interest rates make indebted payment companies more vulnerable.",
+  "sources": [
+   {
+    "title": "Why is Paysafe stock plunging today? (Investing.com)",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-paysafe-stock-plunging-today-93CH-5021687"
+   }
+  ],
+  "subindustry": "payments-fintech",
+  "summary": "Payments firm Paysafe reported adjusted third-quarter EPS of $0.44, short of the $0.55 expected, on revenue of $439.6 million. It booked a $203.3 million goodwill impairment, and adjusted EBITDA fell 17% to $105.7 million. Paysafe cut its 2026 adjusted EPS guidance to $1.45 to $1.54 from $1.90 to $2.03, citing market and currency headwinds and higher interest costs after an August refinancing. The shares fell about 24% before the open, near a 52-week low.",
+  "tags": []
+ },
+ "2026-11-13-18": {
+  "companies": [
+   "sonova"
+  ],
+  "date": "2026-11-13",
+  "headline": "Sonova raises its outlook as AI-powered hearing aids drive faster sales",
+  "numbers": [
+   "Sales growth guide: 6-8% (was 5-8%)",
+   "Core profit growth guide: 10-13% (was 7-10%)",
+   "2026 market growth: 3-5%",
+   "Asia-Pacific sales: CHF 186.9M, +11.4%"
+  ],
+  "order": 18,
+  "sector": "healthcare",
+  "soWhat": "Hearing aids are a concentrated market where a few manufacturers compete mainly on technology, and each new chip platform drives a wave of upgrades from existing users. When a platform sells well, revenue grows faster than costs, which is why profit guidance rose more than sales guidance. An aging population supports steady long-term demand. Rivals without a comparable AI product risk losing share until their next launch.",
+  "sources": [
+   {
+    "title": "Sonova raises full-year forecasts on market share gains (Reuters via SRN News)",
+    "url": "https://srnnews.com/switzerlands-sonova-raises-full-year-forecasts-on-market-share-gains-product-launches/"
+   }
+  ],
+  "subindustry": "medtech",
+  "summary": "Swiss hearing-aid maker Sonova raised its full-year guidance for local-currency sales growth to 6% to 8%, from 5% to 8%, and for core operating profit growth to 10% to 13%, from 7% to 10%. It also raised its forecast for global hearing-aid market growth in 2026 to 3% to 5%. Customers are moving quickly to its new AI-powered Phonak EON platform. Asia-Pacific sales rose 11.4% to CHF 186.9 million, and the shares are up about 36% this year.",
+  "tags": []
  }
 }

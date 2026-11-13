@@ -119,6 +119,23 @@
    "ticker": "Nasdaq: ABNB",
    "updated": "2026-11-06"
   },
+  "allianz": {
+   "businessModel": "Earns premiums from property-casualty and life/health insurance worldwide and invests them, plus fees from its asset managers PIMCO and Allianz Global Investors.",
+   "competitors": [
+    "AXA",
+    "Generali",
+    "Zurich Insurance",
+    "Munich Re",
+    "Chubb"
+   ],
+   "hq": "Munich, Germany",
+   "name": "Allianz",
+   "sector": "financial-services",
+   "size": "Operating profit target up to ~€18.6B (2026); total business volume €143B in 9M 2026",
+   "subindustry": "insurance",
+   "ticker": "XETRA: ALV",
+   "updated": "2026-11-13"
+  },
   "alphabet": {
    "businessModel": "Earns most revenue from advertising on Google Search and YouTube, and sells cloud computing, AI tools and subscriptions. Also funds long-term bets such as Waymo.",
    "competitors": [
@@ -739,6 +756,23 @@
    "ticker": "NYSE: CVX",
    "updated": "2026-10-30"
   },
+  "cisco": {
+   "businessModel": "Sells networking hardware such as switches and routers, plus security, collaboration and observability software, much of it on subscription. AI data-center networking for cloud providers is now its fastest-growing business.",
+   "competitors": [
+    "Arista Networks",
+    "Juniper (HPE)",
+    "Nvidia networking",
+    "Huawei",
+    "Palo Alto Networks"
+   ],
+   "hq": "San Jose, CA",
+   "name": "Cisco Systems",
+   "sector": "tmt",
+   "size": "Revenue ~$75B guided for fiscal 2027; market cap approx. $300B+ (2026, approx.)",
+   "subindustry": "telecom",
+   "ticker": "Nasdaq: CSCO",
+   "updated": "2026-11-13"
+  },
   "cleanaway": {
    "businessModel": "Collects, transports, treats and disposes of solid and liquid waste for councils and businesses under multi-year contracts, and earns extra from landfill fees and recycled materials.",
    "competitors": [
@@ -1094,6 +1128,23 @@
    "subindustry": "aerospace-defense",
    "ticker": "NYSE: ERJ",
    "updated": "2026-11-10"
+  },
+  "enbridge": {
+   "businessModel": "Owns crude oil and gas pipelines, gas utilities and renewable power, earning mostly regulated or contracted fees for moving and delivering energy. It co-owns the Woodfibre LNG export plant.",
+   "competitors": [
+    "TC Energy",
+    "Kinder Morgan",
+    "Williams",
+    "Pembina Pipeline",
+    "Energy Transfer"
+   ],
+   "hq": "Calgary, Canada",
+   "name": "Enbridge",
+   "sector": "energy-materials",
+   "size": "Market cap approx. C$140B (2025, approx.)",
+   "subindustry": "midstream-lng",
+   "ticker": "NYSE/TSX: ENB",
+   "updated": "2026-11-13"
   },
   "enphase-energy": {
    "businessModel": "Sells microinverters, batteries and software for home solar systems, mostly through installers and distributors.",
@@ -1485,6 +1536,40 @@
    "subindustry": "oil-gas-upstream",
    "ticker": "NYSE: HAL",
    "updated": "2026-10-21"
+  },
+  "hancock-whitney": {
+   "businessModel": "A regional bank earning net interest income on loans to businesses and consumers across the Gulf South, plus fees from wealth management and treasury services.",
+   "competitors": [
+    "Regions Financial",
+    "Truist",
+    "First Horizon",
+    "Cadence Bank",
+    "Synovus"
+   ],
+   "hq": "Gulfport, MS",
+   "name": "Hancock Whitney",
+   "sector": "financial-services",
+   "size": "Assets approx. $39B before the Trustmark deal; ~$58B combined (2026)",
+   "subindustry": "banking",
+   "ticker": "Nasdaq: HWC",
+   "updated": "2026-11-13"
+  },
+  "hapag-lloyd": {
+   "businessModel": "Operates one of the world's largest container shipping fleets, charging freight rates per container moved, and owns stakes in port terminals.",
+   "competitors": [
+    "MSC",
+    "Maersk",
+    "CMA CGM",
+    "COSCO",
+    "ONE"
+   ],
+   "hq": "Hamburg, Germany",
+   "name": "Hapag-Lloyd",
+   "sector": "infrastructure-logistics",
+   "size": "9M 2026 revenue $17.6B; 2026 EBIT guide $2.0B-$2.4B",
+   "subindustry": "transport-logistics",
+   "ticker": "XETRA: HLAG",
+   "updated": "2026-11-13"
   },
   "honda": {
    "businessModel": "Designs, builds and sells cars and motorcycles worldwide, and earns finance income from loans and leases to buyers; motorcycles are its highest-margin business.",
@@ -2184,6 +2269,23 @@
    "ticker": "NYSE: NI",
    "updated": "2026-10-20"
   },
+  "nissan": {
+   "businessModel": "Designs, builds and sells cars and trucks worldwide, earning money on vehicle sales, parts and auto financing. It is restructuring with plant closures and a 15% workforce cut.",
+   "competitors": [
+    "Toyota",
+    "Honda",
+    "Hyundai-Kia",
+    "BYD",
+    "Volkswagen Group"
+   ],
+   "hq": "Yokohama, Japan",
+   "name": "Nissan Motor",
+   "sector": "advanced-industries",
+   "size": "Quarterly revenue ~¥3.1T; FY sales forecast ~3M vehicles (FY ending Mar 2027)",
+   "subindustry": "automotive-mobility",
+   "ticker": "TSE: 7201",
+   "updated": "2026-11-13"
+  },
   "northrop-grumman": {
    "businessModel": "Develops and builds aircraft, space systems, missiles and electronics under long government contracts, earning a margin on each program plus follow-on support work.",
    "competitors": [
@@ -2423,6 +2525,23 @@
    "ticker": "Nasdaq: PLTR",
    "updated": "2026-11-03"
   },
+  "paysafe": {
+   "businessModel": "Processes card and online payments for merchants, especially in gaming and e-commerce, and runs digital wallets such as Skrill and Neteller, earning fees on each transaction.",
+   "competitors": [
+    "Adyen",
+    "Worldpay",
+    "Nuvei",
+    "PayPal",
+    "Stripe"
+   ],
+   "hq": "London, UK",
+   "name": "Paysafe",
+   "sector": "financial-services",
+   "size": "2026 revenue guide ~$1.77B",
+   "subindustry": "payments-fintech",
+   "ticker": "NYSE: PSFE",
+   "updated": "2026-11-13"
+  },
   "perion": {
    "businessModel": "Sells AI-driven advertising technology that lets brands buy media across connected TV, out-of-home, retail media and social channels, and earns a share of the ad spend it places.",
    "competitors": [
@@ -2645,6 +2764,23 @@
    "ticker": "NYSE: QSR",
    "updated": "2026-11-01"
   },
+  "richemont": {
+   "businessModel": "Designs and sells luxury jewellery, watches and fashion through brands such as Cartier, Van Cleef & Arpels and IWC, mostly through its own boutiques. Jewellery brings in about three quarters of sales.",
+   "competitors": [
+    "LVMH",
+    "Kering",
+    "Hermès",
+    "Swatch Group",
+    "Rolex (private)"
+   ],
+   "hq": "Bellevue, Switzerland",
+   "name": "Richemont",
+   "sector": "consumer-retail",
+   "size": "H1 FY27 sales ~€12.3B; annual sales approx. €22B (FY26, approx.)",
+   "subindustry": "cpg",
+   "ticker": "SIX: CFR",
+   "updated": "2026-11-13"
+  },
   "rivian": {
    "businessModel": "Builds electric trucks, SUVs and delivery vans and sells them directly, with software and service revenue adding to vehicle sales.",
    "competitors": [
@@ -2678,6 +2814,23 @@
    "subindustry": "media-entertainment",
    "ticker": "Private (Fox Corporation)",
    "updated": "2026-11-09"
+  },
+  "rolls-royce": {
+   "businessModel": "Makes large jet engines for widebody aircraft and earns most of its civil profit from long-term service contracts paid per engine flying hour. It also sells defense engines and Power Systems generators and engines, including for data centers.",
+   "competitors": [
+    "GE Aerospace",
+    "Pratt & Whitney (RTX)",
+    "Safran",
+    "Caterpillar",
+    "Cummins"
+   ],
+   "hq": "London, UK",
+   "name": "Rolls-Royce Holdings",
+   "sector": "advanced-industries",
+   "size": "Underlying operating profit £4.7B-£4.9B guided (2026); revenue approx. £19B (2025, approx.)",
+   "subindustry": "aerospace-defense",
+   "ticker": "LSE: RR.",
+   "updated": "2026-11-13"
   },
   "rtx": {
    "businessModel": "Three businesses: Collins Aerospace (aircraft systems), Pratt & Whitney (jet engines plus aftermarket service) and Raytheon (missiles, radars and air defense sold mainly to governments).",
@@ -3002,6 +3155,23 @@
    "subindustry": "asset-wealth",
    "ticker": "TSE: 9984",
    "updated": "2026-11-08"
+  },
+  "sonova": {
+   "businessModel": "Designs and sells hearing aids under the Phonak brand and cochlear implants, and runs audiology clinics, earning on device sales and fitting services.",
+   "competitors": [
+    "Demant",
+    "WS Audiology",
+    "GN Store Nord",
+    "Starkey",
+    "Cochlear"
+   ],
+   "hq": "Stäfa, Switzerland",
+   "name": "Sonova",
+   "sector": "healthcare",
+   "size": "Annual sales approx. CHF 3.9B (FY25, approx.)",
+   "subindustry": "medtech",
+   "ticker": "SIX: SOON",
+   "updated": "2026-11-13"
   },
   "southwest-airlines": {
    "businessModel": "A US airline selling tickets and extras such as extra-legroom seats and bags, flying mainly point-to-point routes on a single aircraft type. Profit depends on fares, seat occupancy and fuel and labor costs.",
@@ -3361,6 +3531,23 @@
    "ticker": "Private (Tradeweb deal pending)",
    "updated": "2026-10-25"
   },
+  "trustmark": {
+   "businessModel": "A regional bank in the Southeast earning interest on commercial, real estate and consumer loans, plus fees from wealth management, insurance and mortgage banking.",
+   "competitors": [
+    "Regions Financial",
+    "Cadence Bank",
+    "Hancock Whitney",
+    "Renasant",
+    "First Horizon"
+   ],
+   "hq": "Jackson, MS",
+   "name": "Trustmark",
+   "sector": "financial-services",
+   "size": "Assets $19.1B (Sept 30, 2026)",
+   "subindustry": "banking",
+   "ticker": "Nasdaq: TRMK",
+   "updated": "2026-11-13"
+  },
   "tsmc": {
    "businessModel": "Manufactures chips designed by other companies and charges per wafer, with the most advanced processes priced at a premium.",
    "competitors": [
@@ -3664,6 +3851,23 @@
    "subindustry": "asset-wealth",
    "ticker": "Private (Motive Partners, CC Capital; being acquired by Marsh)",
    "updated": "2026-11-12"
+  },
+  "wizz-air": {
+   "businessModel": "An ultra-low-cost airline that sells cheap base fares across Central and Eastern Europe and earns a large share of revenue from extra fees for bags, seats and other services.",
+   "competitors": [
+    "Ryanair",
+    "easyJet",
+    "LOT Polish Airlines",
+    "Pegasus",
+    "Lufthansa Group"
+   ],
+   "hq": "Budapest, Hungary (plc in Jersey)",
+   "name": "Wizz Air",
+   "sector": "consumer-retail",
+   "size": "H1 FY27 revenue €3.80B; 46.1M passengers in six months",
+   "subindustry": "travel-hospitality",
+   "ticker": "LSE: WIZZ",
+   "updated": "2026-11-13"
   },
   "woodside": {
    "businessModel": "Produces oil and gas and sells LNG mostly under long-term contracts to Asian and European buyers, with growth projects in Australia and the US Gulf Coast.",
