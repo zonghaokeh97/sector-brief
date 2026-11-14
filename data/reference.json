@@ -322,6 +322,22 @@
    "ticker": "Nasdaq: ARCC",
    "updated": "2026-10-27"
   },
+  "arm-holdings": {
+   "businessModel": "Designs CPU architectures and chip blueprints and earns license fees plus a royalty on every chip shipped using its designs.",
+   "competitors": [
+    "Intel (x86)",
+    "AMD (x86)",
+    "RISC-V designers such as SiFive",
+    "Qualcomm (custom cores)"
+   ],
+   "hq": "Cambridge, UK",
+   "name": "Arm Holdings",
+   "sector": "tmt",
+   "size": "Revenue ~$4B (approx., fiscal 2025); majority owned by SoftBank",
+   "subindustry": "semiconductors",
+   "ticker": "Nasdaq: ARM",
+   "updated": "2026-11-14"
+  },
   "array-technologies": {
    "businessModel": "Makes the tracker systems that tilt solar panels to follow the sun and sells them to utility-scale solar developers and installers.",
    "competitors": [
@@ -337,6 +353,23 @@
    "subindustry": "renewables-transition",
    "ticker": "Nasdaq: ARRY",
    "updated": "2026-11-05"
+  },
+  "asics": {
+   "businessModel": "Designs and sells running shoes, sportswear and lifestyle sneakers, including the Onitsuka Tiger brand, through retailers and its own stores.",
+   "competitors": [
+    "Nike",
+    "Adidas",
+    "On Holding",
+    "Hoka (Deckers)",
+    "New Balance"
+   ],
+   "hq": "Kobe, Japan",
+   "name": "Asics",
+   "sector": "consumer-retail",
+   "size": "FY2026 sales forecast ¥1.05T",
+   "subindustry": "cpg",
+   "ticker": "TSE: 7936",
+   "updated": "2026-11-14"
   },
   "ast-spacemobile": {
    "businessModel": "Plans to sell satellite-to-phone broadband coverage through wholesale agreements with mobile network operators, sharing revenue with them.",
@@ -722,6 +755,39 @@
    "ticker": "NYSE: CAT",
    "updated": "2026-10-29"
   },
+  "cencora": {
+   "businessModel": "Distributes medicines from drugmakers to pharmacies, hospitals and clinics, earning a thin margin on very large volumes, and owns MWI Veterinary Supply.",
+   "competitors": [
+    "McKesson",
+    "Cardinal Health",
+    "Covetrus (veterinary)",
+    "Patterson"
+   ],
+   "hq": "Conshohocken, Pennsylvania",
+   "name": "Cencora",
+   "sector": "healthcare",
+   "size": "Revenue ~$320B (approx., fiscal 2025)",
+   "subindustry": "pharma-biotech",
+   "ticker": "NYSE: COR",
+   "updated": "2026-11-14"
+  },
+  "cerebras": {
+   "businessModel": "Builds wafer-scale AI chips and systems and increasingly rents AI inference capacity as a cloud service under long-term contracts.",
+   "competitors": [
+    "Nvidia",
+    "AMD",
+    "Groq",
+    "Google (TPU)",
+    "Amazon (Trainium)"
+   ],
+   "hq": "Sunnyvale, California",
+   "name": "Cerebras Systems",
+   "sector": "tmt",
+   "size": "2026 core revenue guide $940M–$960M",
+   "subindustry": "semiconductors",
+   "ticker": "Nasdaq: CBRS",
+   "updated": "2026-11-14"
+  },
   "challenger": {
    "businessModel": "Sells annuities that pay guaranteed retirement income and invests the premiums in bonds and loans, earning the spread; it also runs an asset management arm for fees.",
    "competitors": [
@@ -924,6 +990,22 @@
    "subindustry": "agriculture-food",
    "ticker": "NYSE: CTVA",
    "updated": "2026-11-12"
+  },
+  "covetrus": {
+   "businessModel": "Distributes drugs, vaccines and supplies to veterinary clinics and sells practice-management software and pharmacy services.",
+   "competitors": [
+    "MWI Veterinary Supply (Cencora)",
+    "Patterson Veterinary",
+    "Vetcove marketplace",
+    "Chewy (pharmacy)"
+   ],
+   "hq": "Portland, Maine",
+   "name": "Covetrus",
+   "sector": "healthcare",
+   "size": "Revenue ~$4.5B (approx., 2022, last reported as a public company)",
+   "subindustry": "pharma-biotech",
+   "ticker": "Private (Clayton, Dubilier & Rice and TPG)",
+   "updated": "2026-11-14"
   },
   "credit-agricole": {
    "businessModel": "A cooperative-rooted French banking group that earns interest on retail and corporate loans and fees from asset management, insurance and investment banking.",
@@ -1314,6 +1396,21 @@
    "subindustry": "payments-fintech",
    "ticker": "Nasdaq: FISV",
    "updated": "2026-11-04"
+  },
+  "flowers-foods": {
+   "businessModel": "Bakes and distributes packaged bread, buns and snack cakes under brands such as Nature's Own and Dave's Killer Bread, plus store brands and foodservice.",
+   "competitors": [
+    "Grupo Bimbo",
+    "Campbell's (Pepperidge Farm)",
+    "Store brands"
+   ],
+   "hq": "Thomasville, Georgia",
+   "name": "Flowers Foods",
+   "sector": "consumer-retail",
+   "size": "2026 net sales guide ~$5.0B",
+   "subindustry": "cpg",
+   "ticker": "NYSE: FLO",
+   "updated": "2026-11-14"
   },
   "ford": {
    "businessModel": "Builds and sells cars, trucks and commercial vehicles through Ford Blue and Ford Pro, runs an EV unit (Model e) and earns financing income through Ford Credit.",
@@ -2116,6 +2213,23 @@
    "ticker": "Nasdaq: META",
    "updated": "2026-10-23"
   },
+  "metro-bank": {
+   "businessModel": "Takes deposits through 78 UK branches and digital channels and lends to commercial, specialist and retail borrowers, earning the interest margin.",
+   "competitors": [
+    "Shawbrook",
+    "OSB Group",
+    "TSB",
+    "Starling Bank",
+    "Virgin Money"
+   ],
+   "hq": "London, UK",
+   "name": "Metro Bank",
+   "sector": "financial-services",
+   "size": "Core target lending book £6.2B (H1 2026)",
+   "subindustry": "banking",
+   "ticker": "LSE: MTRO",
+   "updated": "2026-11-14"
+  },
   "mexc": {
    "businessModel": "Runs a crypto exchange for spot and derivatives trading. Earns trading and listing fees from users in many countries.",
    "competitors": [
@@ -2200,6 +2314,23 @@
    "subindustry": "pharma-biotech",
    "ticker": "Nasdaq: MRNA",
    "updated": "2026-10-23"
+  },
+  "modine": {
+   "businessModel": "Designs and makes thermal-management equipment, including data-center cooling, HVAC coils and heat-transfer systems, sold to builders and industrial customers.",
+   "competitors": [
+    "Vertiv",
+    "Daikin",
+    "LG Electronics",
+    "Johnson Controls",
+    "Schneider Electric"
+   ],
+   "hq": "Racine, Wisconsin",
+   "name": "Modine Manufacturing",
+   "sector": "advanced-industries",
+   "size": "Market value ~$5.6B before Samsung talks (Nov 2026)",
+   "subindustry": "industrial-machinery",
+   "ticker": "NYSE: MOD",
+   "updated": "2026-11-14"
   },
   "munich-re": {
    "businessModel": "Earns premiums for taking on risk from other insurers as one of the world's largest reinsurers, plus primary insurance through ERGO and investment income on its reserves.",
@@ -3242,6 +3373,23 @@
    "ticker": "NASDAQ: STLD",
    "updated": "2026-10-20"
   },
+  "stellantis": {
+   "businessModel": "Designs, builds and sells cars and trucks under brands such as Jeep, Ram, Peugeot and Fiat, earning most profit from North American trucks and SUVs.",
+   "competitors": [
+    "General Motors",
+    "Ford",
+    "Toyota",
+    "Volkswagen",
+    "Hyundai"
+   ],
+   "hq": "Amsterdam, Netherlands",
+   "name": "Stellantis",
+   "sector": "advanced-industries",
+   "size": "Revenue ~€157B (approx., 2024)",
+   "subindustry": "automotive-mobility",
+   "ticker": "NYSE: STLA; Euronext Milan: STLAM",
+   "updated": "2026-11-14"
+  },
   "stevanato-group": {
    "businessModel": "Makes glass vials, syringes, cartridges and drug-delivery devices for drugmakers, plus analytical and engineering services.",
    "competitors": [
@@ -3258,6 +3406,21 @@
    "subindustry": "pharma-biotech",
    "ticker": "NYSE: STVN",
    "updated": "2026-11-04"
+  },
+  "strategy": {
+   "businessModel": "Raises money by selling shares, preferred stock and debt and uses it to buy and hold bitcoin, alongside a small enterprise-software business.",
+   "competitors": [
+    "Metaplanet",
+    "Bitcoin ETFs (iShares IBIT)",
+    "MARA Holdings"
+   ],
+   "hq": "Tysons Corner, Virginia",
+   "name": "Strategy",
+   "sector": "financial-services",
+   "size": "Holds 850,364 BTC (Nov 2026)",
+   "subindustry": "payments-fintech",
+   "ticker": "Nasdaq: MSTR",
+   "updated": "2026-11-14"
   },
   "strathcona-resources": {
    "businessModel": "Produces heavy oil and bitumen in Alberta and sells it at prices tied to benchmark crude, less a discount for quality and transport.",
@@ -3563,6 +3726,21 @@
    "subindustry": "semiconductors",
    "ticker": "NYSE: TSM (Taiwan: 2330)",
    "updated": "2026-11-06"
+  },
+  "tva": {
+   "businessModel": "Generates electricity from nuclear, hydro, gas and coal plants and sells it wholesale to local power companies and large industrial customers in seven southeastern states.",
+   "competitors": [
+    "Southern Company",
+    "Duke Energy",
+    "Entergy"
+   ],
+   "hq": "Knoxville, Tennessee",
+   "name": "Tennessee Valley Authority",
+   "sector": "energy-materials",
+   "size": "Operating revenue $14.22B (fiscal 2026)",
+   "subindustry": "power-utilities",
+   "ticker": "Government-owned (US federal corporation)",
+   "updated": "2026-11-14"
   },
   "uber": {
    "businessModel": "Runs a platform for ride-hailing, food and grocery delivery and freight brokerage, earning a take rate on each transaction.",

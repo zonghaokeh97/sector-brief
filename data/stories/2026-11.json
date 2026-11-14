@@ -4014,5 +4014,423 @@
   "subindustry": "medtech",
   "summary": "Swiss hearing-aid maker Sonova raised its full-year guidance for local-currency sales growth to 6% to 8%, from 5% to 8%, and for core operating profit growth to 10% to 13%, from 7% to 10%. It also raised its forecast for global hearing-aid market growth in 2026 to 3% to 5%. Customers are moving quickly to its new AI-powered Phonak EON platform. Asia-Pacific sales rose 11.4% to CHF 186.9 million, and the shares are up about 36% this year.",
   "tags": []
+ },
+ "2026-11-14-01": {
+  "companies": [
+   "nvidia",
+   "arm-holdings",
+   "amd"
+  ],
+  "date": "2026-11-14",
+  "headline": "Nvidia's board reportedly approaches Arm CEO Rene Haas to succeed Jensen Huang, and chip stocks slide",
+  "numbers": [
+   "Nvidia share price: ~$163 (−2% Friday)",
+   "Nvidia weekly losing streak: 6, longest since 2012",
+   "Arm shares: down ~5–6.5%",
+   "AMD: −8.75%; Broadcom: −4.8%",
+   "Nvidia Q3 results: Tue, Nov 17"
+  ],
+  "order": 1,
+  "sector": "tmt",
+  "soWhat": "Nvidia sells most of the world's AI accelerators and sets the product schedule that cloud providers, server makers and memory suppliers plan around, so who runs it matters for the whole AI supply chain. Haas worked at Nvidia for about seven years before joining Arm, whose CPU designs sit inside Nvidia's Grace and Vera platforms, but hiring him would leave Arm without its leader, which is why Arm fell. The sell-off in AMD, Broadcom and data-center stocks shows investors treating Nvidia's leadership gap as a risk for the whole sector. The open question is whether Tuesday's results and guidance convince customers that the roadmap is unchanged.",
+  "sources": [
+   {
+    "title": "Arm shares slide as Nvidia succession search puts CEO Rene Haas in spotlight (Yahoo Finance)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/arm-shares-slide-nvidia-succession-173756134.html"
+   },
+   {
+    "title": "Closing Look, Friday, November 13, 2026 (CappNotes)",
+    "url": "https://cappnotes.substack.com/p/closing-look-friday-november-13-2026"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "The Financial Times reported on Friday that Nvidia's board has approached Arm chief executive Rene Haas as a possible successor to Jensen Huang, who resigned as CEO on Thursday. Haas has not been offered the job and is one of several candidates, while finance chief Colette Kress serves as interim CEO. Arm shares fell about 5% to 6.5%, AMD dropped 8.75% and Broadcom about 4.8%, while Nvidia slipped 2% to about $163, its sixth weekly decline in a row and the longest such run since 2012. Nvidia reports quarterly results on Tuesday, November 17.",
+  "tags": []
+ },
+ "2026-11-14-02": {
+  "companies": [],
+  "date": "2026-11-14",
+  "headline": "Brent ends a second weekly loss near $96 as surplus signs outweigh Iranian claims of tanker mine strikes",
+  "numbers": [
+   "Brent settle: $95.84 (−2.5% on the week)",
+   "WTI settle: $88.56",
+   "Brent vs late-October high (~$118): ~20% lower",
+   "Gulf oil exports, Oct: 18.4 mb/d, 26% below pre-war",
+   "Brent before the war (late Feb): ~$72"
+  ],
+  "order": 2,
+  "sector": "energy-materials",
+  "soWhat": "The market is now pricing oil off how fast Gulf supply rebuilds, not off the risk of new attacks, so unconfirmed mine claims add only a brief premium. Producers still earn far more than before the war, since Brent traded near $72 in late February, but a falling price trend matters for 2027 budgets, dividends and buybacks. Shipping costs stay high because much of the extra Gulf output moves under US naval escort or through costly ship-to-ship transfers in the Gulf of Oman. The open question is whether exports keep rising if mine incidents become frequent enough to deter tanker owners.",
+  "sources": [
+   {
+    "title": "Brent Crude Settles $95.84 After Second Weekly Loss on Supply Surplus (Gate)",
+    "url": "https://www.gate.com/news/detail/brent-crude-settles-9584-after-second-weekly-loss-on-supply-surplus-25618627"
+   },
+   {
+    "title": "Live updates: tankers hit mines in Strait of Hormuz, Iran says (CBS News)",
+    "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Brent crude settled at $95.84 a barrel on Friday, up 2 cents on the day but down about 2.5% for the week, its second weekly loss in a row, while US benchmark WTI settled at $88.56. Prices fell over the week as OPEC+ raised October output, US crude and fuel stocks rose, and the US naval blockade of Iranian ports eased fears of renewed direct conflict. Iran's Revolutionary Guards said a ship carrying LNG hit a mine on Friday and three oil tankers struck mines overnight, claims that could not be verified; the US says it has cleared the main shipping routes. Gulf oil exports excluding Oman reached 18.4 million barrels a day in October, still 26% below pre-war levels, according to the IEA.",
+  "tags": []
+ },
+ "2026-11-14-03": {
+  "companies": [],
+  "date": "2026-11-14",
+  "headline": "Fed officials push for a December rate hike, and the two-year Treasury yield jumps 35 basis points in a week",
+  "numbers": [
+   "Two-year yield: ~4.87% (+35 bp on the week)",
+   "10-year yield: ~5.15%",
+   "Dollar index: ~103.4, highest since April 2025",
+   "December hike odds: ~90% for 25 bp, ~10–12% for 50 bp",
+   "October PPI: +0.3% m/m, +6.5% y/y"
+  ],
+  "order": 3,
+  "sector": "macro",
+  "soWhat": "Short-term rates feed directly into what banks pay for deposits, what companies pay on floating-rate loans and what homebuyers pay on mortgages, so a Fed that is raising rates tightens conditions across the economy. A stronger dollar hurts US exporters and multinationals that convert foreign profits back into dollars, and it makes dollar-priced commodities such as gold and oil dearer for other buyers. Stocks still rose about 2.5% on the week, which suggests investors expect growth to hold up for now. The open question is how far the Fed will go while producer prices are still rising 6.5% a year.",
+  "sources": [
+   {
+    "title": "Market Review: November 13, 2026 (Investrade)",
+    "url": "https://investrade.com/market-review-november-13-2026/"
+   },
+   {
+    "title": "Closing Look, Friday, November 13, 2026 (CappNotes)",
+    "url": "https://cappnotes.substack.com/p/closing-look-friday-november-13-2026"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "Several Federal Reserve officials backed tighter policy after this week's hot inflation data: Governor Christopher Waller supports at least a quarter-point hike in December and said a half-point move should be considered, Dallas Fed President Lorie Logan sees at least two more increases, and Boston Fed President Susan Collins said more tightening is warranted soon. October producer prices rose 0.3% on the month, slightly below forecasts, but were up 6.5% from a year earlier. The two-year Treasury yield ended Friday near 4.87%, up about 35 basis points on the week, its biggest weekly jump since September 2024, and the 10-year yield closed near 5.15%. The dollar index rose about 1% on the week to around 103.4, its highest since April 2025.",
+  "tags": []
+ },
+ "2026-11-14-04": {
+  "companies": [
+   "covetrus",
+   "cencora"
+  ],
+  "date": "2026-11-14",
+  "headline": "FTC sues to block Covetrus's $3.5 billion purchase of MWI, its closest rival in veterinary supply",
+  "numbers": [
+   "Deal value: $3.5B",
+   "States joining the suit: 13",
+   "FTC vote: 2-0",
+   "Court: US District Court, Southern District of New York"
+  ],
+  "order": 4,
+  "sector": "healthcare",
+  "soWhat": "Distributors sit between drug and supply makers and thousands of clinics, earning thin margins on very large volumes, so scale in warehouses, delivery routes and purchasing is the main way to raise profit. That is exactly why regulators object: when the two leaders combine, clinics lose the ability to play one against the other on prices and rebates. If the FTC wins, Cencora would have to keep MWI or find another buyer, and clinics would keep their bargaining leverage. The open question is whether a court accepts the FTC's view that manufacturers selling direct and online sellers do not discipline the two distributors.",
+  "sources": [
+   {
+    "title": "FTC Sues to Block Veterinary Supplies Distributor Covetrus's $3.5 Billion Acquisition of Rival MWI (FTC)",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/11/ftc-sues-block-veterinary-supplies-distributor-covetruss-35-billion-acquisition-rival-mwi"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "The Federal Trade Commission and 13 state attorneys general sued on November 13 in federal court in New York to stop Covetrus from buying MWI Veterinary Supply from Cencora for $3.5 billion. The agency says the two are the largest distributors of drugs, vaccines and supplies to US veterinary clinics and large corporate vet groups, and that the deal would let the combined firm raise costs for clinics, cut service quality and push up prices for pet owners. The complaint describes a price war between the two, intensified by the online price-comparison platform Vetcove. It also names Covetrus's private-equity owners, Clayton, Dubilier & Rice and TPG, as defendants; the Commission voted 2-0 to sue.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-14-05": {
+  "companies": [
+   "samsung-electronics",
+   "modine",
+   "vertiv"
+  ],
+  "date": "2026-11-14",
+  "headline": "Samsung is in talks to buy data-center cooling maker Modine, whose shares jump about 28%",
+  "numbers": [
+   "Modine value before report: ~$5.6B",
+   "Modine share move: ~+28%",
+   "Data-center unit growth: ~86% a year over 3 years",
+   "Samsung's FläktGroup purchase: €1.5B"
+  ],
+  "order": 5,
+  "sector": "advanced-industries",
+  "soWhat": "AI chips run so hot that cooling has become a bottleneck in data-center construction, so liquid-cooling and heat-rejection equipment now commands premium prices and long order books. For Samsung, Modine would add a US manufacturing base and customer list to FläktGroup, making it a supplier of the building around the chips as well as the memory inside them. A deal at a high price would also set a valuation benchmark for other cooling and power-equipment makers such as Vertiv. The open question is whether a rival bidder enters, which would push the price higher.",
+  "sources": [
+   {
+    "title": "Samsung reportedly in talks to buy data centre cooling firm Modine (The Next Web)",
+    "url": "https://thenextweb.com/news/samsung-modine-talks-data-centre-cooling"
+   },
+   {
+    "title": "Closing Look, Friday, November 13, 2026 (CappNotes)",
+    "url": "https://cappnotes.substack.com/p/closing-look-friday-november-13-2026"
+   }
+  ],
+  "subindustry": "industrial-machinery",
+  "summary": "Samsung Electronics is in talks to acquire Modine Manufacturing, a Wisconsin maker of cooling systems for data centers, Bloomberg reported; a deal could come within weeks, though no final decision has been made. Modine was worth about $5.6 billion before the report, and its shares rose about 28%. Modine spun off its automotive business in October to become a pure thermal-management company, and its data-center unit has grown about 86% a year over the past three fiscal years, according to Bloomberg Intelligence. Samsung bought German cooling specialist FläktGroup for €1.5 billion last year, and Daikin, LG Electronics and Vertiv are also chasing the market.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-14-06": {
+  "companies": [
+   "tva"
+  ],
+  "date": "2026-11-14",
+  "headline": "TVA signs a $1.7 billion upfront capacity deal with a data center, charging about $1.5 million per megawatt",
+  "numbers": [
+   "Deal value: $1.7B",
+   "Charge: ~$1.5M per MW above 5 MW",
+   "Implied capacity: ~1.1 GW",
+   "TVA FY2026 net income: $2.12B (+56%)"
+  ],
+  "order": 6,
+  "sector": "energy-materials",
+  "soWhat": "The central fight in US power today is who pays for the plants and lines that data centers need, and TVA's charge makes the newcomer pay a large share upfront. That lowers the risk that a utility builds capacity for a project that later shrinks or disappears, leaving households to cover the cost. Utilities facing voter anger over bills now have a working example of the model. The trade-off is that steep upfront charges could steer some projects to regions with cheaper terms.",
+  "sources": [
+   {
+    "title": "TVA signs a $1.7 billion data center capacity deal under its new charge (MLQ.ai)",
+    "url": "https://mlq.ai/news/tva-signs-a-17-billion-data-center-capacity-deal-under-its-new-charge-of-about-15-million-per-megawatt/"
+   }
+  ],
+  "subindustry": "power-utilities",
+  "summary": "The Tennessee Valley Authority disclosed in its annual report, filed November 13, that it signed its first agreement under a new Capacity Commitment Charge with an unnamed data-center customer, worth $1.7 billion in total payments. The charge is about $1.5 million per megawatt of requested capacity above 5 megawatts, which implies roughly 1.1 gigawatts; $31 million is due at signing and the rest over 59 installments. TVA says the charge covers the extra capacity costs of large new loads and shields existing customers from rising rates. The federal utility's net income rose 56% to $2.12 billion in the year to September 30, on operating revenue of $14.22 billion.",
+  "tags": []
+ },
+ "2026-11-14-07": {
+  "companies": [
+   "metro-bank"
+  ],
+  "date": "2026-11-14",
+  "headline": "Metro Bank puts itself up for sale after its turnaround, hiring Morgan Stanley to run the process",
+  "numbers": [
+   "H1 2026 pre-tax profit: £60.7M (+41%)",
+   "Core target lending book: £6.2B (+43%)",
+   "UK branches: 78",
+   "RoTE target: 18% in 2028"
+  ],
+  "order": 7,
+  "sector": "financial-services",
+  "soWhat": "Mid-sized UK banks struggle to match the largest lenders on funding costs and technology spending, so mergers are the usual route to better returns. A buyer would get Metro's branch-based deposit base and a fast-growing commercial loan book, both slow and costly to build from scratch. By running a formal process instead of waiting for an approach, the board is testing what the franchise is worth while profits are at a record. The open question is whether a bidder will pay a premium for a turnaround that is still young.",
+  "sources": [
+   {
+    "title": "Metro Bank puts itself up for sale after turnaround (City A.M.)",
+    "url": "https://www.cityam.com/metro-bank-puts-itself-up-for-sale-after-turnaround/"
+   }
+  ],
+  "subindustry": "banking",
+  "summary": "UK lender Metro Bank launched a formal sale process on November 12 and invited offers for the whole company, with Morgan Stanley running the process. It said it is not in talks with any bidder and has received no approach, and that it will keep its standalone plan if no deal emerges. The bank has shifted toward commercial and specialist lending since 2023: pre-tax profit rose 41% to £60.7 million in the first half, its best half-year on record, and its core target lending book grew 43% to £6.2 billion. It targets a return on tangible equity above 15% in 2027 and 18% in 2028, and runs 78 UK branches.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-14-08": {
+  "companies": [
+   "cerebras"
+  ],
+  "date": "2026-11-14",
+  "headline": "Cerebras raises its 2026 sales outlook as AI cloud revenue jumps 265%, and its shares rise 11%",
+  "numbers": [
+   "Q3 revenue: $210.8M (+55%)",
+   "Cloud and services revenue: $141.9M (+265%)",
+   "2026 core revenue guide: $940M–$960M",
+   "Remaining performance obligations: $26.1B",
+   "Contracted data-center capacity: 700 MW"
+  ],
+  "order": 8,
+  "sector": "tmt",
+  "soWhat": "Cerebras is shifting from selling chips and systems to renting AI inference as a cloud service, which brings recurring revenue but needs heavy spending on data centers and power. A $26.1 billion contracted backlog against under $1 billion of annual revenue shows how much of the AI buildout is being locked in through long contracts with cloud providers and model makers. If it delivers, buyers gain an alternative to Nvidia hardware for running AI models. The open question is whether Cerebras can finance and power new capacity fast enough to turn that backlog into revenue.",
+  "sources": [
+   {
+    "title": "Cerebras Systems Q3 2026 results, Form 8-K (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026073366/cbrsannouncesfinancialresu.htm"
+   },
+   {
+    "title": "Closing Look, Friday, November 13, 2026 (CappNotes)",
+    "url": "https://cappnotes.substack.com/p/closing-look-friday-november-13-2026"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "AI chipmaker Cerebras Systems reported third-quarter revenue of $210.8 million, up 55% from a year earlier, as revenue from its cloud and services business rose 265% to $141.9 million while hardware sales fell to $68.9 million. It posted a GAAP net loss of $161.2 million but core net income of $29.8 million, and raised its 2026 core revenue forecast to $940 million to $960 million from $880 million to $890 million. Cerebras said it has secured 700 megawatts of data-center capacity for delivery by the end of 2027, holds $26.1 billion of remaining performance obligations and expects to triple revenue in 2027. Its shares rose about 11% on Friday.",
+  "tags": []
+ },
+ "2026-11-14-09": {
+  "companies": [
+   "stellantis"
+  ],
+  "date": "2026-11-14",
+  "headline": "Canada threatens to sue Stellantis over selling its idled Brampton plant after moving Jeep output to Illinois",
+  "numbers": [
+   "Notice period: 30 days",
+   "Aid Stellantis offers to repay: $24M",
+   "Plant: Brampton, Ontario (idled)",
+   "Jeep Compass production: moved to Illinois"
+  ],
+  "order": 9,
+  "sector": "advanced-industries",
+  "soWhat": "Governments offer carmakers large subsidies to win plants, usually tied to promises on output and jobs, and this case tests whether those promises can be enforced when trade rules change. US tariffs make it cheaper for automakers to build vehicles for American buyers inside the US than to import them from Canada, which pulls investment south. If Ottawa recovers far more than $24 million, carmakers will face tougher terms on future aid everywhere; if not, subsidy agreements lose credibility. The open question is how much of the support Canada can legally claw back.",
+  "sources": [
+   {
+    "title": "Canada threatens Stellantis as Trump trade war reshapes Jeep production plans (CNBC)",
+    "url": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "Canada's government served Stellantis with a formal notice of default, giving it 30 days to address Ottawa's concerns or face legal action, Industry Minister Mélanie Joly said on Friday. The dispute follows Stellantis's agreement to sell its idled Brampton, Ontario, assembly plant to armored-vehicle maker Roshel, after it dropped plans to build the Jeep Compass there and moved that production to Illinois amid US tariffs. Joly said the company owes hundreds of millions of dollars, while Stellantis Canada said it would return $24 million in federal support. Prime Minister Mark Carney called the situation unacceptable.",
+  "tags": []
+ },
+ "2026-11-14-10": {
+  "companies": [],
+  "date": "2026-11-14",
+  "headline": "Goldman Sachs downgrades European insurers and energy stocks, betting that bond yields and oil prices will fall",
+  "numbers": [
+   "STOXX 600 target: 700 (from 695)",
+   "European earnings growth: 18% in 2026 → 7% in 2027 (Goldman)",
+   "Insurers: cut to underweight",
+   "Banks: cut to neutral; energy to underweight"
+  ],
+  "order": 10,
+  "sector": "financial-services",
+  "soWhat": "Insurers invest premiums in bonds until claims are paid, so higher yields lift the income they earn on that money, a big reason European insurers have rallied. If yields fall, new cash is reinvested at lower rates and that tailwind fades, even if underwriting stays profitable. Energy stocks face a similar reversal as oil drifts down from its war highs. The open question is whether European yields actually fall while the US Fed is still raising rates.",
+  "sources": [
+   {
+    "title": "Goldman Sachs lifts 12-month target for European stocks on energy price relief (Reuters via AOL)",
+    "url": "https://www.aol.com/articles/goldman-sachs-lifts-12-month-080332000.html"
+   },
+   {
+    "title": "Closing Look, Friday, November 13, 2026 (CappNotes)",
+    "url": "https://cappnotes.substack.com/p/closing-look-friday-november-13-2026"
+   }
+  ],
+  "subindustry": "insurance",
+  "summary": "Goldman Sachs cut its rating on European insurers to underweight and on banks to neutral, saying both groups tend to move with bond yields, which it expects to decline. It also downgraded European energy stocks to underweight, expecting lower energy earnings to weigh on profit growth in 2027. Goldman raised its 12-month target for the STOXX 600 to 700 from 695, about 5% above Thursday's level, and expects European earnings growth to slow to 7% in 2027 from 18% in 2026. The STOXX 600 ended Friday at 664.14, little changed on the day.",
+  "tags": []
+ },
+ "2026-11-14-11": {
+  "companies": [],
+  "date": "2026-11-14",
+  "headline": "Gold has its worst week since early June, falling more than 4% as markets price in Fed rate hikes",
+  "numbers": [
+   "Spot gold: ~$3,899/oz (−4%+ on the week)",
+   "Silver: ~$49.91/oz, ~59% below its January high",
+   "Platinum: ~$1,512/oz",
+   "December Fed hike odds (25 bp): ~89%"
+  ],
+  "order": 11,
+  "sector": "energy-materials",
+  "soWhat": "Gold miners' profits move sharply with the gold price because their costs are largely fixed, so a sustained drop squeezes margins quickly after a record run. Higher interest rates raise the cost of holding a metal that earns nothing, which is why gold trades against expectations for the Fed. Silver has fallen much further than gold because it depends more on industrial demand and speculative buying. The open question is whether central banks and other long-term buyers step in at lower prices.",
+  "sources": [
+   {
+    "title": "Rate hike bets kept gold on track for its worst week in four months (CNBC)",
+    "url": "https://www.cnbc.com/2026/11/13/gold-rises-on-bargain-hunting-but-heads-for-weekly-decline.html"
+   },
+   {
+    "title": "Market Review: November 13, 2026 (Investrade)",
+    "url": "https://investrade.com/market-review-november-13-2026/"
+   }
+  ],
+  "subindustry": "metals-mining",
+  "summary": "Spot gold rose 0.6% to about $3,899 an ounce on Friday but lost more than 4% over the week, its worst week since early June, after touching a more-than-one-year low on Thursday. Higher oil prices and a hotter-than-expected consumer price report raised expectations of more Fed tightening, which weighs on gold because it pays no interest. Silver ended near $49.91 an ounce, about 59% below its January high, and platinum near $1,512, with both posting weekly losses. Futures put the chance of a quarter-point Fed hike in December at about 89%.",
+  "tags": []
+ },
+ "2026-11-14-12": {
+  "companies": [
+   "strategy"
+  ],
+  "date": "2026-11-14",
+  "headline": "Bitcoin falls below $70,000 for the first time since August as Strategy prepares to leave MSCI's indexes",
+  "numbers": [
+   "Bitcoin: ~$68,000 (−4% Friday)",
+   "Strategy bitcoin holdings: 850,364 BTC",
+   "Expected index-fund selling: ~$1.6B",
+   "Strategy premium to its bitcoin (mNAV): ~1.08x vs 3.4x peak"
+  ],
+  "order": 12,
+  "sector": "financial-services",
+  "soWhat": "Strategy's model relies on selling new shares at a premium to its bitcoin holdings and using the cash to buy more coins, so a shrinking premium weakens one of the steadiest sources of bitcoin demand. Index exclusion removes a group of automatic buyers of its shares and could narrow that premium further. Rising interest rates also hurt assets that pay no income, as gold showed this week. The open question is whether other index providers follow MSCI.",
+  "sources": [
+   {
+    "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine (CoinDesk)",
+    "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine"
+   },
+   {
+    "title": "Closing Look, Friday, November 13, 2026 (CappNotes)",
+    "url": "https://cappnotes.substack.com/p/closing-look-friday-november-13-2026"
+   }
+  ],
+  "subindustry": "payments-fintech",
+  "summary": "Bitcoin fell about 4% on Friday to around $68,000, below $70,000 for the first time since late August, and was heading for a sixth straight weekly decline. MSCI said this week it will remove Strategy, the largest corporate holder of bitcoin with 850,364 coins, from its global equity indexes after the close on November 30, under a new screen for non-operating companies. Strategy and BloFin Research estimate index funds will sell about 13 million shares, worth roughly $1.6 billion. Strategy's market value is now only about 1.08 times the value of its bitcoin, down from a peak of 3.4 times in November 2024, and its shares fell about 2.4% on Friday.",
+  "tags": []
+ },
+ "2026-11-14-13": {
+  "companies": [
+   "eli-lilly"
+  ],
+  "date": "2026-11-14",
+  "headline": "Lilly starts building a $3.5 billion Pennsylvania plant for next-generation obesity drugs",
+  "numbers": [
+   "Investment: $3.5B",
+   "Lilly US manufacturing plan: $50B",
+   "New US sites since 2020: 10",
+   "Permanent jobs: ~850"
+  ],
+  "order": 13,
+  "sector": "healthcare",
+  "soWhat": "In obesity drugs, manufacturing capacity has mattered as much as the science, because shortages of injectable pens limited sales of the first wave of GLP-1 medicines. Building ahead of approval lets Lilly launch retatrutide at scale if regulators clear it, protecting its lead over Novo Nordisk. Domestic plants also shorten supply chains for its largest market. The cost is that billions are committed before the drug has been approved.",
+  "sources": [
+   {
+    "title": "Eli Lilly launches construction of $3.5bn manufacturing site (MarketScreener)",
+    "url": "https://marketscreener.com/news/eli-lilly-launches-construction-of-3-5bn-manufacturing-site-ce785ed9dc8cf220"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "Eli Lilly began construction of a $3.5 billion manufacturing site in Pennsylvania's Lehigh Valley, part of a $50 billion plan to expand its US drug production. The plant will make injectable medicines and devices, mainly to raise output of next-generation obesity treatments such as retatrutide, which acts on three hormone receptors (GIP, GLP-1 and glucagon). It is one of 10 new US sites Lilly has announced since 2020 and is expected to create about 2,000 construction jobs and 850 permanent roles.",
+  "tags": []
+ },
+ "2026-11-14-14": {
+  "companies": [
+   "asics"
+  ],
+  "date": "2026-11-14",
+  "headline": "Asics shares fall 14%, the most since 2024, as it holds its profit forecast below expectations",
+  "numbers": [
+   "Share move: −14.3% to ¥4,180",
+   "Sales through Q3: ¥805.1B (vs ¥625B)",
+   "FY operating profit guide: ¥195B (consensus ~¥199.7B)",
+   "SportStyle sales: +70%"
+  ],
+  "order": 14,
+  "sector": "consumer-retail",
+  "soWhat": "Asics has grown from a running-shoe brand into a fashion and lifestyle name, and its faster-growing SportStyle and Onitsuka Tiger lines sell at higher prices. When a stock is priced for repeated upgrades, holding guidance steady reads as slowing momentum, even with sales up about 29%. Rising costs make it harder to turn that growth into profit. The open question is whether spinning off Onitsuka Tiger unlocks value or removes the group's fastest-growing brand.",
+  "sources": [
+   {
+    "title": "Asics shares down on Q3 report (Yahoo Finance)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/asics-shares-down-q3-report-223630118.html"
+   }
+  ],
+  "subindustry": "cpg",
+  "summary": "Shares of Japanese sportswear maker Asics fell 14.3% to ¥4,180 in Tokyo on Friday, their steepest drop since August 2024, after third-quarter results disappointed investors. Cumulative net sales through the third quarter rose to ¥805.1 billion from ¥625 billion a year earlier, with SportStyle sales up 70% and Onitsuka Tiger up 34.6%. But Asics kept its full-year operating profit forecast at ¥195 billion, below the analyst average of about ¥199.7 billion. It also reaffirmed plans to spin off Onitsuka Tiger in January 2027.",
+  "tags": []
+ },
+ "2026-11-14-15": {
+  "companies": [
+   "flowers-foods"
+  ],
+  "date": "2026-11-14",
+  "headline": "Flowers Foods cuts its outlook again as bread volumes fall 7% under squeezed household budgets",
+  "numbers": [
+   "Q3 net sales: $1.169B (−4.7%)",
+   "Volume: −7.0%; price/mix: +2.3%",
+   "Adjusted EBITDA: $78.9M (−33%)",
+   "2026 adj. EPS guide: $0.63–$0.68 (was $0.75–$0.85)"
+  ],
+  "order": 15,
+  "sector": "consumer-retail",
+  "soWhat": "Packaged bread is a mature, slow-growing category where profit depends on keeping bakeries and delivery routes full, so falling volume quickly hits margins. Price increases offset part of the decline, but each lost loaf spreads fixed bakery and route costs over fewer sales, while Flowers is spending more on marketing to defend its brands. The squeeze shows how exposed mid-priced food brands are when shoppers trim spending. The open question is whether the Nature's Own relaunch can stabilize volumes before deeper cost cuts are needed.",
+  "sources": [
+   {
+    "title": "Flowers Foods Q3 2026 results, Form 8-K exhibit (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001128928/000119312526458445/flo-ex99_1.htm"
+   },
+   {
+    "title": "Market Review: November 13, 2026 (Investrade)",
+    "url": "https://investrade.com/market-review-november-13-2026/"
+   }
+  ],
+  "subindustry": "cpg",
+  "summary": "Flowers Foods, maker of Nature's Own and Dave's Killer Bread, said third-quarter net sales fell 4.7% to $1.169 billion, as a 7.0% drop in volume outweighed a 2.3% gain from pricing and mix. Net income fell 63.6% to $14.4 million and adjusted EBITDA dropped 33.2% to $78.9 million, hit by lower volumes and higher marketing and logistics costs. The company cut its 2026 adjusted EPS forecast to $0.63 to $0.68 from $0.75 to $0.85, its second cut in a row, and its shares fell about 8% on Friday. Management cited pressure on household budgets and heavier promotions across the category.",
+  "tags": []
  }
 }

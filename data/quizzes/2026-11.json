@@ -3529,5 +3529,252 @@
     "subindustry": "refining-chemicals"
    }
   ]
+ },
+ "2026-11-14": {
+  "date": "2026-11-14",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "Renting inference brings recurring, contracted revenue ($26.1 billion of remaining obligations), but Cerebras must finance 700 megawatts of capacity to deliver it.",
+    "id": "2026-11-14:x01",
+    "kind": "today",
+    "options": [
+     "It removes the need for data centers",
+     "More recurring revenue, but heavy spending on data centers and power",
+     "Lower revenue but no need for customers",
+     "It ends competition with Nvidia"
+    ],
+    "prompt": "Cerebras's cloud and services revenue rose 265% while hardware sales fell. What is the main trade-off of shifting from selling systems to renting AI capacity?",
+    "sector": "tmt",
+    "storyId": "2026-11-14-08",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 0,
+    "explanation": "Sales fell 4.7%, but fixed bakery and route costs stayed, and marketing and logistics costs rose, so EBITDA fell about a third.",
+    "id": "2026-11-14:x02",
+    "kind": "today",
+    "options": [
+     "Bakeries and delivery routes are largely fixed costs spread over fewer loaves",
+     "Flour prices tripled",
+     "It stopped selling store brands",
+     "Taxes rose sharply"
+    ],
+    "prompt": "Flowers Foods' bread volume fell 7.0% while pricing and mix rose 2.3%, and adjusted EBITDA dropped 33%. Why did profit fall so much more than sales?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-14-15",
+    "subindustry": "cpg"
+   },
+   {
+    "answer": 2,
+    "explanation": "Higher yields raise the return on cash and bonds, making a non-yielding metal less attractive. Spot gold fell more than 4% on the week to about $3,899.",
+    "id": "2026-11-14:x03",
+    "kind": "today",
+    "options": [
+     "Mines must close when rates rise",
+     "Central banks are required to sell gold",
+     "Gold pays no interest, so holding it costs more when yields rise",
+     "Jewelry demand stops"
+    ],
+    "prompt": "Gold had its worst week since early June as markets priced in Fed rate hikes. Why do higher rates tend to hurt gold?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-14-11",
+    "subindustry": "metals-mining"
+   },
+   {
+    "answer": 1,
+    "explanation": "Strategy buys bitcoin by selling shares above the value of its holdings. Near 1x that adds little, and MSCI's exclusion could narrow the premium further.",
+    "id": "2026-11-14:x04",
+    "kind": "today",
+    "options": [
+     "It must now sell all its bitcoin",
+     "Issuing shares at a small premium adds little bitcoin per share, so its buying engine slows",
+     "It doubles its index weight",
+     "It lowers bitcoin mining costs"
+    ],
+    "prompt": "Strategy's market value is about 1.08 times its bitcoin, down from 3.4 times in 2024. Why does this matter for its strategy?",
+    "sector": "financial-services",
+    "storyId": "2026-11-14-12",
+    "subindustry": "payments-fintech"
+   },
+   {
+    "answer": 3,
+    "explanation": "Investors had priced in another upgrade. Holding guidance below consensus read as slowing momentum despite strong SportStyle and Onitsuka Tiger growth.",
+    "id": "2026-11-14:x05",
+    "kind": "today",
+    "options": [
+     "It cut prices on all shoes",
+     "It cancelled the Onitsuka Tiger spin-off",
+     "Sales in Europe fell",
+     "It held its ¥195 billion profit forecast, below the ¥199.7 billion analysts expected"
+    ],
+    "prompt": "Asics' sales rose about 29% through the third quarter, yet its shares fell 14.3%. What triggered the drop?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-14-14",
+    "subindustry": "cpg"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "Investors worried Arm could lose its leader if Haas moved to Nvidia. Nvidia uses Arm CPU designs in its Grace and Vera platforms, so the business link itself was not at risk.",
+    "id": "2026-11-14:q01",
+    "kind": "today",
+    "options": [
+     "Nvidia would stop paying Arm royalties",
+     "Arm could lose its own chief executive",
+     "Arm would have to buy Nvidia shares",
+     "Arm's chips would be banned in China"
+    ],
+    "prompt": "A report that Nvidia's board approached Arm CEO Rene Haas sent Arm's shares down about 5% to 6.5%. Why would Arm fall on this news?",
+    "sector": "tmt",
+    "storyId": "2026-11-14-01",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 3,
+    "explanation": "$95.84 against about $72 is roughly a third higher. Prices are falling as Gulf supply rebuilds, but producers still earn far more than before the war.",
+    "id": "2026-11-14:q02",
+    "kind": "today",
+    "options": [
+     "About 5% higher",
+     "About 15% higher",
+     "About 60% higher",
+     "About 33% higher"
+    ],
+    "prompt": "Brent settled at $95.84 after a second weekly loss. It traded near $72 before the war began in late February. Roughly how much higher is it now?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-14-02",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 0,
+    "explanation": "A stronger dollar makes US goods dearer abroad and shrinks foreign earnings once converted. Importers and travelers actually gain because their dollars buy more.",
+    "id": "2026-11-14:q03",
+    "kind": "today",
+    "options": [
+     "US exporters and multinationals that convert foreign profits into dollars",
+     "US importers buying goods from Europe",
+     "American tourists travelling abroad",
+     "Foreign investors who already own US Treasuries"
+    ],
+    "prompt": "The dollar index rose about 1% this week to its highest since April 2025 as Fed officials pushed for rate hikes. Which group is most directly hurt by a stronger dollar?",
+    "sector": "macro",
+    "storyId": "2026-11-14-03",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 2,
+    "explanation": "The FTC says the two are each other's closest rivals and have fought a price war, helped by Vetcove. Combining them would remove that pressure, so clinics and pet owners could pay more.",
+    "id": "2026-11-14:q04",
+    "kind": "today",
+    "options": [
+     "Distributors are banned from owning software",
+     "The deal would make Covetrus a drug manufacturer",
+     "Clinics would lose the ability to play the two leaders against each other on price",
+     "Cencora would gain too much power in human pharmacies"
+    ],
+    "prompt": "Why does the FTC object to Covetrus buying MWI, the other large distributor to US vet clinics?",
+    "sector": "healthcare",
+    "storyId": "2026-11-14-04",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 1,
+    "explanation": "$1.7 billion divided by $1.5 million per megawatt is about 1,100 megawatts, or 1.1 gigawatts, roughly the output of a large nuclear reactor.",
+    "id": "2026-11-14:q05",
+    "kind": "today",
+    "options": [
+     "About 110 megawatts",
+     "About 1.1 gigawatts",
+     "About 11 gigawatts",
+     "About 25 megawatts"
+    ],
+    "prompt": "TVA's new charge is about $1.5 million per megawatt of requested capacity, and its first deal totals $1.7 billion. About how much capacity does that imply?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-14-06",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 2,
+    "explanation": "Banks profit from the gap between deposit and loan rates, and a stable deposit base plus a growing loan book take years to build. That is why mid-sized banks often grow through mergers.",
+    "id": "2026-11-14:q06",
+    "kind": "today",
+    "options": [
+     "The freehold value of its branch buildings",
+     "A guaranteed rise in UK interest rates",
+     "A deposit base and loan book that are slow and costly to build from scratch",
+     "Its cash held at the central bank"
+    ],
+    "prompt": "A mid-sized UK lender with 78 branches and a commercial loan book growing 43% a year puts itself up for sale. What is a buyer mainly paying for?",
+    "sector": "financial-services",
+    "storyId": "2026-11-14-07",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 3,
+    "explanation": "Mining and raw-material prices drove the 5.7% factory-price rise, the fastest since June 2022, but food prices fell and the property slump weighs on household confidence, so only 0.7% reached shops. Firms are squeezed between higher costs and cautious buyers.",
+    "id": "2026-11-09:q04",
+    "kind": "review",
+    "options": [
+     "Households are spending heavily on gasoline and food",
+     "The government raised retail prices to match factory costs",
+     "Chinese factories stopped buying raw materials",
+     "Raw-material costs and strong export demand are pushing factory prices up, while weak domestic demand, especially property, holds consumer prices down"
+    ],
+    "prompt": "China's producer prices rose 5.7% while consumer prices rose just 0.7%. What best explains this gap?",
+    "sector": "macro",
+    "storyId": "2026-11-09-05",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "Without contracts, a generator earns whatever the wholesale market pays. Data-center deals fix more of the revenue in advance, which helped Constellation's shares jump 10.5% after results beat estimates.",
+    "id": "2026-11-10:q03",
+    "kind": "review",
+    "options": [
+     "They turn variable wholesale-price revenue into more predictable contracted income",
+     "They remove the need for any fuel",
+     "They guarantee that local data-center limits will not pass",
+     "They let the generator avoid selling to the grid at any price"
+    ],
+    "prompt": "Why do power deals with data centers matter to a generator like Constellation, which otherwise sells at market prices?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-10-03",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 2,
+    "explanation": "Xarelto's sales fell to €738 million as generics arrived, a classic patent cliff, and a new patented drug in a large market helps refill that gap. Rivals' milvexian is still in trials, and Sunharbo failed in atrial fibrillation, so its first market is secondary stroke prevention.",
+    "id": "2026-11-11:q06",
+    "kind": "review",
+    "options": [
+     "It lets Bayer raise Xarelto's price",
+     "It ends competition from Bristol Myers Squibb and J&J",
+     "It gives Bayer a patented replacement for revenue lost as Xarelto faces generics",
+     "It is approved for all atrial fibrillation patients"
+    ],
+    "prompt": "Bayer won FDA approval for Sunharbo, the first factor XIa blood thinner, while sales of its older drug Xarelto fell almost 43% in the first half. Why does the approval matter so much to Bayer?",
+    "sector": "healthcare",
+    "storyId": "2026-11-11-10",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 3,
+    "explanation": "Distribution wires are regulated monopolies, so profit grows with the capital invested in them at an allowed return of about 9-10%. Independent generators instead earn market prices minus fuel costs, so their profits swing.",
+    "id": "2026-11-14:q10",
+    "kind": "profile",
+    "options": [
+     "Independent power generation sold at market prices",
+     "Retail supply where customers choose a supplier",
+     "Fuel trading",
+     "The wires: distribution networks that deliver power to homes"
+    ],
+    "prompt": "In most of the US, which part of the electricity business is a regulated monopoly that earns an allowed return set by a state commission?",
+    "sector": "energy-materials",
+    "storyId": null,
+    "subindustry": "power-utilities"
+   }
+  ]
  }
 }
