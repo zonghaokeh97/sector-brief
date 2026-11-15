@@ -119,6 +119,22 @@
    "ticker": "Nasdaq: ABNB",
    "updated": "2026-11-06"
   },
+  "akeso": {
+   "businessModel": "Discovers and sells antibody drugs in China, including ivonescimab, and earns upfront and milestone payments by licensing rights in other markets to partners.",
+   "competitors": [
+    "BeOne Medicines (BeiGene)",
+    "Innovent",
+    "Jiangsu Hengrui",
+    "Junshi Biosciences"
+   ],
+   "hq": "Zhongshan, China",
+   "name": "Akeso",
+   "sector": "healthcare",
+   "size": "Revenue ~RMB 2 billion (approx., 2024)",
+   "subindustry": "pharma-biotech",
+   "ticker": "HKEX: 9926",
+   "updated": "2026-11-15"
+  },
   "allianz": {
    "businessModel": "Earns premiums from property-casualty and life/health insurance worldwide and invests them, plus fees from its asset managers PIMCO and Allianz Global Investors.",
    "competitors": [
@@ -2025,6 +2041,22 @@
    "ticker": "Nasdaq: LCID",
    "updated": "2026-11-10"
   },
+  "lukoil": {
+   "businessModel": "Produces crude oil and gas, mostly in Russia, and refines it into fuels sold through its own refineries and filling stations. US sanctions in 2025 pushed it to seek buyers for its foreign assets.",
+   "competitors": [
+    "Rosneft",
+    "Gazprom Neft",
+    "Surgutneftegas",
+    "Tatneft"
+   ],
+   "hq": "Moscow, Russia",
+   "name": "Lukoil",
+   "sector": "energy-materials",
+   "size": "Revenue ~RUB 8.6 trillion (approx., 2024)",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "MOEX: LKOH",
+   "updated": "2026-11-15"
+  },
   "lumentum": {
    "businessModel": "Makes lasers and optical components used in data-center links and telecom networks, selling to transceiver makers and network equipment companies.",
    "competitors": [
@@ -2248,6 +2280,22 @@
    "ticker": "Private",
    "updated": "2026-11-08"
   },
+  "meyer-werft": {
+   "businessModel": "Builds large cruise ships to order for cruise lines, with much of the price paid on delivery, so it must fund years of construction in between.",
+   "competitors": [
+    "Fincantieri",
+    "Chantiers de l'Atlantique",
+    "Mitsubishi Heavy Industries",
+    "Hyundai Heavy Industries"
+   ],
+   "hq": "Papenburg, Germany",
+   "name": "Meyer Werft",
+   "sector": "advanced-industries",
+   "size": "~3,000 employees in Papenburg (approx., 2024)",
+   "subindustry": "industrial-machinery",
+   "ticker": "Private (German state ~40%, Lower Saxony ~40%, Meyer family 20%)",
+   "updated": "2026-11-15"
+  },
   "micron": {
    "businessModel": "Makes memory chips (DRAM, high-bandwidth memory and NAND flash) and sells them to PC, phone and data center customers. Prices swing sharply with supply and demand, so profits are highly cyclical.",
    "competitors": [
@@ -2331,6 +2379,22 @@
    "subindustry": "industrial-machinery",
    "ticker": "NYSE: MOD",
    "updated": "2026-11-14"
+  },
+  "msc": {
+   "businessModel": "Earns freight rates for carrying containers on its global fleet, and also runs port terminals, logistics businesses and MSC Cruises.",
+   "competitors": [
+    "Maersk",
+    "CMA CGM",
+    "COSCO Shipping",
+    "Hapag-Lloyd"
+   ],
+   "hq": "Geneva, Switzerland",
+   "name": "MSC Mediterranean Shipping Company",
+   "sector": "infrastructure-logistics",
+   "size": "World's largest container line, ~20% of global fleet capacity (approx., 2025)",
+   "subindustry": "transport-logistics",
+   "ticker": "Private (Aponte family)",
+   "updated": "2026-11-15"
   },
   "munich-re": {
    "businessModel": "Earns premiums for taking on risk from other insurers as one of the world's largest reinsurers, plus primary insurance through ERGO and investment income on its reserves.",
@@ -3152,6 +3216,22 @@
    "ticker": "Nasdaq and TSX: SHOP",
    "updated": "2026-11-04"
   },
+  "sibur": {
+   "businessModel": "Russia's largest petrochemical company: it processes gas liquids and refinery feedstocks into plastics, synthetic rubber and other chemicals sold to manufacturers at home and abroad.",
+   "competitors": [
+    "SABIC",
+    "Sinopec",
+    "LyondellBasell",
+    "Borealis"
+   ],
+   "hq": "Moscow, Russia",
+   "name": "Sibur",
+   "sector": "energy-materials",
+   "size": "Revenue ~RUB 1 trillion (approx., 2023)",
+   "subindustry": "refining-chemicals",
+   "ticker": "Private (Leonid Mikhelson and partners)",
+   "updated": "2026-11-15"
+  },
   "siemens": {
    "businessModel": "Sells factory automation hardware and industrial software, building and power-distribution systems, and trains and rail signaling, with a growing share of recurring software revenue.",
    "competitors": [
@@ -3455,6 +3535,22 @@
    "subindustry": "payments-fintech",
    "ticker": "Private (founder- and VC-owned)",
    "updated": "2026-10-20"
+  },
+  "summit-therapeutics": {
+   "businessModel": "Develops the cancer antibody ivonescimab under a license from Akeso for markets including the US, Europe and Japan. With no product sales yet, it funds trials by selling shares.",
+   "competitors": [
+    "Merck & Co.",
+    "BioNTech",
+    "Pfizer",
+    "AstraZeneca"
+   ],
+   "hq": "Miami, Florida, US",
+   "name": "Summit Therapeutics",
+   "sector": "healthcare",
+   "size": "Market cap ~$15 billion (approx., 2025); no product revenue",
+   "subindustry": "pharma-biotech",
+   "ticker": "Nasdaq: SMMT",
+   "updated": "2026-11-15"
   },
   "surgery-partners": {
    "businessModel": "Owns or co-owns surgery centers, surgical hospitals and physician practices, earning fees from insurers and Medicare for procedures done in a day, with physician partners sharing ownership.",
@@ -4103,43 +4199,43 @@
  "sectors": {
   "advanced-industries": {
    "overview": "Advanced industries covers engineering-heavy manufacturers: carmakers and their suppliers, aircraft and defense companies, and makers of industrial machinery and equipment. Products take years to design and depend on long, global supply chains, so these companies are shaped by how full their factories are, trade policy and the cost of materials like steel. A large share of their profit often comes from servicing and spare parts after the original sale.",
-   "recap": "Deals reshaped the sector. Tata Motors took about 89% of Iveco in a deal worth roughly EUR 3.9 billion, Axon invested $1.2 billion more in Skydio and cut its growth outlook, and LS Power proposed buying out EVgo shareholders at $2.00 a share. Ferrari raised its 2026 revenue outlook to EUR 7.65 billion. Over the weekend, China blocked SoftBank's $5.4 billion purchase of ABB's robotics business in China, and Tesla said it will end Cybertruck production in Texas around mid-2027.",
-   "recapUpdated": "2026-11-08"
+   "recap": "Aerospace was strong and carmakers mixed. Embraer posted record revenue, Rolls-Royce brought forward a £1.5 billion buyback, TransDigm guided to about 14% growth, and SpaceX caught a Starship upper stage from orbit for the first time. Honda raised its profit forecast 20% on hybrids, while Nissan's operating profit fell 96% and Lucid missed estimates. Reports said SpaceX and Tesla could announce a merger as soon as December, Siemens booked a record €108 billion of orders, Samsung entered talks to buy Modine, and MSC neared a deal for 80% of shipbuilder Meyer Werft.",
+   "recapUpdated": "2026-11-15"
   },
   "consumer-retail": {
    "overview": "Consumer and retail covers the companies that make and sell what people buy day to day. That includes stores and online retailers, makers of food, drinks and household products, farm and food businesses, and travel and hospitality companies like airlines and hotels. Consumer spending is about two-thirds of the US economy, so these businesses rise and fall with how confident people feel and how much money they have left after essentials.",
-   "recap": "Deals and distress stood out. Organigram agreed to buy Aurora Cannabis for about C$561 million, Spain's Dcoop and Acesur took over olive oil maker Deoleo, and Poundland filed to appoint administrators, putting about 12,000 jobs at risk. Airbnb's revenue rose 19% and it authorized $12 billion more in buybacks, Shopify's revenue rose 32%, and DraftKings fell 22% as its loss widened to $469 million. US airline shares jumped about 4% when crude fell sharply on Monday.",
-   "recapUpdated": "2026-11-08"
+   "recap": "Results split along cost lines. Wizz Air's half-year profit fell 67% as fuel costs rose, JBS's EBITDA fell 36% on costly cattle, and Corteva's Latin American sales dropped 31%. Flowers Foods cut its outlook as bread volumes fell 7%, and Asics fell 14% on cautious guidance. Growth stories held up: Sea's revenue rose 43% to $8.6 billion, B&M returned to UK sales growth, Richemont's profit rose 39% on jewellery, and drone firm Zipline raised $1.5 billion at a $21.5 billion valuation.",
+   "recapUpdated": "2026-11-15"
   },
   "energy-materials": {
    "overview": "Energy and materials covers the companies that pull resources out of the ground and turn them into fuel, power and raw materials. That includes oil and gas producers, the pipelines, ships and terminals that move their output, refineries and chemical plants, electric utilities and renewable developers, and miners and steelmakers. These are capital-heavy businesses that live with commodity prices they don't control, so returns depend on keeping costs low and investing at the right point in the cycle.",
-   "recap": "Oil swung on diplomacy. Brent hit about $103.60 on Tuesday, fell on reports Iran had cleared the way for talks, and ended Friday near $98, down more than 16% on the week, while energy shares fell 12%. UK gas averaged 216 pence a therm, 81% above July. BP earned $8.5 billion and Marathon Petroleum $7.4 billion on strong refining margins, QatarEnergy signed a 20-year deal for up to 3 million tonnes a year of Woodside's Louisiana LNG, and Freeport approved a $4.5 billion Arizona copper expansion. On Sunday, debris damaged Aramco's Riyadh tower, and IEA data put 2026 global energy investment near $3.4 trillion.",
-   "recapUpdated": "2026-11-08"
+   "recap": "Oil slid on supply. Brent briefly dropped below $90, bounced to about $93, and ended a second weekly loss at $95.84 as the IEA forecast a fourth-quarter surplus. Fuel stayed tight: US diesel stocks sat near a 23-year low and Ukraine hit nine Russian refineries holding about 40% of the country's capacity. In gas and power, Orlen became the first buyer to cancel a QatarEnergy LNG contract, European peak power topped €600/MWh in a windless cold spell, and TVA charged a data center about $1.5 million per megawatt upfront. Siemens Energy reported a €164 billion backlog, while gold had its worst week since June.",
+   "recapUpdated": "2026-11-15"
   },
   "financial-services": {
    "overview": "Financial services is the business of managing, lending, investing and moving money. Banks take deposits and make loans, insurers collect premiums to cover risks, asset managers invest on behalf of savers and pension funds, and payments companies handle the flow of money between people and businesses. It is one of the most heavily regulated industries, so how much capital firms must hold and how well they control risk shapes how profitable they can be.",
-   "recap": "Crypto and payments dominated. A $6.3 billion theft from Binance, linked by analysts to North Korean hackers, was called the largest crypto heist on record, and on Friday the US Treasury moved to cut MEXC off from American institutions over alleged illicit flows of at least $16 billion. Fiserv took a $6.45 billion goodwill write-down but doubled its cost-savings target to $1 billion. On Saturday, Berkshire Hathaway reported lower operating profit as insurance underwriting fell 43%, while it bought back $9.6 billion of stock.",
-   "recapUpdated": "2026-11-08"
+   "recap": "Bank consolidation picked up. Crédit Agricole proposed merging its Italian unit into Banco BPM, Hancock Whitney agreed to buy Trustmark for about $3.2 billion, and Metro Bank put itself up for sale, while UniCredit posted a record €3.3 billion quarter. Insurers raised targets, with Munich Re at €6.6 billion and Allianz at about €18.6 billion, though Goldman Sachs downgraded European insurers. In payments, Western Union dropped its Intermex deal, Paysafe fell about 24%, bitcoin slipped below $70,000, and OpenAI launched an AI-agent wallet with Visa, Mastercard and Amex.",
+   "recapUpdated": "2026-11-15"
   },
   "healthcare": {
    "overview": "Healthcare covers the companies that discover, make, pay for and deliver medical care. Drugmakers and biotech firms develop medicines, device makers build everything from surgical tools to heart implants, insurers pay for care, and hospitals and doctors provide it. In the US the system is large and complex, and prices are set through negotiation between manufacturers, insurers and the middlemen between them, so policy and regulation matter as much as science.",
-   "recap": "Drugmakers raised outlooks. Pfizer lifted its 2026 revenue range to $62 billion to $64 billion, Novo Nordisk raised its guidance for the third time as the Wegovy pill reached DKK 5.4 billion, and Moderna returned to profit and lifted its growth outlook to 15% to 25%. Neurocrine's revenue rose 41% and Guardant's 36%. CVS Health plans to split into two public companies by the first half of 2028, and Stevanato warned that lower GLP-1 volumes will slow its 2027 growth.",
-   "recapUpdated": "2026-11-08"
+   "recap": "Regulators were busy. The FDA added vision-loss warnings to leading GLP-1 drugs, approved Bayer's Sunharbo as the first factor XIa blood thinner, and rejected Summit's ivonescimab for lacking a clear survival benefit. Eli Lilly won China's first approval for an oral GLP-1 weight-loss pill and began a $3.5 billion Pennsylvania plant. The FTC sued to block Covetrus's $3.5 billion purchase of veterinary distributor MWI, and Sonova raised its outlook on AI-powered hearing aids.",
+   "recapUpdated": "2026-11-15"
   },
   "infrastructure-logistics": {
    "overview": "Infrastructure and logistics covers the physical networks the rest of the economy runs on. That includes the trucking, rail, shipping and air freight companies that move goods, the developers and builders behind homes, offices and data centers, and the public sector that funds and regulates much of it. These businesses are sensitive to fuel costs and interest rates, because moving goods burns diesel and most buildings are paid for with borrowed money.",
-   "recap": "Few stories were filed this week. Uber reported gross bookings up 20% to $59.8 billion, with Freight growing fastest. Only one infrastructure and logistics story was filed this week.",
-   "recapUpdated": "2026-11-08"
+   "recap": "Freight stayed strong while housing weakened. Maersk raised its 2026 outlook a third time and Hapag-Lloyd raised its outlook again, while air freight rates hit their 2026 high, up 28% on a year earlier. US existing-home sales fell to their slowest pace since 2010 as mortgage rates topped 7%, though Ferguson lifted its sales outlook. A four-hour nationwide FAA ground stop added pressure for a $30.1 billion request for airports and air traffic control.",
+   "recapUpdated": "2026-11-15"
   },
   "macro": {
    "overview": "The macro picture covers the forces that move every industry at once: how fast economies are growing, how quickly prices are rising, where central banks set interest rates, and how goods and money flow between countries. When energy costs climb or borrowing gets more expensive, the effects show up in nearly every company's results, so this is the backdrop for reading the rest of the news.",
-   "recap": "The week ended with stress in markets. The S&P 500 fell 2.7% and the Nasdaq 3.4% after Thursday's 4.4% drop, and the 10-year yield closed the week at 4.86%. October payrolls rose 165,000 against a forecast of about 59,000, while the Bank of England raised its rate to 4% and traders priced about a 68% chance of a December Fed hike. A Democratic sweep in the midterms put tariffs and tech export controls back in play, though changes are unlikely before January. October inflation data is due Tuesday.",
-   "recapUpdated": "2026-11-08"
+   "recap": "Inflation pushed borrowing costs higher. October consumer prices beat forecasts and lifted the 10-year Treasury yield back above 5%, producer prices rose 6.5% from a year earlier, and the 2-year yield jumped 35 basis points in the week as Fed officials pushed for a December hike. Falling oil gave brief relief early in the week, when the Dow gained about 650 points. Abroad, UK growth reached 0.7% in the third quarter and China's factory-gate prices rose 5.7%, while China's higher foreign-currency reserve rule for banks took effect on Sunday.",
+   "recapUpdated": "2026-11-15"
   },
   "tmt": {
    "overview": "Tech, media and telecom covers the companies behind computing and communication: chipmakers, software and cloud providers, internet platforms like search and social media, entertainment and streaming companies, and the telecom networks that connect everything. Many of these businesses become more profitable as they grow, because serving one more customer costs very little, which is why a handful of very large companies dominate. Much of the sector's investment today is going into the data centers and chips that power AI.",
-   "recap": "AI spending worries drove tech. Marvell agreed to buy Lumentum for $115 billion in stock, AMD posted record revenue of $13.4 billion, and Apple, Palantir and AppLovin posted strong growth. But the Philadelphia semiconductor index fell about 12% on Thursday, and Asian chip stocks fell as much as 10% on Friday before US chips rebounded 4.2%. Democratic governors-elect threatened slower data center permitting, and software earnings split, with Cloudflare surging while Atlassian fell more than 15%.",
-   "recapUpdated": "2026-11-08"
+   "recap": "Nvidia dominated the week. Its board investigated Jensen Huang, he resigned on Thursday with CFO Colette Kress as interim CEO, and a report that the board approached Arm's Rene Haas pulled chip stocks lower. AI demand stayed strong elsewhere: Cisco posted record revenue of $18.5 billion, Applied Materials $10.4 billion and CoreWeave revenue rose 168%. Anthropic set an IPO range aimed at raising up to $64 billion, OpenAI's revenue reached $10 billion with a $10.9 billion operating loss, and a Microsoft 365 outage lasted more than 24 hours.",
+   "recapUpdated": "2026-11-15"
   }
  },
  "subindustries": {

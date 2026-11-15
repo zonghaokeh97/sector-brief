@@ -4432,5 +4432,287 @@
   "subindustry": "cpg",
   "summary": "Flowers Foods, maker of Nature's Own and Dave's Killer Bread, said third-quarter net sales fell 4.7% to $1.169 billion, as a 7.0% drop in volume outweighed a 2.3% gain from pricing and mix. Net income fell 63.6% to $14.4 million and adjusted EBITDA dropped 33.2% to $78.9 million, hit by lower volumes and higher marketing and logistics costs. The company cut its 2026 adjusted EPS forecast to $0.63 to $0.68 from $0.75 to $0.85, its second cut in a row, and its shares fell about 8% on Friday. Management cited pressure on household budgets and heavier promotions across the category.",
   "tags": []
+ },
+ "2026-11-15-01": {
+  "companies": [
+   "lukoil",
+   "sibur"
+  ],
+  "date": "2026-11-15",
+  "headline": "Ukraine strikes another Russian refinery after hitting nine this month, and some Russian regions bring back fuel rationing",
+  "numbers": [
+   "Russian refineries hit in November: 9 before Sunday (Bloomberg tally)",
+   "Their combined capacity: ~2.6M barrels/day, ~40% of Russia's total",
+   "Volgograd refinery capacity: ~300,000 barrels/day",
+   "Brent Friday settle: $95.84"
+  ],
+  "order": 1,
+  "sector": "energy-materials",
+  "soWhat": "These strikes hit the middle of the oil chain: Russia can still pump crude, but loses the ability to turn it into diesel and gasoline. That leaves less Russian diesel for export and more crude to sell abroad, which keeps fuel margins high for refiners elsewhere even while crude prices fall. Diesel users such as trucking firms and airlines bear the cost, with US diesel stocks already near a 23-year low. The open question is how fast Russia can repair the damaged primary units.",
+  "sources": [
+   {
+    "title": "Rigzone (Bloomberg): Ukraine hits 9th Russian oil refinery since start of November",
+    "url": "https://www.rigzone.com/news/wire/ukraine_hits_9th_russian_oil_refinery_since_start_of_nov-13-nov-2026-185083-article/"
+   },
+   {
+    "title": "Kyiv Independent: Ukraine strikes major Russian petrochemical and oil refining plants",
+    "url": "https://kyivindependent.com/fire-reported-at-industrial-facility-in-russias-tatarstan-amid-drone-attack/"
+   }
+  ],
+  "subindustry": "refining-chemicals",
+  "summary": "Ukraine's General Staff said its drones hit the TAIF-NK refinery in Nizhnekamsk, Tatarstan, overnight on November 15, striking its only primary crude-processing unit, along with Sibur's Nizhnekamskneftekhim petrochemical plant. On Friday Ukraine hit Lukoil's Volgograd refinery, which has about 300,000 barrels a day of nameplate capacity, damaging four primary processing units, a hydrotreater, six storage tanks and a loading rack. Bloomberg counts nine Russian refineries hit since the start of November, including Omsk, the country's largest, with combined capacity of about 2.6 million barrels a day, roughly 40% of Russia's total. Some of the plants still run at reduced rates, and some Russian regions have reintroduced fuel rationing. The IEA expects Russian refining to be severely curtailed through year-end.",
+  "tags": []
+ },
+ "2026-11-15-02": {
+  "companies": [
+   "summit-therapeutics",
+   "akeso",
+   "merck-co"
+  ],
+  "date": "2026-11-15",
+  "headline": "FDA rejects Summit's ivonescimab, delaying the first US approval of a PD-1xVEGF cancer drug",
+  "numbers": [
+   "Decision date: Nov 14, 2026",
+   "PD-1xVEGF class sales forecast: ~$30B by 2032 (analysts)",
+   "Ivonescimab sales forecast: $4.4B by 2030 (Evaluate)",
+   "Keytruda: approved in 40+ indications"
+  ],
+  "order": 2,
+  "sector": "healthcare",
+  "soWhat": "The FDA is asking new cancer drugs to show that patients live longer, not only that tumors grow more slowly, and that raises the cost and time for the whole PD-1xVEGF class, which many see as the next challenger to Merck's Keytruda. Developers with strong survival data gain relative value, while single-drug biotechs like Summit lose time and need more cash for new trials. Keytruda is approved in more than 40 uses, so any challenger needs many trials to compete broadly. The open question is whether trials in other lung cancer types show a clear survival benefit.",
+  "sources": [
+   {
+    "title": "BioSpace: Summit's PD-1xVEGF rejected by FDA in lung cancer",
+    "url": "https://www.biospace.com/drug-development/summits-pd-1xvegf-rejected-by-fda-in-lung-cancer"
+   },
+   {
+    "title": "Fierce Pharma: FDA rejects Summit's ivonescimab",
+    "url": "https://www.fiercepharma.com/pharma/fda-rejects-summit-therapeutics-pd-1-vegf-ivonescimab-nsclc"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "The FDA issued a complete response letter declining Summit Therapeutics' application for ivonescimab with chemotherapy in previously treated EGFR-mutated non-small cell lung cancer, around its November 14 decision date. The agency said the Phase 3 HARMONi trial's gain in progression-free survival, without a statistically significant overall survival benefit, does not show a positive benefit-risk profile. Summit had shown the FDA updated data in September with a slight survival benefit in the global population. The drug comes from China's Akeso, which has sold it in China for this use since 2024. Analysts expect the PD-1xVEGF drug class to reach about $30 billion of sales by 2032, and Evaluate had forecast $4.4 billion for ivonescimab by 2030.",
+  "tags": []
+ },
+ "2026-11-15-03": {
+  "companies": [
+   "microsoft"
+  ],
+  "date": "2026-11-15",
+  "headline": "Microsoft restores Outlook and Teams after a global outage of more than 24 hours, one of its longest",
+  "numbers": [
+   "Duration: 24+ hours (Nov 12 to 14)",
+   "Downdetector reports: 7.4M+",
+   "Estimated insured losses: $300M to $500M",
+   "Microsoft share price Friday: $523.88, flat"
+  ],
+  "order": 3,
+  "sector": "tmt",
+  "soWhat": "Microsoft 365 bundles email, identity, security and AI tools, so one infrastructure fault stopped whole organizations, which Gartner described as concentration risk from a tightly coupled design. The outage strengthens the case for backup communication tools, multi-vendor setups and outage insurance, a modest opening for rival workplace software. Microsoft's shares closed flat, a sign that high switching costs keep customers in place even after a bad failure. The open question is whether large customers push for service credits or contract changes once Microsoft publishes its incident report.",
+  "sources": [
+   {
+    "title": "Reuters via Euronext: Microsoft restores service to Outlook and Teams after global outage",
+    "url": "https://live.euronext.com/en/financial-news/microsoft-restores-service-outlook-and-teams-after-global-outage"
+   },
+   {
+    "title": "CIO Dive: Microsoft outage and enterprise resiliency",
+    "url": "https://www.ciodive.com/news/microsoft-outage-enterprise-resiliancy/874695/"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Microsoft said on Saturday, November 14, that its services had fully recovered from a global Microsoft 365 outage that began on Thursday afternoon and hit Exchange Online email, Outlook, Teams and the Copilot assistant. It blamed server issues tied to an earlier network capacity upgrade and ruled out a cyberattack or AI agents. Downdetector logged more than 7.4 million reports worldwide, peaking near 20,000 a minute. The disruption reached government bodies including the UK's NHS, exchange operator Euronext, Maersk and Indian airlines, and Richemont briefly delayed its results. Estimated insured losses are $300 million to $500 million, against $400 million to $1.5 billion for the 2024 CrowdStrike outage.",
+  "tags": []
+ },
+ "2026-11-15-04": {
+  "companies": [
+   "openai",
+   "visa",
+   "mastercard",
+   "american-express"
+  ],
+  "date": "2026-11-15",
+  "headline": "OpenAI launches ChatGPT Wallet with Visa, Mastercard and Amex so its AI agents can pay for purchases",
+  "numbers": [
+   "ChatGPT weekly users: 1.2B+",
+   "Paying users: ~100M",
+   "OpenAI cut of transactions at launch: 0%",
+   "Launch market: US Pro subscribers only"
+  ],
+  "order": 4,
+  "sector": "financial-services",
+  "soWhat": "Agent shopping puts a new layer between shoppers and stores, and the card networks are moving early so that those purchases still run on their rails, using tokens to keep card data safe. For merchants, an agent that compares offers weakens brand loyalty and advertising, which is why Amazon blocks agents from buying on its site and United Airlines plans to block agent bookings. OpenAI gives up fees for now to build volume and trust. The open question is who carries fraud and dispute costs when an agent buys the wrong thing.",
+  "sources": [
+   {
+    "title": "CNBC: OpenAI launches ChatGPT Wallet for dots purchases",
+    "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
+   },
+   {
+    "title": "gHacks: OpenAI launches ChatGPT Wallet so agents can pay without seeing card details",
+    "url": "https://www.ghacks.net/2026/11/15/openai-launches-chatgpt-wallet-so-agents-can-pay-without-seeing-your-card-details/"
+   }
+  ],
+  "subindustry": "payments-fintech",
+  "summary": "OpenAI launched ChatGPT Wallet on November 13, letting its \"dots\" personal agents buy items for users with stored cards. The card networks Visa, Mastercard and American Express issue a token for each approved purchase, so neither the agent nor the merchant sees the card number, and every purchase needs the user's approval. It starts with US ChatGPT Pro subscribers aged 18 or over. OpenAI is not taking a cut of transactions at launch, and cardholders keep their usual rewards and protections. ChatGPT has more than 1.2 billion weekly users and nearly 100 million paying users.",
+  "tags": []
+ },
+ "2026-11-15-05": {
+  "companies": [
+   "spacex"
+  ],
+  "date": "2026-11-15",
+  "headline": "SpaceX catches a Starship upper stage returning from orbit for the first time, though the booster catch is aborted",
+  "numbers": [
+   "Flight duration: ~22.5 hours (a Starship record)",
+   "Starlink V3 satellites deployed: 26",
+   "Orbit: ~275 km",
+   "Stages caught: 1 of 2"
+  ],
+  "order": 5,
+  "sector": "advanced-industries",
+  "soWhat": "Rockets are expensive mainly because most of the hardware is thrown away, so catching both stages would let SpaceX reuse the whole vehicle and cut the cost of each launch. Cheaper heavy launches matter most for Starlink, whose larger V3 satellites fly on Starship, and they put price pressure on rival launch firms. A working ship catch also strengthens SpaceX's hand as it discusses a merger with Tesla. The open question is how much refurbishment a caught ship needs before it can fly again.",
+  "sources": [
+   {
+    "title": "drohnen.de: Starship Flight 15, Ship 42 caught by the tower",
+    "url": "https://www.drohnen.de/97929/starship-flight-15-live-ship-catch-en/"
+   },
+   {
+    "title": "Space.com: Starship Flight 15 aborts booster catch",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship"
+   }
+  ],
+  "subindustry": "aerospace-defense",
+  "summary": "Starship Flight 15 launched from Starbase, Texas, on Friday, November 13, and its upper stage, Ship 42, reached an orbit of about 275 km and deployed all 26 Starlink V3 satellites. After about 22.5 hours, the longest Starship flight so far, the launch tower's arms caught the ship on Saturday afternoon, the first time an upper stage has been recovered from orbit this way. The Super Heavy booster aborted its own tower catch after its guidance system flagged a problem and came down in the Gulf of Mexico. SpaceX is investigating the booster abort.",
+  "tags": []
+ },
+ "2026-11-15-06": {
+  "companies": [],
+  "date": "2026-11-15",
+  "headline": "A nationwide FAA ground stop caused by network failure adds pressure for a $30 billion air traffic upgrade",
+  "numbers": [
+   "Ground stop: 4+ hours",
+   "Flights scheduled after 4 p.m. ET: ~11,000 (1.5M passengers)",
+   "Funding request: $30.1B, incl. $10.1B for air traffic control",
+   "Systems rated unsustainable: 51 of 138 (GAO, 2024)"
+  ],
+  "order": 6,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Air traffic control is a government monopoly, so its failures land on airlines as lost revenue, crew overtime and rebooking costs they cannot avoid. The upgrade money is a large opportunity for telecom, radar and software contractors, but the GAO found in September that the FAA lacks a reliable cost estimate and an integrated schedule, a sign of execution risk. The open question is whether Congress approves the request and whether the FAA can finish the first phase by its December 2028 target.",
+  "sources": [
+   {
+    "title": "Reuters via AOL: US flight shutdown exposes deepening air traffic control problems",
+    "url": "https://www.aol.com/articles/us-flight-shutdown-exposes-deepening-021810000.html"
+   }
+  ],
+  "subindustry": "public-sector",
+  "summary": "The FAA halted departures at US airports for more than four hours on Friday, November 13, after a communication failure hit all of its en-route air traffic control centers. Transportation Secretary Sean Duffy blamed overloaded switches and routers in the FAA's legacy network. More than 1.5 million passengers were booked on about 11,000 flights scheduled after 4 p.m. Eastern, according to Cirium, and it was the first nationwide ground stop since January 2023. The same day the administration asked Congress for $30.1 billion for airports and air traffic control, including $10.1 billion for modernization, on top of $12.5 billion approved in July 2025. A 2024 GAO report rated 51 of 138 air traffic systems unsustainable.",
+  "tags": []
+ },
+ "2026-11-15-07": {
+  "companies": [
+   "msc",
+   "meyer-werft"
+  ],
+  "date": "2026-11-15",
+  "headline": "MSC nears a deal for about 80% of German cruise-ship builder Meyer Werft from the state",
+  "numbers": [
+   "Stake on offer: ~80%",
+   "State rescue equity (2024): €400M",
+   "Meyer family stake: 20%",
+   "Possible signing: as early as Tuesday, Nov 17"
+  ],
+  "order": 7,
+  "sector": "advanced-industries",
+  "soWhat": "For MSC, which also runs MSC Cruises, owning a shipyard brings a key supplier in house, giving it more control over building slots and costs for future ships. For Germany, the deal offers an exit from a rescue in which taxpayers took on most of the risk. Cruise shipbuilding is concentrated in a few European yards, including Fincantieri and Chantiers de l'Atlantique, so a yard tied to one cruise line may win fewer orders from rival lines. The open question is the price and whether the state attaches job or site guarantees.",
+  "sources": [
+   {
+    "title": "Investing.com via Yahoo Finance: MSC nears deal for 80% stake in German shipbuilder Meyer Werft, Spiegel reports",
+    "url": "https://sg.finance.yahoo.com/news/msc-nears-deal-80-stake-144834811.html"
+   }
+  ],
+  "subindustry": "industrial-machinery",
+  "summary": "Swiss shipping group MSC is close to securing the right to buy about 80% of Meyer Werft, Der Spiegel reported on Saturday, November 14, and an agreement could be signed as early as Tuesday. The stake is held by Germany's federal government and the state of Lower Saxony, about 40% each, after they rescued the Papenburg shipyard at the end of 2024 with €400 million of equity. The Meyer family, which founded the business in 1795, keeps the other 20% and is working with MSC on a joint ownership setup that could let it raise its stake. No price was reported.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-15-08": {
+  "companies": [],
+  "date": "2026-11-15",
+  "headline": "COP31's first week ends split on fossil fuels, as host Turkey pushes for 35% of energy use to be electric by 2035",
+  "numbers": [
+   "Proposed target: electricity at 35% of energy use by 2035",
+   "Electricity's share today: a little over 20%",
+   "US: absent for a 2nd year",
+   "Talks: final week begins Nov 16"
+  ],
+  "order": 8,
+  "sector": "energy-materials",
+  "soWhat": "A global electrification goal would shift investment from fuel supply toward power generation, grids and electric equipment, which favors utilities, grid suppliers and makers of heat pumps and electric vehicles over fuel sellers. With the US absent and oil producers resisting, any deal is likely to be voluntary, so companies will take their signals from national policies more than from the summit text. The open question is whether the final text mentions fossil fuels at all.",
+  "sources": [
+   {
+    "title": "The Open Press: COP31 first week ends deadlocked on fossil fuels",
+    "url": "https://theopenpress.in/article/cop31-first-week-ends-deadlocked-fossil-fuels-stiell-urges-swift-deal"
+   },
+   {
+    "title": "US News (Reuters): COP31 talks face early friction over future of fossil fuels",
+    "url": "https://www.usnews.com/news/world/articles/2026-11-13/cop31-talks-face-early-friction-over-future-of-fossil-fuels"
+   }
+  ],
+  "subindustry": "renewables-transition",
+  "summary": "The UN climate talks in Antalya entered their final week with large fossil fuel producers and consumers resisting firm new targets or language on moving away from oil, gas and coal. Host Turkey wants electricity to supply 35% of world energy use by 2035, up from a little over a fifth now, and European leaders back the idea. The COP31 presidency published options for the final decision on Friday, and lead negotiator Australia plans a draft text early next week. Saudi Arabia and Russia traditionally resist limits on fossil fuels, India opposes steps it says could limit development, and the United States, the largest oil consumer, is skipping the talks for a second year.",
+  "tags": []
+ },
+ "2026-11-15-09": {
+  "companies": [
+   "nvidia",
+   "coreweave"
+  ],
+  "date": "2026-11-15",
+  "headline": "Jensen Huang's exit leaves a gap in AI startup funding, where Nvidia joined 105 rounds this year",
+  "numbers": [
+   "Nvidia funding rounds in 2026: 105 (PitchBook)",
+   "Hugging Face purchase: $13B, closing 2027",
+   "Reflection AI investment: $800M",
+   "Huang's time as CEO: 33 years"
+  ],
+  "order": 9,
+  "sector": "tmt",
+  "soWhat": "Nvidia's investments worked partly like vendor financing: money went to cloud and model startups that then bought Nvidia chips, supporting both its sales and those startups' valuations. A pullback would raise the cost of capital for smaller AI clouds and open-weight model makers and could slow some GPU orders. It also gives rival chipmakers and Big Tech an opening to win customers with their own funding. The open question is whether Nvidia's next CEO keeps investing as a sales tool or cuts it back as a risk.",
+  "sources": [
+   {
+    "title": "TechCrunch: Jensen Huang's departure blasts big hole in AI startup funding",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Nvidia took part in 105 startup funding rounds in 2026, often as the largest investor, according to PitchBook data cited by TechCrunch. Its bets included CoreWeave before its listing, Crusoe's $1.4 billion Series E and an $800 million check into Reflection AI, and it agreed to buy Hugging Face for $13 billion, a deal expected to close in 2027. Founders and venture investors say most big investment decisions came from Jensen Huang, and expect interim CEO Colette Kress to be more selective and write smaller checks. One investor said infrastructure startups needing $100 million to $500 million of GPUs often raised about half of that from Nvidia.",
+  "tags": []
+ },
+ "2026-11-15-10": {
+  "companies": [],
+  "date": "2026-11-15",
+  "headline": "China's higher foreign-currency reserve rule for banks takes effect as Beijing leans against a rising yuan",
+  "numbers": [
+   "FX deposit reserve ratio: 6% (from 4%)",
+   "Last increase: December 2021",
+   "Yuan fixing after the announcement: ~6.71 per dollar",
+   "China October activity data: due Nov 16"
+  ],
+  "order": 10,
+  "sector": "macro",
+  "soWhat": "A rapidly rising yuan cuts what Chinese exporters earn when they convert dollar sales into yuan, at a time when exports are carrying China's growth. Raising the reserve ratio is a mild brake that signals Beijing wants a slower climb rather than a reversal. For foreign companies, a firm yuan makes selling into China cheaper and makes Chinese goods slightly less competitive abroad. The open question is what Monday's data show about domestic demand.",
+  "sources": [
+   {
+    "title": "investingLive: China's PBOC lifts FX reserve ratio to 6%",
+    "url": "https://investinglive.com/central-banks/china-s-pboc-lifts-fx-reserve-ratio-to-6-what-it-means-for-the-yuan-aud/"
+   },
+   {
+    "title": "Yicai Global: China's forex RRR hike to likely freeze foreign currency liquidity",
+    "url": "https://www.yicaiglobal.com/news/chinas-forex-rrr-hike-to-likely-freeze-up-to-usd25-billion-in-forex-liquidity-expert-says"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "From November 15, Chinese banks must hold 6% of their foreign-currency deposits as reserves, up from 4%, the first increase since December 2021. The People's Bank of China says the move strengthens management of foreign-exchange liquidity, and markets read it as an effort to slow the yuan's gains by making dollars scarcer onshore. After the announcement the central bank set its daily rate near 6.71 yuan per dollar, weaker than the roughly 6.66 analysts expected. Earlier in 2026 it cut its risk reserve on forward currency sales to zero, also to cool appreciation. China's October output and retail sales data are due on Monday, November 16.",
+  "tags": []
  }
 }
