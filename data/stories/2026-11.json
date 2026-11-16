@@ -4714,5 +4714,463 @@
   "subindustry": "macro",
   "summary": "From November 15, Chinese banks must hold 6% of their foreign-currency deposits as reserves, up from 4%, the first increase since December 2021. The People's Bank of China says the move strengthens management of foreign-exchange liquidity, and markets read it as an effort to slow the yuan's gains by making dollars scarcer onshore. After the announcement the central bank set its daily rate near 6.71 yuan per dollar, weaker than the roughly 6.66 analysts expected. Earlier in 2026 it cut its risk reserve on forward currency sales to zero, also to cool appreciation. China's October output and retail sales data are due on Monday, November 16.",
   "tags": []
+ },
+ "2026-11-16-01": {
+  "companies": [
+   "anthropic",
+   "nvidia"
+  ],
+  "date": "2026-11-16",
+  "headline": "Anthropic enters its IPO week with orders reportedly six times the shares on offer, as AI stocks slide",
+  "numbers": [
+   "Shares offered: 825 million at $70-$78",
+   "Maximum raise: ~$64 billion",
+   "Valuation at top of range: ~$1.4 trillion fully diluted",
+   "Early demand: ~6x the shares on offer (Bloomberg)"
+  ],
+  "order": 1,
+  "sector": "tmt",
+  "soWhat": "An IPO this size is a price-discovery event for the whole AI industry. If public investors pay up for a model maker that sells mainly to businesses, it supports the spending of cloud and chip suppliers whose growth depends on companies like Anthropic. A weak debut would make it harder for other AI labs to raise money and could slow orders down the chain. The open question is whether strong order books hold if Nvidia's results on Tuesday disappoint.",
+  "sources": [
+   {
+    "title": "CNBC: Anthropic IPO guide: the price range, date and more",
+    "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html"
+   },
+   {
+    "title": "Startup Fortune: Anthropic's $64 billion IPO lands in the middle of an AI selloff",
+    "url": "https://startupfortune.com/anthropics-64-billion-ipo-lands-in-the-middle-of-an-ai-selloff/"
+   },
+   {
+    "title": "ABC News: ASX business live, 16 November 2026",
+    "url": "https://abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Anthropic plans to price its Nasdaq listing on Wednesday, November 18, and start trading under the ticker ANT on Thursday. It is selling 825 million shares at $70 to $78 each, which would raise up to about $64 billion and value the company at about $1.4 trillion on a fully diluted basis. Bloomberg reported that early orders were about six times the shares available, and up to 20% of the offering can go to retail investors. The deal lands in a weak market: the Nasdaq fell 5.5% the week before the roadshow, and Nvidia, which reports on Tuesday, has lost about a third of its value since early October.",
+  "tags": []
+ },
+ "2026-11-16-02": {
+  "companies": [
+   "diamondback-energy"
+  ],
+  "date": "2026-11-16",
+  "headline": "Diamondback buys the 40% of its Double Eagle Midland Basin partnership it did not own, for $2.15 billion plus stock",
+  "numbers": [
+   "Cash paid: $2.15 billion + ~15.56M Diamondback shares",
+   "Net acres: ~176,000 in the Midland Basin",
+   "2027 oil output: ~35,000 bbl/d (92,000 boe/d)",
+   "Price: ~4.0x 2027 EBITDA"
+  ],
+  "order": 2,
+  "sector": "energy-materials",
+  "soWhat": "US shale growth now comes mostly from buying, not from finding new rock. Diamondback already operates these acres, so it gets more oil and a deeper list of future wells without adding a rig, which keeps costs flat while cash flow rises. Paying about 4 times EBITDA is cheap if oil stays near $90, but the stock portion shares that oil-price risk with the sellers. The open question is how the inventory looks if Brent falls toward the $78 that some banks forecast for late 2027.",
+  "sources": [
+   {
+    "title": "Diamondback Energy press release via Manila Times/GlobeNewswire: Core Midland Basin acquisition",
+    "url": "https://www.manilatimes.net/2026/11/16/tmt-newswire/globenewswire/diamondback-energy-inc-announces-core-midland-basin-acquisition/2470755"
+   },
+   {
+    "title": "Crypto Briefing: Diamondback Energy to acquire Double Eagle assets",
+    "url": "https://cryptobriefing.com/diamondback-energy-deal-double-eagle-acquisition-2026-11/"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Diamondback Energy agreed to buy subsidiaries of Double Eagle IV and Double Eagle V, giving it full ownership of a partnership on about 176,000 net acres in the core of the Midland Basin in West Texas. It will pay $2.15 billion in cash plus about 15.56 million of its own shares, valuing the deal at about 4.0 times expected 2027 EBITDA. The assets should produce about 35,000 barrels of oil a day in 2027 (92,000 barrels of oil equivalent including gas) and include more than 1,200 gross drilling locations, 68% of them undeveloped. The deal is expected to close on December 21.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-16-03": {
+  "companies": [],
+  "date": "2026-11-16",
+  "headline": "Japan's economy shrinks at a 0.1% annual pace in the third quarter as costly oil and a weak yen hit consumers",
+  "numbers": [
+   "Q3 GDP: -0.1% annualized (forecast +0.3%)",
+   "Private consumption: -1.1% annualized",
+   "Business investment: +6.8% annualized",
+   "Dollar-yen: ~160"
+  ],
+  "order": 3,
+  "sector": "macro",
+  "soWhat": "Japan imports almost all its oil, so the Gulf conflict works like a tax on its households and a transfer to energy exporters. A weak yen makes it worse by raising the cost of every imported barrel and every ton of food. Companies building data centers and automation are still spending, so the split is between strong corporate investment and squeezed consumers. The open question is whether the government's proposed food tax cut passes, given worries about public debt.",
+  "sources": [
+   {
+    "title": "AP via KSAT: Japan's economy contracts slightly as oil prices remain high",
+    "url": "https://www.ksat.com/business/2026/11/16/japans-economy-contracts-slightly-in-the-latest-quarter-as-oil-prices-remain-high/"
+   },
+   {
+    "title": "BigGo Finance: Japan's July-September GDP falls 0.1% annualized",
+    "url": "https://finance.biggo.com/news/4a06c79e-a90f-4681-9939-d5e7a80e19ff"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "Japan's real GDP fell at an annualized 0.1% in July to September, its first contraction in four quarters, against a forecast of 0.3% growth. Private consumption, more than half of the economy, fell at an annualized 1.1% as prices rose and bad weather kept shoppers home. Net exports subtracted 0.6 percentage point because the import bill jumped with oil prices. Business investment held up, rising at an annualized 6.8% on digital and data-center spending, while the dollar trades near 160 yen.",
+  "tags": []
+ },
+ "2026-11-16-04": {
+  "companies": [
+   "johnson-johnson",
+   "ollin-biosciences"
+  ],
+  "date": "2026-11-16",
+  "headline": "J&J agrees to buy eye-disease biotech Ollin for $2.2 billion upfront, with Blackstone paying for late-stage trials",
+  "numbers": [
+   "Upfront: $2.2 billion",
+   "Total with milestones: up to ~$3.3 billion",
+   "Blackstone funding: $750 million",
+   "Phase 2 study size: 164 patients"
+  ],
+  "order": 4,
+  "sector": "healthcare",
+  "soWhat": "Retinal disease drugs are a large, recurring market because patients need injections for years, so a drug that works faster or needs fewer injections can take share from Roche and Regeneron. The Blackstone deal shows how big drugmakers now share development risk: J&J keeps the upside but moves part of the Phase 3 cost off its books in return for royalties. The open question is whether the early advantage over Vabysmo holds in larger trials.",
+  "sources": [
+   {
+    "title": "CNBC: J&J to buy eye disease biotech Ollin Biosciences for up to $3.3 billion",
+    "url": "https://www.cnbc.com/2026/11/16/jj-strikes-deal-for-eye-disease-biotech-ollin-biosciences.html"
+   },
+   {
+    "title": "CNBC: Stocks making the biggest moves, November 16",
+    "url": "https://www.cnbc.com/2026/11/16/stocks-moving-the-most-today-live-updates.html"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "Johnson & Johnson will pay $2.2 billion upfront for Ollin Biosciences, plus up to about $1.13 billion in milestone payments, for a total of up to about $3.3 billion. Ollin's lead drug, OLN324, is an antibody that blocks two drivers of retinal disease (VEGF and Ang2) and is entering global Phase 3 trials in wet macular degeneration and diabetic macular edema. In a 164-patient study it showed faster and larger improvements than Roche's Vabysmo, the market leader. Blackstone Life Sciences will give J&J $750 million over several years to fund the late-stage trials in exchange for future payments and royalties. J&J shares rose 1.4%.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-16-05": {
+  "companies": [],
+  "date": "2026-11-16",
+  "headline": "China's October data miss forecasts, with retail sales up just 0.4% and investment down 8.1% this year",
+  "numbers": [
+   "Retail sales: +0.4% y/y (forecast 0.8%)",
+   "Industrial output: +4.8% y/y (forecast 5.3%)",
+   "Fixed-asset investment: -8.1% Jan-Oct",
+   "Unemployment: 5.1%"
+  ],
+  "order": 5,
+  "sector": "macro",
+  "soWhat": "China is producing far more than its own consumers buy, so the gap is filled by exports. That keeps pressure on factory prices worldwide and invites more trade defenses, with Citi expecting further EU measures. Weak domestic demand also hurts sellers of commodities, cars and consumer brands that rely on Chinese shoppers. The open question is whether Beijing adds stimulus before the year ends; some economists expect it will not.",
+  "sources": [
+   {
+    "title": "CNBC: China's slowdown deepens in October",
+    "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
+   },
+   {
+    "title": "InvestingLive: China factory output slows to 4.8% in October",
+    "url": "https://investinglive.com/news/china-factory-output-slows-to-4-8-in-october-retail-sales-up-just-0-4-as-demand-sags/"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "China's retail sales rose 0.4% from a year earlier in October, below the 0.8% expected and down from 1.1% in September. Industrial output grew 4.8%, short of the 5.3% forecast. Fixed-asset investment fell 8.1% in the first ten months, worse than the expected 7% drop, and unemployment edged down to 5.1%. Exports remain strong on demand for AI hardware, but households are cutting back, and Goldman Sachs expects growth to slow to 4.6% this year.",
+  "tags": []
+ },
+ "2026-11-16-06": {
+  "companies": [
+   "canadian-natural",
+   "advantage-energy"
+  ],
+  "date": "2026-11-16",
+  "headline": "Canadian Natural agrees to buy Montney gas producer Advantage Energy for about C$2.5 billion",
+  "numbers": [
+   "Price: C$13.55/share, ~25% premium",
+   "Total value: ~C$2.53 billion incl. debt",
+   "Q3 output: ~87,000 boe/d",
+   "Expected close: Q1 2027"
+  ],
+  "order": 6,
+  "sector": "energy-materials",
+  "soWhat": "Canadian Natural is buying gas next to land it already runs, so it can share plants, roads and crews and cut the cost per unit. Western Canadian gas is gaining value as new LNG export plants on the Pacific coast give it a route to Asian buyers, at a time when Gulf LNG supply is disrupted. For smaller producers, the premium shows that scale buyers will pay for well-run infrastructure. The open question is whether competition authorities approve and whether Canadian gas prices hold up as LNG capacity ramps.",
+  "sources": [
+   {
+    "title": "Advantage Energy release via BOE Report: Agreement to be acquired by Canadian Natural",
+    "url": "https://boereport.com/2026/11/16/advantage-announces-agreement-to-be-acquired-by-canadian-natural-resources-ltd/"
+   },
+   {
+    "title": "Rallies.ai: Canadian Natural agrees to acquire Advantage Energy for $2.53 billion",
+    "url": "https://rallies.ai/news/canadian-natural-agrees-to-acquire-advantage-energy-for-253-billion-03f243218f18dcf0"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Canadian Natural Resources will pay C$13.55 a share in cash for Advantage Energy, a 25% premium to Friday's close. Including debt and convertible debentures, the deal is worth about C$2.53 billion. Advantage produced about 87,000 barrels of oil equivalent a day in the third quarter, mostly natural gas, from Montney and Charlie Lake land in Alberta next to Canadian Natural's own operations. It owns the 425 million cubic feet a day Glacier gas plant and a new 75 million cubic feet a day plant. Closing is expected in the first quarter of 2027.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-16-07": {
+  "companies": [
+   "blackstone",
+   "amazon"
+  ],
+  "date": "2026-11-16",
+  "headline": "Blackstone's data-center trust buys 75% of 13 new AWS-leased campuses valued at $5 billion",
+  "numbers": [
+   "Portfolio value: $5 billion (75.1% stake)",
+   "Capacity: 647 MW across 13 buildings",
+   "Lease: 12 years + two 10-year options, 2.75% annual increases",
+   "Starting yield: ~7%"
+  ],
+  "order": 7,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Cloud companies are selling stakes in finished data centers so they can recycle cash into the next buildings and chips. Investors get long, inflation-linked rent from a top-rated tenant, which looks like a bond with a property attached. That turns AI infrastructure into a real-estate asset class open to income funds. The open question is how the trust funds the purchase and whether a 7% starting yield is enough if bond yields stay above 5%.",
+  "sources": [
+   {
+    "title": "Mugglehead: Blackstone Digital Infrastructure Trust agrees to US$5B deal",
+    "url": "https://mugglehead.com/blackstone-digital-infrastructure-trust-data-centre-acquisition/"
+   }
+  ],
+  "subindustry": "real-estate-construction",
+  "summary": "Blackstone Digital Infrastructure Trust (BXDC) agreed to buy a 75.1% stake in two data-center campuses in northern Indiana and Mississippi, valued at $5 billion including costs. The 13 buildings were completed this year and have 647 megawatts of capacity. They are leased to Amazon Web Services for 12 years, with two 10-year renewal options, rent rising 2.75% a year, and a starting yield of about 7%. Financing has not yet been disclosed.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-16-08": {
+  "companies": [
+   "l3harris",
+   "american-airlines"
+  ],
+  "date": "2026-11-16",
+  "headline": "L3Harris shares fall 4% after the US Transportation Secretary blames its network work for Friday's nationwide flight halt",
+  "numbers": [
+   "Ground stop: nearly 5 hours, November 13",
+   "Top-6 airline cancellation rate: 32% Fri, 30% Sat",
+   "L3Harris shares: -4% Monday",
+   "Overhaul request: $50 billion"
+  ],
+  "order": 8,
+  "sector": "advanced-industries",
+  "soWhat": "The FAA does not own the network that carries air traffic data; it rents it from a contractor, so one company's error can stop the whole country. Government services contracts are usually steady earners, but a high-profile failure can cost a contractor future work and invite penalties. Airlines bear the immediate cost in refunds, crew overtime and lost tickets. The open question is whether Congress funds a replacement network and who wins that contract.",
+  "sources": [
+   {
+    "title": "CNBC: Stocks making the biggest moves, November 16",
+    "url": "https://www.cnbc.com/2026/11/16/stocks-moving-the-most-today-live-updates.html"
+   },
+   {
+    "title": "Fox Business: Sean Duffy says L3Harris work may have caused FAA nationwide ground stop",
+    "url": "https://www.foxbusiness.com/fox-news-air-space/who-l3harris-federal-contractor-sec-duffy-says-may-have-caused-faa-outage"
+   }
+  ],
+  "subindustry": "aerospace-defense",
+  "summary": "Transportation Secretary Sean Duffy said maintenance by L3Harris, which owns and runs the FAA's telecom network, likely caused Friday's nationwide ground stop of nearly five hours. He said a router at a remote site, where L3Harris was switching copper lines to fiber, flooded the network with data and the failure spread nationwide; investigators have not decided whether it was installation error or faulty equipment. Cancellation rates at the six largest US airlines reached 32% on Friday and 30% on Saturday, according to FlightAware data analyzed by UBS. Duffy asked Congress for $50 billion to overhaul the system, and airline shares fell more than 1%.",
+  "tags": []
+ },
+ "2026-11-16-09": {
+  "companies": [],
+  "date": "2026-11-16",
+  "headline": "China's refineries cut runs 8% from a year ago as crude piles up in storage, and Brent slips to about $95",
+  "numbers": [
+   "China refinery runs: -8.1% y/y in October",
+   "China crude stock build: ~492,000 bbl/d",
+   "Brent: $95.15 (-0.7%)",
+   "IEA Q4 surplus: ~1.7 mb/d"
+  ],
+  "order": 9,
+  "sector": "energy-materials",
+  "soWhat": "The world's largest crude importer is processing less and storing more, which means weaker demand for fuel at home and less need for new cargoes. For refiners elsewhere, fewer Chinese fuel exports help margins, while producers face a softer market. China's stockpiling also acts as a buffer that can cap prices if Gulf flows improve. The open question is whether new tanker attacks in the Strait of Hormuz reverse the slide.",
+  "sources": [
+   {
+    "title": "CNBC: Oil falls as recovering Middle East exports bolster surplus outlook",
+    "url": "https://www.cnbc.com/2026/11/16/oil-prices-brent-wti-latest.html"
+   },
+   {
+    "title": "ABC News: ASX business live, 16 November 2026",
+    "url": "https://abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
+   }
+  ],
+  "subindustry": "refining-chemicals",
+  "summary": "Chinese refinery throughput fell 2% from September and 8.1% from a year earlier in October, while crude inventories grew by about 492,000 barrels a day, according to Reuters calculations. Brent fell 0.7% to $95.15 a barrel on Monday and WTI to $88.19, after both dropped more than 13% last week. The IEA now expects fourth-quarter supply of 105 million barrels a day, 1.7 million above demand, as Gulf exports recover despite reported tanker mine strikes. Goldman Sachs expects Brent to average $88 in 2027.",
+  "tags": []
+ },
+ "2026-11-16-10": {
+  "companies": [],
+  "date": "2026-11-16",
+  "headline": "European gas falls below €90 per MWh, but storage is only about 71% full as winter starts",
+  "numbers": [
+   "TTF: below €90/MWh",
+   "EU storage: ~70.6% (5-yr avg 89%)",
+   "Germany storage: ~57%",
+   "Gulf LNG disrupted: ~1/5 of global exports"
+  ],
+  "order": 10,
+  "sector": "energy-materials",
+  "soWhat": "Low storage means Europe will depend on spot LNG cargoes all winter, which gives sellers with flexible supply, mostly US exporters and traders, strong pricing power. Gas plants set the power price in many hours, so gas costs flow straight into electricity bills and industrial costs for chemicals and steel makers. The open question is how cold the winter gets, since a long cold spell could drain storage fast.",
+  "sources": [
+   {
+    "title": "Trading Economics: European natural gas prices drop further",
+    "url": "https://tradingeconomics.com/commodity/eu-natural-gas/news/601395"
+   }
+  ],
+  "subindustry": "midstream-lng",
+  "summary": "Europe's benchmark TTF gas price fell below €90 per megawatt-hour on Monday, extending Friday's losses after a week of gains. EU storage is about 70.6% full, against a five-year average of 89% for this time of year, and Germany's is about 57%. The Gulf conflict has disrupted nearly a fifth of global LNG exports, so Europe is competing with Asia for cargoes, and outages at Norway's Troll and Asgard fields have cut pipeline supply. Colder weather is forecast from November 17.",
+  "tags": []
+ },
+ "2026-11-16-11": {
+  "companies": [
+   "eli-lilly",
+   "calytrix-bio"
+  ],
+  "date": "2026-11-16",
+  "headline": "Lilly makes its 15th acquisition of the year, buying blood-cancer startup Calytrix for up to $1.5 billion",
+  "numbers": [
+   "Deal value: up to $1.5 billion",
+   "Lilly acquisitions in 2026: 15",
+   "Lilly M&A spend in 2026: >$30 billion",
+   "Earlier MPN deal: Ajax, $2.3 billion"
+  ],
+  "order": 11,
+  "sector": "healthcare",
+  "soWhat": "Lilly is using cash from its obesity drugs to buy early-stage science, paying mostly on milestones so it pays in full only if the drug works. Private biotechs and their venture backers gain a ready buyer, which supports funding for new startups. A drug that targets the mutation itself, rather than easing symptoms, could change how these blood cancers are treated. The open question is whether the antibody works in patients, since it has not yet shown clinical data.",
+  "sources": [
+   {
+    "title": "Yahoo Finance: Lilly adds to buyout streak with $1.5B purchase of Calytrix",
+    "url": "https://finance.yahoo.com/healthcare/articles/lilly-adds-buyout-streak-1-124400667.html"
+   },
+   {
+    "title": "Bloomberg: Eli Lilly to acquire Calytrix Bio in deal worth up to $1.5 billion",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/eli-lilly-agrees-to-buy-calytrix-bio-for-up-to-1-5-billion"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "Eli Lilly agreed to buy Calytrix Bio, a private biotech in Wellesley, Massachusetts, for up to $1.5 billion in cash, including an undisclosed upfront payment and milestone payments. Calytrix is developing an antibody that targets a protein made by mutations in the CALR gene, which drive myelofibrosis and essential thrombocythemia, two slow-growing blood cancers. Including this deal, Lilly has spent more than $30 billion on 15 acquisitions this year, mostly private startups. It follows Lilly's $2.3 billion purchase of Ajax Therapeutics in the same disease area.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-16-12": {
+  "companies": [
+   "aramark"
+  ],
+  "date": "2026-11-16",
+  "headline": "Aramark guides 20% to 25% EPS growth after record contract wins, but shares fall 5% on a fourth-quarter miss",
+  "numbers": [
+   "Q4 revenue: $5.3B (+12% organic)",
+   "Q4 adjusted EPS: $0.71 vs $0.75 expected",
+   "FY2026 new business: record $1.9B",
+   "FY2027 EPS growth guide: 20%-25%"
+  ],
+  "order": 12,
+  "sector": "consumer-retail",
+  "soWhat": "Contract caterers earn thin margins on each meal but make money from scale and long contracts with schools, hospitals, stadiums and offices. High retention and new wins matter more than any single quarter, because each contract runs for years. Rising food and labor costs are the main risk, since prices can only be reset at contract renewals. The open question is whether profit grows as fast as revenue as new contracts start up.",
+  "sources": [
+   {
+    "title": "Aramark Q4 fiscal 2026 results (SEC exhibit 99.1)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001584509/000158450926000152/ex991armkq4fy2026.htm"
+   },
+   {
+    "title": "CNBC: Stocks making the biggest moves, November 16",
+    "url": "https://www.cnbc.com/2026/11/16/stocks-moving-the-most-today-live-updates.html"
+   }
+  ],
+  "subindustry": "travel-hospitality",
+  "summary": "Food and facilities services company Aramark reported fourth-quarter revenue of $5.3 billion, up 5%, or 12% organically after adjusting for an extra week a year earlier. Adjusted EPS of $0.71 rose 25% but missed the $0.75 analysts expected. For the year, revenue rose 9% to $20.1 billion, it won a record $1.9 billion of annual new business, and client retention reached about 97%. It expects fiscal 2027 adjusted EPS to grow 20% to 25%, raised its dividend 17% and approved a $1 billion buyback.",
+  "tags": []
+ },
+ "2026-11-16-13": {
+  "companies": [
+   "take-two"
+  ],
+  "date": "2026-11-16",
+  "headline": "Take-Two rises as Jefferies says GTA VI pre-orders point to the top of a 40-50 million unit range ahead of Thursday's launch",
+  "numbers": [
+   "Release date: November 19, 2026",
+   "Jefferies unit range: 40-50 million",
+   "Standard price: $79.99",
+   "FY2027 net bookings guide: $8.0-8.2 billion"
+  ],
+  "order": 13,
+  "sector": "tmt",
+  "soWhat": "A blockbuster game has very high upfront costs and very low costs for each extra copy, so sales beyond break-even are almost pure profit. The bigger prize is the online mode that follows, where players keep spending on in-game items for years. Other publishers may delay their own releases to avoid competing for players' time and money. The open question is how well sales hold after launch week, which the company has said it will report once it has data.",
+  "sources": [
+   {
+    "title": "CNBC: Stocks making the biggest moves, November 16",
+    "url": "https://www.cnbc.com/2026/11/16/stocks-moving-the-most-today-live-updates.html"
+   },
+   {
+    "title": "Investing.com: Take-Two shares rise premarket as Jefferies sees strong GTA VI pre-orders",
+    "url": "https://www.investing.com/news/stock-market-news/taketwo-shares-rise-premarket-as-jefferies-sees-strong-gta-vi-preorders-5029955"
+   }
+  ],
+  "subindustry": "media-entertainment",
+  "summary": "Take-Two Interactive shares rose more than 3% on Monday ahead of the November 19 release of Grand Theft Auto VI. Jefferies said pre-orders are pushing first-year unit sales toward the top of its 40 million to 50 million range and kept its $300 price target. Take-Two said on November 9 that pre-orders were running far above its initial expectations. The standard edition costs $79.99, and the company expects $8 billion to $8.2 billion of net bookings in its fiscal year ending March 2027.",
+  "tags": []
+ },
+ "2026-11-16-14": {
+  "companies": [
+   "adore-beauty"
+  ],
+  "date": "2026-11-16",
+  "headline": "Adore Beauty shares crash about 36% as a new warehouse's problems cut its profit forecast by half",
+  "numbers": [
+   "FY27 EBITDA guide: A$4.0-6.5M (was A$9-13M)",
+   "Product revenue: -8% over 20 weeks",
+   "Share move: ~-36% to A$0.17",
+   "Last 8 weeks: +3%"
+  ],
+  "order": 14,
+  "sector": "consumer-retail",
+  "soWhat": "For an online retailer, the warehouse is the store: if stock is missing or deliveries slip, customers simply buy elsewhere. A new automated warehouse is meant to cut labor costs, but the switch-over is a risky moment, and a small retailer has little cushion. Larger rivals with steady logistics gain share during the disruption. The open question is whether the bank relaxes its covenants, since that decides how much room the company has to recover.",
+  "sources": [
+   {
+    "title": "ABC News: ASX business live, 16 November 2026",
+    "url": "https://abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
+   },
+   {
+    "title": "Retail News Asia: Adore Beauty cuts EBITDA forecast to between $4 million and $6.5 million",
+    "url": "https://retailnews.asia/adore-beauty-cuts-ebitda-forecast-to-between-4-million-and-6-5-million"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "Australian online beauty retailer Adore Beauty cut its fiscal 2027 underlying EBITDA guidance to A$4.0 million to A$6.5 million, from A$9 million to A$13 million. Product revenue fell 8% in the first 20 weeks of the year after the launch of its new national distribution center disrupted stock and deliveries, though sales rose 3% in the latest eight weeks. It also blamed heavy promotions across the sector and the fixed costs of new stores, and said it is in talks with its bank about loan covenants. The shares fell about 36% to a record low of A$0.17.",
+  "tags": []
+ },
+ "2026-11-16-15": {
+  "companies": [
+   "elders"
+  ],
+  "date": "2026-11-16",
+  "headline": "Australian farm supplier Elders nearly triples profit to A$144 million after buying Delta Agribusiness",
+  "numbers": [
+   "FY26 statutory profit: A$144M (+187%)",
+   "Underlying sales revenue: A$4.0B (+31%)",
+   "Delta contribution: A$43.6M pre-tax",
+   "Shares: +7.5%"
+  ],
+  "order": 15,
+  "sector": "consumer-retail",
+  "soWhat": "Rural services is a scale business: a bigger network of branches can buy farm inputs more cheaply and spread its costs across more customers. Buying Delta added stores and agronomists, so most of the profit jump came from consolidation rather than better farm conditions. Farmers have fewer independent suppliers to choose from as the industry consolidates. The open question is how earnings hold if a dry season or weaker cattle prices cut farm spending.",
+  "sources": [
+   {
+    "title": "ABC News: ASX business live, 16 November 2026",
+    "url": "https://abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
+   }
+  ],
+  "subindustry": "agriculture-food",
+  "summary": "Elders, which sells seed, fertilizer and chemicals to farmers and runs livestock, wool and real-estate agencies, reported a 187% rise in statutory profit to A$144 million for its fiscal 2026. Underlying sales revenue rose 31% to A$4.0 billion. Delta Agribusiness, bought for A$475 million in November 2025, added A$43.6 million of underlying pre-tax earnings. The company held its dividend at 36 cents and the shares rose 7.5%, the best performance in the ASX 200 on Monday.",
+  "tags": []
+ },
+ "2026-11-16-16": {
+  "companies": [],
+  "date": "2026-11-16",
+  "headline": "Copper trades near a four-month low and UBS cuts its gold forecast by 10% as rate-hike bets weigh on metals",
+  "numbers": [
+   "LME copper: ~$13,372/t (near 4-month low)",
+   "Spot gold: ~$3,869/oz",
+   "Gold weekly fall: 4.5%",
+   "UBS Q4 gold forecast: $4,500 (-10%)"
+  ],
+  "order": 16,
+  "sector": "energy-materials",
+  "soWhat": "Metals are being hit from two sides: higher expected interest rates make non-yielding gold less attractive, and weak Chinese demand undercuts copper. For miners, lower prices squeeze cash flow just as many are spending on new copper projects for electrification and data centers. Buyers such as wire makers and electronics firms get some relief on input costs. The open question is whether the Fed actually raises rates in December.",
+  "sources": [
+   {
+    "title": "ABC News: ASX business live, 16 November 2026",
+    "url": "https://abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
+   }
+  ],
+  "subindustry": "metals-mining",
+  "summary": "Three-month copper on the London Metal Exchange fell 1.6% to $13,371.50 a ton on Friday, near a four-month low, and Goldman Sachs said its 2027 forecast of $15,400 now faces downside risk. Spot gold slipped to about $3,869 an ounce on Monday after losing 4.5% last week. UBS cut its fourth-quarter gold forecast 10% to $4,500 and expects $5,000 by the end of 2027. Mining shares fell, with BHP down 2.8% in Sydney.",
+  "tags": []
  }
 }

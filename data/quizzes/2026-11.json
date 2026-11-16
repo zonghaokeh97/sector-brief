@@ -4183,5 +4183,252 @@
     "subindustry": "pharma-biotech"
    }
   ]
+ },
+ "2026-11-16": {
+  "date": "2026-11-16",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "L3Harris owns and runs the FAA's telecom network, so a router failure at one site spread nationwide. Cancellation rates at top US airlines then reached 32% on Friday.",
+    "id": "2026-11-16:x01",
+    "kind": "today",
+    "options": [
+     "Airlines share one booking system",
+     "The FAA rents its whole air traffic telecom network from that contractor",
+     "Airports outsource all air traffic controllers",
+     "Jet fuel deliveries run on the same network"
+    ],
+    "prompt": "Why could one contractor's maintenance error halt US flights for nearly five hours?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-16-08",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 2,
+    "explanation": "Calytrix has no clinical data yet, so milestones let Lilly pay more only if the antibody works. Lilly has done 15 such acquisitions in 2026, spending more than $30 billion.",
+    "id": "2026-11-16:x02",
+    "kind": "today",
+    "options": [
+     "To avoid antitrust review",
+     "Because Calytrix already has approved drugs",
+     "To pay in full only if the drug succeeds in trials",
+     "Because milestones are tax free"
+    ],
+    "prompt": "Lilly paid up to $1.5 billion for Calytrix, mostly through milestone payments. Why structure a deal this way?",
+    "sector": "healthcare",
+    "storyId": "2026-11-16-11",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 0,
+    "explanation": "For an online seller, the warehouse is the store, so missing stock means lost sales. Product revenue fell 8% over 20 weeks and EBITDA guidance dropped to A$4.0-6.5 million.",
+    "id": "2026-11-16:x03",
+    "kind": "today",
+    "options": [
+     "Online shoppers who cannot get an item quickly simply buy elsewhere",
+     "Distribution centers set the retail price",
+     "Warehouses pay the brands' advertising costs",
+     "Its stores close when the warehouse is shut"
+    ],
+    "prompt": "Adore Beauty halved its profit guidance after its new distribution center disrupted stock and deliveries. Why does this hit an online retailer so hard?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-16-14",
+    "subindustry": "retail-ecommerce"
+   },
+   {
+    "answer": 1,
+    "explanation": "The cost of making the game is sunk before launch, so additional copies at $79.99 are nearly pure margin. Jefferies sees 40-50 million units, toward the top of that range.",
+    "id": "2026-11-16:x04",
+    "kind": "today",
+    "options": [
+     "Retailers pay the development costs",
+     "Development costs are paid upfront, and each extra digital copy costs very little",
+     "Console makers pay a fee for each copy sold",
+     "Game prices rise after launch"
+    ],
+    "prompt": "Why do sales of a blockbuster game such as GTA VI beyond break-even add so much profit?",
+    "sector": "tmt",
+    "storyId": "2026-11-16-13",
+    "subindustry": "media-entertainment"
+   },
+   {
+    "answer": 0,
+    "explanation": "Multi-year contracts with schools, hospitals and stadiums drive revenue for years, so retention and wins predict growth. Aramark guides 20-25% EPS growth for fiscal 2027.",
+    "id": "2026-11-16:x05",
+    "kind": "today",
+    "options": [
+     "Contracts run for years, so wins and retention set future revenue",
+     "Caterers are paid only once a year",
+     "EPS is not reported by caterers",
+     "Food prices are fixed by law"
+    ],
+    "prompt": "Aramark won a record $1.9 billion of new business with about 97% client retention. Why do these numbers matter more than one quarter's EPS for a contract caterer?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-16-12",
+    "subindustry": "travel-hospitality"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 2,
+    "explanation": "825 million shares at $78 is about $64 billion, which would make it one of the largest IPOs ever. The $1.4 trillion figure is the company's valuation, not the amount raised.",
+    "id": "2026-11-16:q01",
+    "kind": "today",
+    "options": [
+     "About $16 billion",
+     "About $30 billion",
+     "About $64 billion",
+     "About $140 billion"
+    ],
+    "prompt": "Anthropic is selling 825 million shares at $70 to $78. Roughly how much would it raise at the top of the range?",
+    "sector": "tmt",
+    "storyId": "2026-11-16-01",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 0,
+    "explanation": "Diamondback already runs these wells, so full ownership adds about 35,000 barrels a day and 1,200+ locations without new rigs. Producers are price takers, so it cannot set its own oil price.",
+    "id": "2026-11-16:q02",
+    "kind": "today",
+    "options": [
+     "It adds oil and drilling inventory without adding much cost",
+     "It lets Diamondback set its own oil price",
+     "It removes the need to pay royalties",
+     "It converts oil acreage into LNG export capacity"
+    ],
+    "prompt": "Diamondback is buying out partners on acreage it already operates, with no extra rig needed. Why is that attractive for a shale producer?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-16-02",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 3,
+    "explanation": "Private consumption fell at a 1.1% annual pace and net exports cut 0.6 point as costly oil raised imports. Business investment, including data centers, was actually the strong spot.",
+    "id": "2026-11-16:q03",
+    "kind": "today",
+    "options": [
+     "A collapse in data-center spending",
+     "Falling exports of cars to the US",
+     "Rising interest payments on household mortgages",
+     "Weaker consumer spending and a higher oil import bill"
+    ],
+    "prompt": "Japan's GDP shrank at a 0.1% annual pace while business investment rose 6.8%. What mainly dragged the economy down?",
+    "sector": "macro",
+    "storyId": "2026-11-16-03",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 1,
+    "explanation": "Blackstone funds the expensive Phase 3 trials in exchange for future payments and royalties, so J&J carries less of the cost if the drug fails. J&J still owns OLN324 and its upside.",
+    "id": "2026-11-16:q04",
+    "kind": "today",
+    "options": [
+     "It avoids any need for FDA approval",
+     "It shares late-stage trial costs and risk while keeping the drug",
+     "It gets Blackstone to market the drug in Europe",
+     "It cuts the price it pays Ollin's investors"
+    ],
+    "prompt": "J&J pays $2.2 billion upfront for Ollin, while Blackstone gives J&J $750 million for Phase 3 trials in return for royalties. What does J&J gain from the Blackstone part?",
+    "sector": "healthcare",
+    "storyId": "2026-11-16-04",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 2,
+    "explanation": "Low storage forces Europe to buy spot LNG cargoes all winter while Gulf supply is disrupted, which gives flexible sellers pricing power. Chemical makers lose, because gas is a major input cost.",
+    "id": "2026-11-16:q05",
+    "kind": "today",
+    "options": [
+     "European chemical makers",
+     "Households on fixed tariffs that expire this winter",
+     "Sellers of flexible LNG cargoes, such as US exporters",
+     "Coal miners in China"
+    ],
+    "prompt": "EU gas storage is about 71% full against a five-year norm of 89%. Who benefits most from this gap over the winter?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-16-10",
+    "subindustry": "midstream-lng"
+   },
+   {
+    "answer": 0,
+    "explanation": "With a top-rated tenant on a long lease, the asset behaves much like a bond, so its value depends on yields elsewhere. With US 10-year yields above 5%, the gap to a 7% property yield is narrow.",
+    "id": "2026-11-16:q06",
+    "kind": "today",
+    "options": [
+     "Bond yields staying high, making a 7% yield less attractive",
+     "AWS failing to pay rent next year",
+     "Tenants leaving every few months",
+     "A shortage of construction workers for the finished buildings"
+    ],
+    "prompt": "A trust buys data centers leased to AWS for 12 years, with 2.75% yearly rent rises and a 7% starting yield. Which risk matters most for the buyer?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-11-16-07",
+    "subindustry": "real-estate-construction"
+   },
+   {
+    "answer": 1,
+    "explanation": "$35.7 billion divided by about $8.5 billion is roughly four years. A large backlog gives visibility into demand, but revenue only arrives when jets are delivered.",
+    "id": "2026-11-10:q05",
+    "kind": "review",
+    "options": [
+     "About one year",
+     "About four years",
+     "About eight years",
+     "About twelve years"
+    ],
+    "prompt": "Embraer has a $35.7 billion backlog and guides 2026 revenue of $8.4-8.6 billion. Roughly how many years of sales does the backlog cover?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-10-05",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 3,
+    "explanation": "Buyers who exit Qatari contracts still need gas, and US exporters can sign them to new long-term deals, as Orlen already did with Port Arthur and Plaquemines. QatarEnergy cannot deliver at all while its force majeure lasts, so it gains nothing.",
+    "id": "2026-11-12:q03",
+    "kind": "review",
+    "options": [
+     "Asian buyers that depend heavily on Qatar",
+     "QatarEnergy, which can resell the gas at spot prices",
+     "Shipowners on the Qatar-to-Europe route",
+     "US LNG exporters offering new long-term volumes away from Hormuz"
+    ],
+    "prompt": "Orlen cancelled a long-term LNG contract with QatarEnergy. Which group stands to gain most if other buyers follow?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-12-03",
+    "subindustry": "midstream-lng"
+   },
+   {
+    "answer": 1,
+    "explanation": "Both banks operate in the Gulf South, so the combined bank can close duplicate branches and merge systems. The price is about 7% dilution to tangible book value per share, earned back in about 2.8 years.",
+    "id": "2026-11-13:q05",
+    "kind": "review",
+    "options": [
+     "Charging depositors higher fees right away",
+     "Cutting overlapping branches and back-office costs in shared markets",
+     "Raising loan rates above competitors",
+     "Selling the target's loans at a profit"
+    ],
+    "prompt": "Hancock Whitney expects buying Trustmark to add about 7% to its 2028 earnings per share. Where does most of that gain usually come from in a bank merger like this?",
+    "sector": "financial-services",
+    "storyId": "2026-11-13-05",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 1,
+    "explanation": "Once wells are drilled, lifting an extra barrel costs much less than Brent, so earnings jump when prices rise. Producers are price takers who pay pipeline fees, so transport is not their profit pool.",
+    "id": "2026-11-16:q10",
+    "kind": "profile",
+    "options": [
+     "Exploration, because discoveries are sold at a premium",
+     "Production, because each extra barrel costs far less than the market price once a well is drilled",
+     "Development, because contractors are paid upfront",
+     "Transport, because producers set pipeline tariffs"
+    ],
+    "prompt": "In the upstream oil and gas value chain, which step is the largest profit pool, and why?",
+    "sector": "energy-materials",
+    "storyId": null,
+    "subindustry": "oil-gas-upstream"
+   }
+  ]
  }
 }

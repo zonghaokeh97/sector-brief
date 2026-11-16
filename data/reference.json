@@ -51,6 +51,23 @@
    "ticker": "Private",
    "updated": "2026-11-05"
   },
+  "adore-beauty": {
+   "businessModel": "Sells beauty and skincare brands online and through a small store network, earning a retail margin on each product plus advertising income from brands.",
+   "competitors": [
+    "Sephora",
+    "Mecca",
+    "Priceline Pharmacy",
+    "Amazon Australia",
+    "Chemist Warehouse"
+   ],
+   "hq": "Melbourne, Australia",
+   "name": "Adore Beauty",
+   "sector": "consumer-retail",
+   "size": "Revenue A$207M (FY2026)",
+   "subindustry": "retail-ecommerce",
+   "ticker": "ASX: ABY",
+   "updated": "2026-11-16"
+  },
   "adt": {
    "businessModel": "Sells and installs security and smart-home systems and earns monthly fees for monitoring them, mostly from US homes and small businesses.",
    "competitors": [
@@ -67,6 +84,23 @@
    "subindustry": "real-estate-construction",
    "ticker": "NYSE: ADT (being taken private by Thrive Holdings)",
    "updated": "2026-11-01"
+  },
+  "advantage-energy": {
+   "businessModel": "Produces mostly natural gas and liquids from the Montney in Alberta and sells it into Canadian and export-linked gas markets, processing it through its own plants.",
+   "competitors": [
+    "Tourmaline Oil",
+    "ARC Resources",
+    "Peyto Exploration",
+    "Birchcliff Energy",
+    "Paramount Resources"
+   ],
+   "hq": "Calgary, Alberta",
+   "name": "Advantage Energy",
+   "sector": "energy-materials",
+   "size": "Production ~87,000 boe/d (Q3 2026); deal value ~C$2.53B",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "TSX: AAV",
+   "updated": "2026-11-16"
   },
   "affle": {
    "businessModel": "Runs a mobile advertising platform that uses consumer-behavior data to place app-install and engagement ads, charging advertisers per result.",
@@ -320,6 +354,23 @@
    "subindustry": "internet-platforms",
    "ticker": "Nasdaq: APP",
    "updated": "2026-11-05"
+  },
+  "aramark": {
+   "businessModel": "Provides food and facilities services to schools, hospitals, stadiums and businesses under multi-year contracts, earning a margin on each meal and service.",
+   "competitors": [
+    "Compass Group",
+    "Sodexo",
+    "Elior",
+    "ABM Industries",
+    "Delaware North"
+   ],
+   "hq": "Philadelphia, Pennsylvania",
+   "name": "Aramark",
+   "sector": "consumer-retail",
+   "size": "Revenue $20.1B (fiscal 2026)",
+   "subindustry": "travel-hospitality",
+   "ticker": "NYSE: ARMK",
+   "updated": "2026-11-16"
   },
   "ares-capital": {
    "businessModel": "A business development company that lends to middle-market companies and pays most of its income to shareholders, managed externally by Ares.",
@@ -604,6 +655,23 @@
    "ticker": "Private",
    "updated": "2026-11-03"
   },
+  "blackstone": {
+   "businessModel": "Manages private equity, real estate, credit and infrastructure funds and earns management fees on assets plus a share of investment profits.",
+   "competitors": [
+    "KKR",
+    "Apollo Global Management",
+    "Brookfield",
+    "Carlyle Group",
+    "Ares Management"
+   ],
+   "hq": "New York, New York",
+   "name": "Blackstone",
+   "sector": "financial-services",
+   "size": "Assets under management approx. $1.2T (2025, approx.)",
+   "subindustry": "asset-wealth",
+   "ticker": "NYSE: BX",
+   "updated": "2026-11-16"
+  },
   "bloom-energy": {
    "businessModel": "Manufactures solid-oxide fuel cell systems that generate electricity on site from natural gas or hydrogen, mainly for data centers and large commercial customers.",
    "competitors": [
@@ -753,6 +821,40 @@
    "subindustry": "semiconductors",
    "ticker": "Nasdaq: CDNS",
    "updated": "2026-10-28"
+  },
+  "calytrix-bio": {
+   "businessModel": "Develops an antibody against mutant CALR-driven blood cancers; it has no sales and is funded by venture investors until a sale or approval.",
+   "competitors": [
+    "Incyte",
+    "Novartis",
+    "GSK",
+    "Geron",
+    "Kartos Therapeutics"
+   ],
+   "hq": "Wellesley, Massachusetts",
+   "name": "Calytrix Bio",
+   "sector": "healthcare",
+   "size": "Venture-backed startup founded 2025",
+   "subindustry": "pharma-biotech",
+   "ticker": "Private (being acquired by Eli Lilly)",
+   "updated": "2026-11-16"
+  },
+  "canadian-natural": {
+   "businessModel": "Produces oil sands crude, conventional oil and natural gas in Western Canada and the North Sea, profiting from long-life, low-decline assets.",
+   "competitors": [
+    "Suncor Energy",
+    "Cenovus Energy",
+    "Imperial Oil",
+    "Tourmaline Oil",
+    "ARC Resources"
+   ],
+   "hq": "Calgary, Alberta",
+   "name": "Canadian Natural Resources",
+   "sector": "energy-materials",
+   "size": "Revenue approx. C$40B (2025, approx.)",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "NYSE/TSX: CNQ",
+   "updated": "2026-11-16"
   },
   "caterpillar": {
    "businessModel": "Builds construction, mining and power equipment, then earns from parts, service and financing on the machines it has sold.",
@@ -1159,6 +1261,23 @@
    "ticker": "ETR: DTE",
    "updated": "2026-10-20"
   },
+  "diamondback-energy": {
+   "businessModel": "Drills and produces oil and gas in the Permian Basin and sells it at market prices, earning the gap between oil prices and its low per-barrel costs.",
+   "competitors": [
+    "ExxonMobil",
+    "Occidental Petroleum",
+    "EOG Resources",
+    "ConocoPhillips",
+    "Coterra Energy"
+   ],
+   "hq": "Midland, Texas",
+   "name": "Diamondback Energy",
+   "sector": "energy-materials",
+   "size": "Revenue approx. $15B; market cap approx. $45B (2025, approx.)",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "Nasdaq: FANG",
+   "updated": "2026-11-16"
+  },
   "doordash": {
    "businessModel": "Runs a local delivery marketplace for restaurants, grocery and retail, earning a commission from merchants plus delivery fees, a DashPass subscription and advertising.",
    "competitors": [
@@ -1192,6 +1311,23 @@
    "subindustry": "travel-hospitality",
    "ticker": "Nasdaq: DKNG",
    "updated": "2026-11-06"
+  },
+  "elders": {
+   "businessModel": "Sells farm inputs such as seed, fertilizer and chemicals, and earns commissions as an agent for livestock, wool and rural property, plus farm finance and insurance.",
+   "competitors": [
+    "Nutrien Ag Solutions",
+    "Ray White Rural",
+    "Combined Rural Traders",
+    "AIRR",
+    "Bayer (direct sales)"
+   ],
+   "hq": "Adelaide, Australia",
+   "name": "Elders",
+   "sector": "consumer-retail",
+   "size": "Underlying sales revenue A$4.0B (FY2026)",
+   "subindustry": "agriculture-food",
+   "ticker": "ASX: ELD",
+   "updated": "2026-11-16"
   },
   "eli-lilly": {
    "businessModel": "Develops and sells patented prescription drugs, led by the Mounjaro and Zepbound obesity and diabetes medicines, and earns high margins until patents expire.",
@@ -1957,6 +2093,23 @@
    "ticker": "TSE: 285A",
    "updated": "2026-11-02"
   },
+  "l3harris": {
+   "businessModel": "Sells defense electronics, communications, space and sensor systems and rocket motors, mostly under government contracts, and runs the FAA's telecom network.",
+   "competitors": [
+    "Lockheed Martin",
+    "Northrop Grumman",
+    "RTX",
+    "General Dynamics",
+    "BAE Systems"
+   ],
+   "hq": "Melbourne, Florida",
+   "name": "L3Harris Technologies",
+   "sector": "advanced-industries",
+   "size": "Revenue approx. $21B (2024, approx.)",
+   "subindustry": "aerospace-defense",
+   "ticker": "NYSE: LHX",
+   "updated": "2026-11-16"
+  },
   "lam-research": {
    "businessModel": "Sells etch and deposition machines to chipmakers and earns service and spare-parts revenue on its installed base.",
    "competitors": [
@@ -2601,6 +2754,23 @@
    "subindustry": "asset-wealth",
    "ticker": "Private (Permira; sale to LSEG agreed)",
    "updated": "2026-10-22"
+  },
+  "ollin-biosciences": {
+   "businessModel": "Develops eye-disease drugs, led by OLN324 for retinal disease; as a clinical-stage company it has no product sales and is funded by investors.",
+   "competitors": [
+    "Roche (Genentech)",
+    "Regeneron",
+    "Novartis",
+    "Kodiak Sciences",
+    "EyePoint Pharmaceuticals"
+   ],
+   "hq": "Texas, US",
+   "name": "Ollin Biosciences",
+   "sector": "healthcare",
+   "size": "Raised $330M Series B in June 2026",
+   "subindustry": "pharma-biotech",
+   "ticker": "Private (being acquired by Johnson & Johnson)",
+   "updated": "2026-11-16"
   },
   "openai": {
    "businessModel": "Develops AI models and sells access through ChatGPT subscriptions for consumers and businesses and through an API that developers pay for by usage.",
@@ -3567,6 +3737,23 @@
    "subindustry": "payers-providers",
    "ticker": "Nasdaq: SGRY (to be taken private)",
    "updated": "2026-10-28"
+  },
+  "take-two": {
+   "businessModel": "Develops and publishes video games such as Grand Theft Auto and NBA 2K, earning from game sales and recurring in-game spending.",
+   "competitors": [
+    "Electronic Arts",
+    "Microsoft Gaming (Activision)",
+    "Sony Interactive",
+    "Ubisoft",
+    "Tencent Games"
+   ],
+   "hq": "New York, New York",
+   "name": "Take-Two Interactive",
+   "sector": "tmt",
+   "size": "FY2027 net bookings guide $8.0-8.2B",
+   "subindustry": "media-entertainment",
+   "ticker": "Nasdaq: TTWO",
+   "updated": "2026-11-16"
   },
   "tata-motors": {
    "businessModel": "Designs and sells passenger cars, SUVs, trucks and buses, mainly in India, and owns the Jaguar Land Rover luxury brands. Earns most profit from premium vehicles and from domestic commercial vehicles.",
