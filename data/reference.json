@@ -839,6 +839,22 @@
    "ticker": "Private (being acquired by Eli Lilly)",
    "updated": "2026-11-16"
   },
+  "canaccord-genuity": {
+   "businessModel": "Earns advisory, underwriting and trading fees from investment banking and capital markets, and fees on client assets in wealth management.",
+   "competitors": [
+    "Raymond James",
+    "Stifel",
+    "Cormark",
+    "Rathbones"
+   ],
+   "hq": "Toronto, Canada",
+   "name": "Canaccord Genuity Group",
+   "sector": "financial-services",
+   "size": "Revenue ~C$1.8B (approx., fiscal 2025)",
+   "subindustry": "asset-wealth",
+   "ticker": "TSX: CF",
+   "updated": "2026-11-17"
+  },
   "canadian-natural": {
    "businessModel": "Produces oil sands crude, conventional oil and natural gas in Western Canada and the North Sea, profiting from long-life, low-decline assets.",
    "competitors": [
@@ -1243,6 +1259,22 @@
    "subindustry": "agriculture-food",
    "ticker": "BME: OLE",
    "updated": "2026-11-05"
+  },
+  "deutsche-bank": {
+   "businessModel": "Earns interest and fees from corporate banking, investment banking and trading, private banking and asset management through DWS.",
+   "competitors": [
+    "Commerzbank",
+    "BNP Paribas",
+    "Barclays",
+    "UBS"
+   ],
+   "hq": "Frankfurt, Germany",
+   "name": "Deutsche Bank",
+   "sector": "financial-services",
+   "size": "Total assets ~€1.3T (approx., 2025)",
+   "subindustry": "banking",
+   "ticker": "XETRA: DBK; NYSE: DB",
+   "updated": "2026-11-17"
   },
   "deutsche-telekom": {
    "businessModel": "Sells mobile and fixed-line phone, broadband and TV subscriptions in Germany, Europe and (through T-Mobile US) the United States, earning recurring monthly fees on networks it builds.",
@@ -1820,6 +1852,22 @@
    "ticker": "XETRA: HLAG",
    "updated": "2026-11-13"
   },
+  "home-depot": {
+   "businessModel": "Sells building materials, tools and home-improvement products to homeowners and professional contractors through about 2,300 stores, online, and trade-distribution units.",
+   "competitors": [
+    "Lowe's",
+    "Menards",
+    "Ferguson",
+    "Floor & Decor"
+   ],
+   "hq": "Atlanta, GA",
+   "name": "The Home Depot",
+   "sector": "consumer-retail",
+   "size": "Revenue ~$165B+ (approx., fiscal 2025)",
+   "subindustry": "retail-ecommerce",
+   "ticker": "NYSE: HD",
+   "updated": "2026-11-17"
+  },
   "honda": {
    "businessModel": "Designs, builds and sells cars and motorcycles worldwide, and earns finance income from loans and leases to buyers; motorcycles are its highest-margin business.",
    "competitors": [
@@ -2042,6 +2090,22 @@
    "ticker": "NYSE: JBS",
    "updated": "2026-11-11"
   },
+  "jd-com": {
+   "businessModel": "Sells goods online directly from its own inventory, especially electronics and appliances, and earns marketplace commissions, advertising and logistics fees.",
+   "competitors": [
+    "Alibaba",
+    "PDD Holdings",
+    "Meituan",
+    "Douyin (ByteDance)"
+   ],
+   "hq": "Beijing, China",
+   "name": "JD.com",
+   "sector": "tmt",
+   "size": "Revenue ~RMB1.3T (approx., 2025)",
+   "subindustry": "internet-platforms",
+   "ticker": "Nasdaq: JD; HKEX: 9618",
+   "updated": "2026-11-17"
+  },
   "jio-platforms": {
    "businessModel": "Runs India's largest mobile and fixed-broadband network, earning monthly fees from hundreds of millions of subscribers plus enterprise and digital services.",
    "competitors": [
@@ -2092,6 +2156,22 @@
    "subindustry": "semiconductors",
    "ticker": "TSE: 285A",
    "updated": "2026-11-02"
+  },
+  "klarna": {
+   "businessModel": "Lets shoppers split purchases into installments and earns mainly merchant fees, plus interest on longer loans, card and advertising revenue.",
+   "competitors": [
+    "Affirm",
+    "Afterpay (Block)",
+    "PayPal",
+    "Zip"
+   ],
+   "hq": "London, UK / Stockholm, Sweden",
+   "name": "Klarna",
+   "sector": "financial-services",
+   "size": "Revenue ~$3.5B (approx., 2025)",
+   "subindustry": "payments-fintech",
+   "ticker": "NYSE: KLAR",
+   "updated": "2026-11-17"
   },
   "l3harris": {
    "businessModel": "Sells defense electronics, communications, space and sensor systems and rocket motors, mostly under government contracts, and runs the FAA's telecom network.",
@@ -2548,6 +2628,23 @@
    "subindustry": "transport-logistics",
    "ticker": "Private (Aponte family)",
    "updated": "2026-11-15"
+  },
+  "mubadala": {
+   "businessModel": "A sovereign investment fund that earns returns from stakes in companies, private equity, credit and real assets for the Abu Dhabi government.",
+   "competitors": [
+    "ADIA",
+    "ADQ",
+    "PIF",
+    "GIC",
+    "Temasek"
+   ],
+   "hq": "Abu Dhabi, UAE",
+   "name": "Mubadala Investment Company",
+   "sector": "financial-services",
+   "size": "Assets under management ~$330B (approx., 2025)",
+   "subindustry": "asset-wealth",
+   "ticker": "Private (Government of Abu Dhabi)",
+   "updated": "2026-11-17"
   },
   "munich-re": {
    "businessModel": "Earns premiums for taking on risk from other insurers as one of the world's largest reinsurers, plus primary insurance through ERGO and investment income on its reserves.",
@@ -3061,6 +3158,21 @@
    "subindustry": "software-cloud",
    "ticker": "Nasdaq: QLYS",
    "updated": "2026-11-10"
+  },
+  "quebecor": {
+   "businessModel": "Sells mobile, internet and TV subscriptions through Videotron and Freedom Mobile, and owns Quebec media businesses.",
+   "competitors": [
+    "BCE",
+    "Rogers",
+    "Telus"
+   ],
+   "hq": "Montreal, Canada",
+   "name": "Quebecor",
+   "sector": "tmt",
+   "size": "Revenue ~C$5.7B (approx., 2025)",
+   "subindustry": "telecom",
+   "ticker": "TSX: QBR.B",
+   "updated": "2026-11-17"
   },
   "quest-diagnostics": {
    "businessModel": "Runs clinical laboratories and earns a fee per test, billed to health insurers, hospitals and patients.",
@@ -3789,6 +3901,21 @@
    "ticker": "BME: TEF",
    "updated": "2026-10-20"
   },
+  "telus": {
+   "businessModel": "Earns monthly fees for mobile and home internet services in Canada, plus revenue from its digital-services and health-technology units.",
+   "competitors": [
+    "BCE",
+    "Rogers",
+    "Quebecor (Videotron, Freedom Mobile)"
+   ],
+   "hq": "Vancouver, Canada",
+   "name": "Telus",
+   "sector": "tmt",
+   "size": "Revenue ~C$20B (approx., 2025)",
+   "subindustry": "telecom",
+   "ticker": "TSX/NYSE: T",
+   "updated": "2026-11-17"
+  },
   "teradyne": {
    "businessModel": "Makes automated test equipment for semiconductors and electronics, plus industrial robots, and earns from machine sales and service.",
    "competitors": [
@@ -4025,6 +4152,23 @@
    "ticker": "Government-owned (US federal corporation)",
    "updated": "2026-11-14"
   },
+  "tyson-foods": {
+   "businessModel": "Processes and sells chicken, beef and pork and branded prepared foods such as Jimmy Dean and Hillshire Farm to grocers and restaurants.",
+   "competitors": [
+    "JBS (Pilgrim's Pride)",
+    "Cargill",
+    "Hormel",
+    "National Beef",
+    "Smithfield"
+   ],
+   "hq": "Springdale, AR",
+   "name": "Tyson Foods",
+   "sector": "consumer-retail",
+   "size": "Revenue ~$55B (approx., fiscal 2026)",
+   "subindustry": "agriculture-food",
+   "ticker": "NYSE: TSN",
+   "updated": "2026-11-17"
+  },
   "uber": {
    "businessModel": "Runs a platform for ride-hailing, food and grocery delivery and freight brokerage, earning a take rate on each transaction.",
    "competitors": [
@@ -4093,6 +4237,22 @@
    "subindustry": "travel-hospitality",
    "ticker": "Nasdaq: UAL",
    "updated": "2026-11-03"
+  },
+  "united-launch-alliance": {
+   "businessModel": "Sells rocket launches, mainly for US national security missions and commercial satellite constellations such as Amazon Leo.",
+   "competitors": [
+    "SpaceX",
+    "Blue Origin",
+    "Arianespace",
+    "Rocket Lab"
+   ],
+   "hq": "Centennial, CO",
+   "name": "United Launch Alliance",
+   "sector": "advanced-industries",
+   "size": "Revenue ~$3B (approx., 2024)",
+   "subindustry": "aerospace-defense",
+   "ticker": "Private (Boeing and Lockheed Martin JV)",
+   "updated": "2026-11-17"
   },
   "ups": {
    "businessModel": "Charges per package and for supply chain services, running a network of planes, trucks and sorting hubs.",
@@ -4228,6 +4388,23 @@
    "subindustry": "retail-ecommerce",
    "ticker": "NYSE: WMT",
    "updated": "2026-11-10"
+  },
+  "walt-disney": {
+   "businessModel": "Earns money from theme parks and cruises, streaming subscriptions and advertising, TV networks including ESPN, and films and licensing.",
+   "competitors": [
+    "Comcast (NBCUniversal)",
+    "Netflix",
+    "Warner Bros. Discovery",
+    "Paramount",
+    "Universal Destinations"
+   ],
+   "hq": "Burbank, CA",
+   "name": "The Walt Disney Company",
+   "sector": "tmt",
+   "size": "Revenue ~$95B+ (approx., fiscal 2026)",
+   "subindustry": "media-entertainment",
+   "ticker": "NYSE: DIS",
+   "updated": "2026-11-17"
   },
   "wendys": {
    "businessModel": "Franchises fast-food restaurants, earning royalties and rent from franchisees and sales from a small number of company-owned restaurants.",

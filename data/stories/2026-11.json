@@ -5172,5 +5172,477 @@
   "subindustry": "metals-mining",
   "summary": "Three-month copper on the London Metal Exchange fell 1.6% to $13,371.50 a ton on Friday, near a four-month low, and Goldman Sachs said its 2027 forecast of $15,400 now faces downside risk. Spot gold slipped to about $3,869 an ounce on Monday after losing 4.5% last week. UBS cut its fourth-quarter gold forecast 10% to $4,500 and expects $5,000 by the end of 2027. Mining shares fell, with BHP down 2.8% in Sydney.",
   "tags": []
+ },
+ "2026-11-17-01": {
+  "companies": [
+   "nvidia",
+   "amd",
+   "micron",
+   "intel"
+  ],
+  "date": "2026-11-17",
+  "headline": "US requires licenses for AI-chip exports to five countries and for overseas data centers that rent large compute to Chinese firms",
+  "numbers": [
+   "License trigger: >12 million TPP of compute for Chinese firms",
+   "Countries needing licenses: 5",
+   "Compliance window for existing sites: 90 days",
+   "Nvidia revenue from customers outside US, Taiwan, China: ~1.3%"
+  ],
+  "order": 1,
+  "sector": "tmt",
+  "soWhat": "For years Chinese AI companies have rented Nvidia-class chips in data centers in Southeast Asia instead of importing them directly, and this rule targets that route. The direct revenue at stake looks small: Nvidia's customers headquartered outside the US, Taiwan and China were about 1.3% of its revenue last quarter. The bigger effect falls on Malaysian and Singaporean data-center builders and on cloud providers whose tenants are Chinese, who now face license reviews and slower sales. US cloud companies gain, because their exemption makes them the easiest suppliers in those markets.",
+  "sources": [
+   {
+    "title": "Techi: US chip rule names five countries; customers based there are at most 1.3% of Nvidia revenue",
+    "url": "https://www.techi.com/us-ai-chip-export-rule-nvidia-revenue-exposure/"
+   },
+   {
+    "title": "Eurasia Business News: Nasdaq slides 2.5% as Nvidia turmoil and chip restrictions hit tech",
+    "url": "https://eurasiabusinessnews.com/2026/11/17/stock-market-today-nasdaq-slides-2-5-as-nvidia-turmoil-and-chip-restrictions-hit-tech/"
+   },
+   {
+    "title": "Yahoo Finance / 24/7 Wall St: Stock market today, November 17",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nvidia-26-142802182.html"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "The Commerce Department filed a rule on Monday that requires export licenses for advanced AI chips sent to Singapore, Malaysia, Indonesia, Thailand and Brazil, which it sees as higher-risk routes for diversion to China. Overseas data centers will also need a license to give Chinese-headquartered companies more than 12 million TPP of computing power, which one analysis equates to about 760 H100 chips. US-headquartered buyers are exempt if exporters file reports, and existing facilities get 90 days to comply. Chip stocks fell on the news: the Nasdaq dropped 2.5% on Monday, and on Tuesday AMD, Intel and Micron fell between about 5.5% and 7.6% in early trading.",
+  "tags": []
+ },
+ "2026-11-17-02": {
+  "companies": [
+   "quebecor",
+   "telus"
+  ],
+  "date": "2026-11-17",
+  "headline": "Quebecor makes a C$31 billion cash-and-stock offer for Telus, Canada's second-largest telecom group",
+  "numbers": [
+   "Offer value: ~C$31B",
+   "Offer per share: C$19.45 vs C$12.14 prior close",
+   "Annual savings target: ~C$160M operating + C$235M capital",
+   "Share moves Monday: Telus +13%, Quebecor -15%"
+  ],
+  "order": 2,
+  "sector": "tmt",
+  "soWhat": "The deal would merge two of Canada's four largest wireless carriers and undo the structure the government created when it made Rogers sell Freedom Mobile to Quebecor in 2023 to keep a fourth national competitor. Quebecor says wireless prices fell 35.4% in the three years after that sale, which is the competition regulators will want to protect. Scale gives a combined group lower network costs per customer, but consumers could lose a price-cutting rival. Quebecor's share drop shows investors think it may overpay or be forced to sell Freedom; one analyst sees a low chance of approval unless Freedom is divested.",
+  "sources": [
+   {
+    "title": "BNN Bloomberg: Telus sees 'serious concerns' with Quebecor's $31B takeover bid",
+    "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/16/quebecor-makes-cash-and-stock-offer-for-telus-worth-31-billion/"
+   },
+   {
+    "title": "Radio Canada International: Quebecor makes $31B offer to acquire Telus",
+    "url": "https://ici.radio-canada.ca/rci/en/news/2301017/quebecor-makes-31b-offer-to-acquire-telus"
+   }
+  ],
+  "subindustry": "telecom",
+  "summary": "Quebecor, which owns Videotron and Freedom Mobile, offered Telus shareholders C$6.35 in cash plus 0.17 Quebecor shares per share, which it values at C$19.45, against Telus's Friday close of C$12.14. Quebecor estimates about C$160 million a year of operating savings and C$235 million a year of capital savings. Telus formed a special committee and said the offer does not reflect its value, calling regulation the biggest hurdle. On Monday Telus shares rose about 13% to C$13.70, while Quebecor fell about 15% to C$65.25.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-17-03": {
+  "companies": [],
+  "date": "2026-11-17",
+  "headline": "Brent falls 3.6% to $92.44 as Hormuz tanker traffic recovers and the IEA forecasts a supply surplus",
+  "numbers": [
+   "Brent settle: $92.44 (-3.6%)",
+   "WTI settle: $85.72 (-3.2%)",
+   "IEA Q4 surplus: ~1.7M barrels/day",
+   "Brent since Nov 1: ~-21%"
+  ],
+  "order": 3,
+  "sector": "energy-materials",
+  "soWhat": "For producers, the price is moving back toward the level they plan budgets around. Most shale and offshore projects still earn strong margins at $90, but the windfall that paid for buybacks and acquisitions in October is shrinking. Refiners and airlines gain as crude costs fall, while governments that released emergency stocks can slow those releases. The open question is whether shipping attacks in the strait keep a risk premium in prices once surplus barrels arrive.",
+  "sources": [
+   {
+    "title": "Yahoo Finance (Reuters): Oil settles lower as recovering Middle East exports bolster surplus outlook",
+    "url": "https://finance.yahoo.com/energy/articles/oil-prices-fall-expectations-coming-020042042.html"
+   },
+   {
+    "title": "CNBC: Oil prices fall on expectations of coming supply surplus",
+    "url": "https://www.cnbc.com/2026/11/16/oil-prices-fall-on-expectations-of-coming-supply-surplus.html"
+   },
+   {
+    "title": "MarketScreener (Reuters): AI concerns push Dax into negative territory",
+    "url": "https://www.marketscreener.com/news/ai-concerns-push-dax-into-negative-territory-deutsche-bank-stock-plunges-ce785edcd88ef722"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Brent crude settled down $3.40 at $92.44 a barrel on Monday, and US WTI fell $2.84 to $85.72, even after Iran's Revolutionary Guards claimed six tankers caught fire near the Strait of Hormuz. Shipments through the strait are nearly back to pre-war levels. The IEA now expects fourth-quarter oil supply of about 105 million barrels a day, 1.7 million above demand, after earlier forecasting a deficit. Brent is down about 21% since the start of November and about 20% below its late-October peak near $118; Goldman Sachs expects it to average $88 next year.",
+  "tags": []
+ },
+ "2026-11-17-04": {
+  "companies": [],
+  "date": "2026-11-17",
+  "headline": "Global stocks extend an AI-led selloff, with the Nasdaq down 2.5% and Seoul down 2.6%, as the dollar hits a 19-month high",
+  "numbers": [
+   "S&P 500 Monday: -1.9%",
+   "Nasdaq Monday: -2.5%",
+   "Kospi Tuesday: -2.6%",
+   "Dollar index: 103.70, 19-month high"
+  ],
+  "order": 4,
+  "sector": "macro",
+  "soWhat": "The AI trade now drives a large share of global stock market value, so doubts about one company's leadership and new export rules ripple from Wall Street to Seoul and Taipei, where chipmakers dominate the indexes. A stronger dollar adds pressure on emerging markets and on commodities priced in dollars. Higher rates make long-dated growth stories less valuable, which is why AI names fall hardest. The open question is whether this week's Nvidia results and Anthropic's IPO steady the trade or extend the decline.",
+  "sources": [
+   {
+    "title": "Eurasia Business News: Nasdaq slides 2.5% as Nvidia turmoil and chip restrictions hit tech",
+    "url": "https://eurasiabusinessnews.com/2026/11/17/stock-market-today-nasdaq-slides-2-5-as-nvidia-turmoil-and-chip-restrictions-hit-tech/"
+   },
+   {
+    "title": "Yahoo Finance (AFP): Asian stocks sink as scandal-hit Nvidia's earnings loom",
+    "url": "https://uk.finance.yahoo.com/news/asian-stocks-sink-scandal-hit-023848852.html"
+   },
+   {
+    "title": "MarketScreener (Reuters): AI concerns push Dax into negative territory",
+    "url": "https://www.marketscreener.com/news/ai-concerns-push-dax-into-negative-territory-deutsche-bank-stock-plunges-ce785edcd88ef722"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "On Monday the S&P 500 fell 1.9% to 7,416.59 and the Nasdaq dropped 2.5% to 24,509.76, their third straight decline, as chip stocks fell and the VIX volatility index rose about 19%. Asia followed on Tuesday: Japan's Nikkei closed down 1.3% at 58,860, South Korea's Kospi fell 2.6% and Hong Kong's Hang Seng 1.0%. The dollar index reached 103.70, its highest in 19 months, on bets the Federal Reserve will keep tightening, and Fed Chair Kevin Warsh said staff are modeling scenarios in which AI displaces workers and stocks perform weakly. In Germany, the ZEW expectations index rose 7.5 points to 35.6, well above forecasts.",
+  "tags": []
+ },
+ "2026-11-17-05": {
+  "companies": [
+   "walt-disney"
+  ],
+  "date": "2026-11-17",
+  "headline": "Disney beats forecasts with revenue up 16% to $25.9 billion, raises its dividend 33% and targets $3 billion of cost cuts",
+  "numbers": [
+   "Revenue: $25.95B (+16%)",
+   "Streaming revenue: $6.1B (+19%)",
+   "Cost savings target: $3B by fiscal 2029",
+   "Annual dividend: $2.00 (+33%)"
+  ],
+  "order": 5,
+  "sector": "tmt",
+  "soWhat": "The results show Disney's streaming business has moved from a loss-maker to a real profit contributor, which changes how the company balances TV networks, parks and direct-to-consumer services. Parks remain the largest single profit engine, and steady pricing there funds both the dividend and the content budget. A $3 billion cost program alongside record content spending signals that media companies now compete on spending efficiently, not just spending more. Investors' muted reaction suggests the extra week flattered the quarter and growth is expected to slow.",
+  "sources": [
+   {
+    "title": "CNBC: Disney beats fourth-quarter estimates, targets $3 billion in savings",
+    "url": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html"
+   },
+   {
+    "title": "Stock Titan: Stock market today live, November 17, 2026",
+    "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026"
+   }
+  ],
+  "subindustry": "media-entertainment",
+  "summary": "Disney's fiscal fourth-quarter revenue rose 16% to $25.95 billion and adjusted earnings per share reached $1.77, against $1.67 expected; the quarter included an extra week. The entertainment unit nearly doubled operating income to $1.33 billion as streaming revenue rose 19% to $6.1 billion, parks and cruises earned $2.25 billion (up 20%) and ESPN's sports unit earned $1.39 billion. Disney raised its annual dividend to $2 a share, plans to cut $3 billion of costs by fiscal 2029, including layoffs, and will spend about $26 billion on content in fiscal 2027. The shares slipped about 2% before the open.",
+  "tags": []
+ },
+ "2026-11-17-06": {
+  "companies": [
+   "home-depot"
+  ],
+  "date": "2026-11-17",
+  "headline": "Home Depot grows sales 4.9% to $43.4 billion and names its CFO as CEO, but warns of a cautious housing market",
+  "numbers": [
+   "Q3 sales: $43.4B (+4.9%)",
+   "Comparable sales: +2.2%",
+   "Online comparable sales: ~+13%",
+   "FY comparable sales guide: ~+1.4%"
+  ],
+  "order": 6,
+  "sector": "consumer-retail",
+  "soWhat": "Home improvement spending follows housing turnover: people renovate when they buy, sell or refinance a home, and high mortgage rates keep many owners in place. Home Depot is leaning on professional contractors, who keep working on repairs and maintenance, and on online sales, up about 13%, to grow while do-it-yourself customers hold back. Large chains with scale in supply and delivery keep gaining share from smaller hardware stores in a flat market. The open question is when rates fall enough to restart home sales and bigger projects.",
+  "sources": [
+   {
+    "title": "CNBC: Home Depot (HD) Q3 earnings 2026",
+    "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html"
+   },
+   {
+    "title": "Home Depot: Third quarter fiscal 2026 results",
+    "url": "https://ir.homedepot.com/news-releases/2026/11-17-2026-110221331"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "Home Depot's third-quarter sales rose 4.9% to $43.4 billion, and comparable sales grew 2.2%, ahead of the 1.8% analysts expected. Adjusted earnings per share were $3.86 against $3.84 forecast, and online comparable sales rose about 13%. The company now expects full-year sales growth of about 4.5% and comparable sales growth of about 1.4%, and said finance chief Richard McPhail becomes CEO on November 23. It pointed to a sluggish housing market, higher mortgage rates and more careful shoppers, and the shares fell about 3%.",
+  "tags": []
+ },
+ "2026-11-17-07": {
+  "companies": [
+   "qatarenergy"
+  ],
+  "date": "2026-11-17",
+  "headline": "Gas flows into US LNG plants hit a record 21.8 Bcf as Qatar extends its force majeure through December",
+  "numbers": [
+   "US LNG feedgas: 21.8 Bcf record (+12% y/y)",
+   "EU storage: 70.5% full (Nov 14)",
+   "US LNG exports H1 2026: 17.4 Bcf/d (+23%)",
+   "Qatar force majeure: through end-December"
+  ],
+  "order": 7,
+  "sector": "energy-materials",
+  "soWhat": "LNG plants run on long-term contracts that pay a fixed liquefaction fee, but when global supply is short, the cargoes they can sell spot earn large margins. With Qatar's output constrained, US plants have become Europe's main swing supplier going into winter, which benefits US exporters and gas producers in Texas and Louisiana. European utilities and industry pay the price through higher gas costs while storage is low. The EU's ban on Russian LNG from January 1 removes another source, so new US capacity such as Golden Pass matters even more.",
+  "sources": [
+   {
+    "title": "OilPrice.com: U.S. LNG flows hit record high as global gas supply crisis deepens",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-LNG-Flows-Hit-Record-High-as-Global-Gas-Supply-Crisis-Deepens.html"
+   }
+  ],
+  "subindustry": "midstream-lng",
+  "summary": "Pipeline gas flows to US LNG export plants reached a record 21.8 billion cubic feet on Saturday, 12% more than a year earlier, according to BloombergNEF data, with flows to Golden Pass at a record and Sabine Pass at its highest since April. QatarEnergy has extended force majeure on its LNG deliveries until at least the end of December, as flows through the Strait of Hormuz remain well below pre-war levels. EU gas storage was 70.5% full on November 14, well below the five-year average for the date. US LNG exports averaged 17.4 Bcf a day in the first half of 2026, up 23% from a year earlier.",
+  "tags": []
+ },
+ "2026-11-17-08": {
+  "companies": [
+   "deutsche-bank"
+  ],
+  "date": "2026-11-17",
+  "headline": "Deutsche Bank shares fall as much as 6% after reports based on 15 million leaked internal records",
+  "numbers": [
+   "Leaked records: ~15 million",
+   "Early share drop: -5.2% (over 6% intraday low)",
+   "Journalists in consortium: 200+"
+  ],
+  "order": 8,
+  "sector": "financial-services",
+  "soWhat": "Banks depend on trust from regulators and counterparties, so a large leak about past controls can cost more than any fine, through higher funding costs, closer supervision or lost business. Deutsche Bank has paid penalties before for weak anti-money-laundering controls, which makes regulators likely to look again. The bank has rebuilt profits in recent years, and its share price had been rewarded for that turnaround. The open question is whether the reports reveal new problems that lead to fresh regulatory action or only revisit known history.",
+  "sources": [
+   {
+    "title": "Investing.com (Reuters): Deutsche Bank shares fall 5% as it defends itself from media reports based on leaks",
+    "url": "https://www.investing.com/news/stock-market-news/deutsche-bank-shares-fall-5-as-it-defends-itself-from-media-reports-based-on-leaks-5031884"
+   },
+   {
+    "title": "MarketScreener (Reuters): AI concerns push Dax into negative territory, Deutsche Bank stock plunges",
+    "url": "https://www.marketscreener.com/news/ai-concerns-push-dax-into-negative-territory-deutsche-bank-stock-plunges-ce785edcd88ef722"
+   }
+  ],
+  "subindustry": "banking",
+  "summary": "A group of more than 200 journalists published reports in Der Spiegel, the Financial Times and the New York Times on the bank's past dealings with Russian oligarchs, Jeffrey Epstein and Donald Trump, based on about 15 million leaked emails and meeting minutes. Deutsche Bank's shares fell 5.2% in early Frankfurt trading on Tuesday and more than 6% at one point, before paring losses. The bank said the matters date back many years, that its controls have improved, and that any financial impact is not expected to be meaningful. Its supervisory board chair publicly backed the chief executive.",
+  "tags": []
+ },
+ "2026-11-17-09": {
+  "companies": [],
+  "date": "2026-11-17",
+  "headline": "US retail sales rise just 0.2% in October as shoppers turn cautious before the holidays",
+  "numbers": [
+   "October retail sales: +0.2%",
+   "Excluding gas stations: +0.1%",
+   "Online retailers: +1.2%",
+   "Autos: -1.6%"
+  ],
+  "order": 9,
+  "sector": "macro",
+  "soWhat": "Retail sales are not adjusted for inflation, so with prices still rising, a 0.2% gain means shoppers bought fewer goods in real terms. Spending is shifting toward online sellers and away from big-ticket items like cars and furniture, which depend on credit and are hurt by high interest rates. That pattern favors large online and discount retailers going into the holidays, and squeezes specialty chains. For the Fed, soft spending eases some inflation pressure, but rising import prices keep the pressure on.",
+  "sources": [
+   {
+    "title": "US News (AP): Shoppers slowed spending in October with high prices leading to caution",
+    "url": "https://www.usnews.com/news/business/articles/2026-11-17/shoppers-slowed-spending-in-october-with-high-prices-leading-to-caution"
+   },
+   {
+    "title": "RTTNews: U.S. retail sales rise 0.2% in October, in line with estimates",
+    "url": "https://www.rttnews.com/3715531/u-s-retail-sales-rise-0-2-in-october-in-line-with-estimates.aspx"
+   },
+   {
+    "title": "Stock Titan: Stock market today live, November 17, 2026",
+    "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "US retail sales rose 0.2% in October to about $748 billion, after a revised 0.8% gain in September, matching forecasts. Excluding gas stations, sales rose only 0.1%; gas station sales rose 1.5% after jumping 30.3% in September. Auto sales fell 1.6%, furniture stores fell 2.3% and clothing stores 0.7%, while online retailers grew 1.2%. Import prices rose 1.1% in October, the same as in September.",
+  "tags": []
+ },
+ "2026-11-17-10": {
+  "companies": [
+   "united-launch-alliance",
+   "amazon"
+  ],
+  "date": "2026-11-17",
+  "headline": "ULA's Vulcan rocket fails for the first time, destroying 40 Amazon Leo internet satellites",
+  "numbers": [
+   "Satellites lost: 40",
+   "Amazon Leo satellites launched (before loss): ~396",
+   "Satellites needed for full network: 3,300+",
+   "Vulcan flights booked by Amazon: 38"
+  ],
+  "order": 10,
+  "sector": "advanced-industries",
+  "soWhat": "Launch capacity is the bottleneck for every satellite network that wants to compete with SpaceX's Starlink. With Vulcan grounded and Blue Origin's New Glenn also out of service, Amazon has few non-SpaceX rockets left, which slows its rollout and weakens its bargaining power. The Pentagon depends on Vulcan for many national security missions, so the failure also strengthens SpaceX's position in government launch contracts. The open question is whether the cause traces to the shared BE-4 engine, which would also delay New Glenn.",
+  "sources": [
+   {
+    "title": "Spaceflight Now: ULA suffers first total mission failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+    "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/"
+   },
+   {
+    "title": "Engadget: ULA Vulcan rocket failure destroys 40 Amazon Leo satellites",
+    "url": "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/"
+   }
+  ],
+  "subindustry": "aerospace-defense",
+  "summary": "A United Launch Alliance Vulcan rocket failed about 10 minutes after launch from Cape Canaveral on Sunday, losing all 40 Amazon Leo satellites on board. It was the first outright failure of a ULA rocket since the Boeing and Lockheed Martin venture was formed in 2006, and the first Vulcan flight in nine months; the cause is not yet known. The launch would have taken Amazon to 436 satellites launched, against more than 3,300 needed for the full network. Amazon has booked 38 Vulcan flights, and the Space Force had already paused national security launches on Vulcan.",
+  "tags": []
+ },
+ "2026-11-17-11": {
+  "companies": [
+   "tyson-foods"
+  ],
+  "date": "2026-11-17",
+  "headline": "Tyson's beef unit loses $514 million in the quarter as the US cattle shortage deepens, while chicken stays profitable",
+  "numbers": [
+   "Q4 sales: $14.6B (+5.2%)",
+   "Beef Q4 operating loss: $514M",
+   "Chicken Q4 operating income: $405M",
+   "FY2027 sales guide: -3.5% to -5.5%"
+  ],
+  "order": 11,
+  "sector": "consumer-retail",
+  "soWhat": "Beef packers are squeezed because the US cattle herd is at multi-decade lows: ranchers charge record prices for cattle, but packers cannot pass all of it on to shoppers. Chicken works differently, because birds grow in weeks rather than years, so supply responds quickly and margins recover faster. That is why diversified protein companies lean on chicken and packaged foods while beef plants are closed or slowed. The open question is when ranchers start rebuilding herds, which first tightens supply further because heifers are held back from slaughter.",
+  "sources": [
+   {
+    "title": "Tyson Foods: Fourth quarter and fiscal 2026 results",
+    "url": "https://www.tysonfoods.com/news/news-releases/2026/11/tyson-foods-reports-fourth-quarter-2026-results"
+   },
+   {
+    "title": "Yahoo Finance / 24/7 Wall St: Stock market today, November 17",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nvidia-26-142802182.html"
+   }
+  ],
+  "subindustry": "agriculture-food",
+  "summary": "Tyson Foods' fiscal fourth-quarter sales rose 5.2% to $14.6 billion, helped by an extra week, but adjusted earnings per share of $0.61 missed forecasts. The beef segment reported an operating loss of $514 million, or $171 million on an adjusted basis, while chicken earned $405 million and prepared foods $344 million. For fiscal 2027, Tyson expects sales to fall 3.5% to 5.5%, beef to lose up to $300 million, and chicken to earn $1.3 to $1.6 billion. Free cash flow rose to $1.66 billion, and the shares rose about 9% as the company raised its dividend.",
+  "tags": []
+ },
+ "2026-11-17-12": {
+  "companies": [
+   "amazon"
+  ],
+  "date": "2026-11-17",
+  "headline": "Amazon plans $7 billion more for Indian wind and solar by 2030 and signs four projects totaling 934 MW",
+  "numbers": [
+   "New investment: $7B by 2030",
+   "Already committed: $4B",
+   "New projects: 4, totaling 934 MW",
+   "Largest project: 234 MW wind, Karnataka"
+  ],
+  "order": 12,
+  "sector": "energy-materials",
+  "soWhat": "Large tech companies have become some of the biggest buyers of clean power, and their long-term purchase contracts give developers the guaranteed revenue they need to borrow and build. India is attractive because its solar costs are among the lowest in the world and Amazon is expanding data centers there. Developers like ReNew and Waaree gain steady demand, while state grids must add transmission to move power from windy and sunny regions to cities. The open question is whether India's grid can connect new projects fast enough.",
+  "sources": [
+   {
+    "title": "pv magazine: Amazon to invest $7 billion in renewable energy in India by 2030",
+    "url": "https://www.pv-magazine.com/2026/11/17/amazon-to-invest-7-billion-in-renewable-energy-in-india-by-2030/"
+   },
+   {
+    "title": "Business Standard: Amazon plans $7 billion renewable energy investment in India by 2030",
+    "url": "https://www.business-standard.com/companies/news/amazon-to-invest-7-billion-in-india-s-renewable-energy-sector-by-2030-126111700847_1.html"
+   }
+  ],
+  "subindustry": "renewables-transition",
+  "summary": "Amazon said on Tuesday it will invest $7 billion in renewable energy projects in India by 2030, on top of $4 billion already committed. It announced four new wind and solar projects totaling 934 MW, secured through power purchase agreements with developers Sunsure, Waaree and ReNew. They include a 234 MW wind farm in Karnataka, which Amazon calls its largest wind project contracted in Asia. The projects support Amazon's goal of cutting the carbon intensity of its operations' electricity 65% by 2030.",
+  "tags": []
+ },
+ "2026-11-17-13": {
+  "companies": [
+   "canaccord-genuity",
+   "mubadala"
+  ],
+  "date": "2026-11-17",
+  "headline": "Mubadala and Centerbridge agree to buy Canaccord's UK wealth arm for about £1.17 billion",
+  "numbers": [
+   "Enterprise value: ~£1.17B ($1.54B)",
+   "Client assets: £43.4B",
+   "Price vs client assets: ~2.7%",
+   "Expected close: H1 2027"
+  ],
+  "order": 13,
+  "sector": "financial-services",
+  "soWhat": "Wealth managers earn fees as a percentage of client assets, so revenue is recurring and grows with markets and new money, which is why private equity and sovereign funds pay high prices for them. The UK market is fragmented, and buyers usually use a platform like this to acquire smaller firms and spread fixed costs such as compliance and technology. The seller turns a minority business into cash for its core investment bank. The price works out to about 2.7% of client assets.",
+  "sources": [
+   {
+    "title": "The National: Mubadala and Centerbridge to acquire UK's Canaccord Wealth",
+    "url": "https://www.thenationalnews.com/business/2026/11/16/mubadala-and-centerbridge-to-acquire-uks-canaccord-wealth/"
+   }
+  ],
+  "subindustry": "asset-wealth",
+  "summary": "Abu Dhabi's sovereign fund Mubadala and US investment firm Centerbridge Partners agreed to buy Canaccord Genuity's wealth management business in the UK and Crown Dependencies for an enterprise value of about £1.17 billion ($1.54 billion), in cash. The business manages or administers £43.4 billion of client assets, and its assets and revenue have nearly tripled over the past decade. Existing management will keep a meaningful stake. The deal is expected to close in the first half of 2027.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-17-14": {
+  "companies": [
+   "jd-com"
+  ],
+  "date": "2026-11-17",
+  "headline": "JD.com returns to profit growth as it cuts food-delivery spending, but revenue grows only 3.5%",
+  "numbers": [
+   "Revenue: RMB309.6B (+3.5%)",
+   "Operating income: RMB5.2B vs loss of RMB1.1B",
+   "Non-GAAP net profit: RMB8.3B (+44%)"
+  ],
+  "order": 14,
+  "sector": "tmt",
+  "soWhat": "JD.com, Alibaba and Meituan spent billions on subsidies in 2025 fighting over China's food-delivery market, and this quarter shows JD pulling back to protect profits. That helps margins but leaves JD with slow growth, because Chinese consumers are still cautious and its core electronics business depends on government trade-in subsidies. Investors are judging whether the company can grow, not only cut costs. The open question is whether rivals also pull back on delivery spending, which would lift profits across the sector.",
+  "sources": [
+   {
+    "title": "Stockhouse: JD.com announces third quarter 2026 results",
+    "url": "https://stockhouse.com/news/press-releases/2026/11/17/jd-com-announces-third-quarter-2026-results"
+   },
+   {
+    "title": "Stock Titan: Stock market today live, November 17, 2026",
+    "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026"
+   }
+  ],
+  "subindustry": "internet-platforms",
+  "summary": "JD.com's third-quarter revenue rose 3.5% to RMB309.6 billion. Operating income was RMB5.2 billion, against a loss of RMB1.1 billion a year earlier, when the company was spending heavily to enter food delivery. Non-GAAP net profit rose 44% to RMB8.3 billion. The shares fell about 6% in US premarket trading.",
+  "tags": []
+ },
+ "2026-11-17-15": {
+  "companies": [],
+  "date": "2026-11-17",
+  "headline": "European carmakers warn a 10% EU-UK tariff on electric cars could cost €1.8 billion in 2027",
+  "numbers": [
+   "Estimated 2027 tariff cost: ~€1.8B",
+   "Tariff rate: 10%",
+   "EVs expected to qualify: fewer than 1 in 4",
+   "EU-UK auto trade: ~€80B a year"
+  ],
+  "order": 15,
+  "sector": "advanced-industries",
+  "soWhat": "Batteries are the most valuable part of an electric car, and Europe still imports about two-thirds of its lithium-ion batteries, mostly from Asia. That makes it hard for carmakers to meet local-content rules, so a tariff would land on exactly the cars that policy wants people to buy. EU carmakers would be hit hardest because the UK is their largest export market. A delay would buy time for new European battery plants to ramp up.",
+  "sources": [
+   {
+    "title": "Finance Connect: European carmakers warn of €1.8bn tariff threat ahead of EU-UK summit",
+    "url": "https://finance-connect.com/european-carmakers-warn-of-e1-8bn-tariff-threat-ahead-of-eu-uk-summit/"
+   },
+   {
+    "title": "electrive: EU and UK could delay mutual EV tariffs once more",
+    "url": "https://www.electrive.com/2026/11/12/eu-and-uk-could-delay-mutual-ev-tariffs-once-more/"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "European and UK auto industry groups ACEA and SMMT warned that stricter rules of origin starting January 1 will put a 10% tariff on most electric and plug-in hybrid cars traded between the UK and EU. Under the trade agreement, more of each car's and battery's value must come from the UK or EU to trade tariff-free, and surveys suggest fewer than one in four such vehicles will qualify. They estimate the cost at about €1.8 billion in 2027: almost €400 million on UK exports to the EU and €1.4 billion on EU exports to the UK. The European Commission is reportedly considering a delay before Friday's EU-UK summit.",
+  "tags": []
+ },
+ "2026-11-17-16": {
+  "companies": [
+   "klarna"
+  ],
+  "date": "2026-11-17",
+  "headline": "Klarna's revenue rises 12% to $1.01 billion, beating forecasts, as US volume grows 24%",
+  "numbers": [
+   "Revenue: $1.009B (+12%)",
+   "Merchandise volume: $36.1B (+10%)",
+   "US volume growth: +24%",
+   "Net loss: $65M ($30M smaller)"
+  ],
+  "order": 16,
+  "sector": "financial-services",
+  "soWhat": "Buy-now-pay-later firms earn most of their money from merchant fees, plus interest on longer loans, and they lose money when shoppers fail to repay. Klarna is spending to become a broader consumer bank and card in the US, so revenue grows faster than volume but profits stay thin while credit-loss provisions rise. The model competes with credit cards, and its edge is lower cost to shoppers. The open question is whether cautious US consumers start missing payments as the economy slows.",
+  "sources": [
+   {
+    "title": "Investing.com: Earnings call transcript, Klarna tops revenue forecast in Q3 2026",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-klarna-tops-revenue-forecast-in-q3-2026-as-stock-rises-93CH-5033260"
+   },
+   {
+    "title": "Yahoo Finance: Klarna reports third quarter 2026 results",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/klarna-reports-third-quarter-2026-124700651.html"
+   }
+  ],
+  "subindustry": "payments-fintech",
+  "summary": "Buy-now-pay-later company Klarna reported third-quarter revenue of $1.009 billion, up 12% and above its own guidance of $940 to $980 million. Gross merchandise volume, the value of purchases it financed, rose 10% to $36.1 billion, with the US up 24%. The net loss narrowed by $30 million to $65 million, and adjusted operating income was $21 million. Klarna kept its full-year outlook.",
+  "tags": []
  }
 }

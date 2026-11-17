@@ -4430,5 +4430,252 @@
     "subindustry": "oil-gas-upstream"
    }
   ]
+ },
+ "2026-11-17": {
+  "date": "2026-11-17",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "Renovation spending follows housing turnover, and high rates keep owners in place. Home Depot leans on pro contractors, who keep doing repairs, to grow while do-it-yourself demand is soft.",
+    "id": "2026-11-17:x01",
+    "kind": "today",
+    "options": [
+     "They raise the cost of store leases",
+     "Fewer home sales mean fewer renovations tied to moving",
+     "Contractors stop buying tools entirely",
+     "They make imported goods more expensive"
+    ],
+    "prompt": "Home Depot's comparable sales rose 2.2% but it warned about housing. Why do high mortgage rates hurt home-improvement retailers?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-17-06",
+    "subindustry": "retail-ecommerce"
+   },
+   {
+    "answer": 2,
+    "explanation": "Amazon lost 40 satellites and has 38 Vulcan flights booked, while New Glenn is also grounded. With few non-SpaceX rockets available, Amazon's rollout slows and Starlink's lead grows.",
+    "id": "2026-11-17:x02",
+    "kind": "today",
+    "options": [
+     "It frees spectrum for Amazon",
+     "It forces SpaceX to stop launching Starlink",
+     "Launch capacity outside SpaceX is scarce, slowing Amazon Leo",
+     "It lowers satellite manufacturing costs"
+    ],
+    "prompt": "Why does the Vulcan rocket failure matter for satellite internet competition?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-17-10",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 1,
+    "explanation": "Banks rely on trust from regulators and counterparties. The bank has paid past penalties for weak controls, so investors fear more scrutiny and costs; the shares fell as much as 6%.",
+    "id": "2026-11-17:x03",
+    "kind": "today",
+    "options": [
+     "Leaks automatically trigger fines",
+     "Trust and closer supervision can cost more than any fine",
+     "The leak revealed losses on bond trading",
+     "The bank must pay journalists"
+    ],
+    "prompt": "Deutsche Bank says the leaked records cover old matters with no meaningful financial impact. Why can shares still fall?",
+    "sector": "financial-services",
+    "storyId": "2026-11-17-08",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 0,
+    "explanation": "A long-term buyer like Amazon gives developers such as ReNew and Waaree predictable revenue, which lenders require before financing projects. Amazon plans $7 billion more for Indian renewables by 2030.",
+    "id": "2026-11-17:x04",
+    "kind": "today",
+    "options": [
+     "Guaranteed long-term revenue that helps them borrow to build",
+     "Ownership of Amazon's data centers",
+     "Free grid connections from the state",
+     "A share of Amazon's retail profits"
+    ],
+    "prompt": "Amazon signs power purchase agreements for 934 MW of Indian wind and solar. What do these contracts give developers?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-17-12",
+    "subindustry": "renewables-transition"
+   },
+   {
+    "answer": 0,
+    "explanation": "JD pulled back from costly delivery subsidies, so profit rose 44% on a non-GAAP basis, but revenue grew only 3.5% to RMB309.6 billion. Investors now judge whether it can grow, not just cut.",
+    "id": "2026-11-17:x05",
+    "kind": "today",
+    "options": [
+     "Higher profits but slow revenue growth of 3.5%",
+     "Lower profits but faster growth",
+     "Higher taxes on delivery",
+     "Loss of its electronics business"
+    ],
+    "prompt": "JD.com's operating income swung to RMB5.2 billion from a loss as it cut food-delivery spending. What is the trade-off?",
+    "sector": "tmt",
+    "storyId": "2026-11-17-14",
+    "subindustry": "internet-platforms"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "Chinese AI companies had been renting Nvidia-class chips in third-country data centers. The rule makes facilities that give Chinese firms more than 12 million TPP of compute get a license, closing that route.",
+    "id": "2026-11-17:q01",
+    "kind": "today",
+    "options": [
+     "To raise tariff revenue on chips sold in Asia",
+     "Chinese firms could rent AI chips abroad instead of importing them",
+     "To protect Malaysian data-center builders from US rivals",
+     "Because Nvidia asked for limits on its own sales"
+    ],
+    "prompt": "Why does the new US rule require licenses for overseas data centers, not only for chip shipments?",
+    "sector": "tmt",
+    "storyId": "2026-11-17-01",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 2,
+    "explanation": "Canada made Freedom Mobile a separate competitor in 2023, and Quebecor says wireless prices fell 35.4% after that. Merging two of the four big carriers would undo that structure, so regulators are the main hurdle; Telus shares jumped 13%, so price was not the main issue.",
+    "id": "2026-11-17:q02",
+    "kind": "today",
+    "options": [
+     "Telus shareholders, because the premium is too small",
+     "Tower companies that rent masts to both carriers",
+     "Regulators who made Rogers sell Freedom Mobile to keep a fourth carrier",
+     "Satellite firms that need Telus spectrum"
+    ],
+    "prompt": "Quebecor bids about C$31 billion for Telus. Which group is most likely to object on competition grounds?",
+    "sector": "tmt",
+    "storyId": "2026-11-17-02",
+    "subindustry": "telecom"
+   },
+   {
+    "answer": 3,
+    "explanation": "Shipments through the strait are nearly back to pre-war levels, and the IEA now sees fourth-quarter supply about 1.7 million barrels a day above demand. Surplus expectations outweighed the attack headlines.",
+    "id": "2026-11-17:q03",
+    "kind": "today",
+    "options": [
+     "OPEC+ announced a large production increase",
+     "US crude exports were banned",
+     "Chinese refineries shut down for maintenance",
+     "Hormuz traffic recovered and the IEA forecast a supply surplus"
+    ],
+    "prompt": "Brent fell to about $92 even though Iran claimed attacks on tankers near Hormuz. What drove the decline?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-17-03",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 0,
+    "explanation": "Entertainment operating income nearly doubled to $1.33 billion as streaming grew, while parks still earned $2.25 billion. Disney is raising, not cutting, content spending to about $26 billion in fiscal 2027.",
+    "id": "2026-11-17:q04",
+    "kind": "today",
+    "options": [
+     "Streaming now adds real profit alongside parks, ESPN and TV",
+     "Disney plans to shut its theme parks to fund streaming",
+     "Disney's content budget is shrinking sharply",
+     "ESPN lost money for the first time"
+    ],
+    "prompt": "Disney's streaming revenue rose 19% to about $6 billion in the quarter. What is the main business point of these results?",
+    "sector": "tmt",
+    "storyId": "2026-11-17-05",
+    "subindustry": "media-entertainment"
+   },
+   {
+    "answer": 1,
+    "explanation": "With Qatar's supply constrained and EU storage only about 70.5% full, US plants are Europe's swing supplier and can sell spot cargoes at wide margins. European buyers pay more, and the EU bans Russian LNG from January 1.",
+    "id": "2026-11-17:q05",
+    "kind": "today",
+    "options": [
+     "European utilities that buy spot LNG",
+     "US LNG exporters selling spare cargoes at high prices",
+     "Russian LNG sellers to the EU",
+     "Asian buyers with fixed pipeline contracts"
+    ],
+    "prompt": "Gas flows into US LNG plants hit a record 21.8 Bcf while Qatar extends force majeure. Who gains most?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-17-07",
+    "subindustry": "midstream-lng"
+   },
+   {
+    "answer": 2,
+    "explanation": "Tyson's beef unit lost $514 million in the quarter while chicken earned $405 million. Chickens grow in weeks, so supply and margins recover fast; packers cannot pass on record cattle costs.",
+    "id": "2026-11-17:q06",
+    "kind": "today",
+    "options": [
+     "Beef, because cattle prices are high",
+     "Pork exports to China",
+     "Chicken, because supply can adjust within weeks",
+     "Beef, because packers can pass on all costs"
+    ],
+    "prompt": "A US meat processor sells both chicken and beef while the cattle herd is at multi-decade lows. Which segment most likely supports profits?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-17-11",
+    "subindustry": "agriculture-food"
+   },
+   {
+    "answer": 1,
+    "explanation": "$35.7 billion divided by about $8.5 billion is roughly four years. A large backlog gives visibility into demand, but revenue only arrives when jets are delivered.",
+    "id": "2026-11-10:q05",
+    "kind": "review",
+    "options": [
+     "About one year",
+     "About four years",
+     "About eight years",
+     "About twelve years"
+    ],
+    "prompt": "Embraer has a $35.7 billion backlog and guides 2026 revenue of $8.4-8.6 billion. Roughly how many years of sales does the backlog cover?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-10-05",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 1,
+    "explanation": "Both banks operate in the Gulf South, so the combined bank can close duplicate branches and merge systems. The price is about 7% dilution to tangible book value per share, earned back in about 2.8 years.",
+    "id": "2026-11-13:q05",
+    "kind": "review",
+    "options": [
+     "Charging depositors higher fees right away",
+     "Cutting overlapping branches and back-office costs in shared markets",
+     "Raising loan rates above competitors",
+     "Selling the target's loans at a profit"
+    ],
+    "prompt": "Hancock Whitney expects buying Trustmark to add about 7% to its 2028 earnings per share. Where does most of that gain usually come from in a bank merger like this?",
+    "sector": "financial-services",
+    "storyId": "2026-11-13-05",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 0,
+    "explanation": "European power markets clear at the cost of the marginal plant, so when wind and solar drop, gas plants set the price for every megawatt-hour. With gas already expensive, Germany's day-ahead price hit €345.64 and France's €334.12, its highest since December 2022.",
+    "id": "2026-11-11:q03",
+    "kind": "review",
+    "options": [
+     "The most expensive plant needed to meet demand, usually gas-fired, sets the price paid to all generators",
+     "Wind farms raise their prices when output falls",
+     "Grid operators add a fixed scarcity tax to every bill",
+     "Nuclear plants shut down when wind output falls"
+    ],
+    "prompt": "During a windless, cloudy spell, European peak power prices topped €600/MWh even though most hours are still supplied by cheaper plants. Why does the whole market price jump?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-11-05",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 2,
+    "explanation": "Tower owners rent masts and fiber to several operators at once under long-term contracts with built-in increases. Operators fight over customers, but they all keep paying rent; spectrum is auctioned by governments, not towers.",
+    "id": "2026-11-17:q10",
+    "kind": "profile",
+    "options": [
+     "They own the spectrum that operators must rent",
+     "They are paid by governments, not companies",
+     "They rent each site to several operators on multi-year contracts",
+     "They sell phones with high margins"
+    ],
+    "prompt": "In telecom, why do tower companies such as American Tower have more stable cash flow than mobile operators?",
+    "sector": "tmt",
+    "storyId": null,
+    "subindustry": "telecom"
+   }
+  ]
  }
 }
