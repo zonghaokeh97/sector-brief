@@ -5644,5 +5644,564 @@
   "subindustry": "payments-fintech",
   "summary": "Buy-now-pay-later company Klarna reported third-quarter revenue of $1.009 billion, up 12% and above its own guidance of $940 to $980 million. Gross merchandise volume, the value of purchases it financed, rose 10% to $36.1 billion, with the US up 24%. The net loss narrowed by $30 million to $65 million, and adjusted operating income was $21 million. Klarna kept its full-year outlook.",
   "tags": []
+ },
+ "2026-11-19-01": {
+  "companies": [
+   "anthropic"
+  ],
+  "date": "2026-11-19",
+  "headline": "Anthropic prices the largest IPO on record at $83 a share, raising $81.3 billion at a value of about $1.5 trillion",
+  "numbers": [
+   "IPO price: $83 (range $70-$78)",
+   "Raised: $81.3B, largest IPO on record",
+   "Fully diluted value: ~$1.5T",
+   "Run-rate revenue: ~$81B (Oct 2026)",
+   "Strategic investment: $26B at IPO price"
+  ],
+  "order": 1,
+  "sector": "tmt",
+  "soWhat": "The listing puts a public market price on a company that sells AI models rather than chips or cloud capacity, and it hands Anthropic a cash pile to pay for compute without leaning only on its cloud partners. Several of the new strategic investors are also its suppliers, so part of the money will flow back to them as chip and data-center spending. Index funds must buy the stock within weeks, which supports demand early on. The open question is whether revenue can keep growing faster than compute costs; the $104 billion nine-month net loss was mostly an accounting charge on convertible notes, not cash spending.",
+  "sources": [
+   {
+    "title": "CNBC: Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+    "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+   },
+   {
+    "title": "Newsquawk: Daily US Equity Opening News, 19 Nov 2026",
+    "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news-ant-ipo-priced-at-83shr-panw-rallies-on-earnings-beat-wmt-slips-on-comp-sales-miss"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Anthropic priced its initial public offering at $83 a share on Wednesday, above its marketed range of $70 to $78, and enlarged the sale to about 980 million shares from 825 million. The sale raised $81.3 billion, more than the $75 billion SpaceX raised in its June listing before extra shares were sold. Google, Microsoft, Nvidia and AMD agreed to invest another $26 billion at the IPO price, and the fully diluted value is about $1.5 trillion. Anthropic reported $33.2 billion of revenue in the nine months to September, about 13 times a year earlier, and a run rate of about $81 billion at the end of October. Shares start trading on Nasdaq on Thursday under the ticker ANT.",
+  "tags": []
+ },
+ "2026-11-19-02": {
+  "companies": [
+   "nvidia",
+   "amd"
+  ],
+  "date": "2026-11-19",
+  "headline": "Nvidia's revenue doubles to $115.8 billion and it guides to $130 billion, but the stock slips as the board searches for a new CEO",
+  "numbers": [
+   "Q3 revenue: $115.8B (+103%)",
+   "Data center: $107.6B (93% of sales)",
+   "Q4 guide: ~$130B ±3%",
+   "Supply commitments: $390B (from $279B)",
+   "New buyback: $150B"
+  ],
+  "order": 2,
+  "sector": "tmt",
+  "soWhat": "The numbers show AI chip demand is still growing faster than supply, so Nvidia keeps pricing power for now. Investors are weighing that against two risks: leadership uncertainty and the $390 billion of supply it has committed to buy, which becomes a burden if customers slow orders. Rivals gain when big buyers hedge; Microsoft said the turmoil could speed demand for alternative chips from AMD and Broadcom. The open question is whether the largest cloud companies shift a meaningful share of spending to custom or rival chips over the next year.",
+  "sources": [
+   {
+    "title": "TheStreet Pro: Nvidia shares rise as Kress raises growth outlook",
+    "url": "https://pro.thestreet.com/stock-market-today/nvidia-shares-rise-as-kress-raises-growth-outlook"
+   },
+   {
+    "title": "Newsquawk: Daily US Equity Opening News, 18 Nov 2026",
+    "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news---nvda-up-after-results-aapl-restores-systems-after-outage-mrvl--crdo-settle-patent-disputes-googs-waymo-suspends-california-freeway-operations-ttwo-gta-vi-pre-orders-said-to-reach-1588mln-tcehy-sales-miss"
+   },
+   {
+    "title": "Capp Notes: Closing Look, Wednesday, November 18, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-18"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Nvidia's revenue for the August to October quarter rose 103% to $115.8 billion, above the roughly $109 billion analysts expected. Data-center sales rose 110% to $107.6 billion, or 93% of the total. The company guided to about $130 billion next quarter, plus or minus 3% (the quarter has an extra week), with gross margin of 71% to 72%, about 3 points lower as its new Rubin chips ramp up. It added $150 billion to its buyback, and its supply commitments rose to $390 billion from $279 billion. The board said it will not reinstate Jensen Huang and has begun a CEO search; the shares rose after hours but closed down 2.9% on Wednesday while AMD rose 5.3%.",
+  "tags": []
+ },
+ "2026-11-19-03": {
+  "companies": [
+   "unitedhealth-group",
+   "humana",
+   "elevance-health",
+   "cvs-health"
+  ],
+  "date": "2026-11-19",
+  "headline": "Health insurers fall as much as 13% after Medicare proposes clawing back Advantage overpayments back to 2018",
+  "numbers": [
+   "CMS estimated recovery: ~$9B per payment year",
+   "Look-back: to payment year 2018",
+   "Humana: -13.0%; UnitedHealth: -10.2% (Nov 18)",
+   "Comment deadline: Jan 19, 2027"
+  ],
+  "order": 3,
+  "sector": "healthcare",
+  "soWhat": "Medicare Advantage plans are paid more for members whose records show more illness, so how diagnoses are coded drives revenue. Extrapolation turns a few coding errors in a sample into a repayment across an entire contract, which makes aggressive coding a financial liability and could cut margins for years. Humana is the most exposed because Medicare Advantage is most of its business, while UnitedHealth has the largest share of enrollment at about 29%. The open question is how much of the rule survives the comment period and likely court challenges.",
+  "sources": [
+   {
+    "title": "TIKR: UnitedHealth sinks on Medicare Advantage audit plan as CMS moves to CRUSH medical fraud",
+    "url": "https://www.tikr.com/blog/unitedhealth-sinks-5-on-medicare-advantage-audit-plan-as-cms-moves-to-crush-medical-fraud"
+   },
+   {
+    "title": "Capp Notes: Closing Look, Wednesday, November 18, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-18"
+   }
+  ],
+  "subindustry": "payers-providers",
+  "summary": "Medicare's regulator, CMS, proposed a rule on Monday that would apply the error rate found in audits of sampled patient charts to whole Medicare Advantage contracts, reaching back to payment year 2018. CMS estimates this would recover about $9 billion per payment year across the industry, and comments are due by January 19, 2027. Insurer shares slid on Tuesday and fell harder on Wednesday: Humana dropped 13% to $385.78, UnitedHealth 10.2% to $349.91, Elevance 7.6% and CVS Health 5.2%. Government premiums made up 44% of UnitedHealth's 2025 revenue.",
+  "tags": []
+ },
+ "2026-11-19-04": {
+  "companies": [],
+  "date": "2026-11-19",
+  "headline": "Fed minutes show almost all officials expect more rate hikes, and markets price a December increase at about 90%",
+  "numbers": [
+   "Fed funds range: 3.75%-4.00%",
+   "October vote: 10-2 (two favored a hike)",
+   "December hike odds: ~91% (Kalshi)",
+   "US 10-year yield: 5.07%"
+  ],
+  "order": 4,
+  "sector": "macro",
+  "soWhat": "Higher short-term rates raise borrowing costs for companies, home buyers and governments at a time when US 10-year yields are already above 5%. Banks can earn more on deposits and loans, but sectors that depend on cheap financing, such as real estate, utilities and long-duration growth stocks, lose. A stronger dollar from higher US rates also squeezes commodity prices and emerging-market borrowers. The open question is whether the Fed moves by 25 or 50 basis points in December, which depends on the next inflation reports.",
+  "sources": [
+   {
+    "title": "ABA Banking Journal: FOMC minutes show 'close call' over possible rate hike",
+    "url": "https://bankingjournal.aba.com/2026/11/fomc-minutes-show-close-call-over-possible-rate-hike/"
+   },
+   {
+    "title": "Capp Notes: Closing Look, Wednesday, November 18, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-18"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "Minutes of the Federal Reserve's October 27-28 meeting, released Wednesday, showed nearly all officials judged that further rate increases would likely be needed to bring inflation back to 2%. The Fed held its rate at 3.75% to 4% on a 10-2 vote, with two members preferring a quarter-point hike, and some called the hold a close call. A couple of officials said a move larger than 25 basis points could be considered at the December 8-9 meeting if inflation data were unfavorable. After the release, prediction market Kalshi put the odds of a December quarter-point hike at 91%, and the 10-year Treasury yield ended at 5.07%.",
+  "tags": []
+ },
+ "2026-11-19-05": {
+  "companies": [],
+  "date": "2026-11-19",
+  "headline": "WTI drops 3.2% to $83.26 after a surprise US crude build, widening its discount to Brent to almost $9",
+  "numbers": [
+   "WTI settle: $83.26 (-3.2%)",
+   "Brent settle: $91.95 (-1.3%)",
+   "Brent-WTI spread: $8.93",
+   "US crude stocks: +3.4M barrels (week)",
+   "S&P 500 energy: -3.3%"
+  ],
+  "order": 5,
+  "sector": "energy-materials",
+  "soWhat": "A wide Brent-WTI gap means US barrels are getting stuck at home: a shortage of very large tankers has pushed up freight costs, so less US crude is exported and inventories build. US shale producers lose because they sell at WTI prices, while US refiners gain because they buy cheaper WTI-linked crude and sell fuel into markets priced off global benchmarks. Falling gasoline prices help consumers and airlines heading into winter. The open question is whether continued attacks near Hormuz keep a risk premium in Brent once the expected surplus arrives.",
+  "sources": [
+   {
+    "title": "DTN: WTI down 3% as US crude build adds to global supply",
+    "url": "https://www.dtnpf.com/agriculture/web/ag/news/world-policy/article/2026/11/18/wti-3-us-crude-build-adds-global"
+   },
+   {
+    "title": "Capp Notes: Closing Look, Wednesday, November 18, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-18"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "US crude futures (WTI) settled down $2.75 at $83.26 a barrel on Wednesday, and Brent fell $1.19 to $91.95. Government data showed US crude stocks rose 3.4 million barrels in the week to November 13, when analysts expected a small draw, while gasoline stocks rose 5.2 million barrels, five times the expected build. Gulf oil output is nearing pre-war levels, and the IEA expects a supply surplus this quarter. The gap between Brent and WTI widened by $1.80 to $8.93 because high tanker freight rates make US exports less attractive. Energy was the worst S&P 500 sector, down 3.3%.",
+  "tags": []
+ },
+ "2026-11-19-06": {
+  "companies": [
+   "walmart"
+  ],
+  "date": "2026-11-19",
+  "headline": "Walmart raises its outlook for the third time as revenue grows 5.2% to $188.8 billion and US online sales jump 23%",
+  "numbers": [
+   "Revenue: $188.8B (+5.2%)",
+   "US comp sales (ex-fuel): +2.9%",
+   "US e-commerce: +23%; US ads: +37%",
+   "FY adj. EPS guide: $2.84-$2.89"
+  ],
+  "order": 6,
+  "sector": "consumer-retail",
+  "soWhat": "Walmart is growing profit faster than sales because it now earns more from high-margin streams such as advertising and membership fees, on top of thin grocery margins. Its online scale lets it deliver more orders from stores at a lower cost per order, which squeezes smaller grocers and regional chains. Slowing US comparable sales show shoppers remain careful, so price cuts are being used to defend traffic. The open question is how much fuel and freight costs will eat into margins once one-time tariff refunds fade.",
+  "sources": [
+   {
+    "title": "CNBC: Walmart hikes outlook as CEO says retailer aims to keep prices low despite soaring fuel costs",
+    "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html"
+   },
+   {
+    "title": "Newsquawk: Daily US Equity Opening News, 19 Nov 2026",
+    "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news-ant-ipo-priced-at-83shr-panw-rallies-on-earnings-beat-wmt-slips-on-comp-sales-miss"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "Walmart's revenue rose 5.2% to $188.8 billion in the quarter to October 31, above the $187.3 billion expected, and adjusted earnings of 65 cents a share beat estimates by a cent. US comparable sales excluding fuel rose 2.9%, in line with forecasts and slower than 4.5% a year earlier, while Sam's Club sales rose 10%. US e-commerce grew 23% and US advertising sales 37%. Walmart raised its full-year sales growth outlook to 4.9%-5.2% and adjusted EPS to $2.84-$2.89. It said tariff refunds offset higher diesel costs and that it cut prices on nearly 8,000 items.",
+  "tags": []
+ },
+ "2026-11-19-07": {
+  "companies": [
+   "enquest",
+   "totalenergies"
+  ],
+  "date": "2026-11-19",
+  "headline": "EnQuest sells its whole UK North Sea business to TotalEnergies-backed NEO NEXT+ for up to $960 million",
+  "numbers": [
+   "Upfront cash: $840M",
+   "Contingent payment: up to $120M",
+   "Liabilities assumed: ~$2.1B",
+   "TotalEnergies stake in buyer: 47.5%",
+   "Expected close: Q1 2027"
+  ],
+  "order": 7,
+  "sector": "energy-materials",
+  "soWhat": "The UK North Sea is a mature basin where small and mid-sized producers face high windfall taxes and large clean-up bills as old fields shut. Selling to a bigger, better-funded operator moves those decommissioning liabilities to a balance sheet that can absorb them and lets the buyer cut costs by running more fields and shared pipelines together. EnQuest gets cash to repay debt and redeploy into Southeast Asia, which it sees as higher-return. The deal shows how UK fiscal policy is pushing consolidation, and the open question is whether further tax changes slow new investment and speed up field closures.",
+  "sources": [
+   {
+    "title": "OilPrice.com: EnQuest exits UK North Sea in $960 million deal",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/EnQuest-Exits-UK-North-Sea-in-960-Million-Deal.html"
+   },
+   {
+    "title": "Newsquawk: Daily US Equity Opening News, 18 Nov 2026",
+    "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news---nvda-up-after-results-aapl-restores-systems-after-outage-mrvl--crdo-settle-patent-disputes-googs-waymo-suspends-california-freeway-operations-ttwo-gta-vi-pre-orders-said-to-reach-1588mln-tcehy-sales-miss"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "EnQuest agreed on November 17 to sell its UK upstream business to NEO NEXT+ for $840 million in cash at completion plus up to $120 million tied to oil prices and possible changes to the UK's Energy Profits Levy. The sale covers the Magnus, Kraken and Greater Kittiwake fields it operates, a stake in Golden Eagle, the undeveloped Bressay field and Bentley discovery, and its interest in the Sullom Voe terminal. The buyer also takes on about $2.1 billion of decommissioning, lease and other liabilities. TotalEnergies owns 47.5% of NEO NEXT+, which was formed in March with a Repsol and HitecVision partnership. Completion is expected in the first quarter of 2027.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-19-08": {
+  "companies": [
+   "palo-alto-networks"
+  ],
+  "date": "2026-11-19",
+  "headline": "Palo Alto Networks grows revenue 39% to $3.44 billion and agrees to buy AI start-up Applied Compute for $4.5 billion in stock",
+  "numbers": [
+   "Revenue: $3.44B (+39%)",
+   "Next-gen security ARR: $9.73B (+66%)",
+   "FY27 revenue guide: $14.52-$14.57B",
+   "Applied Compute deal: $4.5B (all stock)"
+  ],
+  "order": 8,
+  "sector": "tmt",
+  "soWhat": "Security software is benefiting as companies roll out AI agents and models that create new ways to be attacked, and buyers want fewer vendors that cover more of the problem. Paying in stock lets Palo Alto add AI engineering talent without spending cash, but dilutes shareholders. Large platforms gain against smaller point-product vendors, which find it harder to compete on breadth. The open question is whether security firms can turn AI model hosting into lasting revenue or whether it remains a feature that clouds give away.",
+  "sources": [
+   {
+    "title": "SEC: Palo Alto Networks fiscal Q1 2027 earnings release",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001327567/000132756726000030/ex991q127earningsrelease.htm"
+   },
+   {
+    "title": "Newsquawk: Daily US Equity Opening News, 19 Nov 2026",
+    "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news-ant-ipo-priced-at-83shr-panw-rallies-on-earnings-beat-wmt-slips-on-comp-sales-miss"
+   },
+   {
+    "title": "Capp Notes: Closing Look, Wednesday, November 18, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-18"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Palo Alto Networks reported revenue of $3.44 billion for the quarter to October 31, up 39% and above the $3.31 billion expected, with adjusted EPS of $1.05 against 97 cents forecast. Annual recurring revenue from its newer security products rose 66% to $9.73 billion, and contracted future revenue rose 35% to $21 billion. It raised full-year revenue guidance to $14.52-$14.57 billion. It also agreed to buy Applied Compute, which helps companies train and run open-weight AI models, in an all-stock deal valued at $4.5 billion. The shares rose 9.9% on Wednesday.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-19-09": {
+  "companies": [
+   "target",
+   "tjx"
+  ],
+  "date": "2026-11-19",
+  "headline": "Target posts its best sales growth in five years with comparable sales up 5.6%, while TJX lifts its full-year outlook",
+  "numbers": [
+   "Target comp sales: +5.6% (traffic +5%)",
+   "Target FY sales growth: ~6%",
+   "TJX comp sales: +4%",
+   "TJX adj. EPS: $1.34"
+  ],
+  "order": 9,
+  "sector": "consumer-retail",
+  "soWhat": "Both results show shoppers are still spending but moving toward value: Target won traffic back with price cuts, and off-price stores gain when department stores have excess stock to sell cheaply. Tariff refunds are giving retailers a one-time profit boost this year, which flatters reported earnings. Weaker department stores and specialty chains lose share to discounters and off-price stores. The open question is whether the sales pickup lasts through the holiday season once price cuts and refunds stop helping.",
+  "sources": [
+   {
+    "title": "Quartz: Target posted best sales growth in over five years",
+    "url": "https://qz.com/target-earnings-sales-growth-forecast-raised-111826"
+   },
+   {
+    "title": "CNBC: Off-price retailer TJX keeps its promise and the stock soars",
+    "url": "https://www.cnbc.com/investingclub/2026/11/18/off-price-retailer-tjx-keeps-its-promise-and-the-stock-soars-were-satisfied-for-now.html"
+   },
+   {
+    "title": "Newsquawk: Daily US Equity Opening News, 19 Nov 2026",
+    "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news-ant-ipo-priced-at-83shr-panw-rallies-on-earnings-beat-wmt-slips-on-comp-sales-miss"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "Target's comparable sales rose 5.6% in its third quarter, well above the roughly 3.5% analysts expected, as store traffic rose 5% and net sales grew 7.1%. It raised its full-year sales growth outlook to about 6% and its adjusted EPS range to $10.65-$11.40, which includes about $2.14 a share of tariff refunds. Off-price chain TJX, owner of TJ Maxx and HomeGoods, reported comparable sales growth of 4% and now expects about 4% for the year, up from 3% to 4%. TJX's adjusted EPS was $1.34, excluding a 5-cent benefit from tariff refunds.",
+  "tags": []
+ },
+ "2026-11-19-10": {
+  "companies": [],
+  "date": "2026-11-19",
+  "headline": "UK inflation rises to 3.6% and eurozone inflation sits at 4.0%, the highest in three years",
+  "numbers": [
+   "UK CPI: 3.6% (Oct)",
+   "UK core CPI: 2.8%",
+   "Eurozone HICP: 4.0% (Oct)",
+   "Eurozone core: 2.5%"
+  ],
+  "order": 10,
+  "sector": "macro",
+  "soWhat": "When headline inflation rises but core stays steady, the pressure is coming mostly from energy rather than from wages and services, which makes central banks less sure whether to raise rates. Households and energy-intensive industries such as chemicals and steel feel the squeeze first, while energy producers benefit. The European Central Bank and Bank of England have to weigh weak growth against the risk that high energy costs spread into wages. The open question is whether falling oil prices this month pull headline inflation back down quickly enough to avoid rate rises.",
+  "sources": [
+   {
+    "title": "Newsquawk: Daily US Equity Opening News, 18 Nov 2026",
+    "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news---nvda-up-after-results-aapl-restores-systems-after-outage-mrvl--crdo-settle-patent-disputes-googs-waymo-suspends-california-freeway-operations-ttwo-gta-vi-pre-orders-said-to-reach-1588mln-tcehy-sales-miss"
+   },
+   {
+    "title": "FXStreet: Eurozone flash HICP grows 4% y/y in October",
+    "url": "https://www.fxstreet.com/news/eurozone-flash-hicp-grows-faster-by-4-yoy-in-october-as-expected-202611041002"
+   },
+   {
+    "title": "Capp Notes: Closing Look, Wednesday, November 18, 2026",
+    "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-18"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "UK consumer prices rose 3.6% in the year to October, up from 3.5% in September but below the 3.7% expected, while core inflation held at 2.8% and services inflation was 3.7%. Eurozone inflation was 4.0% in October, up from 3.8% and the highest since 2023, with core inflation steady at 2.5%. The gap between headline and core inflation in both places reflects energy prices pushed up by the Iran conflict. European shares fell 1% on Wednesday.",
+  "tags": []
+ },
+ "2026-11-19-11": {
+  "companies": [
+   "eqt",
+   "flatiron-energy"
+  ],
+  "date": "2026-11-19",
+  "headline": "EQT buys Flatiron Energy, a 24 GWh battery storage developer in the US Northeast",
+  "numbers": [
+   "Portfolio: 24 GWh",
+   "Long-term contracts: 6 GWh",
+   "Under construction: 2 GWh",
+   "Portfolio growth since 2022: ~10x"
+  ],
+  "order": 11,
+  "sector": "energy-materials",
+  "soWhat": "Batteries are the fastest-growing part of the power transition because they store cheap solar and wind output and release it at peak times, which grids short of capacity will pay for. In crowded Northeast markets, the scarce assets are permitted sites and grid connections, so a developer with both is worth more than the batteries themselves. Infrastructure funds like EQT want the long-term contracted cash flows, while utilities facing data-center demand gain fast capacity. The open question is how quickly the 24 GWh pipeline can win contracts and connect to the grid.",
+  "sources": [
+   {
+    "title": "EQT: EQT to acquire Flatiron Energy",
+    "url": "https://eqtgroup.com/news/eqt-to-acquire-flatiron-energy-a-leading-developer-and-operator-of-battery-energy-storage-in-the-eastern-us-2026-11-17"
+   },
+   {
+    "title": "Simpson Thacher: EQT to acquire Flatiron Energy",
+    "url": "https://www.stblaw.com/about-us/news/view/2026/11/17/eqt-to-acquire-flatiron-energy"
+   }
+  ],
+  "subindustry": "renewables-transition",
+  "summary": "EQT's Transition Infrastructure fund agreed on November 17 to buy Flatiron Energy from Hull Street Energy, which invested in 2022. Flatiron has grown its portfolio nearly tenfold since then to 24 gigawatt-hours of battery storage, holds 6 GWh of long-term contracts and has 2 GWh under construction. It works in New England, New York and the Mid-Atlantic, focusing on dense urban markets where sites and grid connections are hard to secure. Financial terms were not disclosed, and completion is expected in the fourth quarter of 2026.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-19-12": {
+  "companies": [
+   "tencent"
+  ],
+  "date": "2026-11-19",
+  "headline": "Tencent misses revenue forecasts at CNY 207 billion as it steps up AI spending, with capex 47% above estimates",
+  "numbers": [
+   "Revenue: CNY 207.3B (est. 210.5B)",
+   "Capex: CNY 81.4B (est. 55.4B)",
+   "Marketing revenue: +19%",
+   "WeChat users: 1.45B"
+  ],
+  "order": 12,
+  "sector": "tmt",
+  "soWhat": "Tencent's core businesses of games, ads and payments still grow, but heavy spending on AI chips and data centers is starting to weigh on operating profit, a pattern seen across big platforms. Advertisers benefit from better AI targeting, while investors must wait longer for returns on the new spending. Chinese rivals building AI models face pressure to match the outlay. The open question is whether AI lifts ad and cloud revenue fast enough to justify capex running well above forecasts.",
+  "sources": [
+   {
+    "title": "Newsquawk: Daily US Equity Opening News, 18 Nov 2026",
+    "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news---nvda-up-after-results-aapl-restores-systems-after-outage-mrvl--crdo-settle-patent-disputes-googs-waymo-suspends-california-freeway-operations-ttwo-gta-vi-pre-orders-said-to-reach-1588mln-tcehy-sales-miss"
+   }
+  ],
+  "subindustry": "internet-platforms",
+  "summary": "Tencent's third-quarter revenue was CNY 207.3 billion, below the CNY 210.5 billion expected, and operating profit of CNY 59.2 billion missed the CNY 66.6 billion forecast. Adjusted net profit of CNY 66.5 billion was in line. Domestic games revenue rose 18% and marketing services 19%, but international games came in below expectations. Capital spending reached CNY 81.4 billion against CNY 55.4 billion expected, and WeChat users rose to 1.45 billion.",
+  "tags": []
+ },
+ "2026-11-19-13": {
+  "companies": [
+   "sqm"
+  ],
+  "date": "2026-11-19",
+  "headline": "SQM's lithium price falls 10% in a quarter and it warns of a further substantial drop",
+  "numbers": [
+   "Q3 lithium price: $19.60/kg (-10% q/q)",
+   "Adj. EBITDA: $1.03B (est. $1.11B)",
+   "2026 demand growth: ~30%",
+   "Volume guide: 280-290k tonnes"
+  ],
+  "order": 13,
+  "sector": "energy-materials",
+  "soWhat": "Lithium shows how a commodity can fall even when demand grows fast: new mines and refineries in China, Australia and Africa have added supply faster than battery makers need it. Low-cost producers such as SQM, which pump lithium brine in Chile's Atacama desert, stay profitable when prices drop, while higher-cost hard-rock miners get squeezed and may delay projects. Battery and electric-car makers gain from cheaper raw materials. The open question is how long it takes for high-cost supply to shut and prices to find a floor.",
+  "sources": [
+   {
+    "title": "Newsquawk: Daily US Equity Opening News, 18 Nov 2026",
+    "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news---nvda-up-after-results-aapl-restores-systems-after-outage-mrvl--crdo-settle-patent-disputes-googs-waymo-suspends-california-freeway-operations-ttwo-gta-vi-pre-orders-said-to-reach-1588mln-tcehy-sales-miss"
+   }
+  ],
+  "subindustry": "metals-mining",
+  "summary": "Chilean lithium producer SQM said its average lithium price fell 10% from the prior quarter to $19.60 a kilogram in the third quarter. Adjusted EBITDA was $1.03 billion, below the $1.11 billion expected, and the company warned fourth-quarter prices could fall substantially. It still expects lithium demand to grow 30% in 2026 and kept its production guidance of 280,000 to 290,000 tonnes.",
+  "tags": []
+ },
+ "2026-11-19-14": {
+  "companies": [
+   "gsk"
+  ],
+  "date": "2026-11-19",
+  "headline": "GSK wins early US approval for Nelkarmi, a second lung cancer drug from its $10.6 billion Nuvalent purchase",
+  "numbers": [
+   "Nuvalent deal value: $10.6B",
+   "Expected sales: ~$1B a year by 2032 (analysts)",
+   "Approval type: accelerated",
+   "Target date beaten: Nov 27"
+  ],
+  "order": 14,
+  "sector": "healthcare",
+  "soWhat": "Large drug makers are buying late-stage cancer assets to replace revenue from older drugs that are losing patent protection. Approval in later-line patients is a foothold; the bigger prize is moving to first-line treatment, where patients stay on drug longer and sales are larger. Incumbent ALK drugs, such as Pfizer's Lorbrena and Roche's Alecensa, face a new rival. The open question is whether the Phase 3 first-line trial shows a clear advantage.",
+  "sources": [
+   {
+    "title": "GSK: Nelkarmi approved in the US for previously treated advanced ALK-positive NSCLC",
+    "url": "https://www.gsk.com/en-gb/media/press-releases/nelkarmi-neladalkib-approved-in-the-us-for-previously-treated-advanced-alk-positive-non-small-cell-lung-cancer/"
+   },
+   {
+    "title": "Newsquawk: Daily US Equity Opening News, 18 Nov 2026",
+    "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news---nvda-up-after-results-aapl-restores-systems-after-outage-mrvl--crdo-settle-patent-disputes-googs-waymo-suspends-california-freeway-operations-ttwo-gta-vi-pre-orders-said-to-reach-1588mln-tcehy-sales-miss"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "The FDA granted accelerated approval on November 17 to GSK's Nelkarmi (neladalkib) for adults with advanced ALK-positive lung cancer whose disease progressed after earlier ALK-targeted drugs. The approval came ahead of the November 27 target date and rests on the single-arm ALKOVE-1 trial. GSK gained the drug through its $10.6 billion acquisition of Nuvalent, and analysts expect about $1 billion of annual sales by 2032. A Phase 3 trial is testing it in patients who have not had earlier ALK treatment.",
+  "tags": []
+ },
+ "2026-11-19-15": {
+  "companies": [
+   "ups"
+  ],
+  "date": "2026-11-19",
+  "headline": "UPS agrees to buy Australian healthcare courier Smartways Logistics, reportedly for about A$600 million",
+  "numbers": [
+   "Reported price: ~A$600M (~$405M)",
+   "Drivers: 350+",
+   "Expected close: H1 2027"
+  ],
+  "order": 15,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Healthcare logistics pays more than ordinary parcels because shipments are urgent, temperature-controlled and regulated, and customers rarely switch providers. UPS is buying into this niche to offset slower growth and lower margins in its main parcel business. Smaller specialist couriers become takeover targets, while rivals such as FedEx and DHL face a stronger competitor in Asia-Pacific healthcare. The open question is whether UPS can grow these bolt-on businesses fast enough to change its overall margin.",
+  "sources": [
+   {
+    "title": "Business Wire via TT: UPS announces agreement to acquire Smartways Logistics",
+    "url": "https://via.tt.se/pressmeddelande/4646412/ups-announces-agreement-to-acquire-smartways-logistics?publisherId=259167"
+   },
+   {
+    "title": "Crypto Briefing: UPS to acquire Smartways Logistics",
+    "url": "https://cryptobriefing.com/united-parcel-service-deal-ups-smartways-acquisition-2026-11/"
+   }
+  ],
+  "subindustry": "transport-logistics",
+  "summary": "UPS agreed to acquire Smartways Logistics, a healthcare courier in Australia and New Zealand owned by private equity firm The Riverside Company. Smartways has more than 350 drivers and moves medical devices, life sciences products, clinical trial materials and radiopharmaceuticals, mostly same-day or next-day. Terms were not disclosed, but the Australian Financial Review reported an offer of about A$600 million ($405 million). The deal is expected to close in the first half of 2027.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-19-16": {
+  "companies": [
+   "alstom"
+  ],
+  "date": "2026-11-19",
+  "headline": "Alstom swings to a €954 million half-year loss on problem train contracts and cuts its margin target to about 1%",
+  "numbers": [
+   "H1 net loss: €954M",
+   "Adj. EBIT: -€396M",
+   "H1 sales: €9.33B (+3%)",
+   "FY margin target: ~1% (from 6.5%)"
+  ],
+  "order": 16,
+  "sector": "advanced-industries",
+  "soWhat": "Rolling-stock makers sign long fixed-price contracts years before delivery, so cost overruns and late trains hit profit and cash long after the order is booked. A strong order book does not guarantee profit if contracts were priced too tightly. Rivals such as Siemens Mobility and Stadler can win on reliability, while rail operators face delays. The open question is whether Alstom can fix the troubled programs without raising new equity.",
+  "sources": [
+   {
+    "title": "Il Sole 24 Ore: Alstom half-year revenue €9.3 billion, cuts 2026/27 guidance",
+    "url": "https://en.ilsole24ore.com/art/alstom-half-year-revenue-93-billion-cuts-202627-guidance-by-3-per-cent-AJT5ec1B"
+   },
+   {
+    "title": "RTTNews: Alstom swings to loss in H1",
+    "url": "https://www.rttnews.com/3715598/alstom-swings-to-loss-in-h1.aspx"
+   },
+   {
+    "title": "Newsquawk: Daily US Equity Opening News, 18 Nov 2026",
+    "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news---nvda-up-after-results-aapl-restores-systems-after-outage-mrvl--crdo-settle-patent-disputes-googs-waymo-suspends-california-freeway-operations-ttwo-gta-vi-pre-orders-said-to-reach-1588mln-tcehy-sales-miss"
+   }
+  ],
+  "subindustry": "industrial-machinery",
+  "summary": "French train maker Alstom reported a net loss of €954 million for the six months to September, against a €220 million profit a year earlier, as execution problems on German projects and its Coradia Max trains led to an adjusted operating loss of €396 million. Sales rose 3% to €9.33 billion, and orders were €11 billion. Free cash flow was negative €1.25 billion. Alstom cut its full-year adjusted operating margin target to about 1% from 6.5% and set out a €2 billion debt-reduction plan.",
+  "tags": []
+ },
+ "2026-11-19-17": {
+  "companies": [
+   "alphabet"
+  ],
+  "date": "2026-11-19",
+  "headline": "California bans robotaxis from freeways after Waymo cars enter a construction zone, and Waymo suspends freeway service",
+  "numbers": [
+   "Vehicles in incident: 3",
+   "Scope: all robotaxi operators on California freeways"
+  ],
+  "order": 17,
+  "sector": "advanced-industries",
+  "soWhat": "Freeway access matters to robotaxi economics because airport trips and longer rides are among the most valuable fares. Losing it limits how much of the ride-hailing market driverless services can serve in California, which helps human-driven services such as Uber and Lyft in the short run. Regulators are showing that one incident can change rules for the whole industry, which raises the cost of expansion for every operator. The open question is what safety evidence regulators will require to lift the ban.",
+  "sources": [
+   {
+    "title": "Newsquawk: Daily US Equity Opening News, 18 Nov 2026",
+    "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news---nvda-up-after-results-aapl-restores-systems-after-outage-mrvl--crdo-settle-patent-disputes-googs-waymo-suspends-california-freeway-operations-ttwo-gta-vi-pre-orders-said-to-reach-1588mln-tcehy-sales-miss"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "California regulators banned robotaxi testing and operation on all freeways after three driverless Waymo vehicles entered a construction zone on Route 101. Waymo, owned by Alphabet, suspended its freeway operations in response. The ban applies to all operators in the state, not only Waymo.",
+  "tags": []
+ },
+ "2026-11-19-18": {
+  "companies": [
+   "take-two"
+  ],
+  "date": "2026-11-19",
+  "headline": "GTA VI launches with a reported 15.9 million pre-orders, three-quarters on PlayStation 5",
+  "numbers": [
+   "Pre-orders: ~15.9M (Sensor Tower)",
+   "PS5 share of pre-orders: ~75%",
+   "Release: Nov 19, 2026"
+  ],
+  "order": 18,
+  "sector": "tmt",
+  "soWhat": "A single blockbuster can drive a publisher's revenue for years because sales continue long after launch and online play adds spending on in-game items. Sony benefits most because most buyers play on its console, which can lift hardware sales and its share of digital store revenue. Retailers and other publishers may see spending shift toward one title during the holiday season. The open question is how fast the online mode grows, since that recurring spending decides long-term profit.",
+  "sources": [
+   {
+    "title": "Newsquawk: Daily US Equity Opening News, 18 Nov 2026",
+    "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news---nvda-up-after-results-aapl-restores-systems-after-outage-mrvl--crdo-settle-patent-disputes-googs-waymo-suspends-california-freeway-operations-ttwo-gta-vi-pre-orders-said-to-reach-1588mln-tcehy-sales-miss"
+   }
+  ],
+  "subindustry": "media-entertainment",
+  "summary": "Take-Two's Grand Theft Auto VI goes on sale on November 19 after a reported 15.88 million pre-orders, according to Sensor Tower. PlayStation 5 accounted for about 75% of pre-orders and Xbox Series X/S for 25%. The game is the most anticipated release in years for the console industry.",
+  "tags": []
+ },
+ "2026-11-19-19": {
+  "companies": [
+   "rakuten-group"
+  ],
+  "date": "2026-11-19",
+  "headline": "Rakuten Bank shares fall 19% after Rakuten Securities discloses a breach that may affect 11 million accounts",
+  "numbers": [
+   "Login IDs possibly exposed: up to 11.25M accounts",
+   "Personal data exposed: 4.47M accounts",
+   "Rakuten Bank shares: -19%"
+  ],
+  "order": 19,
+  "sector": "financial-services",
+  "soWhat": "Online banks and brokers depend on trust because customers can move money with a few clicks. A breach at one unit can hit the whole group when businesses share customer data and branding, which is why the bank fell more than the brokerage parent. Regulators may demand costly security upgrades, and rivals such as SBI can win customers who leave. The open question is whether the breach led to actual fraud losses, which would raise the cost far beyond fixing systems.",
+  "sources": [
+   {
+    "title": "Newsquawk: Daily US Equity Opening News, 18 Nov 2026",
+    "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news---nvda-up-after-results-aapl-restores-systems-after-outage-mrvl--crdo-settle-patent-disputes-googs-waymo-suspends-california-freeway-operations-ttwo-gta-vi-pre-orders-said-to-reach-1588mln-tcehy-sales-miss"
+   }
+  ],
+  "subindustry": "banking",
+  "summary": "Rakuten Securities disclosed a potential data breach in which login IDs for up to 11.25 million accounts may have been exposed, and personal data for 4.47 million accounts. Shares of Rakuten Bank fell 19%, and parent Rakuten Group fell as much as 7.5%. The group runs banking, brokerage, card and e-commerce businesses that share customers through one loyalty program.",
+  "tags": []
  }
 }

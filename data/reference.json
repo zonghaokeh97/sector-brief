@@ -203,6 +203,23 @@
    "ticker": "NASDAQ: GOOGL",
    "updated": "2026-10-29"
   },
+  "alstom": {
+   "businessModel": "Builds trains, metros and signalling systems under long fixed-price contracts and earns recurring revenue from maintenance and services.",
+   "competitors": [
+    "Siemens Mobility",
+    "Stadler Rail",
+    "CRRC",
+    "Hitachi Rail",
+    "CAF"
+   ],
+   "hq": "Saint-Ouen-sur-Seine, France",
+   "name": "Alstom",
+   "sector": "advanced-industries",
+   "size": "H1 2026/27 sales €9.33B (Nov 2026)",
+   "subindustry": "industrial-machinery",
+   "ticker": "EPA: ALO",
+   "updated": "2026-11-19"
+  },
   "amazon": {
    "businessModel": "Earns revenue from online retail, third-party seller fees, advertising and subscriptions (Prime), while most operating profit comes from AWS cloud computing.",
    "competitors": [
@@ -300,10 +317,10 @@
    "hq": "San Francisco, California",
    "name": "Anthropic",
    "sector": "tmt",
-   "size": "Run-rate revenue above $47B in May 2026; last private valuation $965B (press reports)",
+   "size": "IPO raised $81.3B at ~$1.5T fully diluted value; run-rate revenue ~$81B (Oct 2026)",
    "subindustry": "software-cloud",
-   "ticker": "Private (filed for Nasdaq IPO as ANT)",
-   "updated": "2026-10-27"
+   "ticker": "Nasdaq: ANT",
+   "updated": "2026-11-19"
   },
   "apple": {
    "businessModel": "Sells iPhone, Mac, iPad and wearables and earns recurring Services revenue from the App Store, iCloud, advertising and payments on its installed base.",
@@ -1361,6 +1378,23 @@
    "ticker": "ASX: ELD",
    "updated": "2026-11-16"
   },
+  "elevance-health": {
+   "businessModel": "Sells Blue Cross Blue Shield-branded health insurance to employers and individuals and runs Medicaid and Medicare plans, earning premiums minus claims, plus fees from its Carelon services unit.",
+   "competitors": [
+    "UnitedHealth Group",
+    "CVS Health (Aetna)",
+    "Cigna",
+    "Centene",
+    "Humana"
+   ],
+   "hq": "Indianapolis, Indiana",
+   "name": "Elevance Health",
+   "sector": "healthcare",
+   "size": "Revenue approx. $177B (2024, from memory)",
+   "subindustry": "payers-providers",
+   "ticker": "NYSE: ELV",
+   "updated": "2026-11-19"
+  },
   "eli-lilly": {
    "businessModel": "Develops and sells patented prescription drugs, led by the Mounjaro and Zepbound obesity and diabetes medicines, and earns high margins until patents expire.",
    "competitors": [
@@ -1428,6 +1462,23 @@
    "subindustry": "renewables-transition",
    "ticker": "NASDAQ: ENPH",
    "updated": "2026-10-29"
+  },
+  "enquest": {
+   "businessModel": "Produces and sells oil and gas from mature fields, earning the oil price minus operating costs and taxes; it is selling its UK North Sea business to focus on Southeast Asia.",
+   "competitors": [
+    "Harbour Energy",
+    "Serica Energy",
+    "Ithaca Energy",
+    "Hibiscus Petroleum",
+    "NEO NEXT+"
+   ],
+   "hq": "London, United Kingdom",
+   "name": "EnQuest",
+   "sector": "energy-materials",
+   "size": "Revenue approx. $1.2B (2024, from memory)",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "LSE: ENQ",
+   "updated": "2026-11-19"
   },
   "enstar-group": {
    "businessModel": "Buys run-off insurance and reinsurance portfolios and earns by settling claims for less than reserved and investing the assets.",
@@ -1580,6 +1631,23 @@
    "subindustry": "payments-fintech",
    "ticker": "Nasdaq: FISV",
    "updated": "2026-11-04"
+  },
+  "flatiron-energy": {
+   "businessModel": "Develops, builds and operates grid batteries, earning from long-term capacity contracts and from storing power cheaply and selling it at peak prices.",
+   "competitors": [
+    "Key Capture Energy",
+    "Jupiter Power",
+    "Plus Power",
+    "NextEra Energy Resources",
+    "esVolta"
+   ],
+   "hq": "US Northeast (New England, New York, Mid-Atlantic)",
+   "name": "Flatiron Energy",
+   "sector": "energy-materials",
+   "size": "24 GWh battery storage portfolio, 6 GWh contracted (Nov 2026)",
+   "subindustry": "renewables-transition",
+   "ticker": "Private (Hull Street Energy; being sold to EQT)",
+   "updated": "2026-11-19"
   },
   "flowers-foods": {
    "businessModel": "Bakes and distributes packaged bread, buns and snack cakes under brands such as Nature's Own and Dave's Killer Bread, plus store brands and foodservice.",
@@ -1767,6 +1835,23 @@
    "ticker": "NYSE/TSX: GFR",
    "updated": "2026-11-10"
   },
+  "gsk": {
+   "businessModel": "Discovers and sells patented medicines and vaccines, with profit coming from high margins during patent life; it buys late-stage drugs to replace products losing exclusivity.",
+   "competitors": [
+    "Pfizer",
+    "AstraZeneca",
+    "Merck & Co.",
+    "Sanofi",
+    "Novartis"
+   ],
+   "hq": "London, United Kingdom",
+   "name": "GSK",
+   "sector": "healthcare",
+   "size": "Revenue approx. £31B (2024, from memory)",
+   "subindustry": "pharma-biotech",
+   "ticker": "LSE: GSK",
+   "updated": "2026-11-19"
+  },
   "guardant-health": {
    "businessModel": "Sells blood-based cancer tests, charging per test to patients, insurers and drug companies, plus data services to biopharma.",
    "competitors": [
@@ -1918,6 +2003,23 @@
    "subindustry": "real-estate-construction",
    "ticker": "NYSE: HPP",
    "updated": "2026-10-20"
+  },
+  "humana": {
+   "businessModel": "Earns most of its revenue from per-member payments by Medicare for its Medicare Advantage plans, keeping the gap between those payments and members' medical costs; it also runs primary-care clinics and a pharmacy business.",
+   "competitors": [
+    "UnitedHealth Group",
+    "CVS Health (Aetna)",
+    "Elevance Health",
+    "Centene",
+    "Cigna"
+   ],
+   "hq": "Louisville, Kentucky",
+   "name": "Humana",
+   "sector": "healthcare",
+   "size": "Revenue approx. $117B (2024, from memory)",
+   "subindustry": "payers-providers",
+   "ticker": "NYSE: HUM",
+   "updated": "2026-11-19"
   },
   "hyperexponential": {
    "businessModel": "Sells software that helps insurers build and run pricing models, charging subscription fees.",
@@ -2987,6 +3089,23 @@
    "ticker": "Nasdaq: PLTR",
    "updated": "2026-11-03"
   },
+  "palo-alto-networks": {
+   "businessModel": "Sells cybersecurity firewalls, cloud security and security operations software, increasingly as subscriptions that bring recurring revenue.",
+   "competitors": [
+    "CrowdStrike",
+    "Fortinet",
+    "Zscaler",
+    "Cisco",
+    "Microsoft"
+   ],
+   "hq": "Santa Clara, California",
+   "name": "Palo Alto Networks",
+   "sector": "tmt",
+   "size": "FY2027 revenue guide $14.5B (Nov 2026)",
+   "subindustry": "software-cloud",
+   "ticker": "NASDAQ: PANW",
+   "updated": "2026-11-19"
+  },
   "paysafe": {
    "businessModel": "Processes card and online payments for merchants, especially in gaming and e-commerce, and runs digital wallets such as Skrill and Neteller, earning fees on each transaction.",
    "competitors": [
@@ -3189,6 +3308,23 @@
    "subindustry": "payers-providers",
    "ticker": "NYSE: DGX",
    "updated": "2026-10-23"
+  },
+  "rakuten-group": {
+   "businessModel": "Runs Japan's Rakuten Ichiba marketplace, a mobile network and a fintech arm (bank, brokerage, cards) linked by a shared loyalty points program.",
+   "competitors": [
+    "Amazon Japan",
+    "LY Corp",
+    "SBI Holdings",
+    "NTT Docomo",
+    "SoftBank"
+   ],
+   "hq": "Tokyo, Japan",
+   "name": "Rakuten Group",
+   "sector": "tmt",
+   "size": "Revenue approx. ¥2.3T (2024, from memory)",
+   "subindustry": "internet-platforms",
+   "ticker": "TYO: 4755",
+   "updated": "2026-11-19"
   },
   "range-resources": {
    "businessModel": "Produces natural gas, natural gas liquids and some oil from Marcellus shale acreage and sells them to utilities, industrial users and export markets.",
@@ -3701,6 +3837,23 @@
    "ticker": "NASDAQ: SPCX",
    "updated": "2026-10-21"
   },
+  "sqm": {
+   "businessModel": "Pumps lithium-rich brine from Chile's Atacama desert and sells lithium carbonate and hydroxide to battery makers, plus iodine and specialty fertilizers; profit swings with lithium prices.",
+   "competitors": [
+    "Albemarle",
+    "Ganfeng Lithium",
+    "Tianqi Lithium",
+    "Pilbara Minerals",
+    "Arcadium Lithium (Rio Tinto)"
+   ],
+   "hq": "Santiago, Chile",
+   "name": "SQM",
+   "sector": "energy-materials",
+   "size": "Revenue approx. $4.5B (2024, from memory)",
+   "subindustry": "metals-mining",
+   "ticker": "NYSE: SQM",
+   "updated": "2026-11-19"
+  },
   "starbucks": {
    "businessModel": "Sells coffee and food through company-operated and licensed stores, earning store sales plus royalties and product sales from licensees.",
    "competitors": [
@@ -3867,6 +4020,23 @@
    "ticker": "Nasdaq: TTWO",
    "updated": "2026-11-16"
   },
+  "target": {
+   "businessModel": "Runs about 2,000 US discount stores and a website selling groceries, household goods, apparel and home items, earning a retail margin plus growing advertising income.",
+   "competitors": [
+    "Walmart",
+    "Amazon",
+    "Costco",
+    "Kroger",
+    "TJX"
+   ],
+   "hq": "Minneapolis, Minnesota",
+   "name": "Target",
+   "sector": "consumer-retail",
+   "size": "Revenue approx. $107B (2024, from memory)",
+   "subindustry": "retail-ecommerce",
+   "ticker": "NYSE: TGT",
+   "updated": "2026-11-19"
+  },
   "tata-motors": {
    "businessModel": "Designs and sells passenger cars, SUVs, trucks and buses, mainly in India, and owns the Jaguar Land Rover luxury brands. Earns most profit from premium vehicles and from domestic commercial vehicles.",
    "competitors": [
@@ -3915,6 +4085,23 @@
    "subindustry": "telecom",
    "ticker": "TSX/NYSE: T",
    "updated": "2026-11-17"
+  },
+  "tencent": {
+   "businessModel": "Earns from online games, WeChat advertising, payments and cloud services, using WeChat's 1.4 billion users to sell games, ads and financial services.",
+   "competitors": [
+    "Alibaba",
+    "ByteDance",
+    "NetEase",
+    "Baidu",
+    "Meituan"
+   ],
+   "hq": "Shenzhen, China",
+   "name": "Tencent",
+   "sector": "tmt",
+   "size": "Q3 2026 revenue CNY 207B (Nov 2026)",
+   "subindustry": "internet-platforms",
+   "ticker": "HKEX: 0700",
+   "updated": "2026-11-19"
   },
   "teradyne": {
    "businessModel": "Makes automated test equipment for semiconductors and electronics, plus industrial robots, and earns from machine sales and service.",
@@ -4001,6 +4188,40 @@
    "subindustry": "asset-wealth",
    "ticker": "Private (permanent-capital holding company)",
    "updated": "2026-11-01"
+  },
+  "tjx": {
+   "businessModel": "An off-price retailer (TJ Maxx, Marshalls, HomeGoods) that buys brand-name excess inventory cheaply and resells it below department-store prices, earning on fast turnover.",
+   "competitors": [
+    "Ross Stores",
+    "Burlington",
+    "Walmart",
+    "Target",
+    "Amazon"
+   ],
+   "hq": "Framingham, Massachusetts",
+   "name": "TJX Companies",
+   "sector": "consumer-retail",
+   "size": "Revenue approx. $56B (FY2025, from memory)",
+   "subindustry": "retail-ecommerce",
+   "ticker": "NYSE: TJX",
+   "updated": "2026-11-19"
+  },
+  "totalenergies": {
+   "businessModel": "An integrated energy company that earns most of its profit from producing oil and gas and selling LNG, plus refining, chemicals, fuel retail and a growing power business.",
+   "competitors": [
+    "Shell",
+    "BP",
+    "ExxonMobil",
+    "Chevron",
+    "Eni"
+   ],
+   "hq": "Courbevoie, France",
+   "name": "TotalEnergies",
+   "sector": "energy-materials",
+   "size": "Revenue approx. $195B (2024, from memory)",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "EPA: TTE",
+   "updated": "2026-11-19"
   },
   "trade-desk": {
    "businessModel": "Runs an independent platform where advertisers buy digital ads across the open internet, earning a share of the spend that passes through it.",
@@ -4253,6 +4474,23 @@
    "subindustry": "aerospace-defense",
    "ticker": "Private (Boeing and Lockheed Martin JV)",
    "updated": "2026-11-17"
+  },
+  "unitedhealth-group": {
+   "businessModel": "Runs the largest US health insurer (UnitedHealthcare), earning premiums from employers and government programs, and its Optum unit earns fees from care delivery, pharmacy benefits and data services.",
+   "competitors": [
+    "Humana",
+    "Elevance Health",
+    "CVS Health (Aetna)",
+    "Cigna",
+    "Centene"
+   ],
+   "hq": "Minnetonka, Minnesota",
+   "name": "UnitedHealth Group",
+   "sector": "healthcare",
+   "size": "Revenue approx. $400B (2024, from memory)",
+   "subindustry": "payers-providers",
+   "ticker": "NYSE: UNH",
+   "updated": "2026-11-19"
   },
   "ups": {
    "businessModel": "Charges per package and for supply chain services, running a network of planes, trucks and sorting hubs.",

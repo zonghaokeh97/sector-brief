@@ -4677,5 +4677,252 @@
     "subindustry": "telecom"
    }
   ]
+ },
+ "2026-11-19": {
+  "date": "2026-11-19",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "Real estate relies on debt, so higher rates raise costs and lower property values. Banks can earn more on lending, which is why they are a weaker answer.",
+    "id": "2026-11-19:x01",
+    "kind": "today",
+    "options": [
+     "Banks that earn more on loans",
+     "Real estate that depends on borrowed money",
+     "Oil producers selling at global prices",
+     "Discount retailers"
+    ],
+    "prompt": "The Fed's minutes showed almost all officials expect more hikes, and markets price a December move at about 91%. Which sector is most hurt by rising short-term rates?",
+    "sector": "macro",
+    "storyId": "2026-11-19-04",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "Paying in shares preserves cash but issues new stock, so each existing share owns a smaller slice. Regulatory review still applies.",
+    "id": "2026-11-19:x02",
+    "kind": "today",
+    "options": [
+     "It keeps cash but dilutes existing shareholders",
+     "It avoids all regulatory review",
+     "It increases debt sharply",
+     "It guarantees the deal closes faster"
+    ],
+    "prompt": "Palo Alto Networks is buying Applied Compute for $4.5 billion in stock rather than cash. What is the main trade-off?",
+    "sector": "tmt",
+    "storyId": "2026-11-19-08",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 1,
+    "explanation": "Target won traffic with price cuts and off-price TJX gains when it buys excess stock cheaply, both signs that shoppers seek value. Target's store traffic rose 5%, so stores are not being abandoned.",
+    "id": "2026-11-19:x03",
+    "kind": "today",
+    "options": [
+     "Shoppers abandoning stores for online only",
+     "Shoppers spending but moving toward value and discounts",
+     "Luxury spending surging",
+     "Retailers raising prices faster than inflation"
+    ],
+    "prompt": "Target's comparable sales rose 5.6% and TJX's 4%. What common trend do these results point to?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-19-09",
+    "subindustry": "retail-ecommerce"
+   },
+   {
+    "answer": 0,
+    "explanation": "New supply in China, Australia and Africa has outpaced battery demand, so prices fall despite strong growth. Low-cost brine producers like SQM can stay profitable while high-cost miners get squeezed.",
+    "id": "2026-11-19:x04",
+    "kind": "today",
+    "options": [
+     "Supply from new mines and refineries is growing even faster than demand",
+     "Electric-car sales are falling",
+     "Lithium is being replaced by oil",
+     "Chile banned lithium exports"
+    ],
+    "prompt": "SQM's lithium price fell 10% in a quarter even though it expects 30% demand growth. What best explains this?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-19-13",
+    "subindustry": "metals-mining"
+   },
+   {
+    "answer": 2,
+    "explanation": "Owners and operators earn steady contracted revenue, which is why infrastructure funds like EQT buy them. Equipment makers face thin, cyclical margins when supply exceeds demand.",
+    "id": "2026-11-19:x05",
+    "kind": "profile",
+    "options": [
+     "Equipment makers that build panels and batteries",
+     "Project developers that win permits",
+     "Owners and operators selling power under long-term contracts",
+     "Households buying rooftop systems"
+    ],
+    "prompt": "EQT is buying Flatiron, a battery developer in crowded Northeast US markets. In the renewables value chain, which step is the largest stable profit pool?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-19-11",
+    "subindustry": "renewables-transition"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 2,
+    "explanation": "The $83 price, above the $70-$78 range, implied a fully diluted value of about $1.5 trillion. The sale raised $81.3 billion, the largest IPO on record.",
+    "id": "2026-11-19:q01",
+    "kind": "today",
+    "options": [
+     "About $500 billion",
+     "About $1.0 trillion",
+     "About $1.5 trillion",
+     "About $2.5 trillion"
+    ],
+    "prompt": "Anthropic priced its IPO at $83 a share. Roughly what fully diluted value did that imply?",
+    "sector": "tmt",
+    "storyId": "2026-11-19-01",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 0,
+    "explanation": "Supply commitments are what Nvidia has agreed to buy from suppliers. They secure capacity while demand is strong, but if orders slow Nvidia still has to pay, which is why they are a risk alongside the record $115.8 billion quarter.",
+    "id": "2026-11-19:q02",
+    "kind": "today",
+    "options": [
+     "It locks in chip supply for demand, but becomes a burden if customers slow orders",
+     "It shows how much cash Nvidia will return through buybacks",
+     "It measures revenue already booked from cloud customers",
+     "It is the amount owed to Nvidia by its customers"
+    ],
+    "prompt": "Nvidia's supply commitments rose to $390 billion from $279 billion. Why do investors watch this number?",
+    "sector": "tmt",
+    "storyId": "2026-11-19-02",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 3,
+    "explanation": "Extrapolation multiplies the error rate across all payments in a contract, back to 2018, which CMS estimates recovers about $9 billion a year. That is why Humana fell 13% and UnitedHealth 10% on Wednesday.",
+    "id": "2026-11-19:q03",
+    "kind": "today",
+    "options": [
+     "It lowers the monthly payment for every new member",
+     "It forces insurers to accept all hospitals into their networks",
+     "It removes Medicare Advantage plans from the market",
+     "A few coding errors in a sample become repayments across the entire contract"
+    ],
+    "prompt": "CMS wants to apply error rates found in sampled Medicare Advantage audits to whole contracts. Why does this hurt insurers so much more than sample-only audits?",
+    "sector": "healthcare",
+    "storyId": "2026-11-19-03",
+    "subindustry": "payers-providers"
+   },
+   {
+    "answer": 1,
+    "explanation": "A wider spread means US refiners buy cheaper crude while their fuel sells near global prices, lifting margins. US shale producers lose because they are paid WTI, which is the tempting wrong answer reversed.",
+    "id": "2026-11-19:q04",
+    "kind": "today",
+    "options": [
+     "US shale producers selling at WTI prices",
+     "US refiners buying WTI-linked crude and selling fuel at global prices",
+     "Saudi producers selling at Brent prices",
+     "Tanker owners carrying US crude"
+    ],
+    "prompt": "WTI fell more than Brent, widening the gap to about $8.93 a barrel as high tanker rates limit US exports. Who benefits most?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-19-05",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 2,
+    "explanation": "EnQuest sold its UK business for up to $960 million and the buyer took on about $2.1 billion of liabilities. Bigger operators can run fields and pipelines together at lower cost, while EnQuest moves capital to Southeast Asia.",
+    "id": "2026-11-19:q05",
+    "kind": "today",
+    "options": [
+     "Drill more exploration wells in the UK to grow reserves",
+     "Pay a special dividend and keep all assets",
+     "Sell the UK business and its clean-up liabilities to a larger operator and redeploy cash to a higher-return region",
+     "Convert the oil fields into offshore wind farms"
+    ],
+    "prompt": "A mid-sized UK North Sea producer faces a windfall tax, uncertain fiscal rules and large decommissioning bills on aging fields. Which move fits the industry logic shown by EnQuest?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-19-07",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 0,
+    "explanation": "Retail media sells space on Walmart's website and app to brands, with little added cost, so it earns much higher margins than thin grocery sales. That helps Walmart grow profit faster than revenue.",
+    "id": "2026-11-19:q06",
+    "kind": "today",
+    "options": [
+     "Advertising earns far higher margins than selling groceries",
+     "Advertising lets Walmart avoid paying suppliers",
+     "Advertising revenue is not taxed",
+     "Advertising replaces the need for stores"
+    ],
+    "prompt": "Walmart's US advertising sales rose 37% while US comparable sales grew 2.9%. Why does the advertising growth matter so much for profit?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-19-06",
+    "subindustry": "retail-ecommerce"
+   },
+   {
+    "answer": 2,
+    "explanation": "The FTC says the two are each other's closest rivals and have fought a price war, helped by Vetcove. Combining them would remove that pressure, so clinics and pet owners could pay more.",
+    "id": "2026-11-14:q04",
+    "kind": "review",
+    "options": [
+     "Distributors are banned from owning software",
+     "The deal would make Covetrus a drug manufacturer",
+     "Clinics would lose the ability to play the two leaders against each other on price",
+     "Cencora would gain too much power in human pharmacies"
+    ],
+    "prompt": "Why does the FTC object to Covetrus buying MWI, the other large distributor to US vet clinics?",
+    "sector": "healthcare",
+    "storyId": "2026-11-14-04",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 1,
+    "explanation": "$1.7 billion divided by $1.5 million per megawatt is about 1,100 megawatts, or 1.1 gigawatts, roughly the output of a large nuclear reactor.",
+    "id": "2026-11-14:q05",
+    "kind": "review",
+    "options": [
+     "About 110 megawatts",
+     "About 1.1 gigawatts",
+     "About 11 gigawatts",
+     "About 25 megawatts"
+    ],
+    "prompt": "TVA's new charge is about $1.5 million per megawatt of requested capacity, and its first deal totals $1.7 billion. About how much capacity does that imply?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-14-06",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 0,
+    "explanation": "With a top-rated tenant on a long lease, the asset behaves much like a bond, so its value depends on yields elsewhere. With US 10-year yields above 5%, the gap to a 7% property yield is narrow.",
+    "id": "2026-11-16:q06",
+    "kind": "review",
+    "options": [
+     "Bond yields staying high, making a 7% yield less attractive",
+     "AWS failing to pay rent next year",
+     "Tenants leaving every few months",
+     "A shortage of construction workers for the finished buildings"
+    ],
+    "prompt": "A trust buys data centers leased to AWS for 12 years, with 2.75% yearly rent rises and a 7% starting yield. Which risk matters most for the buyer?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-11-16-07",
+    "subindustry": "real-estate-construction"
+   },
+   {
+    "answer": 1,
+    "explanation": "Mining is the largest profit pool: low-cost mines keep earning when prices fall and all mines gain when prices rise. Smelters and refiners earn a processing fee that gets squeezed, so their margins are thin.",
+    "id": "2026-11-19:q10",
+    "kind": "profile",
+    "options": [
+     "Exploration and development",
+     "Mining, where low-cost mines earn through the cycle",
+     "Smelting and refining",
+     "Fabrication and distribution"
+    ],
+    "prompt": "In metals and mining, which step of the value chain is usually the largest profit pool?",
+    "sector": "energy-materials",
+    "storyId": null,
+    "subindustry": "metals-mining"
+   }
+  ]
  }
 }
