@@ -6203,5 +6203,479 @@
   "subindustry": "banking",
   "summary": "Rakuten Securities disclosed a potential data breach in which login IDs for up to 11.25 million accounts may have been exposed, and personal data for 4.47 million accounts. Shares of Rakuten Bank fell 19%, and parent Rakuten Group fell as much as 7.5%. The group runs banking, brokerage, card and e-commerce businesses that share customers through one loyalty program.",
   "tags": []
+ },
+ "2026-11-20-01": {
+  "companies": [
+   "tsmc",
+   "sk-hynix",
+   "samsung-electronics",
+   "softbank-group",
+   "amd"
+  ],
+  "date": "2026-11-20",
+  "headline": "Asian chip stocks crash, with Taiwan down 6.2% to cap its worst week since 1991 after a 2% fall on Wall Street",
+  "numbers": [
+   "Taiex: -6.2% on the day, -17.5% on the week",
+   "KOSPI: -5.2%; Nikkei 225: -5.1%",
+   "SoftBank: -14.5%",
+   "S&P 500 (Thu): -2.0%; Nasdaq -2.3%"
+  ],
+  "order": 1,
+  "sector": "macro",
+  "soWhat": "Asian markets are far more concentrated in chip and AI hardware stocks than the US, so a change in sentiment about AI spending hits them hardest. The fall shows how much of this year's equity gains rested on a single theme: the same companies that supplied the AI build-out now carry the most downside if spending slows. Higher bond yields and expected Fed hikes add pressure, because they raise the discount rate applied to growth stocks. The open question is whether AI customers actually cut orders or whether this is only a repricing of expectations.",
+  "sources": [
+   {
+    "title": "Yahoo Finance: Taiwan stock market falls 6.2% to cap worst week since 1991",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/taiwan-stock-market-falls-6-073304018.html"
+   },
+   {
+    "title": "Investrade: Morning Preview, November 20, 2026",
+    "url": "https://investrade.com/morning-preview-november-20-2026/"
+   },
+   {
+    "title": "SP Angel market view, 20 November 2026",
+    "url": "https://www.share-talk.com/sp-angel-todays-market-view-friday-20th-november-2026/"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "The AI-led selloff spread to Asia on Friday. Taiwan's Taiex fell 6.2% and lost 17.5% over the week, its worst week since 1991, while South Korea's KOSPI dropped 5.2% and Japan's Nikkei 225 fell 5.1% to a seven-month low. SoftBank lost 14.5%, Samsung Electronics about 7%, SK Hynix about 6% and TSMC 4.8%. The move followed Thursday's US session, when the S&P 500 fell 2.0% and the Nasdaq 2.3% after AMD sank 7.7% on a short seller's report. Gold and silver also fell sharply during the week as investors sold winners to cover losses and the dollar stayed near a 19-month high.",
+  "tags": []
+ },
+ "2026-11-20-02": {
+  "companies": [
+   "bill-holdings",
+   "tpg",
+   "corpay"
+  ],
+  "date": "2026-11-20",
+  "headline": "TPG and Corpay agree to take BILL private for $63.25 a share, about $6 billion",
+  "numbers": [
+   "Price: $63.25 per share, all cash",
+   "Equity value: ~$6.0B",
+   "Premium: 31% to 60-day average",
+   "Customers: nearly 500,000 businesses"
+  ],
+  "order": 2,
+  "sector": "financial-services",
+  "soWhat": "This is the same pairing that bought AvidXchange, another bill-payment software firm, for $2.2 billion, so TPG and Corpay are assembling a larger platform for business payments outside the public market. Small-business payment software earns from subscriptions plus a cut of each payment, but public investors have marked the sector down as growth slowed and AI tools threaten to commoditize parts of it. Buyers such as private equity can pay a premium, cut costs and integrate the pieces without quarterly scrutiny. The modest premium and the share drop show that some holders hoped for more, which makes rival bids unlikely.",
+  "sources": [
+   {
+    "title": "BILL: BILL Agrees to be Acquired by TPG in Partnership with Corpay",
+    "url": "https://investor.bill.com/news/news-details/2026/BILL-Agrees-to-be-Acquired-by-TPG-in-Partnership-with-Corpay/default.aspx"
+   },
+   {
+    "title": "Seeking Alpha via TradingView: TPG, Corpay to take BILL private in $6B acquisition",
+    "url": "https://www.tradingview.com/news/seekingalpha:8b1c8f378094b:0-tpg-corpay-to-take-bill-private-in-6b-acquisition/"
+   }
+  ],
+  "subindustry": "payments-fintech",
+  "summary": "BILL Holdings, which sells accounts-payable, receivables and spend software to small and midsize businesses, agreed to be acquired by private equity firm TPG, with payments company Corpay taking a minority stake. The all-cash price of $63.25 a share values BILL at about $6.0 billion fully diluted and is a 31% premium to its 60-day average price before talks were reported. BILL serves nearly 500,000 businesses, and activist investor Starboard Value has agreed to vote for the deal. BILL shares fell about 3% to $62, and closing is expected in the first half of 2027.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-20-03": {
+  "companies": [
+   "intuit",
+   "bending-spoons"
+  ],
+  "date": "2026-11-20",
+  "headline": "Intuit sells Mailchimp to Bending Spoons for $3.68 billion, less than a third of the $12 billion it paid in 2021",
+  "numbers": [
+   "Sale price: $3.68B (2021 purchase: $12B)",
+   "Mailchimp quarterly revenue: $313M, -1%",
+   "Intuit quarterly revenue: $4.35B, +12%",
+   "Intuit shares: about -15% after hours"
+  ],
+  "order": 3,
+  "sector": "tmt",
+  "soWhat": "The sale is a clear marker of how far valuations have fallen for slow-growing software brands since the 2021 peak, when buyers paid for growth that did not arrive. It also shows a split in the software market: platform owners like Intuit are narrowing their focus to products they can rebuild around AI, while specialist owners like Bending Spoons buy steady, cash-generating brands cheaply and run them for profit. Mailchimp's small-business customers are price-sensitive and face many cheaper tools, so its new owner is likely to push margin over growth.",
+  "sources": [
+   {
+    "title": "CNBC: Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
+    "url": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html"
+   },
+   {
+    "title": "Investrade: Morning Preview, November 20, 2026",
+    "url": "https://investrade.com/morning-preview-november-20-2026/"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Intuit agreed to sell its email-marketing business Mailchimp to Italy's Bending Spoons for $3.68 billion in cash and stock, with closing expected in early 2027. Mailchimp's revenue fell 1% to $313 million in the quarter, and Intuit expects it to be flat to down 1% this fiscal year. Intuit's own quarterly revenue rose 12% to $4.35 billion and beat forecasts, but its full-year guidance came in below expectations and the shares fell about 15% after hours. Bending Spoons, which buys mature software brands such as Evernote, Vimeo and WeTransfer and cuts costs, also reported revenue up 125% to $780 million.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-20-04": {
+  "companies": [
+   "unicredit",
+   "commerzbank"
+  ],
+  "date": "2026-11-20",
+  "headline": "UniCredit and Germany reach broad agreement that clears the way for its takeover of Commerzbank",
+  "numbers": [
+   "Commerzbank value: ~€41B",
+   "UniCredit stake: close to 50%",
+   "German state stake: ~12%"
+  ],
+  "order": 4,
+  "sector": "financial-services",
+  "soWhat": "This would be the largest cross-border bank takeover in the euro area since the financial crisis and a test case for the long-promised consolidation of Europe's fragmented banking market. The logic is cost: combining overlapping branches, IT and head offices can lift returns well above what either bank earns alone. The losers are likely to be Commerzbank staff, since UniCredit has signaled thousands of job cuts and has promised only to discuss job protection. The open question is whether Berlin now sells its remaining stake to UniCredit.",
+  "sources": [
+   {
+    "title": "AFP via Yahoo: Germany agrees terms with Italy's UniCredit for Commerzbank takeover",
+    "url": "https://sg.news.yahoo.com/germany-agrees-terms-italys-unicredit-130729298.html"
+   },
+   {
+    "title": "Newsquawk: UniCredit announces broad agreement with Germany on Commerzbank takeover",
+    "url": "https://www.newsquawk.com/headlines/unicredit-ucg-im-announces-broad-agreement-with-germany-on-commerzbank-cbk-gy-takeover"
+   }
+  ],
+  "subindustry": "banking",
+  "summary": "After two years of resistance, the German government and UniCredit announced a broad agreement on UniCredit's takeover of Commerzbank, the country's second-largest listed bank, valued at about €41 billion. In a letter to the finance minister, UniCredit committed to keep Commerzbank's headquarters and listing in Frankfurt, keep key decisions in Germany, keep supporting small and midsize companies, and hold talks with staff representatives on protecting jobs. UniCredit already owns close to 50% of Commerzbank, and the German state still holds about 12% from the financial-crisis bailout. The EU approved the takeover on Monday, and UniCredit hopes to get final regulatory approvals this month.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-20-05": {
+  "companies": [],
+  "date": "2026-11-20",
+  "headline": "Oil heads for a third straight weekly loss, with Brent near $90 as Hormuz exports return to pre-war levels",
+  "numbers": [
+   "Brent: ~$90.33, about -6% on the week",
+   "WTI: ~$81.59, about -8% on the week",
+   "OPEC+ meeting: from Nov 29"
+  ],
+  "order": 5,
+  "sector": "energy-materials",
+  "soWhat": "Upstream producers are paid the market price, so a fall from the mid-$90s to about $90 cuts cash flow directly, and the decline is steeper for US producers selling against WTI. The market is now pricing in the end of the war premium, which shifts the balance of power back to OPEC+: if supply keeps recovering, the group must decide whether to cut output to defend prices or keep volumes and accept lower prices. A falling market also hurts US shale more than Gulf producers, because shale wells cost more to drill and decline faster.",
+  "sources": [
+   {
+    "title": "CNBC: Oil prices set for third straight weekly decline on Middle East export flows",
+    "url": "https://www.cnbc.com/amp/2026/11/20/oil-wti-brent-hormuz.html"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Brent crude fell about 1.8% to $90.33 a barrel on Friday and was on track for a weekly decline of about 6%, while US WTI fell to $81.59 and was set to lose about 8% for the week. Shipments through the Strait of Hormuz have returned to roughly pre-war levels, which has fed expectations of a supply surplus. Risks remain: Iran's Revolutionary Guards said two tankers hit naval mines in the strait, and there has been roughly one attack on tankers per day in November. OPEC+ ministers meet from November 29 to set 2027 output policy.",
+  "tags": []
+ },
+ "2026-11-20-06": {
+  "companies": [
+   "procter-gamble"
+  ],
+  "date": "2026-11-20",
+  "headline": "P&G plans to cut 20% to 30% of its manufacturing and supply workforce by 2030 as it automates factories",
+  "numbers": [
+   "Supply workforce cut: 20%-30% by 2030",
+   "Savings program: up to $10B, FY2027-2030",
+   "Manufacturing staff: ~52,000 (2025)"
+  ],
+  "order": 6,
+  "sector": "consumer-retail",
+  "soWhat": "Consumer-goods makers face higher input costs and shoppers who are resisting further price increases, so cutting cost is the main lever left to protect margins. Automation is now cheap and reliable enough to replace a large share of factory and warehouse labor, and P&G's scale lets it spread the investment over huge volumes. The winners are automation and software suppliers; the losers are plant workers and smaller rivals that cannot match the cost savings. The open question is how much of the savings P&G keeps as profit and how much it reinvests in lower prices and marketing.",
+  "sources": [
+   {
+    "title": "Bloomberg: P&G aims to reduce manufacturing workforce up to 30% by 2030",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/p-g-aims-to-reduce-manufacturing-workforce-up-to-30-by-2030"
+   },
+   {
+    "title": "Ad-hoc News: Procter & Gamble targets $10 billion in savings by 2030",
+    "url": "https://ad-hoc-news.de/boerse/news/corporate-news/procter-und-gamble-stock-targets-10-billion-us-dollars-in-savings-by-2030/70540087"
+   }
+  ],
+  "subindustry": "cpg",
+  "summary": "Procter & Gamble told investors it plans to reduce its product-supply workforce, including contractors, by 20% to 30% by 2030 through more automation and digital tools in manufacturing and logistics. The plan is part of a productivity program the company says can save up to $10 billion over fiscal 2027 to 2030. About 52,000 people worked in P&G manufacturing in 2025, close to half of its staff. P&G has also stopped manufacturing and commercial operations in some markets such as Pakistan and Bangladesh.",
+  "tags": []
+ },
+ "2026-11-20-07": {
+  "companies": [],
+  "date": "2026-11-20",
+  "headline": "The US, China and Russia pledge to raise refined fuel output, but name no volumes or dates",
+  "numbers": [
+   "Meeting: Shenzhen, Nov 19",
+   "Volumes or deadlines named: none",
+   "Brent after the meeting: near $90"
+  ],
+  "order": 7,
+  "sector": "energy-materials",
+  "soWhat": "Refiners earn the spread between crude and the fuels they make, and that spread has been unusually wide because refining capacity, not crude, has been the bottleneck. More output from Chinese and Russian plants would narrow diesel and jet fuel margins, which would help airlines, truckers and fuel importers and hurt refiners that have been earning windfall cracks. China holds the most spare refining capacity, but it has limited fuel exports with quotas to protect its own market. The open question is whether the pledge turns into larger Chinese export quotas and repaired Russian refineries, or stays a statement.",
+  "sources": [
+   {
+    "title": "CNBC: Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
+    "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html"
+   },
+   {
+    "title": "SP Angel market view, 20 November 2026",
+    "url": "https://www.share-talk.com/sp-angel-todays-market-view-friday-20th-november-2026/"
+   }
+  ],
+  "subindustry": "refining-chemicals",
+  "summary": "After a three-way meeting in Shenzhen on November 19, the leaders of the United States, China and Russia issued a declaration saying they plan to increase the production and supply of refined petroleum products for the benefit of all nations, and reaffirmed the importance of stable energy flows. The statement gives no production targets, no specific products and no timeline. Refined fuel markets, diesel in particular, have been tight because of the wars in Ukraine and Iran, and Russian refineries have been under drone attack. Oil prices eased toward $90 a barrel after the meeting.",
+  "tags": []
+ },
+ "2026-11-20-08": {
+  "companies": [
+   "unitedhealth-group",
+   "humana"
+  ],
+  "date": "2026-11-20",
+  "headline": "UnitedHealth falls another 5.6% as health insurers extend their slide on audits and talk of Medicare for All",
+  "numbers": [
+   "UnitedHealth: -5.55% to $330.48 (Thu), after -10.2% (Wed)",
+   "Humana: -13% (Wed)",
+   "CMS estimated audit savings: ~$90B over 10 years",
+   "MA plans suing over 2027 stars: at least 15"
+  ],
+  "order": 8,
+  "sector": "healthcare",
+  "soWhat": "Medicare Advantage is the most profitable business for big US health insurers, and it depends on two government levers: risk-adjusted payments for sicker patients and star-rating bonuses. The audit rule and lower star ratings hit both at once, which is why investors are cutting valuations before any money is repaid. Political talk of a government-run plan adds a long-term risk premium even if legislation is unlikely soon. The comment period on the audit rule runs to January 19, 2027, so the final cost is still unknown.",
+  "sources": [
+   {
+    "title": "Gotrade: UnitedHealth stock falls 5.6% as health insurers slide",
+    "url": "https://www.heygotrade.com/en/news/unitedhealth-unh-stock-news-november-20-2026/"
+   },
+   {
+    "title": "Seeking Alpha: Health insurers extend slide amid Medicare for All push",
+    "url": "https://seekingalpha.com/news/4674816-health-insurers-extend-slide-amid-medicare-for-all-push"
+   },
+   {
+    "title": "STAT: UnitedHealth sues to reverse downgraded Medicare Advantage quality scores",
+    "url": "https://www.statnews.com/2026/11/20/unitedhealth-cms-medicare-advantage-lawsuit-star-rating/"
+   }
+  ],
+  "subindustry": "payers-providers",
+  "summary": "Health insurers fell for a third day on Thursday. UnitedHealth closed down 5.55% at $330.48, after falling 10.2% the day before, and Humana had dropped 13% on Wednesday. The selloff began with a CMS proposal that would restart Medicare Advantage payment audits and extend findings back to 2018, which CMS says would save nearly $90 billion over 10 years. It deepened as Democratic leaders outlined plans to lower the Medicare eligibility age, which some saw as a step toward Medicare for All, although Deutsche Bank sees no realistic legislative path before 2029. UnitedHealth, which covers more than 9 million Medicare Advantage members, also sued CMS over lower 2027 star ratings, joining at least 14 other plans.",
+  "tags": []
+ },
+ "2026-11-20-09": {
+  "companies": [],
+  "date": "2026-11-20",
+  "headline": "US Senate passes a 62-33 bill to speed permits for power plants and transmission lines and make data centers pay for their power",
+  "numbers": [
+   "Senate vote: 62-33",
+   "Democrats voting yes: 15",
+   "Typical review today: 5+ years"
+  ],
+  "order": 9,
+  "sector": "energy-materials",
+  "soWhat": "Power demand from data centers is growing faster than the grid can be expanded, and long permitting for transmission lines is one of the main bottlenecks. Faster approvals would help developers, grid builders and equipment makers get projects into service sooner, which matters because utilities only earn a return once assets are in service. Making data centers pay their own costs aims to stop households from subsidizing grid upgrades for big tech, a growing political issue as power bills rise. The open question is whether the House accepts the Senate version.",
+  "sources": [
+   {
+    "title": "AP via Click2Houston: Senate backs bill to speed up permitting reviews, force data centers to pay for energy costs",
+    "url": "https://www.click2houston.com/news/politics/2026/11/20/senate-backs-bill-to-speed-reviews-for-new-power-plants-and-transmission-lines-force-data-centers-to-pay-for-energy-use/"
+   }
+  ],
+  "subindustry": "power-utilities",
+  "summary": "The US Senate passed a bipartisan permitting bill 62 to 33, with 15 Democrats voting in favor. It shortens environmental reviews for power plants, transmission lines, pipelines and mines, which today often take five years or more, limits court challenges, and requires data centers to pay for the energy they use. Both clean-energy and oil and gas industry groups support it, while environmental groups oppose it. The bill now goes to the House, which passed a narrower version last year.",
+  "tags": []
+ },
+ "2026-11-20-10": {
+  "companies": [
+   "codelco",
+   "freeport-mcmoran"
+  ],
+  "date": "2026-11-20",
+  "headline": "Codelco cuts its 2027 copper premium for China to about $250-$280 a ton as its Chilean sales to China drop 38%",
+  "numbers": [
+   "Codelco 2027 premium: $250-$280/t (2026: $350/t)",
+   "Chilean cathode to China: ~140,000t, -38% (9M26)",
+   "Yangshan spot premium: record $500/t",
+   "Freeport Indonesia 2027 premium: $158/t"
+  ],
+  "order": 10,
+  "sector": "energy-materials",
+  "soWhat": "Producers sell most copper on annual contracts at the exchange price plus a premium that reflects how scarce physical metal is in a region. Codelco priced too high this year and lost Chinese market share to other suppliers, so it is cutting to win volume back. The record spot premium shows physical metal is still tight in China even as futures prices fall, which helps whoever has metal available now. A proposed 15% US tariff on refined copper from 2027 could change these flows again.",
+  "sources": [
+   {
+    "title": "Kitco/Reuters: Codelco lowers China copper premium for 2027 in bid to boost sales",
+    "url": "https://www.kitco.com/news/off-the-wire/2026-11-19/codelco-lowers-china-copper-premium-2027-bid-boost-sales-sources-say"
+   },
+   {
+    "title": "SP Angel market view, 20 November 2026",
+    "url": "https://www.share-talk.com/sp-angel-todays-market-view-friday-20th-november-2026/"
+   }
+  ],
+  "subindustry": "metals-mining",
+  "summary": "Chile's state miner Codelco is offering Chinese buyers copper cathode for 2027 at a premium of $250 to $280 a ton over the exchange price, down from a record $350 this year, according to people at Asia Copper Week. China imported just over 140,000 tons of Chilean cathode in the first nine months of 2026, 38% less than a year earlier. Freeport Indonesia is offering 2027 cathode from its Manyar smelter at $158 a ton. At the same time, China's Yangshan spot import premium jumped to a record $500 a ton, and traders are shipping copper from the US West Coast to China.",
+  "tags": []
+ },
+ "2026-11-20-11": {
+  "companies": [
+   "sk-hynix",
+   "kioxia"
+  ],
+  "date": "2026-11-20",
+  "headline": "SK Hynix will become Kioxia's largest shareholder with a 14.1% stake by converting ¥129 billion of bonds",
+  "numbers": [
+   "Bonds converted: ¥129B (~$810M)",
+   "Indirect stake: 14.1% (Toshiba: 10.46%)",
+   "Voting cap: below 15% until 2028"
+  ],
+  "order": 11,
+  "sector": "tmt",
+  "soWhat": "Kioxia and SK Hynix compete in NAND flash, the memory used in phones and data-center storage, so a rival becoming the top shareholder matters to regulators and to Kioxia's management. Under 2018 commitments, SK Hynix must keep its voting share below 15% until 2028, which limits its influence for now. The stake is a cheap option on future consolidation in a market where only a handful of makers remain and AI storage demand has lifted prices. Kioxia's other partner, Sandisk, which co-owns its factories, has the most to watch.",
+  "sources": [
+   {
+    "title": "Korea Times: SK hynix to convert Kioxia-related bonds into shares",
+    "url": "https://www.koreatimes.co.kr/business/companies/20261120/sk-hynix-mulls-converting-kioxia-related-bonds-into-shares-sources"
+   },
+   {
+    "title": "Investrade: Morning Preview, November 20, 2026",
+    "url": "https://investrade.com/morning-preview-november-20-2026/"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "SK Hynix said it will convert ¥129 billion (about $810 million) of convertible bonds into shares of SPC2, a Bain Capital-created vehicle, and buy the remaining 1,001 SPC2 shares from Bain for ¥100 million. That will give it an indirect 14.1% stake in Japanese flash-memory maker Kioxia, ahead of Toshiba at 10.46%. SK Hynix invested ¥395 billion in the Bain-led consortium that bought Toshiba's memory unit in 2018 and has since sold its equity fund stake, returning about 7 trillion won in special dividends. It says it has no plans to buy more Kioxia shares or sell its stake.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-20-12": {
+  "companies": [
+   "telus",
+   "quebecor",
+   "bce"
+  ],
+  "date": "2026-11-20",
+  "headline": "Telus calls Quebecor's C$31 billion offer too low as BCE talks raise the prospect of a bidding war",
+  "numbers": [
+   "Quebecor offer: C$19.45/share, ~C$31B equity",
+   "Enterprise value: ~C$60.6B",
+   "Wireless share, Bell+Telus: ~55%; Quebecor+Telus: ~40%"
+  ],
+  "order": 12,
+  "sector": "tmt",
+  "soWhat": "Canada has three national carriers and a smaller fourth, and wireless prices are among the highest in the developed world, so any merger will be judged on competition. Telus carries heavy debt and cut its dividend in half this year, which is why a buyer can bid at a large premium while still paying a low price relative to the company's assets. A Bell-Telus combination would save more cost but faces a much harder review than a deal with Quebecor. The open question is whether Bell bids formally, which would force Quebecor to raise its offer.",
+  "sources": [
+   {
+    "title": "Global News: Bidding war for Telus expected, analysts say, as Quebecor calls out Bell",
+    "url": "https://globalnews.ca/news/12158293/quebecor-bell-telus-merger-talks/"
+   },
+   {
+    "title": "Globe and Mail: Quebecor proposes to acquire Telus for $31 billion",
+    "url": "https://www.theglobeandmail.com/business/article-quebecor-proposes-to-acquire-telus-for-31-billion/"
+   }
+  ],
+  "subindustry": "telecom",
+  "summary": "Telus said Quebecor's roughly C$31 billion proposal undervalues the company and raises concerns about regulatory approval, after reports that rival BCE (Bell) has held preliminary talks with Telus. Quebecor's offer is C$19.45 a share in cash and stock, about 60% above Telus's previous close, and implies an enterprise value of about C$60.6 billion including debt. Quebecor criticized a possible Bell-Telus deal, which analysts at Desjardins estimate would control about 55% of the wireless market, against about 40% for Quebecor-Telus. Prime Minister Mark Carney said competition, prices and service will guide any decision.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-20-13": {
+  "companies": [
+   "ross-stores"
+  ],
+  "date": "2026-11-20",
+  "headline": "Ross Stores grows comparable sales 8% on rising traffic, but guides to slower holiday growth",
+  "numbers": [
+   "Q3 sales: $6.3B, +12%",
+   "Comparable sales: +8%",
+   "Operating margin: 12.3%",
+   "Q4 comp guide: +4% to +5%"
+  ],
+  "order": 13,
+  "sector": "consumer-retail",
+  "soWhat": "Off-price chains buy surplus branded goods cheaply from other retailers and brands and sell them at a discount, so they gain when department stores have excess stock and shoppers trade down. Ross's traffic growth, alongside strong results this week from TJX and Walmart, shows value-focused retailers taking share while full-price apparel chains struggle. The slower holiday guide reflects a tough comparison against last year's 9% gain. The open question is how long consumers keep trading down as inflation and interest rates stay high.",
+  "sources": [
+   {
+    "title": "Ross Stores: Third quarter fiscal 2026 results (8-K exhibit)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000745732/000074573226000047/q326exhibit991.htm"
+   },
+   {
+    "title": "Investrade: Morning Preview, November 20, 2026",
+    "url": "https://investrade.com/morning-preview-november-20-2026/"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "Off-price retailer Ross Stores grew sales 12% to $6.3 billion in its third quarter, with comparable-store sales up 8% on top of 7% a year earlier, driven mainly by more customer visits. Operating margin rose 0.7 points to 12.3% and earnings per share were $1.91, above its own guidance of $1.75 to $1.83. Ross raised its full-year EPS forecast to $8.75 to $8.84 but expects fourth-quarter comparable sales growth of only 4% to 5%, and the shares fell on the cautious outlook. It opened 51 stores in the quarter and now has 2,377.",
+  "tags": []
+ },
+ "2026-11-20-14": {
+  "companies": [
+   "zurich-insurance",
+   "beazley"
+  ],
+  "date": "2026-11-20",
+  "headline": "Zurich lifts its estimate of capital savings from the £8.1 billion Beazley deal by 80% to $1.8 billion",
+  "numbers": [
+   "Deal value: £8.1B",
+   "Capital synergies: ~$1.8B (from $1B)",
+   "Revenue opportunity: ~$1.5B",
+   "Combined specialty premiums: ~$15B"
+  ],
+  "order": 14,
+  "sector": "financial-services",
+  "soWhat": "Insurers must hold capital against the risks they write, and a larger, more diversified book needs less capital per dollar of premium, so freed capital can be returned to shareholders or used to grow. That is why the capital synergy is ten times the cost synergy and drives the deal's economics. Scale also matters in specialty lines such as cyber and marine, where brokers favor carriers that can take large risks alone. Smaller Lloyd's specialists face a stronger competitor as specialty pricing softens.",
+  "sources": [
+   {
+    "title": "Insurance Business: Zurich lifts Beazley capital synergy estimate 80% after deal close",
+    "url": "https://www.insurancebusinessmag.com/uk/news/breaking-news/zurich-lifts-beazley-capital-synergy-estimate-80-after-deal-close-597664.aspx"
+   },
+   {
+    "title": "Reinsurance News: Zurich raises Beazley deal capital synergies estimate to $1.8bn",
+    "url": "https://www.reinsurancene.ws/zurich-raises-beazley-deal-capital-synergies-estimate-to-1-8bn/"
+   }
+  ],
+  "subindustry": "insurance",
+  "summary": "At its investor day, Zurich Insurance raised its estimate of capital synergies from buying specialty insurer Beazley to about $1.8 billion within two years, up from $1 billion at announcement. It also raised its estimate of medium-term revenue opportunities to about $1.5 billion from $1 billion, while keeping cost synergies at more than $150 million. The £8.1 billion deal closed on October 1 and creates the world's largest specialty insurer, with about $15 billion of combined specialty premiums. Underwriters will face brokers as one team from April 2027.",
+  "tags": []
+ },
+ "2026-11-20-15": {
+  "companies": [
+   "accor"
+  ],
+  "date": "2026-11-20",
+  "headline": "Accor will buy out Ennismore's minority owners for about €1.6 billion, valuing its lifestyle-hotel arm at €3.7 billion",
+  "numbers": [
+   "Price: ~€1.6B in three tranches to Jan 2028",
+   "Ennismore equity value: ~€3.7B (~18x 2027 EBITDA)",
+   "Share of Accor: ~5% of rooms, ~20% of recurring EBITDA"
+  ],
+  "order": 15,
+  "sector": "consumer-retail",
+  "soWhat": "Big hotel groups make most of their money from fees for managing and franchising hotels that others own, and lifestyle brands command higher fees and room rates than standard ones. Ennismore's outsized profit share shows why Accor wants full control of that growth rather than sharing it or floating the unit. Paying 18 times EBITDA is a bet that lifestyle hotels keep growing faster than the market. The open question is whether Accor later brings in partners or lists Ennismore, which it has not ruled out.",
+  "sources": [
+   {
+    "title": "Hospitality Net: Accor to increase its stake in Ennismore",
+    "url": "https://www.hospitalitynet.org/news/4135527/accor-to-increase-its-stake-in-ennismore"
+   },
+   {
+    "title": "Hotel Management: Accor to increase Ennismore stake in $1.76B deal",
+    "url": "https://www.hotelmanagement.net/transactions/accor-increase-ennismore-stake-176b-deal"
+   }
+  ],
+  "subindustry": "travel-hospitality",
+  "summary": "Accor agreed to buy out minority shareholders in Ennismore, its lifestyle-hotel business, for about €1.6 billion in three tranches through January 2028. The deal values Ennismore's equity at about €3.7 billion, roughly 18 times expected 2027 EBITDA, compared with about €1.7 billion when Qatari investors came in during 2022. Ennismore is only about 5% of Accor's rooms but about 20% of its recurring EBITDA. Accor will fund the deal partly with at least €500 million of asset sales and a new credit line, and says the structure protects its investment-grade rating.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-20-16": {
+  "companies": [],
+  "date": "2026-11-20",
+  "headline": "Bank Indonesia unexpectedly raises rates to 6% to defend the rupiah as the Fed leans toward more hikes",
+  "numbers": [
+   "BI rate: 6.00% (+0.25 pt)",
+   "Rupiah: ~18,245 per $ (Nov 17)",
+   "October inflation: 3.23%",
+   "Q3 GDP growth: 5.47%"
+  ],
+  "order": 16,
+  "sector": "macro",
+  "soWhat": "When the Fed is expected to raise rates, money flows out of emerging markets toward higher US yields, weakening their currencies and raising the cost of imported fuel and goods. Central banks such as Indonesia's then raise rates to protect the currency even when domestic inflation is under control, which slows lending and growth. That is how US tightening spreads around the world. Companies with dollar debt and importers gain from a steadier rupiah, while borrowers and property developers face higher costs.",
+  "sources": [
+   {
+    "title": "Bank Indonesia: BI-Rate raised to 6.00% (news release)",
+    "url": "https://www.bi.go.id/en/publikasi/ruang-media/news-release/Pages/sp_2825426.aspx"
+   },
+   {
+    "title": "Investortrust: Bank Indonesia hikes policy rate 25 bps to 6%",
+    "url": "https://investortrust.id/business/122944/bank-indonesia-hikes-policy-rate-25-bps-to-6-in-preemptive-move-to-defend-rupiah"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "Bank Indonesia raised its benchmark rate by 0.25 points to 6.00%, its first hike after four months on hold. Most economists polled by Reuters had expected no change. The central bank called the move pre-emptive, aimed at steadying the rupiah, which stood at about 18,245 per dollar after hitting a record low, against pressure from high oil prices, expected US rate increases and a strong dollar. Inflation was 3.23% in October, inside its 1.5% to 3.5% target band, and the economy grew 5.47% in the third quarter.",
+  "tags": []
  }
 }

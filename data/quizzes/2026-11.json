@@ -4924,5 +4924,252 @@
     "subindustry": "metals-mining"
    }
   ]
+ },
+ "2026-11-20": {
+  "date": "2026-11-20",
+  "extra": [
+   {
+    "answer": 0,
+    "explanation": "With input costs up and consumers pushing back on price increases, cost cuts are the lever left, and automation lets P&G spread the investment over huge volumes. It is not leaving manufacturing; about 52,000 people worked in its plants in 2025.",
+    "id": "2026-11-20:x01",
+    "kind": "today",
+    "options": [
+     "Shoppers resist further price rises, so cutting cost is the main way to protect margins",
+     "Regulators require automated factories",
+     "P&G is exiting manufacturing entirely",
+     "Labor is now P&G's only cost"
+    ],
+    "prompt": "P&G plans to cut 20% to 30% of its supply workforce by 2030 as part of a savings program of up to $10 billion. Why is automation the main lever now?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-20-06",
+    "subindustry": "cpg"
+   },
+   {
+    "answer": 1,
+    "explanation": "Codelco's high premium cost it sales: China imported only about 140,000 tons of Chilean cathode in nine months, 38% less. Spot premiums in China actually hit a record $500 a ton, so physical metal is still tight.",
+    "id": "2026-11-20:x02",
+    "kind": "today",
+    "options": [
+     "Copper futures hit a record high",
+     "Chinese imports of Chilean cathode fell 38%, so it is cutting price to win volume back",
+     "Chile banned copper exports",
+     "China's spot premium fell to zero"
+    ],
+    "prompt": "Codelco cut its 2027 China copper premium to $250-$280 a ton from a record $350. Why?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-20-10",
+    "subindustry": "metals-mining"
+   },
+   {
+    "answer": 0,
+    "explanation": "A combination with more than half the wireless market faces a far tougher review than one with about 40%, so a Bell bid carries more regulatory risk even if it offers more cost savings. The government says competition, prices and service will guide any decision.",
+    "id": "2026-11-20:x03",
+    "kind": "today",
+    "options": [
+     "Bell's bid faces a much harder competition review",
+     "Quebecor must withdraw",
+     "Bell can pay less because it has no competition risk",
+     "Regulators prefer the larger combination"
+    ],
+    "prompt": "A Bell-Telus merger would hold about 55% of Canadian wireless, against about 40% for Quebecor-Telus. What does that mean for the bidding?",
+    "sector": "tmt",
+    "storyId": "2026-11-20-12",
+    "subindustry": "telecom"
+   },
+   {
+    "answer": 2,
+    "explanation": "Insurers hold capital against the risks they write, and diversification across a bigger book lowers the capital needed, freeing money to return or redeploy. That is why the capital benefit dwarfs the cost savings in this £8.1 billion deal.",
+    "id": "2026-11-20:x04",
+    "kind": "today",
+    "options": [
+     "Capital synergies are a one-off tax refund",
+     "Beazley had no capital before the deal",
+     "A larger, more diversified risk book needs less capital per dollar of premium",
+     "Zurich stopped paying dividends"
+    ],
+    "prompt": "Zurich raised its Beazley capital synergy estimate to $1.8 billion, against cost synergies of only about $150 million. Why are capital synergies so much larger?",
+    "sector": "financial-services",
+    "storyId": "2026-11-20-14",
+    "subindustry": "insurance"
+   },
+   {
+    "answer": 0,
+    "explanation": "Hotel groups earn fees tied to room revenue, and lifestyle brands command higher rates and fees, so a small share of rooms produces a large share of profit. That is why Accor is paying about €1.6 billion, roughly 18 times 2027 EBITDA, to own it fully.",
+    "id": "2026-11-20:x05",
+    "kind": "today",
+    "options": [
+     "Lifestyle brands earn higher fees and room rates per hotel",
+     "Ennismore owns all its hotels",
+     "Accor's other brands lose money",
+     "Ennismore has the most rooms of any brand"
+    ],
+    "prompt": "Ennismore is about 5% of Accor's rooms but about 20% of its recurring EBITDA. What does that mainly show?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-20-15",
+    "subindustry": "travel-hospitality"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "Taiwan and Korea's indexes are dominated by chip and AI hardware suppliers such as TSMC, Samsung and SK Hynix, so a shift in AI sentiment hits them hardest. Oil was actually falling, so it was not the cause.",
+    "id": "2026-11-20:q01",
+    "kind": "today",
+    "options": [
+     "Asian central banks raised rates the same day",
+     "Their indexes are concentrated in chip and AI hardware makers",
+     "Asian markets were closed for most of the week",
+     "Oil prices rose sharply in Asia"
+    ],
+    "prompt": "Taiwan's market fell 6.2% in a day and 17.5% in a week, more than the 2% fall in the S&P 500. What best explains why Asian markets fell harder?",
+    "sector": "macro",
+    "storyId": "2026-11-20-01",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 2,
+    "explanation": "The price is a 31% premium to BILL's 60-day average before talks leaked. BILL shares then fell about 3% to $62, a sign some holders had hoped for more.",
+    "id": "2026-11-20:q02",
+    "kind": "today",
+    "options": [
+     "About 10%",
+     "About 60%",
+     "About 31%",
+     "About 100%"
+    ],
+    "prompt": "TPG and Corpay are paying $63.25 a share, about $6 billion, for BILL. Roughly what premium is that to BILL's 60-day average price?",
+    "sector": "financial-services",
+    "storyId": "2026-11-20-02",
+    "subindustry": "payments-fintech"
+   },
+   {
+    "answer": 0,
+    "explanation": "Mailchimp's revenue fell 1% to $313 million in the quarter and is guided flat to down, and buyers now pay far less for slow-growing software than in 2021. Bending Spoons specializes in buying such brands cheaply and running them for cash.",
+    "id": "2026-11-20:q03",
+    "kind": "today",
+    "options": [
+     "Mailchimp's revenue is shrinking slightly and slow-growth software valuations have fallen",
+     "Bending Spoons is a forced buyer under a court order",
+     "Mailchimp lost money on every customer",
+     "Email marketing was banned in the EU"
+    ],
+    "prompt": "Intuit is selling Mailchimp for $3.68 billion after paying $12 billion in 2021. What does the price mainly reflect?",
+    "sector": "tmt",
+    "storyId": "2026-11-20-03",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 2,
+    "explanation": "The business logic of a bank merger is cutting overlapping branches, IT and head-office costs, and UniCredit has signaled thousands of job cuts while only promising talks on job protection. It committed to keep supporting small and midsize firms, so they are not the obvious losers.",
+    "id": "2026-11-20:q04",
+    "kind": "today",
+    "options": [
+     "German small businesses, which lose their main lender",
+     "UniCredit shareholders, who must pay a 60% premium",
+     "Commerzbank staff, since cost savings rely on cutting overlapping jobs",
+     "The German state, which must inject new capital"
+    ],
+    "prompt": "UniCredit already owns close to 50% of Commerzbank. Who is most likely to lose if the takeover completes?",
+    "sector": "financial-services",
+    "storyId": "2026-11-20-04",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 1,
+    "explanation": "More fuel supply would narrow the wide spread between crude and diesel or jet fuel, cutting costs for airlines, truckers and importers. Refiners would lose, because that spread is their profit; the pledge named no volumes or dates, so this is still uncertain.",
+    "id": "2026-11-20:q05",
+    "kind": "today",
+    "options": [
+     "Refiners earning wide diesel margins",
+     "Fuel buyers such as airlines and truckers",
+     "Crude oil producers",
+     "Owners of oil storage tanks"
+    ],
+    "prompt": "If China and Russia really do raise refined fuel exports after the Shenzhen pledge, who gains most?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-20-07",
+    "subindustry": "refining-chemicals"
+   },
+   {
+    "answer": 1,
+    "explanation": "CMS's audit proposal targets risk-adjusted payments (nearly $90 billion of savings over 10 years), and lower 2027 star ratings threaten bonus payments; UnitedHealth is suing over the ratings. Medicare for All talk added pressure but has no realistic path before 2029.",
+    "id": "2026-11-20:q06",
+    "kind": "today",
+    "options": [
+     "Drug price caps and hospital rates",
+     "Risk-adjusted payments, through audits back to 2018, and star-rating bonuses",
+     "Employer tax credits and Medicaid fees",
+     "Pharmacy rebates and ACA subsidies"
+    ],
+    "prompt": "UnitedHealth fell 10.2% and then 5.55% in two days. Which two government levers behind Medicare Advantage profits are under pressure at once?",
+    "sector": "healthcare",
+    "storyId": "2026-11-20-08",
+    "subindustry": "payers-providers"
+   },
+   {
+    "answer": 1,
+    "explanation": "Investors worried Arm could lose its leader if Haas moved to Nvidia. Nvidia uses Arm CPU designs in its Grace and Vera platforms, so the business link itself was not at risk.",
+    "id": "2026-11-14:q01",
+    "kind": "review",
+    "options": [
+     "Nvidia would stop paying Arm royalties",
+     "Arm could lose its own chief executive",
+     "Arm would have to buy Nvidia shares",
+     "Arm's chips would be banned in China"
+    ],
+    "prompt": "A report that Nvidia's board approached Arm CEO Rene Haas sent Arm's shares down about 5% to 6.5%. Why would Arm fall on this news?",
+    "sector": "tmt",
+    "storyId": "2026-11-14-01",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 3,
+    "explanation": "Private consumption fell at a 1.1% annual pace and net exports cut 0.6 point as costly oil raised imports. Business investment, including data centers, was actually the strong spot.",
+    "id": "2026-11-16:q03",
+    "kind": "review",
+    "options": [
+     "A collapse in data-center spending",
+     "Falling exports of cars to the US",
+     "Rising interest payments on household mortgages",
+     "Weaker consumer spending and a higher oil import bill"
+    ],
+    "prompt": "Japan's GDP shrank at a 0.1% annual pace while business investment rose 6.8%. What mainly dragged the economy down?",
+    "sector": "macro",
+    "storyId": "2026-11-16-03",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "Entertainment operating income nearly doubled to $1.33 billion as streaming grew, while parks still earned $2.25 billion. Disney is raising, not cutting, content spending to about $26 billion in fiscal 2027.",
+    "id": "2026-11-17:q04",
+    "kind": "review",
+    "options": [
+     "Streaming now adds real profit alongside parks, ESPN and TV",
+     "Disney plans to shut its theme parks to fund streaming",
+     "Disney's content budget is shrinking sharply",
+     "ESPN lost money for the first time"
+    ],
+    "prompt": "Disney's streaming revenue rose 19% to about $6 billion in the quarter. What is the main business point of these results?",
+    "sector": "tmt",
+    "storyId": "2026-11-17-05",
+    "subindustry": "media-entertainment"
+   },
+   {
+    "answer": 2,
+    "explanation": "Networks take small per-transaction fees on very large volumes and never lend, so they carry no credit risk. Issuing banks keep most of the merchant fee and the card interest, but they also absorb the bad loans.",
+    "id": "2026-11-20:q10",
+    "kind": "profile",
+    "options": [
+     "They keep most of the 2-3% merchant fee",
+     "They charge interest on card balances",
+     "They earn small fees on huge volumes without lending, so loan losses fall on banks",
+     "They own the payment terminals in stores"
+    ],
+    "prompt": "In card payments, why can networks such as Visa and Mastercard earn high margins?",
+    "sector": "financial-services",
+    "storyId": null,
+    "subindustry": "payments-fintech"
+   }
+  ]
  }
 }

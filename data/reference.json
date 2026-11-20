@@ -35,6 +35,23 @@
    "ticker": "SIX: ABBN",
    "updated": "2026-11-08"
   },
+  "accor": {
+   "businessModel": "Franchises and manages hotels owned by others under brands from Ibis to Sofitel and lifestyle brands through Ennismore, earning fees tied to room revenue.",
+   "competitors": [
+    "Marriott",
+    "Hilton",
+    "IHG",
+    "Hyatt",
+    "Minor Hotels"
+   ],
+   "hq": "Issy-les-Moulineaux, France",
+   "name": "Accor",
+   "sector": "consumer-retail",
+   "size": "Revenue ~€5.6B (approx., 2024)",
+   "subindustry": "travel-hospitality",
+   "ticker": "Euronext Paris: AC",
+   "updated": "2026-11-20"
+  },
   "acesur": {
    "businessModel": "Produces, bottles and sells olive oil and other edible oils under its own brands and for private labels.",
    "competitors": [
@@ -621,6 +638,54 @@
    "ticker": "XETRA: BAYN",
    "updated": "2026-11-11"
   },
+  "bce": {
+   "businessModel": "Earns monthly fees from mobile, home internet and TV customers across Canada, plus business network services and media revenue from Bell Media.",
+   "competitors": [
+    "Rogers",
+    "Telus",
+    "Quebecor (Videotron, Freedom Mobile)"
+   ],
+   "hq": "Verdun, Quebec, Canada",
+   "name": "BCE (Bell Canada)",
+   "sector": "tmt",
+   "size": "Revenue ~C$24B (approx., 2025)",
+   "subindustry": "telecom",
+   "ticker": "TSX/NYSE: BCE",
+   "updated": "2026-11-20"
+  },
+  "beazley": {
+   "businessModel": "Specialty insurer at Lloyd's that writes cyber, marine, political risk and other hard-to-place risks, earning underwriting profit and investment income.",
+   "competitors": [
+    "Hiscox",
+    "Chubb",
+    "Lancashire",
+    "AXA XL",
+    "Markel"
+   ],
+   "hq": "London, UK",
+   "name": "Beazley",
+   "sector": "financial-services",
+   "size": "Gross written premiums ~$6B (approx., 2025)",
+   "subindustry": "insurance",
+   "ticker": "Private (owned by Zurich Insurance)",
+   "updated": "2026-11-20"
+  },
+  "bending-spoons": {
+   "businessModel": "Buys mature consumer and business software brands such as Evernote, Vimeo and WeTransfer, cuts costs and raises prices, earning mostly subscription revenue at high margins.",
+   "competitors": [
+    "Constellation Software",
+    "Thoma Bravo",
+    "IAC",
+    "Microsoft"
+   ],
+   "hq": "Milan, Italy",
+   "name": "Bending Spoons",
+   "sector": "tmt",
+   "size": "Revenue ~$3.1B guided (2026)",
+   "subindustry": "software-cloud",
+   "ticker": "Listed (ticker BSP)",
+   "updated": "2026-11-20"
+  },
   "berkshire-hathaway": {
    "businessModel": "Owns insurers such as Geico and reinsurance units that collect premiums and invest the float, plus the BNSF railroad, utilities, manufacturing and a large stock portfolio. Profit comes from underwriting, investment income and the earnings of wholly owned businesses.",
    "competitors": [
@@ -654,6 +719,24 @@
    "subindustry": "semiconductors",
    "ticker": "Euronext Amsterdam: BESI",
    "updated": "2026-10-27"
+  },
+  "bill-holdings": {
+   "businessModel": "Sells cloud software for bill payment, invoicing and expense management to small and midsize businesses, earning subscription fees plus transaction fees on payments it processes.",
+   "competitors": [
+    "Intuit",
+    "AvidXchange",
+    "Ramp",
+    "Brex",
+    "Expensify",
+    "Coupa"
+   ],
+   "hq": "San Jose, California, USA",
+   "name": "BILL Holdings",
+   "sector": "financial-services",
+   "size": "Equity value ~$6.0B (deal, 2026); revenue ~$1.5B (approx., FY2025)",
+   "subindustry": "payments-fintech",
+   "ticker": "NYSE: BILL (being acquired by TPG)",
+   "updated": "2026-11-20"
   },
   "binance": {
    "businessModel": "Runs a cryptocurrency exchange that earns trading fees, plus fees on derivatives, staking and other services, holding customer assets in custody.",
@@ -1057,6 +1140,23 @@
    "ticker": "NYSE: KO",
    "updated": "2026-10-28"
   },
+  "codelco": {
+   "businessModel": "Mines and refines copper in Chile and sells cathode and concentrate to smelters, wire makers and traders worldwide, earning the exchange price plus a regional premium.",
+   "competitors": [
+    "Freeport-McMoRan",
+    "BHP",
+    "Glencore",
+    "Southern Copper",
+    "Zijin Mining"
+   ],
+   "hq": "Santiago, Chile",
+   "name": "Codelco",
+   "sector": "energy-materials",
+   "size": "Revenue ~$17B (approx., 2024); world's largest copper producer",
+   "subindustry": "metals-mining",
+   "ticker": "Private (Chilean state)",
+   "updated": "2026-11-20"
+  },
   "comcast": {
    "businessModel": "Sells home broadband, wireless and cable TV, and earns from NBCUniversal's studios, Peacock streaming and Universal theme parks.",
    "competitors": [
@@ -1124,6 +1224,23 @@
    "subindustry": "software-cloud",
    "ticker": "NASDAQ: CRWV",
    "updated": "2026-10-19"
+  },
+  "corpay": {
+   "businessModel": "Runs payment networks for businesses, including fuel cards, corporate bill payment and cross-border payments, earning fees on transaction volume.",
+   "competitors": [
+    "WEX",
+    "American Express",
+    "Edenred",
+    "Bill.com",
+    "AvidXchange"
+   ],
+   "hq": "Atlanta, Georgia, USA",
+   "name": "Corpay",
+   "sector": "financial-services",
+   "size": "Revenue ~$4B (approx., 2024)",
+   "subindustry": "payments-fintech",
+   "ticker": "NYSE: CPAY",
+   "updated": "2026-11-20"
   },
   "corteva": {
    "businessModel": "Sells patented seeds and crop-protection chemicals to farmers through distributors, earning premium prices on seed genetics and new crop chemistries.",
@@ -2139,6 +2256,23 @@
    "subindustry": "payments-fintech",
    "ticker": "NASDAQ: IMXI",
    "updated": "2026-11-12"
+  },
+  "intuit": {
+   "businessModel": "Sells subscription and per-use software for taxes (TurboTax), small-business accounting (QuickBooks) and personal finance (Credit Karma), earning recurring subscription fees and referral fees.",
+   "competitors": [
+    "H&R Block",
+    "Xero",
+    "Sage",
+    "Oracle NetSuite",
+    "BILL"
+   ],
+   "hq": "Mountain View, California, USA",
+   "name": "Intuit",
+   "sector": "tmt",
+   "size": "Revenue ~$23B guided (FY2027)",
+   "subindustry": "software-cloud",
+   "ticker": "NASDAQ: INTU",
+   "updated": "2026-11-20"
   },
   "intuitive-surgical": {
    "businessModel": "Sells da Vinci robotic surgery systems and earns most revenue from instruments, accessories and service used on every procedure, plus leasing and system sales.",
@@ -3445,6 +3579,23 @@
    "ticker": "LSE: RR.",
    "updated": "2026-11-13"
   },
+  "ross-stores": {
+   "businessModel": "Runs off-price stores (Ross Dress for Less, dd's DISCOUNTS) that buy surplus branded clothing and home goods cheaply and sell them 20% to 60% below department-store prices.",
+   "competitors": [
+    "TJX",
+    "Burlington",
+    "Walmart",
+    "Target",
+    "Five Below"
+   ],
+   "hq": "Dublin, California, USA",
+   "name": "Ross Stores",
+   "sector": "consumer-retail",
+   "size": "Revenue ~$22B (approx., FY2025)",
+   "subindustry": "retail-ecommerce",
+   "ticker": "NASDAQ: ROST",
+   "updated": "2026-11-20"
+  },
   "rtx": {
    "businessModel": "Three businesses: Collins Aerospace (aircraft systems), Pratt & Whitney (jet engines plus aftermarket service) and Raytheon (missiles, radars and air defense sold mainly to governments).",
    "competitors": [
@@ -4223,6 +4374,23 @@
    "ticker": "EPA: TTE",
    "updated": "2026-11-19"
   },
+  "tpg": {
+   "businessModel": "Alternative asset manager that earns management fees on capital it invests for pension funds and other investors, plus a share of profits (carried interest) from private equity, credit and real estate funds.",
+   "competitors": [
+    "Blackstone",
+    "KKR",
+    "Apollo",
+    "Carlyle",
+    "Thoma Bravo"
+   ],
+   "hq": "Fort Worth, Texas, USA",
+   "name": "TPG",
+   "sector": "financial-services",
+   "size": "Assets under management ~$250B+ (approx., 2025)",
+   "subindustry": "asset-wealth",
+   "ticker": "NASDAQ: TPG",
+   "updated": "2026-11-20"
+  },
   "trade-desk": {
    "businessModel": "Runs an independent platform where advertisers buy digital ads across the open internet, earning a share of the spend that passes through it.",
    "competitors": [
@@ -4796,6 +4964,23 @@
    "subindustry": "retail-ecommerce",
    "ticker": "Private (venture-backed)",
    "updated": "2026-11-10"
+  },
+  "zurich-insurance": {
+   "businessModel": "Writes property, casualty, specialty and life insurance worldwide, earning underwriting profit on premiums and investment income on the reserves it holds.",
+   "competitors": [
+    "Allianz",
+    "AXA",
+    "Chubb",
+    "AIG",
+    "Generali"
+   ],
+   "hq": "Zurich, Switzerland",
+   "name": "Zurich Insurance Group",
+   "sector": "financial-services",
+   "size": "Market cap ~$100B (approx., 2026)",
+   "subindustry": "insurance",
+   "ticker": "SIX: ZURN",
+   "updated": "2026-11-20"
   }
  },
  "sectors": {
