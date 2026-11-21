@@ -6677,5 +6677,472 @@
   "subindustry": "macro",
   "summary": "Bank Indonesia raised its benchmark rate by 0.25 points to 6.00%, its first hike after four months on hold. Most economists polled by Reuters had expected no change. The central bank called the move pre-emptive, aimed at steadying the rupiah, which stood at about 18,245 per dollar after hitting a record low, against pressure from high oil prices, expected US rate increases and a strong dollar. Inflation was 3.23% in October, inside its 1.5% to 3.5% target band, and the economy grew 5.47% in the third quarter.",
   "tags": []
+ },
+ "2026-11-21-01": {
+  "companies": [
+   "nvidia",
+   "broadcom",
+   "amd",
+   "micron",
+   "anthropic"
+  ],
+  "date": "2026-11-21",
+  "headline": "The S&P 500 and Dow fall into a correction as a 5.3% Nasdaq plunge wipes out its gains for 2026",
+  "numbers": [
+   "S&P 500: -3.7% to 6,910; Dow: -1.9% to 48,147",
+   "Nasdaq Composite: -5.3%; Nasdaq-100 19.8% below its Oct 6 record",
+   "Philadelphia Semiconductor Index: -10.7%",
+   "VIX: +26% to ~36"
+  ],
+  "order": 1,
+  "sector": "macro",
+  "soWhat": "The sell-off has moved from a few AI leaders to the whole market, because AI and chip stocks now make up a large share of the main US indexes. Investors are questioning whether the very large spending on data centers will earn enough return, and a likely Fed rate hike in December raises the discount rate applied to future profits. Defensive areas such as consumer staples held up, which is the usual pattern when money leaves high-growth stocks. The open question is whether companies actually cut AI orders, or whether this is only a reset of very high expectations.",
+  "sources": [
+   {
+    "title": "UPI: Dow, S&P 500 enter correction as Nasdaq plunges in AI stock sell-off",
+    "url": "https://www.upi.com/Top_News/US/2026/11/20/stocks-dow-jones-nasdaq-correction-territory/1061795214998/"
+   },
+   {
+    "title": "TradingKey: Nasdaq plunges 5%, erasing all year-to-date gains",
+    "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
+   },
+   {
+    "title": "Stock Market Watch: Market Digest, Friday, November 20, 2026",
+    "url": "https://stockmarketwatch.com/digest/2026-11-20"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "US stocks had their worst day in months on Friday as the sell-off in AI and chip stocks accelerated. The S&P 500 fell 3.7% to 6,910 and the Dow lost 1.9% to 48,147, both closing more than 10% below their recent highs, the usual definition of a correction. The Nasdaq Composite dropped 5.3% and gave up its gains for the year, while the Nasdaq-100 ended 19.8% below its October 6 record, close to the 20% line that marks a bear market. The Philadelphia chip index fell 10.7% with all 30 members down, the VIX fear gauge jumped 26% to about 36, and gold fell about 4% as investors sold winners to cover losses.",
+  "tags": []
+ },
+ "2026-11-21-02": {
+  "companies": [
+   "nvidia"
+  ],
+  "date": "2026-11-21",
+  "headline": "Nvidia falls 14% after a report that the SEC is examining its accounting",
+  "numbers": [
+   "Share move Friday: about -14%",
+   "Hugging Face deal under DOJ review: $12.9B",
+   "Singapore-billed sales: reportedly near half of revenue before the reporting change"
+  ],
+  "order": 2,
+  "sector": "tmt",
+  "soWhat": "Nvidia is the largest single supplier to the AI build-out, so any doubt about the quality of its reported numbers spreads to the whole chip and data center chain. Accounting questions matter more than a weak quarter because investors value the company on the assumption that its revenue and margins are reliable. An SEC inquiry often ends without charges, but it can take months, and the uncertainty lands while the company has no permanent leader. The open question is what the SEC is actually looking at, which may not become clear for some time.",
+  "sources": [
+   {
+    "title": "Reuters via Investing.com: Nvidia's accounting is a focus of US SEC investigation, sources say",
+    "url": "https://www.investing.com/news/economy-news/exclusiveus-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-5042460"
+   },
+   {
+    "title": "TradingKey: Nvidia tumbles 13% as AI stock selloff deepens",
+    "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Nvidia shares fell about 14% on Friday after Reuters reported, citing two people briefed on the matter, that SEC enforcement staff are examining potential accounting issues at the company. The Wall Street Journal had reported the investigation earlier in the week without identifying its focus, and it is not known when it began or which matters it covers. Last year Nvidia changed how it reports revenue by region, using customers' headquarters instead of billing addresses, which removed Singapore from its breakdown after reports that Singapore-billed sales had approached half of revenue. The Justice Department is also reviewing Nvidia's $12.9 billion purchase of Hugging Face, and the company is run by an interim chief executive after its co-founder left this month.",
+  "tags": []
+ },
+ "2026-11-21-03": {
+  "companies": [
+   "broadcom",
+   "alphabet",
+   "mediatek",
+   "sk-hynix",
+   "samsung-electronics",
+   "micron"
+  ],
+  "date": "2026-11-21",
+  "headline": "Broadcom drops more than 11% on reports that Google is cutting orders for its TPU chips and buying memory directly",
+  "numbers": [
+   "Reported cut to 2027 TPU 8i shipments: ~1M units (~20%)",
+   "Bernstein estimate of Google's savings: ~$50B over the chips' life",
+   "MediaTek shares in Taipei: nearly -10%"
+  ],
+  "order": 3,
+  "sector": "tmt",
+  "soWhat": "Big cloud companies design their own AI chips to rely less on Nvidia, and they pay partners such as Broadcom to turn those designs into finished products. If Google takes over buying memory and moves volume to a cheaper partner, part of the margin Broadcom earns on each chip moves back to Google. Memory makers could face tougher price talks, because they would deal directly with a large, cost-focused buyer. The open question is whether other cloud giants copy Google, which would shrink the fees that custom-chip partners can charge.",
+  "sources": [
+   {
+    "title": "MLQ.ai: Broadcom falls 11% after analyst Ming-Chi Kuo says Google cut 2027 orders for its TPU chips",
+    "url": "https://mlq.ai/news/broadcom-falls-11-after-analyst-ming-chi-kuo-says-google-cut-2027-orders-for-its-tpu-chips/"
+   },
+   {
+    "title": "TradingKey: Nasdaq plunges 5% as AI stock selloff deepens",
+    "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
+   },
+   {
+    "title": "DigiTimes: Google looks to bypass Broadcom with direct HBM purchases",
+    "url": "https://www.digitimes.com/news/a20261119VL217/google-hbm-broadcom-mediatek-2027.html"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Broadcom shares fell more than 11% on Friday after analyst Ming-Chi Kuo said Google had cut planned 2027 shipments of the Broadcom-designed TPU 8i chip by about 1 million units, roughly 20% of expected volume. Kuo said Google plans to ship more of the TPU 8t, which is designed with MediaTek. Separate industry reports say Google wants to buy high-bandwidth memory (HBM) for its chips directly from memory makers instead of through Broadcom, which today handles design, packaging and memory purchasing. Bernstein estimates the change could save Google about $50 billion over the life of the chips; Google has not confirmed either report.",
+  "tags": []
+ },
+ "2026-11-21-04": {
+  "companies": [],
+  "date": "2026-11-21",
+  "headline": "Brent posts a third straight weekly loss near $92.60 as Gulf crude reaches Asia and fuel margins collapse",
+  "numbers": [
+   "Brent settle: $92.57 (+0.6% on the day)",
+   "Weekly change: about -3% to -4%, third straight loss",
+   "Singapore gasoline margin: ~$1/bbl vs record $50.50 on Oct 1",
+   "Tanker hits near Hormuz: about one a day"
+  ],
+  "order": 4,
+  "sector": "energy-materials",
+  "soWhat": "Crude prices depend on two things: whether barrels can physically reach buyers, and whether refiners want them. Both have turned bearish, because tankers are moving again and the collapse in Asian gasoline margins means refiners earn little for each extra barrel they process, so they buy less crude. Producers selling into Asia lose pricing power, while airlines, shippers and fuel importers gain from cheaper energy. The open question is whether attacks near Hormuz or the Red Sea escalate enough to disrupt flows again, which is still the main upside risk to prices.",
+  "sources": [
+   {
+    "title": "NPR: S&P 500 sinks and the Nasdaq composite goes negative for the year",
+    "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative"
+   },
+   {
+    "title": "WAM: Oil prices settle higher, Brent set for weekly loss",
+    "url": "https://wam.ae/en/article/c3d8k4x-oil-prices-settle-higher-brent-set-for-weekly"
+   },
+   {
+    "title": "Archyde (Oilprice.com): Brent set to close week down as Gulf supply flows to Asia outweigh Hormuz strikes",
+    "url": "https://www.archyde.com/brent-set-to-close-week-down-5-at-91-as-gulf-supply-flows-to-asia-outweigh-hormuz-strikes/"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Brent crude settled up 0.6% at $92.57 a barrel on Friday but fell about 3% to 4% over the week, its third weekly loss in a row, while US WTI ended near $84. Gulf crude is reaching Asian buyers in large volumes even though Iranian drones still hit about one tanker a day near the Strait of Hormuz, so supply fears are fading. Further down the chain, the margin for turning crude into gasoline in Singapore fell to about $1 a barrel, from a record $50.50 on October 1. Brent has traded between about $90 and $100 in recent weeks.",
+  "tags": []
+ },
+ "2026-11-21-05": {
+  "companies": [
+   "anthropic",
+   "openai"
+  ],
+  "date": "2026-11-21",
+  "headline": "Anthropic shares fall 8.5% on their second day of trading, ending close to the $83 IPO price",
+  "numbers": [
+   "Friday close: $88.91 (-8.5%) vs $83 IPO price",
+   "IPO proceeds incl. extra shares: $93.5B, a record",
+   "Value: ~$1.6T fully diluted, ~40x trailing sales"
+  ],
+  "order": 5,
+  "sector": "tmt",
+  "soWhat": "Anthropic's weak second day shows how fast demand for AI listings can cool when the wider market falls, even for a company with fast-growing revenue. A price close to the IPO level matters for later deals: OpenAI has said it may list next year, and many AI and data center companies have already pushed their listings into 2027. Index funds may have to buy the shares later, which could support the price. The open question is whether investors will keep paying about 40 times sales for AI model makers when chip stocks are falling.",
+  "sources": [
+   {
+    "title": "Reuters via SRN News: Anthropic's post-debut stumble delivers reality check for AI trade",
+    "url": "https://srnnews.com/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade/"
+   },
+   {
+    "title": "UPI: Dow, S&P 500 enter correction as Nasdaq plunges in AI stock sell-off",
+    "url": "https://www.upi.com/Top_News/US/2026/11/20/stocks-dow-jones-nasdaq-correction-territory/1061795214998/"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Anthropic shares fell 8.5% to $88.91 on Friday, giving back much of the 17% first-day gain from Thursday's Nasdaq debut and ending not far above the $83 offer price. Including extra shares bought by its underwriters, the IPO raised $93.5 billion, above SpaceX's $85.7 billion, making it the largest listing on record. At Friday's price the company is valued at about $1.6 trillion fully diluted, or roughly 40 times its sales over the past year. Morgan Stanley, which had been supporting the price after the listing, closed that position, and options trading on the shares starts next week.",
+  "tags": []
+ },
+ "2026-11-21-06": {
+  "companies": [
+   "bayer"
+  ],
+  "date": "2026-11-21",
+  "headline": "A Missouri judge gives final approval to Bayer's $7.25 billion settlement of Roundup cancer claims",
+  "numbers": [
+   "Settlement: up to $7.25B over up to 21 years",
+   "Average awards: $10,000 to $165,000",
+   "Earlier Roundup reserves: $16B",
+   "Claims made against Bayer: ~200,000"
+  ],
+  "order": 6,
+  "sector": "consumer-retail",
+  "soWhat": "Roundup litigation has hung over Bayer's crop science business for almost a decade, and this deal turns an open-ended legal risk into a capped payment spread over many years. Together with a June Supreme Court ruling that blocks state claims that cancer warnings were missing, it narrows the main route plaintiffs used to win large jury awards. That frees cash and management attention for the core seeds and crop chemicals business, where Bayer competes with Corteva and Syngenta. The open question is whether objectors appeal, which would delay the settlement taking effect.",
+  "sources": [
+   {
+    "title": "PBS NewsHour: Court approves $7.25 billion Bayer settlement over claims Roundup weed killer caused cancer",
+    "url": "https://www.pbs.org/newshour/nation/court-approves-7-25-billion-bayer-settlement-over-claims-roundup-weed-killer-caused-cancer"
+   },
+   {
+    "title": "St. Louis Public Radio: St. Louis judge gives final approval to $7.25 billion Roundup settlement",
+    "url": "https://www.stlpr.org/news-briefs/2026-11-20/final-approval-roundup-settlement"
+   }
+  ],
+  "subindustry": "agriculture-food",
+  "summary": "A state judge in St. Louis gave final approval on Friday to Bayer's class settlement of claims that its Roundup weedkiller causes non-Hodgkin lymphoma. Bayer will pay up to $7.25 billion over as long as 21 years into a fund, with average awards ranging from $10,000 to $165,000 depending on exposure, age at diagnosis and severity. The deal comes on top of the $16 billion Bayer had already set aside for Roundup litigation, which covers about 200,000 claims since it bought Monsanto in 2018. The ruling can be appealed, and payments would pause during any appeal; about 200 federal cases sit outside the settlement.",
+  "tags": []
+ },
+ "2026-11-21-07": {
+  "companies": [
+   "sanofi",
+   "insmed"
+  ],
+  "date": "2026-11-21",
+  "headline": "Sanofi weighs a takeover of Insmed, a lung-disease drugmaker worth about $26 billion",
+  "numbers": [
+   "Insmed market value: ~$26.3B",
+   "Insmed share move on the report: about +16%"
+  ],
+  "order": 7,
+  "sector": "healthcare",
+  "soWhat": "Large drugmakers are buying companies with approved or late-stage medicines to replace sales they will lose as patents expire, and they will pay high prices for products already on the market. Insmed's lead drug treats bronchiectasis, a chronic lung disease, which would fit Sanofi's push in respiratory and immune diseases. At Insmed's current value, a deal would be more than twice the size of Sun Pharma's $11.75 billion purchase of Organon, so far the year's largest drug deal. The open question is whether other buyers compete, since a public report often draws rival interest.",
+  "sources": [
+   {
+    "title": "Reuters via Yahoo Finance: Sanofi weighs takeover of US drugmaker Insmed, Bloomberg News reports",
+    "url": "https://sg.finance.yahoo.com/news/sanofi-weighs-takeover-us-drugmaker-152042942.html"
+   },
+   {
+    "title": "Fierce Pharma: Sun's $11.75B Organon buy",
+    "url": "https://www.fiercepharma.com/pharma/sun-1175b-organon-buy-astellas-xtandi-peak-beone-pd-1vegf-bet"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "Sanofi is considering buying US drugmaker Insmed and is working with advisers, Bloomberg News reported on Thursday, citing people familiar with the matter. Insmed's shares rose about 16% on the report, giving it a market value of about $26.3 billion. Deliberations are ongoing and any deal could still be weeks away. Neither company commented.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-21-08": {
+  "companies": [],
+  "date": "2026-11-21",
+  "headline": "Private credit defaults nearly double to 1.5% in the third quarter, with small borrowers hit hardest",
+  "numbers": [
+   "Default rate by loan value: 1.5% (from 0.8%)",
+   "Borrowers under $100M EBITDA: 5.0% by count",
+   "Healthcare borrowers in default: 7.1%",
+   "Borrowers with interest cover below 1.0x: 15.1%"
+  ],
+  "order": 8,
+  "sector": "financial-services",
+  "soWhat": "Private credit funds lend directly to mid-sized companies, mostly at floating rates, so higher interest rates raise borrowers' costs straight away. The numbers show the strain sitting with smaller and debt-funded companies, such as healthcare provider groups built through acquisitions, while larger borrowers still cope. Fund managers charge fees on assets, so rising defaults hurt their investors first, but they also make it harder to raise new money and to sell these funds to individual investors. The open question is whether more Fed rate hikes push the stress from small borrowers to larger ones.",
+  "sources": [
+   {
+    "title": "Alternative Credit Investor: Private credit default rate nearly doubles in Q3",
+    "url": "https://alternativecreditinvestor.com/2026/11/19/private-credit-default-rate-nearly-doubles-in-q3/"
+   },
+   {
+    "title": "Houlihan Lokey: Size-weighted defaults in private credit nearly doubled in the third quarter",
+    "url": "https://hl.com/about-us/newsroom/houlihan-lokey-finds-size-weighted-defaults-in-private-credit-nearly-doubled-in-the-third-quarter-reaching-a-near-term-high-with-smaller-borrowers-the-most-impacted/"
+   }
+  ],
+  "subindustry": "asset-wealth",
+  "summary": "Defaults on private credit loans rose to 1.5% of outstanding principal in the third quarter from 0.8% in the second, according to Houlihan Lokey's quarterly DataBank report. Counted by number of borrowers, the rate rose to 3.7% from 2.5%, and for companies with less than $100 million of EBITDA it reached 5.0%. Healthcare was the weakest sector, with 7.1% of borrowers in default, while software borrowers stayed healthy at about 1%. About 7% of loans are now valued below 90 cents on the dollar, and 15.1% of borrowers earn less than they owe in interest.",
+  "tags": []
+ },
+ "2026-11-21-09": {
+  "companies": [
+   "mastec"
+  ],
+  "date": "2026-11-21",
+  "headline": "MasTec agrees to buy mechanical contractor Murphy for about $1.25 billion, and its shares fall more than 10%",
+  "numbers": [
+   "Price: ~$1.25B cash plus earnout",
+   "Murphy 2026E: ~$775M revenue, ~$140M adj. EBITDA (~9x)",
+   "Employees: ~1,600, incl. 1,200 union craft workers",
+   "MasTec shares: down more than 10%"
+  ],
+  "order": 9,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Data centers and new factories need far more mechanical and electrical work than offices, so contractors with skilled union crews have become scarce and valuable. Buying firms like Murphy lets MasTec sell a larger part of each project, from power lines to cooling systems, as these sites get bigger. Investors reacted badly because the deal adds debt just as AI stocks are falling and doubts are growing about how long the data center boom lasts. The open question is whether the order backlog holds if large tech companies slow their spending.",
+  "sources": [
+   {
+    "title": "RTTNews: MasTec to acquire Murphy Corp in $1.25 bln deal",
+    "url": "https://www.rttnews.com/3716773/mastec-to-acquire-murphy-corp-in-1-25-bln-deal.aspx"
+   },
+   {
+    "title": "Quantisnow: MasTec to buy Murphy for $1.25 billion in cash and shares fall over 10%",
+    "url": "https://www.quantisnow.com/articles/mastec-buys-murphy-corporation-for-1-25-billion-cash-shares-fall-more-than-10"
+   },
+   {
+    "title": "MasTec: Definitive agreement to acquire Murphy Corporation",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mastec-enters-definitive-agreement-acquire-115800040.html"
+   }
+  ],
+  "subindustry": "real-estate-construction",
+  "summary": "MasTec agreed on Friday to buy Murphy Corporation, a 119-year-old mechanical, plumbing and process contractor, for about $1.25 billion in cash plus an earnout tied to the next three years of results. Murphy expects about $775 million of revenue and $140 million of adjusted EBITDA in 2026, so the price is roughly 9 times EBITDA. Its 1,600 staff, including 1,200 union craft workers, serve data centers, hospitals, drug plants, and aviation and defense sites. It is MasTec's third debt-funded deal since July, after the $1.65 billion purchase of electrical contractor Superior Group, and its shares fell more than 10%.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-21-10": {
+  "companies": [
+   "abb",
+   "softbank-group"
+  ],
+  "date": "2026-11-21",
+  "headline": "ABB considers listing its robotics unit if it cannot rescue the $5.4 billion sale that China blocked",
+  "numbers": [
+   "Blocked sale price: $5.4B",
+   "China share of the robotics unit: ~30%",
+   "ABB staff in China: ~15,000"
+  ],
+  "order": 10,
+  "sector": "advanced-industries",
+  "soWhat": "Industrial robots are a strategic technology for China, which is both the largest buyer of robots and home to fast-growing local rivals, so Beijing now treats foreign control of a major supplier as a security matter. The case shows that cross-border deals can fail even after competition approval, because security reviews are a separate and less predictable hurdle. Splitting off the China business would save the deal but give SoftBank a smaller company cut off from its biggest market. It is the second big deal China has blocked this year, after Meta was ordered to unwind its purchase of Manus.",
+  "sources": [
+   {
+    "title": "Reuters via Yahoo Finance: ABB considers robotics listing if sale to SoftBank fails, sources say",
+    "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-abb-considers-robotics-listing-162853291.html"
+   },
+   {
+    "title": "SCMP: China blocks SoftBank's US$5.4 billion takeover of ABB's robotics division",
+    "url": "https://scmp.com/business/china-business/article/3373415/china-blocks-softbanks-us54-billion-takeover-abbs-robotics-division"
+   }
+  ],
+  "subindustry": "industrial-machinery",
+  "summary": "ABB is weighing a stock market listing or spin-off of its robotics business if it cannot save its $5.4 billion sale to SoftBank, Reuters reported, citing sources. China blocked the deal this month in a foreign investment security review, reportedly over SoftBank's ties to Western companies such as OpenAI and the risk of data flowing to the US. One rescue option is to carve out the China business, about 30% of the robotics unit, and sell it to a Chinese buyer or list it separately. China is ABB's largest robotics market, with about 15,000 staff in the country, and talks could run into next year.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-21-11": {
+  "companies": [],
+  "date": "2026-11-21",
+  "headline": "Los Angeles and Long Beach port employers reach a tentative deal with security guards, avoiding a strike",
+  "numbers": [
+   "Workers covered: ~250 security guards",
+   "Cargo through affected terminals: ~85% of Long Beach, ~33% of Los Angeles",
+   "Business groups urging a deal: 110+"
+  ],
+  "order": 11,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Los Angeles and Long Beach are the busiest US container ports, so even a small union can stop large flows of goods if other workers honor its picket lines. A strike in the peak holiday season, with imports near record levels, would have pushed delays through trucking, rail and warehouses and could have taken weeks to clear. The deal removes that risk for retailers and manufacturers. The main dockworker contract runs to 2028, so the larger labor risk on the West Coast is some years away.",
+  "sources": [
+   {
+    "title": "Reuters via KFGO: Southern California port employers, watchmen union reach tentative deal",
+    "url": "https://kfgo.com/2026/11/21/southern-california-port-employers-watchmen-union-reach-tentative-deal/"
+   },
+   {
+    "title": "gCaptain: More than 110 trade groups urge deal as LA-Long Beach port strike deadline nears",
+    "url": "https://gcaptain.com/more-than-110-trade-groups-urge-deal-as-la-long-beach-port-strike-deadline-nears/"
+   }
+  ],
+  "subindustry": "transport-logistics",
+  "summary": "The Pacific Maritime Association, which represents terminal operators at the Los Angeles and Long Beach ports, reached a tentative agreement on Saturday with ILWU Local 26, the union for about 250 port security guards. The old contract was due to expire at 12:01 a.m. Saturday, and the union had already voted to authorize a strike after more than a year of talks. The six terminals involved handle about 85% of Long Beach's cargo and a third of Los Angeles', and other dockworkers could have refused to cross picket lines. More than 110 business groups had urged a deal; members still need to ratify it.",
+  "tags": []
+ },
+ "2026-11-21-12": {
+  "companies": [
+   "databricks"
+  ],
+  "date": "2026-11-21",
+  "headline": "Databricks is in early talks to raise funds at about $225 billion, up from $190 billion in August",
+  "numbers": [
+   "Target valuation: ~$225B",
+   "August round: $5B at $190B",
+   "Lakehouse revenue run-rate: >$1.5B"
+  ],
+  "order": 12,
+  "sector": "tmt",
+  "soWhat": "Databricks sells software that stores and prepares company data for analysis and AI, which makes it a supplier to the AI boom rather than a bet on a single model. A higher private valuation during a public sell-off shows investors still pay up for software with strong growth and paying business customers. Staying private lets Databricks avoid public market swings while competing with Snowflake and the big cloud providers. The open question is whether the round closes at that price if the public market slide continues.",
+  "sources": [
+   {
+    "title": "Reuters via MarketScreener: Databricks in early talks to raise funds at $225 billion valuation, WSJ reports",
+    "url": "https://www.marketscreener.com/news/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-wsj-reports-ce785ed3dc8ef321"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Data and AI software company Databricks is in early talks to raise several billion dollars at a valuation of about $225 billion, the Wall Street Journal reported, and terms could still change. In August it said it had raised $5 billion at a $190 billion valuation. Its Lakehouse data warehousing business has passed a $1.5 billion annual revenue run-rate, and its newer Lakebase database has passed $100 million. The report came on the same day AI stocks sold off sharply.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-21-13": {
+  "companies": [
+   "bjs-wholesale"
+  ],
+  "date": "2026-11-21",
+  "headline": "BJ's raises its outlook as sales jump 17.7%, though most of the comparable growth comes from gasoline",
+  "numbers": [
+   "Net sales: $6.15B (+17.7%)",
+   "Comparable sales: +13.5%; +4.1% excluding gasoline",
+   "Membership fee income: $138.4M (+9.5%)",
+   "Full-year adj. EPS guidance: $5.10 to $5.30"
+  ],
+  "order": 13,
+  "sector": "consumer-retail",
+  "soWhat": "Warehouse clubs earn most of their profit from membership fees, which is why they can sell goods at thin margins and still make money. The gap between 13.5% and 4.1% comparable growth shows how much higher fuel prices lift reported sales without adding much profit, so the figure excluding gasoline is the better measure of demand. Rising membership income and online sales suggest cost-conscious shoppers are moving to clubs, which helps BJ's, Costco and Sam's Club at the expense of supermarkets. Merchandise margin fell about 1.7 percentage points on promotions, the price of winning those shoppers.",
+  "sources": [
+   {
+    "title": "BJ's Wholesale Club: Third quarter fiscal 2026 results (SEC filing)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001531152/000153115226000083/bj-2026103126x8kex991.htm"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "BJ's Wholesale Club grew net sales 17.7% to $6.15 billion in the quarter to October 31, and comparable club sales rose 13.5%. Excluding gasoline, comparable sales rose a more modest 4.1%, while digitally enabled sales grew 38%. Membership fee income rose 9.5% to $138.4 million, and earnings per share rose 50% to $1.73, helped by about $240 million from a card-fee legal settlement. BJ's raised its full-year forecast to 2.5% to 3.0% comparable growth excluding gasoline and adjusted EPS of $5.10 to $5.30.",
+  "tags": []
+ },
+ "2026-11-21-14": {
+  "companies": [
+   "group-1001"
+  ],
+  "date": "2026-11-21",
+  "headline": "Prosecutors probe Mark Walter's insurers over more than $20 billion of undisclosed lending to related companies",
+  "numbers": [
+   "Undisclosed affiliate investments: >$20B",
+   "Delaware Life related-party holdings: ~$1.4B first reported, ≥$17B after re-check",
+   "Insurers bought by private equity since the pandemic: ~50"
+  ],
+  "order": 14,
+  "sector": "financial-services",
+  "soWhat": "Life and annuity insurers hold customers' money for decades and invest it, and many owned by private equity now put a large share into private loans, often to related companies. When those links are not disclosed, regulators and customers cannot judge how safe the money is, which is why this case is a test for state-based supervision. About 50 insurers have been bought by private equity firms since the pandemic, so tighter rules on affiliate lending would affect a large part of the annuity market. The open question is whether regulators respond with stricter disclosure and capital rules, which would raise costs for these owners.",
+  "sources": [
+   {
+    "title": "Claims Journal: Probe of Mark Walter's insurers spotlights gaps in regulatory patchwork",
+    "url": "https://www.claimsjournal.com/news/national/2026/11/19/341416.htm"
+   },
+   {
+    "title": "InvestmentNews: Walter fallout tests state annuity regulators",
+    "url": "https://www.investmentnews.com/life-insurance-and-annuities/walter-fallout-tests-state-annuity-regulators/269060"
+   }
+  ],
+  "subindustry": "insurance",
+  "summary": "Federal prosecutors are investigating Delaware Life and Clear Spring Life, insurers controlled by Mark Walter's Group 1001, which did not disclose that more than $20 billion of their investments went to entities that finance Walter's other ventures. Lending to affiliates is allowed but must be disclosed; Delaware Life first reported about $1.4 billion of such holdings, then at least $17 billion after a re-check. Delaware's regulator oversees about $1.2 billion of life premiums per staff member, more than any other state, and is also reviewing Aquarian's delayed $4.1 billion bid for Brighthouse Financial. No wrongdoing has been alleged, and Group 1001 says it is cooperating and financially strong.",
+  "tags": []
+ },
+ "2026-11-21-15": {
+  "companies": [
+   "boeing"
+  ],
+  "date": "2026-11-21",
+  "headline": "Boeing leaves the door open to more layoffs as 737 output stalls at 42 jets a month",
+  "numbers": [
+   "Planned cut: 5% of ~50,000 commercial airplane staff",
+   "737 rate: 42/month now, 47 targeted for early 2027",
+   "SPEEA members: ~17,000"
+  ],
+  "order": 15,
+  "sector": "advanced-industries",
+  "soWhat": "Planemakers carry heavy fixed costs in factories and staff, so profit depends on raising output; every month at a lower rate leaves costs spread over fewer jets. Cutting jobs while the order backlog is large shows Boeing is focused on cash, but it risks losing skilled workers it will need when output does rise. Airlines waiting for jets keep older planes longer, which helps lessors and engine-repair firms and keeps fares firm. The open question is whether regulators approve the higher rate in early 2027 as now planned.",
+  "sources": [
+   {
+    "title": "Reuters via SRN News: Boeing leaves open possibility of more layoffs amid stalled production plans",
+    "url": "https://srnnews.com/boeing-leaves-open-possibility-of-more-layoffs-amid-stalled-production-plans/"
+   }
+  ],
+  "subindustry": "aerospace-defense",
+  "summary": "Boeing declined to tell its engineers' union whether more layoffs will follow a round of notices due on December 9, the union said. Earlier this month the company announced plans to cut 5% of the roughly 50,000 staff in its commercial airplanes division through attrition and layoffs. It blames 737 MAX output rising more slowly than planned: the move from 42 to 47 jets a month, once due this summer, is now expected in early 2027. The SPEEA union, with about 17,000 members, approved a four-year contract in October with a 10% raise on signing and 4% a year after.",
+  "tags": []
+ },
+ "2026-11-21-16": {
+  "companies": [
+   "pure-lithium"
+  ],
+  "date": "2026-11-21",
+  "headline": "The US Commerce Department asked battery startup Pure Lithium to give the government a 51% stake, Reuters reports",
+  "numbers": [
+   "Stake requested: 51%; company counteroffer: 9.9%",
+   "Proposed plant funding: ~$1B from Japan's $550B pledge",
+   "Largest agreed US government stake: 15% of MP Materials"
+  ],
+  "order": 16,
+  "sector": "infrastructure-logistics",
+  "soWhat": "The US government is moving from giving grants and loans to strategic industries to taking ownership stakes, which changes who controls the companies and their technology. A majority stake would go much further than past deals, and it would make any startup in batteries, chips or minerals weigh public money against loss of control. Some of these stakes are paid for with CHIPS Act money, and critics say that law never allowed the government to own companies. The open question is whether courts or Congress set limits on how far this approach can go.",
+  "sources": [
+   {
+    "title": "Reuters via SRN News: Lutnick asked battery startup Pure Lithium to accept US takeover, documents and source say",
+    "url": "https://srnnews.com/exclusive-lutnick-asked-battery-startup-pure-lithium-to-accept-us-takeover-documents-and-source-say/"
+   }
+  ],
+  "subindustry": "public-sector",
+  "summary": "Commerce Secretary Howard Lutnick asked Pure Lithium in July to hand the US government a 51% controlling stake, according to documents and a source cited by Reuters. In return, about $1 billion of Japan's $550 billion US investment pledge would fund a plant that Pure Lithium would run but not own. The company rejected the proposal in August, warning that 51% was far outside precedent, and its 9.9% counteroffer was turned down. The administration has taken stakes in Intel, MP Materials (15%, its largest), USA Rare Earth and Korea Zinc, but has not yet taken majority control of any company.",
+  "tags": []
  }
 }

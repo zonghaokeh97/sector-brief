@@ -5171,5 +5171,252 @@
     "subindustry": "payments-fintech"
    }
   ]
+ },
+ "2026-11-21": {
+  "date": "2026-11-21",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "$1.25 billion divided by $140 million is about 9 times EBITDA. Buyers pay that for contractors with scarce skilled crews serving data centers and factories.",
+    "id": "2026-11-21:x01",
+    "kind": "today",
+    "options": [
+     "About 2 times EBITDA",
+     "About 9 times EBITDA",
+     "About 25 times EBITDA",
+     "About 50 times EBITDA"
+    ],
+    "prompt": "MasTec pays about $1.25 billion for Murphy, which expects about $140 million of adjusted EBITDA in 2026. Roughly what multiple is that?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-11-21-09",
+    "subindustry": "real-estate-construction"
+   },
+   {
+    "answer": 2,
+    "explanation": "A fading debut tells other AI companies that investors are less eager, and many have already moved listings to 2027. Index funds may still buy the shares later, which could support the price.",
+    "id": "2026-11-21:x02",
+    "kind": "today",
+    "options": [
+     "It sets the price OpenAI must use for its own IPO",
+     "It forces the underwriters to buy back all the shares",
+     "It signals cooler demand for upcoming AI listings, such as OpenAI's",
+     "It means index funds can no longer buy the shares"
+    ],
+    "prompt": "Anthropic closed its second trading day at $88.91 after an $83 IPO. Why does a price near the offer level matter beyond Anthropic?",
+    "sector": "tmt",
+    "storyId": "2026-11-21-05",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 0,
+    "explanation": "Thousands of longshore workers could honor the picket lines, which would halt terminals handling about 85% of Long Beach's cargo and a third of Los Angeles'. That is why more than 110 business groups pushed for a deal.",
+    "id": "2026-11-21:x03",
+    "kind": "today",
+    "options": [
+     "Other dockworkers could refuse to cross their picket lines",
+     "The guards drive all the trucks leaving the ports",
+     "Federal law shuts any port when guards are absent",
+     "The guards own the six terminals involved"
+    ],
+    "prompt": "Only about 250 security guards threatened to strike at Los Angeles and Long Beach. Why could such a small group stop so much cargo?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-11-21-11",
+    "subindustry": "transport-logistics"
+   },
+   {
+    "answer": 3,
+    "explanation": "Fuel prices swing with oil and lift reported sales with little profit, so the figure excluding gasoline shows underlying demand. Clubs make most of their profit from membership fees, which rose 9.5%.",
+    "id": "2026-11-21:x04",
+    "kind": "today",
+    "options": [
+     "13.5%, because gasoline is the most profitable product",
+     "13.5%, because membership fees depend on fuel sales",
+     "4.1%, because digital sales are excluded from it",
+     "4.1%, because higher fuel prices inflate sales without adding much profit"
+    ],
+    "prompt": "BJ's comparable sales rose 13.5%, but only 4.1% excluding gasoline. Which figure better measures demand from shoppers, and why?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-21-13",
+    "subindustry": "retail-ecommerce"
+   },
+   {
+    "answer": 1,
+    "explanation": "The deal had cleared China's competition review but failed a separate foreign investment security review. One rescue option is carving out the China business, about 30% of the robotics unit.",
+    "id": "2026-11-21:x05",
+    "kind": "today",
+    "options": [
+     "Competition approval guarantees a deal will close",
+     "Security reviews are a separate hurdle that can still block a deal",
+     "Only US regulators can stop deals between European and Japanese firms",
+     "Robotics deals need no approval in China"
+    ],
+    "prompt": "China blocked SoftBank's $5.4 billion purchase of ABB's robotics unit after competition approval. What does the case show about cross-border deals?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-21-10",
+    "subindustry": "industrial-machinery"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "A drop of 10% from a recent high is the usual definition of a correction, which is where the S&P 500 and Dow closed. A bear market is a 20% fall: the Nasdaq-100 ended 19.8% below its record, just short of that line.",
+    "id": "2026-11-21:q01",
+    "kind": "today",
+    "options": [
+     "A bear market, which starts at a 5% fall",
+     "A correction, the common label for a 10% fall",
+     "A recession, by the official US definition",
+     "A trading halt under exchange circuit-breaker rules"
+    ],
+    "prompt": "The S&P 500 closed more than 10% below its recent high on Friday. What does a fall of that size usually signal to investors?",
+    "sector": "macro",
+    "storyId": "2026-11-21-01",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 3,
+    "explanation": "Nvidia's value rests on the reliability of its reported numbers, so doubts about accounting raise questions about all future earnings, not just one quarter. SEC inquiries often end without charges, but the uncertainty can last months.",
+    "id": "2026-11-21:q02",
+    "kind": "today",
+    "options": [
+     "The SEC can set the prices Nvidia charges for chips",
+     "An inquiry automatically removes a company from the S&P 500",
+     "It forces the company to stop selling chips abroad",
+     "Investors value the stock on trust in its reported revenue and margins"
+    ],
+    "prompt": "Nvidia fell about 14% after a report that the SEC is examining its accounting. Why can an accounting inquiry hurt a stock more than one weak quarter?",
+    "sector": "tmt",
+    "storyId": "2026-11-21-02",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 0,
+    "explanation": "Partners like Broadcom earn fees for turning a cloud company's design into a finished chip, including buying and packaging memory. If Google buys memory itself, that slice of margin moves back to Google; Bernstein puts the savings at about $50 billion over the chips' life.",
+    "id": "2026-11-21:q03",
+    "kind": "today",
+    "options": [
+     "It removes part of the margin the partner earns on each finished chip",
+     "It stops Google from using TPU chips in its data centers",
+     "It forces Broadcom to build its own memory factories",
+     "It makes Broadcom pay royalties to MediaTek on every chip"
+    ],
+    "prompt": "Google reportedly plans to buy memory for its AI chips directly instead of through Broadcom. How does that hurt a custom-chip partner like Broadcom?",
+    "sector": "tmt",
+    "storyId": "2026-11-21-03",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 2,
+    "explanation": "Refiners buy crude to turn it into fuels, and when the margin falls from a record $50.50 to about $1, processing more crude barely pays. Weaker refinery demand, plus Gulf barrels reaching Asia again, outweighed the attack risk.",
+    "id": "2026-11-21:q04",
+    "kind": "today",
+    "options": [
+     "It means OPEC has agreed to raise output quotas",
+     "It shows tanker rates have risen sharply",
+     "Refiners earn little on each extra barrel, so they buy less crude",
+     "It forces governments to release strategic reserves"
+    ],
+    "prompt": "Brent fell for a third week even as drones still hit about one tanker a day near Hormuz, and Singapore's gasoline margin dropped to about $1 a barrel. Why does a falling refining margin push crude lower?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-21-04",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 0,
+    "explanation": "Roundup claims had no clear upper limit; the settlement caps the cost and spreads it over up to 21 years, freeing cash for the crop business. It does not end everything: about 200 federal cases sit outside it, and it comes on top of the earlier $16 billion.",
+    "id": "2026-11-21:q05",
+    "kind": "today",
+    "options": [
+     "It turns an open-ended legal risk into a capped payment spread over years",
+     "It lets Bayer raise Roundup prices across the US",
+     "It ends all Roundup cases in every US court at once",
+     "It cancels the $16 billion Bayer had already set aside"
+    ],
+    "prompt": "A judge approved Bayer's settlement of Roundup claims: up to $7.25 billion paid over as long as 21 years. What is the main business benefit for Bayer?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-21-06",
+    "subindustry": "agriculture-food"
+   },
+   {
+    "answer": 3,
+    "explanation": "Houlihan Lokey put the size-weighted default rate at 1.5%, up from 0.8%. The 15.1% figure is the share of borrowers whose earnings do not cover interest, and 7% is the share of loans valued below 90 cents on the dollar.",
+    "id": "2026-11-21:q06",
+    "kind": "today",
+    "options": [
+     "About 0.1%",
+     "About 15%",
+     "About 7%",
+     "About 1.5%"
+    ],
+    "prompt": "Private credit defaults nearly doubled in the third quarter. Roughly what share of outstanding loan value was in default?",
+    "sector": "financial-services",
+    "storyId": "2026-11-21-08",
+    "subindustry": "asset-wealth"
+   },
+   {
+    "answer": 0,
+    "explanation": "Diamondback already runs these wells, so full ownership adds about 35,000 barrels a day and 1,200+ locations without new rigs. Producers are price takers, so it cannot set its own oil price.",
+    "id": "2026-11-16:q02",
+    "kind": "review",
+    "options": [
+     "It adds oil and drilling inventory without adding much cost",
+     "It lets Diamondback set its own oil price",
+     "It removes the need to pay royalties",
+     "It converts oil acreage into LNG export capacity"
+    ],
+    "prompt": "Diamondback is buying out partners on acreage it already operates, with no extra rig needed. Why is that attractive for a shale producer?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-16-02",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 2,
+    "explanation": "Tyson's beef unit lost $514 million in the quarter while chicken earned $405 million. Chickens grow in weeks, so supply and margins recover fast; packers cannot pass on record cattle costs.",
+    "id": "2026-11-17:q06",
+    "kind": "review",
+    "options": [
+     "Beef, because cattle prices are high",
+     "Pork exports to China",
+     "Chicken, because supply can adjust within weeks",
+     "Beef, because packers can pass on all costs"
+    ],
+    "prompt": "A US meat processor sells both chicken and beef while the cattle herd is at multi-decade lows. Which segment most likely supports profits?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-17-11",
+    "subindustry": "agriculture-food"
+   },
+   {
+    "answer": 2,
+    "explanation": "Canada made Freedom Mobile a separate competitor in 2023, and Quebecor says wireless prices fell 35.4% after that. Merging two of the four big carriers would undo that structure, so regulators are the main hurdle; Telus shares jumped 13%, so price was not the main issue.",
+    "id": "2026-11-17:q02",
+    "kind": "review",
+    "options": [
+     "Telus shareholders, because the premium is too small",
+     "Tower companies that rent masts to both carriers",
+     "Regulators who made Rogers sell Freedom Mobile to keep a fourth carrier",
+     "Satellite firms that need Telus spectrum"
+    ],
+    "prompt": "Quebecor bids about C$31 billion for Telus. Which group is most likely to object on competition grounds?",
+    "sector": "tmt",
+    "storyId": "2026-11-17-02",
+    "subindustry": "telecom"
+   },
+   {
+    "answer": 2,
+    "explanation": "Insurers earn underwriting profit when premiums exceed claims and costs (a combined ratio below 100%) and investment income on premiums held before claims are paid. That float is why how insurers invest, including in private loans, matters so much.",
+    "id": "2026-11-21:q10",
+    "kind": "profile",
+    "options": [
+     "Branch fees and card interchange",
+     "Trading commissions and custody fees",
+     "Underwriting profit and investment income on the float",
+     "Royalties and licensing of policy software"
+    ],
+    "prompt": "Insurers make money in two main ways. Which pair is correct?",
+    "sector": "financial-services",
+    "storyId": null,
+    "subindustry": "insurance"
+   }
+  ]
  }
 }

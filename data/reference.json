@@ -755,6 +755,23 @@
    "ticker": "Private",
    "updated": "2026-11-03"
   },
+  "bjs-wholesale": {
+   "businessModel": "Runs membership warehouse clubs and gas stations on the US East Coast, selling groceries and goods at low markups and earning much of its profit from annual membership fees.",
+   "competitors": [
+    "Costco",
+    "Sam's Club (Walmart)",
+    "Walmart",
+    "Target",
+    "Aldi"
+   ],
+   "hq": "Marlborough, Massachusetts",
+   "name": "BJ's Wholesale Club",
+   "sector": "consumer-retail",
+   "size": "Revenue ~$21B (FY2025, approx.); Q3 FY2026 net sales $6.15B",
+   "subindustry": "retail-ecommerce",
+   "ticker": "NYSE: BJ",
+   "updated": "2026-11-21"
+  },
   "blackstone": {
    "businessModel": "Manages private equity, real estate, credit and infrastructure funds and earns management fees on assets plus a share of investment profits.",
    "competitors": [
@@ -890,6 +907,23 @@
    "subindustry": "pharma-biotech",
    "ticker": "NYSE: BMY",
    "updated": "2026-10-31"
+  },
+  "broadcom": {
+   "businessModel": "Designs networking and custom AI chips (ASICs) for large cloud companies and sells infrastructure software, mainly VMware, on subscriptions.",
+   "competitors": [
+    "Marvell Technology",
+    "Nvidia",
+    "MediaTek",
+    "Cisco",
+    "AMD"
+   ],
+   "hq": "Palo Alto, California",
+   "name": "Broadcom",
+   "sector": "tmt",
+   "size": "Revenue ~$64B (FY2025, approx.)",
+   "subindustry": "semiconductors",
+   "ticker": "Nasdaq: AVGO",
+   "updated": "2026-11-21"
   },
   "bumble": {
    "businessModel": "Freemium dating apps (Bumble, Badoo): free to join, revenue from subscriptions and paid features that boost visibility or matching.",
@@ -1326,6 +1360,23 @@
    "subindustry": "insurance",
    "ticker": "TSE: 8750",
    "updated": "2026-10-21"
+  },
+  "databricks": {
+   "businessModel": "Sells a cloud platform for storing, processing and analyzing company data and building AI applications, charged mainly by usage.",
+   "competitors": [
+    "Snowflake",
+    "Microsoft",
+    "Amazon Web Services",
+    "Google Cloud",
+    "Oracle"
+   ],
+   "hq": "San Francisco, California",
+   "name": "Databricks",
+   "sector": "tmt",
+   "size": "Valued at $190B (Aug 2026 round); Lakehouse run-rate >$1.5B",
+   "subindustry": "software-cloud",
+   "ticker": "Private (venture-backed)",
+   "updated": "2026-11-21"
   },
   "datadog": {
    "businessModel": "Sells cloud-based tools for monitoring applications and infrastructure, mostly billed according to customer usage.",
@@ -1952,6 +2003,23 @@
    "ticker": "NYSE/TSX: GFR",
    "updated": "2026-11-10"
   },
+  "group-1001": {
+   "businessModel": "Owns life and annuity insurers that sell retirement annuities and invest the premiums, earning the spread between investment returns and what it credits customers.",
+   "competitors": [
+    "Athene (Apollo)",
+    "Global Atlantic (KKR)",
+    "Brighthouse Financial",
+    "Jackson Financial",
+    "Corebridge Financial"
+   ],
+   "hq": "Zionsville, Indiana",
+   "name": "Group 1001",
+   "sector": "financial-services",
+   "size": "Owns Delaware Life and Clear Spring Life; assets not disclosed publicly",
+   "subindustry": "insurance",
+   "ticker": "Private (Mark Walter)",
+   "updated": "2026-11-21"
+  },
   "gsk": {
    "businessModel": "Discovers and sells patented medicines and vaccines, with profit coming from high margins during patent life; it buys late-stage drugs to replace products losing exclusivity.",
    "competitors": [
@@ -2205,6 +2273,23 @@
    "subindustry": "power-utilities",
    "ticker": "Private (Advent International-backed, approx.)",
    "updated": "2026-10-28"
+  },
+  "insmed": {
+   "businessModel": "Develops and sells medicines for serious lung and rare diseases, earning revenue from drug sales such as Arikayce and Brinsupri.",
+   "competitors": [
+    "Gilead Sciences",
+    "Vertex Pharmaceuticals",
+    "AstraZeneca",
+    "GSK",
+    "Sanofi"
+   ],
+   "hq": "Bridgewater, New Jersey",
+   "name": "Insmed",
+   "sector": "healthcare",
+   "size": "Market value ~$26.3B (Nov 2026)",
+   "subindustry": "pharma-biotech",
+   "ticker": "Nasdaq: INSM",
+   "updated": "2026-11-21"
   },
   "instacart": {
    "businessModel": "Connects shoppers with grocers for same-day delivery and pickup, earning fees from shoppers, advertising from brands and software subscriptions from retailers.",
@@ -2627,6 +2712,23 @@
    "ticker": "NASDAQ: MRVL",
    "updated": "2026-11-02"
   },
+  "mastec": {
+   "businessModel": "Builds and maintains infrastructure such as power lines, pipelines, telecom networks and renewable plants, paid per project and under multi-year service contracts.",
+   "competitors": [
+    "Quanta Services",
+    "Dycom Industries",
+    "EMCOR Group",
+    "Primoris Services",
+    "MYR Group"
+   ],
+   "hq": "Coral Gables, Florida",
+   "name": "MasTec",
+   "sector": "infrastructure-logistics",
+   "size": "Revenue ~$12B (2024, approx.)",
+   "subindustry": "real-estate-construction",
+   "ticker": "NYSE: MTZ",
+   "updated": "2026-11-21"
+  },
   "mastercard": {
    "businessModel": "Runs a card payment network and charges small fees on each transaction and on cross-border volume; it does not lend money. Also sells fraud, data and security services.",
    "competitors": [
@@ -2661,6 +2763,23 @@
    "subindustry": "public-sector",
    "ticker": "NYSE: MMS",
    "updated": "2026-10-25"
+  },
+  "mediatek": {
+   "businessModel": "Designs chips for smartphones, TVs and connected devices without owning factories, and increasingly co-designs custom AI chips for cloud companies.",
+   "competitors": [
+    "Qualcomm",
+    "Broadcom",
+    "Marvell Technology",
+    "Apple",
+    "Samsung Electronics"
+   ],
+   "hq": "Hsinchu, Taiwan",
+   "name": "MediaTek",
+   "sector": "tmt",
+   "size": "Revenue ~NT$530B (~$17B, 2024, approx.)",
+   "subindustry": "semiconductors",
+   "ticker": "TWSE: 2454",
+   "updated": "2026-11-21"
   },
   "merck-co": {
    "businessModel": "Sells prescription drugs and vaccines, led by the cancer immunotherapy Keytruda, and licenses and co-develops new drugs with partners.",
@@ -3343,6 +3462,23 @@
    "ticker": "Private (Thoma Bravo)",
    "updated": "2026-10-19"
   },
+  "pure-lithium": {
+   "businessModel": "Develops lithium metal batteries that it says can be made without graphite, nickel or cobalt, aiming to license or manufacture them for vehicles and defense.",
+   "competitors": [
+    "QuantumScape",
+    "Solid Power",
+    "SES AI",
+    "Panasonic",
+    "Sila"
+   ],
+   "hq": "Boston, Massachusetts",
+   "name": "Pure Lithium",
+   "sector": "advanced-industries",
+   "size": "Private startup; financials not disclosed",
+   "subindustry": "automotive-mobility",
+   "ticker": "Private (venture-backed)",
+   "updated": "2026-11-21"
+  },
   "qatarenergy": {
    "businessModel": "State-owned company that produces gas, liquefies it into LNG and sells it to Asia and Europe, mostly under long-term contracts.",
    "competitors": [
@@ -3682,6 +3818,24 @@
    "subindustry": "semiconductors",
    "ticker": "Nasdaq: SNDK",
    "updated": "2026-10-30"
+  },
+  "sanofi": {
+   "businessModel": "Discovers, makes and sells prescription medicines and vaccines, led by the immunology drug Dupixent, earning high margins while patents last.",
+   "competitors": [
+    "Novartis",
+    "Roche",
+    "AstraZeneca",
+    "GSK",
+    "Pfizer",
+    "Merck & Co."
+   ],
+   "hq": "Paris, France",
+   "name": "Sanofi",
+   "sector": "healthcare",
+   "size": "Revenue ~€41B (2024, approx.)",
+   "subindustry": "pharma-biotech",
+   "ticker": "Euronext Paris: SAN; Nasdaq: SNY",
+   "updated": "2026-11-21"
   },
   "saudi-aramco": {
    "businessModel": "State-controlled oil and gas producer that earns money by pumping and selling crude, gas and refined products at very low production cost, and pays large dividends to the Saudi state.",
