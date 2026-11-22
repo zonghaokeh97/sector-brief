@@ -1191,6 +1191,23 @@
    "ticker": "Private (Chilean state)",
    "updated": "2026-11-20"
   },
+  "coinbase": {
+   "businessModel": "Earns trading fees on crypto buys and sells, plus interest on stablecoin reserves (USDC), staking fees and custody services for institutions such as ETF issuers.",
+   "competitors": [
+    "Binance",
+    "Kraken",
+    "Robinhood",
+    "Gemini",
+    "OKX"
+   ],
+   "hq": "No headquarters (remote-first; incorporated in Delaware)",
+   "name": "Coinbase",
+   "sector": "financial-services",
+   "size": "Revenue ~$6-7B/yr (approx., 2024); share price ~$102 (Nov 20, 2026)",
+   "subindustry": "payments-fintech",
+   "ticker": "Nasdaq: COIN",
+   "updated": "2026-11-22"
+  },
   "comcast": {
    "businessModel": "Sells home broadband, wireless and cable TV, and earns from NBCUniversal's studios, Peacock streaming and Universal theme parks.",
    "competitors": [
@@ -1325,6 +1342,23 @@
    "subindustry": "banking",
    "ticker": "Euronext Paris: ACA",
    "updated": "2026-11-09"
+  },
+  "crowdstrike": {
+   "businessModel": "Sells cybersecurity software by subscription, led by its cloud-based Falcon platform for protecting devices, cloud workloads and identities, and charges more as customers add modules.",
+   "competitors": [
+    "Palo Alto Networks",
+    "Microsoft",
+    "SentinelOne",
+    "Zscaler",
+    "Fortinet"
+   ],
+   "hq": "Austin, TX",
+   "name": "CrowdStrike",
+   "sector": "tmt",
+   "size": "Market value ~$235B (Nov 2026); revenue ~$4B+/yr (approx., fiscal 2026)",
+   "subindustry": "software-cloud",
+   "ticker": "Nasdaq: CRWD",
+   "updated": "2026-11-22"
   },
   "cvs-health": {
    "businessModel": "Combines Aetna health insurance, the Caremark pharmacy benefit manager and about 9,000 retail pharmacies. It earns premiums from insurance, fees and drug spread from managing drug benefits, and dispensing margins in stores.",
@@ -1882,6 +1916,22 @@
    "subindustry": "media-entertainment",
    "ticker": "Nasdaq: FOXA",
    "updated": "2026-11-09"
+  },
+  "freedom-holding": {
+   "businessModel": "A Kazakhstan-focused financial group that earns brokerage commissions, interest and fees from its bank, insurance premiums and payment services, serving about 9.3 million clients.",
+   "competitors": [
+    "Kaspi.kz",
+    "Halyk Bank",
+    "Interactive Brokers",
+    "Tinkoff (T-Bank)"
+   ],
+   "hq": "Almaty, Kazakhstan",
+   "name": "Freedom Holding",
+   "sector": "financial-services",
+   "size": "Quarterly revenue $910.1M (quarter to Sept 30, 2026); total assets $16.6B",
+   "subindustry": "banking",
+   "ticker": "Nasdaq: FRHC",
+   "updated": "2026-11-22"
   },
   "freeport-mcmoran": {
    "businessModel": "Mines copper, gold and molybdenum in the US, Indonesia and Peru, and sells concentrate and refined copper at market prices. Profit depends on copper prices and unit costs.",
@@ -3375,6 +3425,23 @@
    "subindustry": "payments-fintech",
    "ticker": "NYSE: PSFE",
    "updated": "2026-11-13"
+  },
+  "payward": {
+   "businessModel": "Runs the Kraken crypto exchange, earning trading fees, spreads and staking income, and is adding banking, tokenized stocks and asset management.",
+   "competitors": [
+    "Coinbase",
+    "Binance",
+    "Robinhood",
+    "Gemini",
+    "OKX"
+   ],
+   "hq": "San Francisco, CA",
+   "name": "Payward (Kraken)",
+   "sector": "financial-services",
+   "size": "Platform margin $487M, adjusted EBITDA $60M (Q3 2026)",
+   "subindustry": "payments-fintech",
+   "ticker": "Private (founders and venture investors)",
+   "updated": "2026-11-22"
   },
   "perion": {
    "businessModel": "Sells AI-driven advertising technology that lets brands buy media across connected TV, out-of-home, retail media and social channels, and earns a share of the ad spend it places.",
@@ -4914,6 +4981,24 @@
    "ticker": "LSE: VOD",
    "updated": "2026-10-20"
   },
+  "volkswagen": {
+   "businessModel": "Designs, builds and sells cars, vans and trucks across brands such as VW, Audi, Porsche, Skoda and Seat, and earns extra income from car loans, leasing and parts.",
+   "competitors": [
+    "Toyota",
+    "Stellantis",
+    "BYD",
+    "Hyundai-Kia",
+    "BMW",
+    "Mercedes-Benz"
+   ],
+   "hq": "Wolfsburg, Germany",
+   "name": "Volkswagen Group",
+   "sector": "advanced-industries",
+   "size": "Revenue ~€320B/yr (approx., 2024); more than 660,000 employees",
+   "subindustry": "automotive-mobility",
+   "ticker": "XETRA: VOW3",
+   "updated": "2026-11-22"
+  },
   "w-r-berkley": {
    "businessModel": "Underwrites specialty commercial property and casualty insurance through dozens of niche units, earning an underwriting margin plus investment income on the premiums it holds.",
    "competitors": [
@@ -5119,6 +5204,23 @@
    "ticker": "Private (venture-backed)",
    "updated": "2026-11-10"
   },
+  "zscaler": {
+   "businessModel": "Sells cloud security subscriptions that route and inspect company internet and app traffic under a zero-trust model, priced mainly per user.",
+   "competitors": [
+    "Palo Alto Networks",
+    "Netskope",
+    "Cisco",
+    "Cloudflare",
+    "Fortinet"
+   ],
+   "hq": "San Jose, CA",
+   "name": "Zscaler",
+   "sector": "tmt",
+   "size": "Market value ~$32B (Nov 2026); revenue ~$2.5B+/yr (approx., fiscal 2025)",
+   "subindustry": "software-cloud",
+   "ticker": "Nasdaq: ZS",
+   "updated": "2026-11-22"
+  },
   "zurich-insurance": {
    "businessModel": "Writes property, casualty, specialty and life insurance worldwide, earning underwriting profit on premiums and investment income on the reserves it holds.",
    "competitors": [
@@ -5140,43 +5242,43 @@
  "sectors": {
   "advanced-industries": {
    "overview": "Advanced industries covers engineering-heavy manufacturers: carmakers and their suppliers, aircraft and defense companies, and makers of industrial machinery and equipment. Products take years to design and depend on long, global supply chains, so these companies are shaped by how full their factories are, trade policy and the cost of materials like steel. A large share of their profit often comes from servicing and spare parts after the original sale.",
-   "recap": "Aerospace was strong and carmakers mixed. Embraer posted record revenue, Rolls-Royce brought forward a £1.5 billion buyback, TransDigm guided to about 14% growth, and SpaceX caught a Starship upper stage from orbit for the first time. Honda raised its profit forecast 20% on hybrids, while Nissan's operating profit fell 96% and Lucid missed estimates. Reports said SpaceX and Tesla could announce a merger as soon as December, Siemens booked a record €108 billion of orders, Samsung entered talks to buy Modine, and MSC neared a deal for 80% of shipbuilder Meyer Werft.",
-   "recapUpdated": "2026-11-15"
+   "recap": "Space and aviation had setbacks. ULA's Vulcan rocket failed for the first time and destroyed 40 Amazon Leo satellites, L3Harris fell after being blamed for a nationwide FAA outage, and Boeing said 737 output has stalled at 42 jets a month. California banned robotaxis from freeways after Waymo cars entered a construction zone. In machinery, Alstom swung to a €954 million half-year loss, and ABB is considering listing its robotics unit after China blocked its sale to SoftBank. Volkswagen enters wage talks on November 24 seeking a two-year pay freeze.",
+   "recapUpdated": "2026-11-22"
   },
   "consumer-retail": {
    "overview": "Consumer and retail covers the companies that make and sell what people buy day to day. That includes stores and online retailers, makers of food, drinks and household products, farm and food businesses, and travel and hospitality companies like airlines and hotels. Consumer spending is about two-thirds of the US economy, so these businesses rise and fall with how confident people feel and how much money they have left after essentials.",
-   "recap": "Results split along cost lines. Wizz Air's half-year profit fell 67% as fuel costs rose, JBS's EBITDA fell 36% on costly cattle, and Corteva's Latin American sales dropped 31%. Flowers Foods cut its outlook as bread volumes fell 7%, and Asics fell 14% on cautious guidance. Growth stories held up: Sea's revenue rose 43% to $8.6 billion, B&M returned to UK sales growth, Richemont's profit rose 39% on jewellery, and drone firm Zipline raised $1.5 billion at a $21.5 billion valuation.",
-   "recapUpdated": "2026-11-15"
+   "recap": "Big retailers reported solid results going into the holidays. Walmart raised its outlook for the third time on revenue of $188.8 billion, Target had its best sales growth in five years, and Ross and BJ's beat as well, while Home Depot warned of a cautious housing market. Forecasters expect holiday sales to rise 4.2%, but AAA sees slightly fewer Thanksgiving travelers as domestic airfares rise 17%. Elsewhere, P&G plans to cut 20% to 30% of its supply workforce through automation, Tyson's beef unit lost $514 million, and a judge approved Bayer's $7.25 billion Roundup settlement.",
+   "recapUpdated": "2026-11-22"
   },
   "energy-materials": {
    "overview": "Energy and materials covers the companies that pull resources out of the ground and turn them into fuel, power and raw materials. That includes oil and gas producers, the pipelines, ships and terminals that move their output, refineries and chemical plants, electric utilities and renewable developers, and miners and steelmakers. These are capital-heavy businesses that live with commodity prices they don't control, so returns depend on keeping costs low and investing at the right point in the cycle.",
-   "recap": "Oil slid on supply. Brent briefly dropped below $90, bounced to about $93, and ended a second weekly loss at $95.84 as the IEA forecast a fourth-quarter surplus. Fuel stayed tight: US diesel stocks sat near a 23-year low and Ukraine hit nine Russian refineries holding about 40% of the country's capacity. In gas and power, Orlen became the first buyer to cancel a QatarEnergy LNG contract, European peak power topped €600/MWh in a windless cold spell, and TVA charged a data center about $1.5 million per megawatt upfront. Siemens Energy reported a €164 billion backlog, while gold had its worst week since June.",
-   "recapUpdated": "2026-11-15"
+   "recap": "Oil fell for a third straight week, with Brent near $92 as Gulf exports through Hormuz returned to pre-war levels, and US gasoline dropped to $3.72 a gallon from nearly $4.30 a month earlier. Gas and power went the other way in Europe: storage was only about 71% full, gas prices are roughly triple a year ago, power for the next three months trades near €200 per MWh, and two German suppliers stopped delivering. US LNG feedgas hit a record 21.8 Bcf as Qatar extended its force majeure. Producers kept consolidating, with Diamondback, Canadian Natural and TotalEnergies-backed NEO NEXT+ all buying assets, while the US Senate passed a bill to speed permits for power plants and grid lines. In metals, Codelco cut its China copper premium and SQM warned lithium prices will fall further.",
+   "recapUpdated": "2026-11-22"
   },
   "financial-services": {
    "overview": "Financial services is the business of managing, lending, investing and moving money. Banks take deposits and make loans, insurers collect premiums to cover risks, asset managers invest on behalf of savers and pension funds, and payments companies handle the flow of money between people and businesses. It is one of the most heavily regulated industries, so how much capital firms must hold and how well they control risk shapes how profitable they can be.",
-   "recap": "Bank consolidation picked up. Crédit Agricole proposed merging its Italian unit into Banco BPM, Hancock Whitney agreed to buy Trustmark for about $3.2 billion, and Metro Bank put itself up for sale, while UniCredit posted a record €3.3 billion quarter. Insurers raised targets, with Munich Re at €6.6 billion and Allianz at about €18.6 billion, though Goldman Sachs downgraded European insurers. In payments, Western Union dropped its Intermex deal, Paysafe fell about 24%, bitcoin slipped below $70,000, and OpenAI launched an AI-agent wallet with Visa, Mastercard and Amex.",
-   "recapUpdated": "2026-11-15"
+   "recap": "Deals and stress shared the week. UniCredit reached a broad agreement with Germany that clears its path to Commerzbank, TPG and Corpay agreed to take BILL private for about $6 billion, and Zurich raised the savings it expects from buying Beazley. Signs of credit strain grew: private credit defaults nearly doubled to 1.5% and prosecutors began probing insurers tied to Mark Walter over related-party lending. Crypto sold off hard, with bitcoin falling to about $55,300, its lowest since September 2024, and Strategy and Coinbase shares losing 20% to 30% in a week. Deutsche Bank and Rakuten Bank fell on a data leak and a breach.",
+   "recapUpdated": "2026-11-22"
   },
   "healthcare": {
    "overview": "Healthcare covers the companies that discover, make, pay for and deliver medical care. Drugmakers and biotech firms develop medicines, device makers build everything from surgical tools to heart implants, insurers pay for care, and hospitals and doctors provide it. In the US the system is large and complex, and prices are set through negotiation between manufacturers, insurers and the middlemen between them, so policy and regulation matter as much as science.",
-   "recap": "Regulators were busy. The FDA added vision-loss warnings to leading GLP-1 drugs, approved Bayer's Sunharbo as the first factor XIa blood thinner, and rejected Summit's ivonescimab for lacking a clear survival benefit. Eli Lilly won China's first approval for an oral GLP-1 weight-loss pill and began a $3.5 billion Pennsylvania plant. The FTC sued to block Covetrus's $3.5 billion purchase of veterinary distributor MWI, and Sonova raised its outlook on AI-powered hearing aids.",
-   "recapUpdated": "2026-11-15"
+   "recap": "Health insurers had a rough week: shares fell as much as 13% after Medicare proposed clawing back Advantage overpayments back to 2018, and UnitedHealth kept sliding on audits and talk of Medicare for All. Drug dealmaking stayed busy, with J&J buying Ollin for $2.2 billion upfront, Lilly making its 15th purchase of the year with Calytrix, and Sanofi weighing a takeover of Insmed, worth about $26 billion. Regulators approved new drugs ahead of schedule, including GSK's Nelkarmi for lung cancer and Sanofi's Infilbray, the first treatment for the brain symptoms of type 3 Gaucher disease.",
+   "recapUpdated": "2026-11-22"
   },
   "infrastructure-logistics": {
    "overview": "Infrastructure and logistics covers the physical networks the rest of the economy runs on. That includes the trucking, rail, shipping and air freight companies that move goods, the developers and builders behind homes, offices and data centers, and the public sector that funds and regulates much of it. These businesses are sensitive to fuel costs and interest rates, because moving goods burns diesel and most buildings are paid for with borrowed money.",
-   "recap": "Freight stayed strong while housing weakened. Maersk raised its 2026 outlook a third time and Hapag-Lloyd raised its outlook again, while air freight rates hit their 2026 high, up 28% on a year earlier. US existing-home sales fell to their slowest pace since 2010 as mortgage rates topped 7%, though Ferguson lifted its sales outlook. A four-hour nationwide FAA ground stop added pressure for a $30.1 billion request for airports and air traffic control.",
-   "recapUpdated": "2026-11-15"
+   "recap": "Data centers dominated the week. Blackstone's data-center trust bought 75% of 13 new AWS-leased campuses valued at $5 billion, MasTec agreed to buy mechanical contractor Murphy for about $1.25 billion, and President Trump threatened to tax US companies that build AI data centers abroad. In logistics, UPS agreed to buy Australian healthcare courier Smartways, and port employers in Los Angeles and Long Beach avoided a guards' strike. The Commerce Department reportedly asked battery startup Pure Lithium for a 51% government stake.",
+   "recapUpdated": "2026-11-22"
   },
   "macro": {
    "overview": "The macro picture covers the forces that move every industry at once: how fast economies are growing, how quickly prices are rising, where central banks set interest rates, and how goods and money flow between countries. When energy costs climb or borrowing gets more expensive, the effects show up in nearly every company's results, so this is the backdrop for reading the rest of the news.",
-   "recap": "Inflation pushed borrowing costs higher. October consumer prices beat forecasts and lifted the 10-year Treasury yield back above 5%, producer prices rose 6.5% from a year earlier, and the 2-year yield jumped 35 basis points in the week as Fed officials pushed for a December hike. Falling oil gave brief relief early in the week, when the Dow gained about 650 points. Abroad, UK growth reached 0.7% in the third quarter and China's factory-gate prices rose 5.7%, while China's higher foreign-currency reserve rule for banks took effect on Sunday.",
-   "recapUpdated": "2026-11-15"
+   "recap": "Markets turned sharply this week. The S&P 500 and Dow fell into a correction on Friday as a 5.3% Nasdaq drop erased its 2026 gains, Taiwan had its worst week since 1991, and the S&P closed 11.6% below its October record. Fed minutes showed almost all officials expect more hikes, and markets now price a December increase at about 95%, lifting the dollar and pushing gold to a 14-month low. Data were soft: US retail sales rose only 0.2% in October, Japan's economy shrank, and China's retail sales grew just 0.4%. Inflation stayed high abroad, at 3.6% in the UK and 4.0% in the eurozone, and Bank Indonesia raised rates to 6% to defend the rupiah.",
+   "recapUpdated": "2026-11-22"
   },
   "tmt": {
    "overview": "Tech, media and telecom covers the companies behind computing and communication: chipmakers, software and cloud providers, internet platforms like search and social media, entertainment and streaming companies, and the telecom networks that connect everything. Many of these businesses become more profitable as they grow, because serving one more customer costs very little, which is why a handful of very large companies dominate. Much of the sector's investment today is going into the data centers and chips that power AI.",
-   "recap": "Nvidia dominated the week. Its board investigated Jensen Huang, he resigned on Thursday with CFO Colette Kress as interim CEO, and a report that the board approached Arm's Rene Haas pulled chip stocks lower. AI demand stayed strong elsewhere: Cisco posted record revenue of $18.5 billion, Applied Materials $10.4 billion and CoreWeave revenue rose 168%. Anthropic set an IPO range aimed at raising up to $64 billion, OpenAI's revenue reached $10 billion with a $10.9 billion operating loss, and a Microsoft 365 outage lasted more than 24 hours.",
-   "recapUpdated": "2026-11-15"
+   "recap": "The AI trade cracked. Anthropic raised $81.3 billion in the largest IPO on record, but its shares ended near the $83 offer price by day two. Nvidia doubled revenue to $115.8 billion yet fell 14% on a report of an SEC accounting review, and Broadcom dropped more than 11% on reports that Google is cutting TPU orders. Deals continued: Quebecor bid C$31 billion for Telus, Intuit sold Mailchimp for $3.68 billion, and CrowdStrike was reported to be in talks to buy Zscaler. Oracle said its OpenAI build-out is fully funded after a $20 billion raise, and the US now requires licenses for AI-chip exports to five more countries.",
+   "recapUpdated": "2026-11-22"
   }
  },
  "subindustries": {

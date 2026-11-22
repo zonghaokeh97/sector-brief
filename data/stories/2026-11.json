@@ -7144,5 +7144,396 @@
   "subindustry": "public-sector",
   "summary": "Commerce Secretary Howard Lutnick asked Pure Lithium in July to hand the US government a 51% controlling stake, according to documents and a source cited by Reuters. In return, about $1 billion of Japan's $550 billion US investment pledge would fund a plant that Pure Lithium would run but not own. The company rejected the proposal in August, warning that 51% was far outside precedent, and its 9.9% counteroffer was turned down. The administration has taken stakes in Intel, MP Materials (15%, its largest), USA Rare Earth and Korea Zinc, but has not yet taken majority control of any company.",
   "tags": []
+ },
+ "2026-11-22-01": {
+  "companies": [
+   "crowdstrike",
+   "zscaler"
+  ],
+  "date": "2026-11-22",
+  "headline": "Zscaler jumps 18% after hours on a report that CrowdStrike is in talks to buy it",
+  "numbers": [
+   "Zscaler market value: ~$32B; after-hours move: +~18%",
+   "CrowdStrike market value: ~$235B; after-hours move: -8%+",
+   "Combined value before the report: ~$267B",
+   "Recent comparables: Google-Wiz $32B, Palo Alto-CyberArk $25B"
+  ],
+  "order": 1,
+  "sector": "tmt",
+  "soWhat": "CrowdStrike is strongest in protecting laptops, servers and cloud workloads, while Zscaler routes and checks company network traffic under a zero-trust model, so together they would cover most of what a large company buys for security. Security buyers want fewer vendors, and a combined platform could sell more products to each customer, which squeezes smaller single-product rivals. The shares split the usual way: the target gains a takeover premium, and the buyer falls on worries about dilution and the cost of integration. The open question is whether a deal of this size would face antitrust review now that the security market is consolidating fast, after Google bought Wiz for $32 billion and Palo Alto Networks bought CyberArk for $25 billion.",
+  "sources": [
+   {
+    "title": "Yahoo Finance: Zscaler stock soars 18% on CrowdStrike takeover report",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-stock-soars-18-crowdstrike-222740719.html"
+   },
+   {
+    "title": "Bloomberg: CrowdStrike's talks with Zscaler show AI-led cyber consolidation",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Bloomberg reported on Friday evening that CrowdStrike is in talks to acquire Zscaler, citing people familiar with the matter. Zscaler, worth about $32 billion and down about 13% this year, rose about 18% in extended trading, while CrowdStrike, worth about $235 billion after roughly doubling this year, fell more than 8%. No price, financing or timetable has been disclosed, and there is no guarantee of a deal. The two already work together: in September they expanded a partnership to connect their platforms and share threat data.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-22-02": {
+  "companies": [],
+  "date": "2026-11-22",
+  "headline": "European power for the next three months trades near €200 per MWh, double last winter, and two German suppliers stop delivering",
+  "numbers": [
+   "Front-month to three-month power: ~€200/MWh, ~2x last winter",
+   "German day-ahead: above €300/MWh three times in two weeks",
+   "Verbund spot-power hit: €120M in nine months",
+   "UK price cap forecast for January: +26% to £2,166"
+  ],
+  "order": 2,
+  "sector": "energy-materials",
+  "soWhat": "In most of Europe, gas plants are the last plants needed to meet demand, so they set the wholesale price, and a tripling in gas passes straight into power. Small retail suppliers fail first because they sell fixed-price tariffs to households but buy power at short notice, so a price spike wipes out their thin margins, much as dozens collapsed in 2022. Generators with nuclear, coal or hydro output earn more when prices rise, while energy-heavy industry such as steel and chemicals loses: Feralpi's German steel plant has repeatedly stopped production this autumn. The open question is how cold the winter gets, because gas storage started the season well below normal.",
+  "sources": [
+   {
+    "title": "Energy Connects (Bloomberg): Europe's power market is flashing a warning to its economy",
+    "url": "https://www.energyconnects.com/news/utilities/2026/november/europe-s-power-market-is-flashing-a-warning-to-its-economy/"
+   },
+   {
+    "title": "Clean Energy Wire: Germany plans to ready coal and oil power plants for gas emergency",
+    "url": "https://www.cleanenergywire.org/news/germany-plans-ready-coal-and-oil-power-plants-gas-emergency"
+   }
+  ],
+  "subindustry": "power-utilities",
+  "summary": "European gas prices are about three times their level of a year ago because the Middle East war has cut supply and Europe competes with Asia for LNG cargoes. Power contracts for each of the next three months trade around €200 per megawatt-hour, roughly double last winter, and German day-ahead prices settled above €300 three times in two weeks. Two small German suppliers, Grüüün and Stromee, stopped supplying their customers. Austria's Verbund took a €120 million hit from buying costly spot power when its hydro output was low, and the UK price cap is forecast to rise 26% to £2,166 a year in January. Germany is drafting a law to bring 7.45 GW of reserve coal plants and 805 MW of oil plants back to the market if it declares a gas emergency.",
+  "tags": []
+ },
+ "2026-11-22-03": {
+  "companies": [
+   "strategy",
+   "coinbase"
+  ],
+  "date": "2026-11-22",
+  "headline": "Bitcoin falls to about $55,300, its lowest since September 2024, as crypto stocks lose 20% to 35% in a week",
+  "numbers": [
+   "Bitcoin low: ~$55,300 (lowest since Sept 2024); weekly fall ~12%",
+   "Spot bitcoin ETF outflows: ~$1.25B in the week, ~$3.59B in November",
+   "Strategy shares: -30.3% in the week; average bitcoin cost $75,452",
+   "Liquidations: more than $2B in 24 hours"
+  ],
+  "order": 3,
+  "sector": "financial-services",
+  "soWhat": "Bitcoin now trades like a high-risk tech asset, so the AI-led stock sell-off and expectations of a December Fed hike pulled it down with the Nasdaq. Companies whose earnings depend on crypto prices lose twice: exchanges such as Coinbase earn less trading revenue when prices and activity fall, and bitcoin holders such as Strategy see their main asset shrink. Bitcoin is now about 20% below Strategy's average purchase price of $75,452, which makes it harder for the company to keep raising money to buy more. The open question is whether ETF outflows keep going, because those funds were the main new buyers of the last two years.",
+  "sources": [
+   {
+    "title": "CEO Economy: Crypto week in review, Nov 21 2026",
+    "url": "https://ceoeconomy.com/article/crypto-week-in-review-nov-21-2026"
+   },
+   {
+    "title": "Archyde: Bitcoin fell to approximately $55,300 on Saturday",
+    "url": "https://www.archyde.com/bitcoin-fell-to-approximately-55300-on-saturday-november-21-2026-marking-its-lowest-value/"
+   }
+  ],
+  "subindustry": "payments-fintech",
+  "summary": "Bitcoin dropped to about $55,300 early on Saturday, its lowest level since September 2024, before recovering to about $60,100 by the evening, still down about 12% on the week. It has lost more than half its value since its record of about $126,200 in October 2025. Leveraged futures positions worth more than $2 billion were liquidated in 24 hours, and US spot bitcoin funds lost about $1.25 billion in the week, including a record one-day outflow of $541 million from BlackRock's IBIT. Shares of crypto companies fell hard: Strategy lost 30.3%, Coinbase 20.1% and Robinhood 20.2%.",
+  "tags": []
+ },
+ "2026-11-22-04": {
+  "companies": [
+   "oracle",
+   "openai"
+  ],
+  "date": "2026-11-22",
+  "headline": "Oracle says its OpenAI data center build-out is fully funded after a $20 billion stock and debt raise",
+  "numbers": [
+   "Raise: ~$20B ($10B stock at $116 + $10B notes)",
+   "OpenAI contract: ~$300B over 5 years from 2027, ~4.5 GW",
+   "Fiscal 2026 free cash flow: -$23.7B",
+   "After-hours move: up to +3.3%"
+  ],
+  "order": 4,
+  "sector": "tmt",
+  "soWhat": "Oracle has to build and pay for the data centers before OpenAI pays anything, because OpenAI pays only once the hardware is running, so the main risk for Oracle is financing, not demand. Saying the money is secured removes one worry, but it was raised partly by selling new shares below recent prices, which dilutes existing owners, and partly with more debt on top of about $167 billion already owed. The deal links Oracle's results closely to one customer's ability to keep raising money. The open question is how much of the $300 billion commitment is backed by financing beyond this raise, which Oracle did not say.",
+  "sources": [
+   {
+    "title": "Startup Fortune: Oracle says its $300 billion OpenAI buildout is fully funded after a $20 billion raise",
+    "url": "https://startupfortune.com/oracle-says-its-300-billion-openai-buildout-is-fully-funded-after-a-20-billion-raise/"
+   },
+   {
+    "title": "FourWeekMBA: Oracle says OpenAI deal fully funded",
+    "url": "https://fourweekmba.com/ai-oracle-says-openai-deal-fully-funded-116-shares-now-101/"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Oracle said on Friday that the financing it set out at its investor day, including vendor financing, is now in place for its infrastructure contract with OpenAI. The last piece was a raise of about $20 billion this month, split roughly evenly between $10 billion of new shares sold at $116 and $10 billion of notes. The contract is reported at about $300 billion over five years from 2027 for about 4.5 gigawatts of computing capacity. Oracle had negative free cash flow of $23.7 billion in fiscal 2026, and its shares, which closed well below the $116 offer price, rose as much as 3.3% after hours.",
+  "tags": []
+ },
+ "2026-11-22-05": {
+  "companies": [
+   "alphabet"
+  ],
+  "date": "2026-11-22",
+  "headline": "Trump threatens a 'tremendous tax' on US companies that build AI data centers abroad",
+  "numbers": [
+   "Tax rate, timeline, legal basis: none given",
+   "S&P 500 since Nov 4: about -9%",
+   "Example named: Google's data centers in Finland"
+  ],
+  "order": 5,
+  "sector": "infrastructure-logistics",
+  "soWhat": "US cloud and AI companies build abroad to be near overseas customers, meet local data-residency rules and find cheaper or faster power, so a tax would raise their costs or slow their foreign growth. The policy pulls in two directions: it pushes more construction into the US just as local opposition to data centers, and their demand on power grids, is rising. Countries that have courted US data center investment, in the Nordics, the Gulf and Asia, could lose projects to domestic sites or to non-US builders. The open question is whether this becomes a real rule, since no mechanism has been proposed and Democrats will control both houses of Congress.",
+  "sources": [
+   {
+    "title": "NBC News: Trump threatens companies that build AI data centers overseas",
+    "url": "https://www.nbcnews.com/business/corporations/trump-data-centers-overseas-penalties-rcna610445"
+   },
+   {
+    "title": "Yahoo News: Trump threatens a 'tremendous tax' on tech companies building data centers outside the US",
+    "url": "https://www.yahoo.com/news/politics/articles/trump-threatens-tremendous-tax-tech-222903637.html"
+   }
+  ],
+  "subindustry": "public-sector",
+  "summary": "President Trump said on Friday that the US will not allow its companies to build data centers outside the country and that it will put heavy penalties on those that try. He gave no tax rate, timeline or legal basis, and said he had not yet told his own staff about the plan. He has criticized Google for investing in data centers in Finland and suggested building in states such as West Virginia instead. The remarks came after midterm elections in which voters backed candidates who promised to limit data centers, and as the S&P 500 had fallen about 9% since November 4.",
+  "tags": []
+ },
+ "2026-11-22-06": {
+  "companies": [],
+  "date": "2026-11-22",
+  "headline": "US stocks enter a holiday-shortened week in a correction, with markets pricing a December Fed hike at about 95%",
+  "numbers": [
+   "S&P 500 from Oct 6 record: -11.6%",
+   "Tech sector since Oct 6: about -19%",
+   "December Fed hike probability: ~95% (CME FedWatch)",
+   "Gold low: ~$3,693/oz, a 14-month low"
+  ],
+  "order": 6,
+  "sector": "macro",
+  "soWhat": "When the few large AI stocks that drove the rally fall, the whole index falls with them, so the market now depends on whether the wider economy stays solid. Higher expected rates hurt in two ways: they raise borrowing costs for companies and households, and they make future profits worth less today, which hits fast-growing stocks hardest. Assets that pay no income, such as gold and bitcoin, have also sold off because holding them costs more when cash earns more. The open question is whether this week's data shows inflation easing enough for the Fed to stop after December.",
+  "sources": [
+   {
+    "title": "Kitco (Reuters): Wall St Week Ahead, Black Friday brings consumer spending into focus",
+    "url": "https://www.kitco.com/news/off-the-wire/2026-11-20/wall-st-week-ahead-black-friday-brings-consumer-spending-focus-ai"
+   },
+   {
+    "title": "Khaleej Times: Gold holds near 14-month low as Fed hike bets weigh",
+    "url": "https://www.khaleejtimes.com/gold-holds-near-14-month-low-as-fed-hike-bets-weigh"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "The S&P 500 ended Friday 11.6% below its October 6 record, confirming a correction, and the technology sector has fallen about 19% since that peak. Markets put the chance of a quarter-point Fed rate increase in December at about 95%, which has lifted the dollar to its highest since April 2025 and pushed gold down to a 14-month low near $3,693 an ounce. The coming week brings an inflation reading, consumer confidence and revised third-quarter GDP, with US markets closed on Thursday for Thanksgiving. Investors are looking to consumer spending, about two-thirds of the US economy, for signs that growth is holding up outside AI.",
+  "tags": []
+ },
+ "2026-11-22-07": {
+  "companies": [
+   "walmart",
+   "target"
+  ],
+  "date": "2026-11-22",
+  "headline": "Holiday sales are forecast to rise 4.2%, but the NRF expects fewer Thanksgiving-weekend shoppers than last year",
+  "numbers": [
+   "Holiday sales forecast: +4.2% nominal, +2.2% real (Oxford Economics)",
+   "Thanksgiving-to-Cyber-Monday shoppers: 182.7M vs 186.9M last year (NRF)",
+   "US gasoline: $3.72/gal vs ~$4.30 a month ago (AAA)"
+  ],
+  "order": 7,
+  "sector": "consumer-retail",
+  "soWhat": "Retailers make a large share of their annual profit in the last two months of the year, so the season decides whether they meet their full-year targets. Sales rising in dollars but only half as fast in volume means much of the growth is higher prices, and fewer people shopping in stores over the holiday weekend favors large chains with strong online businesses. Cheaper gasoline than a month ago leaves households a little more to spend, which helps discounters and big-box stores most. The open question is whether falling share prices make wealthier households, who drive a large part of spending, cut back.",
+  "sources": [
+   {
+    "title": "Kitco (Reuters): Wall St Week Ahead, Black Friday brings consumer spending into focus",
+    "url": "https://www.kitco.com/news/off-the-wire/2026-11-20/wall-st-week-ahead-black-friday-brings-consumer-spending-focus-ai"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "Oxford Economics expects US holiday retail sales in November and December to rise 4.2%, or about 2.2% after inflation, excluding cars, gasoline and restaurants. The National Retail Federation expects 182.7 million people to shop over the five days from Thanksgiving to Cyber Monday, down from 186.9 million last year, with Black Friday the busiest day. Walmart and Target gave upbeat holiday comments in their results this week, and October retail sales rose moderately. Gasoline averaged $3.72 a gallon on Thursday, down from nearly $4.30 a month earlier but up from $3.09 a year ago.",
+  "tags": []
+ },
+ "2026-11-22-08": {
+  "companies": [],
+  "date": "2026-11-22",
+  "headline": "US gasoline falls about 13% in a month to $3.72 a gallon as crude eases, ahead of the Thanksgiving driving peak",
+  "numbers": [
+   "US gasoline: $3.72/gal, vs ~$4.30 a month ago and $3.09 a year ago",
+   "Brent: ~$92/bbl; WTI: ~$83/bbl",
+   "Thanksgiving drivers: ~72.9M (AAA)",
+   "OPEC+ meeting on 2027 quotas: Nov 29"
+  ],
+  "order": 8,
+  "sector": "energy-materials",
+  "soWhat": "Pump prices follow crude with a lag of a few weeks, because refiners and stations pass on changes in their own input costs gradually, so the fall in oil since October is now reaching drivers. Refiners' profit depends on the gap between crude and fuel prices, and that gap has narrowed as China, Russia and the US promise more fuel output. Cheaper fuel helps airlines, trucking companies and households, and it lowers headline inflation, which matters for the Fed. The open question is whether OPEC+ changes its plans at its November 29 meeting, where it is due to set 2027 output targets.",
+  "sources": [
+   {
+    "title": "Kitco (Reuters): Wall St Week Ahead",
+    "url": "https://www.kitco.com/news/off-the-wire/2026-11-20/wall-st-week-ahead-black-friday-brings-consumer-spending-focus-ai"
+   },
+   {
+    "title": "Share Talk: Weekly stock market news review, 22 November 2026",
+    "url": "https://share-talk.com/share-talk-weekly-stock-market-news-review-sunday-22nd-november-2026"
+   },
+   {
+    "title": "Engineering News: OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
+    "url": "https://engineeringnews.co.za/article/opec-keeps-december-oil-output-targets-steady-ahead-of-tougher-call-for-2027-2026-11-02"
+   }
+  ],
+  "subindustry": "refining-chemicals",
+  "summary": "The US average gasoline price was $3.72 a gallon on Thursday, according to AAA, down from nearly $4.30 a month earlier but still well above $3.09 a year ago. The drop follows crude: Brent ended the week near $92 a barrel and WTI near $83 after three weekly losses, as Gulf exports through Hormuz recovered. AAA expects about 72.9 million Americans to drive for Thanksgiving, nearly 90% of holiday travelers. US natural gas futures ended near $3.27 per million British thermal units, while Europe's TTF benchmark rose to about €85.8 per MWh.",
+  "tags": []
+ },
+ "2026-11-22-09": {
+  "companies": [
+   "sanofi"
+  ],
+  "date": "2026-11-22",
+  "headline": "Sanofi wins early US approval for Infilbray, the first drug for the brain symptoms of type 3 Gaucher disease",
+  "numbers": [
+   "Phase 3 trial: 43 patients, superior to Cerezyme",
+   "Approved: Nov 18, about a week before the Nov 25 target date",
+   "Cerezyme + Cerdelga 2025 sales: more than €1B"
+  ],
+  "order": 9,
+  "sector": "healthcare",
+  "soWhat": "Rare-disease drugs treat few patients but can charge high prices and keep them for years, because there are few or no alternatives and patients stay on treatment for life. Sanofi already leads the Gaucher market, so the new pill lets it defend that franchise against enzyme therapies from Takeda and Pfizer and extend it to patients the old drugs could not help. An approval ahead of schedule also signals that the FDA will move quickly on drugs that fill a clear gap. The open question is pricing, because a pill that replaces part of an infusion business could take sales from Sanofi's own products.",
+  "sources": [
+   {
+    "title": "MedCity News: Sanofi Gaucher disease type 3 drug venglustat (Infilbray) FDA approval",
+    "url": "https://medcitynews.com/2026/11/sanofi-gaucher-disease-type3-venglustat-infilbray-fda-approval-gd3-san/"
+   },
+   {
+    "title": "NeurologyLive: FDA approves venglustat, first therapy for neurological manifestations of type 3 Gaucher disease",
+    "url": "https://www.neurologylive.com/view/fda-approves-venglustat-first-therapy-neurological-manifestations-type-3-gaucher-disease"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "The FDA approved Sanofi's venglustat, sold as Infilbray, on November 18, a week before its target date, for adults and children weighing at least 15 kg. It is the first treatment for the neurological symptoms of type 3 Gaucher disease, a rare inherited disorder. Infilbray is a once-daily pill designed to reach the brain, and in a 43-patient Phase 3 trial it beat Sanofi's own enzyme infusion Cerezyme on a combined measure of movement and thinking. Cerezyme and Sanofi's older Gaucher pill Cerdelga together sold more than €1 billion in 2025; the price of Infilbray has not been disclosed.",
+  "tags": []
+ },
+ "2026-11-22-10": {
+  "companies": [
+   "volkswagen"
+  ],
+  "date": "2026-11-22",
+  "headline": "Volkswagen opens German wage talks on Tuesday seeking a two-year pay freeze, against the union's demand for 5%",
+  "numbers": [
+   "Volkswagen ask: two-year pay freeze",
+   "IG Metall demand: +5% over 12 months",
+   "Planned job cuts in restructuring: 100,000",
+   "Talks begin: Nov 24 in Emden"
+  ],
+  "order": 10,
+  "sector": "advanced-industries",
+  "soWhat": "German car plants have some of the highest labor costs in the industry, while Volkswagen faces weak sales in China, cheaper Chinese electric cars and tariffs, so wages are one of the few large costs it can control directly. A freeze would protect margins, but strikes in January would stop production and cost more than the savings in the short run. Suppliers and German towns that depend on the plants carry much of the risk. The open question is how far each side moves, since both opening positions are far apart and Bloomberg reports the proposals are likely to soften.",
+  "sources": [
+   {
+    "title": "Finimize: Volkswagen draws a hard line ahead of wage talks",
+    "url": "https://finimize.com/content/volkswagen-draws-a-hard-line-ahead-of-wage-talks"
+   },
+   {
+    "title": "Automotive World: Volkswagen and IG Metall to begin talks on 24 November",
+    "url": "https://www.automotiveworld.com/news/volkswagen-and-ig-metall-to-begin-talks-on-24-november"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "Volkswagen and the IG Metall union start collective bargaining in Emden on November 24. The carmaker wants a two-year pay freeze, fewer bonuses, and the right to extend working hours when demand requires without automatically raising pay. IG Metall is asking for a 5% raise over 12 months and says strikes could begin in January. Volkswagen has ended most of its existing wage agreements, and its restructuring includes plans for 100,000 job cuts and the possible closure of one of its four German plants from the early 2030s.",
+  "tags": []
+ },
+ "2026-11-22-11": {
+  "companies": [
+   "nvidia"
+  ],
+  "date": "2026-11-22",
+  "headline": "Nvidia nears a deal to buy diffusion-model startup Inception for more than $500 million, The Information reports",
+  "numbers": [
+   "Reported price: more than $500M",
+   "Nvidia one-day share move on SEC report: about -14%",
+   "Hugging Face deal under DOJ review: $12.9B"
+  ],
+  "order": 11,
+  "sector": "tmt",
+  "soWhat": "Nvidia earns most of its money selling chips, but it also builds software and models that make its hardware more useful, which keeps developers tied to its platform. Diffusion models generate text in parallel rather than one word at a time, which could make AI answers faster and cheaper to serve, and owning that know-how helps Nvidia design for it. At $500 million the price is small next to Nvidia's cash flow, so this is a purchase of talent and ideas, not revenue. The open question is whether regulators, already reviewing its $12.9 billion Hugging Face deal, will look closely at a run of small AI purchases.",
+  "sources": [
+   {
+    "title": "Newsquawk: Nvidia is near to acquiring diffusion AI developer Inception, per The Information",
+    "url": "https://www.newsquawk.com/headlines/nvidia-nvda-is-near-to-acquiring-diffusion-ai-developer-inception-for-over-usd-500mln-according-to-the-information"
+   },
+   {
+    "title": "The Information: Nvidia nears acquisition of diffusion AI developer for more than $500 million",
+    "url": "https://theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Nvidia is close to acquiring Inception, a startup that builds language models using diffusion, the technique behind many image generators, for more than $500 million, according to The Information. The deal would add to Nvidia's own open models, called Nemotron. Neither company has confirmed it. The report came in a week when Nvidia's shares fell about 14% in one day after a report that the SEC is examining its accounting.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-22-12": {
+  "companies": [],
+  "date": "2026-11-22",
+  "headline": "AAA expects 81.5 million Thanksgiving travelers, the first decline in four years, as domestic airfares jump 17%",
+  "numbers": [
+   "Thanksgiving travelers: ~81.5M vs 81.6M in 2025",
+   "Domestic flyers: ~5.96M (-0.2%)",
+   "Average round-trip domestic fare: ~$800 (+17%)",
+   "Bus, train and cruise: ~2.6M (+4.1%)"
+  ],
+  "order": 12,
+  "sector": "consumer-retail",
+  "soWhat": "For airlines, a 17% rise in fares with only slightly fewer passengers means much more revenue per seat, since holiday flights are nearly full anyway. The risk is that high fares push price-sensitive travelers to drive or stay home, which shifts spending toward hotels near home, gasoline and road trips. Cruise lines and rail, the only growing modes, benefit from travelers who book whole packages in advance. The open question is whether the air traffic control problems of recent weeks cause delays during the peak.",
+  "sources": [
+   {
+    "title": "Fox Weather: AAA expects over 81 million Americans to travel for Thanksgiving",
+    "url": "https://www.foxweather.com/lifestyle/more-than-81-million-americans-expected-travel-thanksgiving-despite-fewer-drivers-flyers"
+   }
+  ],
+  "subindustry": "travel-hospitality",
+  "summary": "AAA expects about 81.5 million Americans to travel at least 50 miles between November 24 and 30, slightly below last year's 81.6 million, ending a three-year run of records. About 72.9 million will drive and 5.96 million will fly domestically, both slightly fewer than last year, while bus, train and cruise travel is expected to rise 4.1% to about 2.6 million. Round-trip domestic airfares average $800, up 17% from last year, based on AAA booking data. AAA said higher travel costs explain part of the dip.",
+  "tags": []
+ },
+ "2026-11-22-13": {
+  "companies": [
+   "payward"
+  ],
+  "date": "2026-11-22",
+  "headline": "Kraken's parent Payward agrees to buy venture firm Tribe Capital, which manages $2.7 billion",
+  "numbers": [
+   "Tribe Capital assets under management: $2.7B",
+   "Expected close: Q1 2027",
+   "Price: not disclosed"
+  ],
+  "order": 13,
+  "sector": "financial-services",
+  "soWhat": "Crypto exchanges earn most of their money from trading fees, which fall sharply when prices drop, as they have this month, so they are adding businesses with steadier income. Asset managers earn fees on the money they manage whether markets rise or fall, and private-market funds charge higher fees than public ones. Payward also plans to build private-market products on its trading platform, competing with brokers that are opening private investing to ordinary investors. The open question is how the deal will be judged, since the buyer's co-CEO founded the firm being bought and the price is not public.",
+  "sources": [
+   {
+    "title": "The Block: Kraken parent Payward to acquire Tribe Capital",
+    "url": "https://theblock.co/news/business/2026-11-18-kraken-parent-payward-tribe-capital-443522"
+   }
+  ],
+  "subindustry": "asset-wealth",
+  "summary": "Payward, the parent of crypto exchange Kraken, agreed to buy Tribe Capital, a venture capital firm and asset manager with $2.7 billion of assets under management. Tribe invests in early- and late-stage private companies in AI, software and financial infrastructure, and will sit inside Payward's asset management arm. Terms were not disclosed, and the deal is expected to close in the first quarter of 2027. Tribe was co-founded by Arjun Sethi, who is now Kraken's co-CEO, and had invested in Kraken before he took that role.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-22-14": {
+  "companies": [
+   "freedom-holding"
+  ],
+  "date": "2026-11-22",
+  "headline": "Freedom Holding's revenue rises 81% to $910 million as its banking and insurance arms nearly triple",
+  "numbers": [
+   "Net revenue: $910.1M (+81%)",
+   "Banking revenue: $298.1M (+182%); insurance: $299.2M (+133%)",
+   "Brokerage revenue: $222.2M (-5%)",
+   "Net income: $46.1M (+29%)"
+  ],
+  "order": 14,
+  "sector": "financial-services",
+  "soWhat": "The results show a broker turning itself into a full financial group: banking and insurance now each bring in more revenue than brokerage. Lending and insurance income are steadier than trading commissions, but they need more capital and carry credit and claims risk, which is one reason profit grew far more slowly than revenue. The open question is whether profit margins recover once the expansion costs level off.",
+  "sources": [
+   {
+    "title": "Cyprus Mail: Freedom Holding increases revenue by 81 per cent to $910.1 million",
+    "url": "https://cyprus-mail.com/2026/11/17/freedom-holding-increases-revenue-by-81-per-cent-to-910-1-million"
+   }
+  ],
+  "subindustry": "banking",
+  "summary": "Freedom Holding, a Kazakhstan-focused financial group listed on Nasdaq, grew net revenue 81% to $910.1 million in the quarter to September 30, from $503.6 million a year earlier. Banking revenue rose 182% to $298.1 million and insurance revenue 133% to $299.2 million, while brokerage, its original business, fell 5% to $222.2 million. Net income rose 29% to $46.1 million, a much slower increase than revenue. Its client base grew to 9.3 million from 8.7 million, and total assets reached $16.6 billion.",
+  "tags": []
  }
 }
