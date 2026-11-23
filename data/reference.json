@@ -339,6 +339,23 @@
    "ticker": "Nasdaq: ANT",
    "updated": "2026-11-19"
   },
+  "apl-apollo": {
+   "businessModel": "India's largest maker of structural steel tubes and pipes: buys steel coil, forms it into branded tubes and sells through dealers for construction and infrastructure.",
+   "competitors": [
+    "Tata Steel (tubes)",
+    "JSW Steel",
+    "Surya Roshni",
+    "Hi-Tech Pipes",
+    "Jindal Saw"
+   ],
+   "hq": "Delhi, India",
+   "name": "APL Apollo Tubes",
+   "sector": "energy-materials",
+   "size": "Revenue ~₹200B (~$2.4B) (approx., FY2025)",
+   "subindustry": "metals-mining",
+   "ticker": "NSE: APLAPOLLO",
+   "updated": "2026-11-23"
+  },
   "apple": {
    "businessModel": "Sells iPhone, Mac, iPad and wearables and earns recurring Services revenue from the App Store, iCloud, advertising and payments on its installed base.",
    "competitors": [
@@ -1241,6 +1258,23 @@
    "ticker": "Xetra: CBK",
    "updated": "2026-11-09"
   },
+  "conocophillips": {
+   "businessModel": "The largest independent US oil and gas producer: finds, develops and produces crude, gas and LNG worldwide and sells at market prices, with a focus on US shale.",
+   "competitors": [
+    "ExxonMobil",
+    "Chevron",
+    "EOG Resources",
+    "Occidental Petroleum",
+    "Devon Energy"
+   ],
+   "hq": "Houston, TX",
+   "name": "ConocoPhillips",
+   "sector": "energy-materials",
+   "size": "Revenue ~$55-60B; market cap ~$120B (approx., 2025)",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "NYSE: COP",
+   "updated": "2026-11-23"
+  },
   "constellation-energy": {
    "businessModel": "Generates power from a large nuclear fleet and sells it at market prices or under long-term contracts, including to data-center customers.",
    "competitors": [
@@ -1562,6 +1596,22 @@
    "subindustry": "travel-hospitality",
    "ticker": "Nasdaq: DKNG",
    "updated": "2026-11-06"
+  },
+  "eaglerock-land": {
+   "businessModel": "Owns Permian surface acreage and water infrastructure and earns fees from oil producers for land use, water supply and disposal.",
+   "competitors": [
+    "Texas Pacific Land",
+    "LandBridge",
+    "WaterBridge",
+    "Aris Water Solutions"
+   ],
+   "hq": "Texas, USA",
+   "name": "EagleRock Land",
+   "sector": "energy-materials",
+   "size": "Being acquired by Texas Pacific Land for ~$3B (2026)",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "NYSE: EROK",
+   "updated": "2026-11-23"
   },
   "elders": {
    "businessModel": "Sells farm inputs such as seed, fertilizer and chemicals, and earns commissions as an agent for livestock, wool and rural property, plus farm finance and insurance.",
@@ -2375,6 +2425,22 @@
    "ticker": "Nasdaq: INTC",
    "updated": "2026-10-30"
   },
+  "intercontinental-exchange": {
+   "businessModel": "Owns the New York Stock Exchange and futures exchanges, and earns trading and clearing fees plus recurring revenue from market data and mortgage technology.",
+   "competitors": [
+    "CME Group",
+    "Nasdaq",
+    "Cboe Global Markets",
+    "LSEG"
+   ],
+   "hq": "Atlanta, GA",
+   "name": "Intercontinental Exchange (ICE)",
+   "sector": "financial-services",
+   "size": "Revenue ~$9.5B net (approx., 2025)",
+   "subindustry": "payments-fintech",
+   "ticker": "NYSE: ICE",
+   "updated": "2026-11-23"
+  },
   "intermex": {
    "businessModel": "Earns fees and foreign-exchange spreads on remittances, mainly from the US to Mexico and Central America, through independent retail agents and a digital app.",
    "competitors": [
@@ -2391,6 +2457,39 @@
    "subindustry": "payments-fintech",
    "ticker": "NASDAQ: IMXI",
    "updated": "2026-11-12"
+  },
+  "international-resources-holding": {
+   "businessModel": "An Abu Dhabi state-linked investor that buys stakes in mines, mainly in Africa, to build a portfolio of copper and critical minerals.",
+   "competitors": [
+    "Manara Minerals",
+    "Jiangxi Copper",
+    "Glencore",
+    "Ivanhoe Mines"
+   ],
+   "hq": "Abu Dhabi, UAE",
+   "name": "International Resources Holding (IRH)",
+   "sector": "energy-materials",
+   "size": "Private mining investor (2026)",
+   "subindustry": "metals-mining",
+   "ticker": "Private (International Holding Company, Abu Dhabi)",
+   "updated": "2026-11-23"
+  },
+  "intesa-sanpaolo": {
+   "businessModel": "Italy's largest bank: earns interest on loans to households and companies plus fees from wealth management, insurance and payments.",
+   "competitors": [
+    "UniCredit",
+    "BPER Banca",
+    "Banco BPM",
+    "Monte dei Paschi",
+    "Crédit Agricole Italia"
+   ],
+   "hq": "Turin, Italy",
+   "name": "Intesa Sanpaolo",
+   "sector": "financial-services",
+   "size": "Total assets ~€930B (approx., 2025)",
+   "subindustry": "banking",
+   "ticker": "BIT: ISP",
+   "updated": "2026-11-23"
   },
   "intuit": {
    "businessModel": "Sells subscription and per-use software for taxes (TurboTax), small-business accounting (QuickBooks) and personal finance (Credit Karma), earning recurring subscription fees and referral fees.",
@@ -2511,6 +2610,39 @@
    "ticker": "NYSE: JNJ",
    "updated": "2026-10-19"
   },
+  "julius-baer": {
+   "businessModel": "A Swiss private bank that manages and advises on the money of wealthy clients, earning fees, commissions and interest as a share of client assets.",
+   "competitors": [
+    "UBS",
+    "Pictet",
+    "Lombard Odier",
+    "EFG International",
+    "Morgan Stanley Wealth Management"
+   ],
+   "hq": "Zurich, Switzerland",
+   "name": "Julius Baer",
+   "sector": "financial-services",
+   "size": "Assets under management CHF 553B (Oct 2026)",
+   "subindustry": "asset-wealth",
+   "ticker": "SIX: BAER",
+   "updated": "2026-11-23"
+  },
+  "kenmare-resources": {
+   "businessModel": "Runs the Moma titanium minerals mine in Mozambique and sells ilmenite, zircon and rutile to pigment, ceramics and titanium producers.",
+   "competitors": [
+    "Iluka Resources",
+    "Tronox",
+    "Rio Tinto (titanium)",
+    "Base Resources"
+   ],
+   "hq": "Dublin, Ireland",
+   "name": "Kenmare Resources",
+   "sector": "energy-materials",
+   "size": "Market value ~£350M (Nov 2026)",
+   "subindustry": "metals-mining",
+   "ticker": "LSE: KMR",
+   "updated": "2026-11-23"
+  },
   "kioxia": {
    "businessModel": "Makes NAND flash memory chips and solid-state drives, with fabs run jointly with Sandisk, and sells to phone, PC and data-center customers at cyclical market prices.",
    "competitors": [
@@ -2543,6 +2675,22 @@
    "subindustry": "payments-fintech",
    "ticker": "NYSE: KLAR",
    "updated": "2026-11-17"
+  },
+  "kymera-therapeutics": {
+   "businessModel": "A clinical-stage biotech developing oral drugs that degrade disease-causing proteins; earns partnership payments today and aims to sell its own drugs.",
+   "competitors": [
+    "Arvinas",
+    "Nurix Therapeutics",
+    "C4 Therapeutics",
+    "Sanofi/Regeneron (Dupixent)"
+   ],
+   "hq": "Watertown, MA",
+   "name": "Kymera Therapeutics",
+   "sector": "healthcare",
+   "size": "Market value ~$10B (Nov 2026)",
+   "subindustry": "pharma-biotech",
+   "ticker": "Nasdaq: KYMR",
+   "updated": "2026-11-23"
   },
   "l3harris": {
    "businessModel": "Sells defense electronics, communications, space and sensor systems and rocket motors, mostly under government contracts, and runs the FAA's telecom network.",
@@ -3018,6 +3166,22 @@
    "ticker": "NYSE: MOD",
    "updated": "2026-11-14"
   },
+  "monte-dei-paschi": {
+   "businessModel": "The world's oldest bank: an Italian retail and business lender that earns interest and fees, and now controls investment bank Mediobanca.",
+   "competitors": [
+    "Intesa Sanpaolo",
+    "UniCredit",
+    "BPER Banca",
+    "Banco BPM"
+   ],
+   "hq": "Siena, Italy",
+   "name": "Banca Monte dei Paschi di Siena",
+   "sector": "financial-services",
+   "size": "Total assets ~€120B before Mediobanca (approx., 2025)",
+   "subindustry": "banking",
+   "ticker": "BIT: BMPS",
+   "updated": "2026-11-23"
+  },
   "msc": {
    "businessModel": "Earns freight rates for carrying containers on its global fleet, and also runs port terminals, logistics businesses and MSC Cruises.",
    "competitors": [
@@ -3256,6 +3420,23 @@
    "subindustry": "asset-wealth",
    "ticker": "Private (Permira; sale to LSEG agreed)",
    "updated": "2026-10-22"
+  },
+  "okx": {
+   "businessModel": "Runs a crypto exchange and wallet, earning trading fees, spreads and listing and service fees.",
+   "competitors": [
+    "Binance",
+    "Coinbase",
+    "Bybit",
+    "Kraken (Payward)",
+    "Robinhood"
+   ],
+   "hq": "Seychelles / Hong Kong",
+   "name": "OKX",
+   "sector": "financial-services",
+   "size": "One of the largest crypto exchanges by trading volume (approx., 2025)",
+   "subindustry": "payments-fintech",
+   "ticker": "Private",
+   "updated": "2026-11-23"
   },
   "ollin-biosciences": {
    "businessModel": "Develops eye-disease drugs, led by OLN324 for retinal disease; as a clinical-stage company it has no product sales and is funded by investors.",
@@ -4426,6 +4607,23 @@
    "ticker": "NSE: TATAMOTORS",
    "updated": "2026-11-07"
   },
+  "tata-steel": {
+   "businessModel": "Makes steel in India, the Netherlands and the UK and sells flat and long products to carmakers, builders and manufacturers; part of the Tata group.",
+   "competitors": [
+    "JSW Steel",
+    "ArcelorMittal",
+    "SAIL",
+    "Jindal Steel & Power",
+    "POSCO"
+   ],
+   "hq": "Mumbai, India",
+   "name": "Tata Steel",
+   "sector": "energy-materials",
+   "size": "Revenue ~₹2.2 trillion (~$26B) (approx., FY2025)",
+   "subindustry": "metals-mining",
+   "ticker": "NSE: TATASTEEL",
+   "updated": "2026-11-23"
+  },
   "telefonica": {
    "businessModel": "Sells mobile and fixed telecom services in Spain, Germany, the UK (via Virgin Media O2) and Brazil, earning recurring subscription revenue.",
    "competitors": [
@@ -4526,6 +4724,23 @@
    "subindustry": "semiconductors",
    "ticker": "Nasdaq: TXN",
    "updated": "2026-10-22"
+  },
+  "texas-pacific-land": {
+   "businessModel": "Owns roughly 880,000 acres (approx.) in the Permian Basin and earns oil and gas royalties, fees for pipelines and roads on its land, and charges for water supply and disposal.",
+   "competitors": [
+    "LandBridge",
+    "Viper Energy",
+    "Black Stone Minerals",
+    "Aris Water Solutions",
+    "WaterBridge"
+   ],
+   "hq": "Dallas, TX",
+   "name": "Texas Pacific Land",
+   "sector": "energy-materials",
+   "size": "Revenue ~$700M; market cap ~$25-30B (approx., 2025)",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "NYSE: TPL",
+   "updated": "2026-11-23"
   },
   "thermo-fisher": {
    "businessModel": "Sells lab instruments, reagents and consumables, diagnostics, and contract development and manufacturing services to drugmakers, biotech firms, hospitals and universities. Repeat consumables and services give it steady revenue.",
@@ -4896,6 +5111,23 @@
    "subindustry": "transport-logistics",
    "ticker": "NYSE: UPS",
    "updated": "2026-10-27"
+  },
+  "var-energi": {
+   "businessModel": "Explores for and produces oil and gas on the Norwegian Continental Shelf and sells it at market prices; majority-owned by Eni.",
+   "competitors": [
+    "Equinor",
+    "Aker BP",
+    "DNO",
+    "OKEA",
+    "Harbour Energy"
+   ],
+   "hq": "Stavanger, Norway",
+   "name": "Vår Energi",
+   "sector": "energy-materials",
+   "size": "Production ~350,000+ boe/d; market cap ~$8-9B (approx., 2025)",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "Oslo: VAR",
+   "updated": "2026-11-23"
   },
   "varonis": {
    "businessModel": "Data-security software that finds sensitive data, shows who can access it and flags misuse. Moving customers from on-premises licenses to SaaS subscriptions.",

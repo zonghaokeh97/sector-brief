@@ -7535,5 +7535,464 @@
   "subindustry": "banking",
   "summary": "Freedom Holding, a Kazakhstan-focused financial group listed on Nasdaq, grew net revenue 81% to $910.1 million in the quarter to September 30, from $503.6 million a year earlier. Banking revenue rose 182% to $298.1 million and insurance revenue 133% to $299.2 million, while brokerage, its original business, fell 5% to $222.2 million. Net income rose 29% to $46.1 million, a much slower increase than revenue. Its client base grew to 9.3 million from 8.7 million, and total assets reached $16.6 billion.",
   "tags": []
+ },
+ "2026-11-23-01": {
+  "companies": [
+   "nvidia"
+  ],
+  "date": "2026-11-23",
+  "headline": "Nvidia jumps about 30% after its board reinstates Jensen Huang as CEO, lifting chip and AI stocks",
+  "numbers": [
+   "Monday move: ~+30% to ~$163",
+   "Friday close: $125.53 (-14%)",
+   "Fall since the scandal began: >30%",
+   "CoreWeave: ~+29%; Micron: ~+14%"
+  ],
+  "order": 1,
+  "sector": "tmt",
+  "soWhat": "Nvidia's swing shows how much of its value investors tie to one founder at a time when it sells most of the world's AI chips. The return removes a leadership gap for its biggest customers and suppliers, but the open investigation and the new export-control committee mean governance risk has not gone away. The rebound also spread to neoclouds such as CoreWeave, whose borrowing and growth depend on confidence in Nvidia's supply. The open question is whether the board's review ends cleanly or brings new findings.",
+  "sources": [
+   {
+    "title": "Fox News live: Jensen Huang reinstated as Nvidia CEO",
+    "url": "https://foxnews.com/live-news/ai-news-tech-markets-nvidia-11-23-26"
+   },
+   {
+    "title": "Yahoo Finance live: Nvidia reinstates Jensen Huang",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
+   },
+   {
+    "title": "CNBC: Stock market today live updates",
+    "url": "https://cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Nvidia's board unanimously reinstated co-founder Jensen Huang as president, CEO and director on Monday, eleven days after he resigned. CFO Colette Kress, who served as interim CEO, returns to the finance role, and an independent board committee will continue its investigation with Huang's cooperation. The board also created a National Security and Export Control Committee and is hiring a new chief compliance officer. Nvidia shares rose about 30% in Monday trading to roughly $163, after falling 14% to $125.53 on Friday and more than 30% since the scandal began. CoreWeave rose about 29% and Micron about 14% as chip stocks rebounded from their worst week since 2001.",
+  "tags": []
+ },
+ "2026-11-23-02": {
+  "companies": [
+   "crowdstrike",
+   "zscaler"
+  ],
+  "date": "2026-11-23",
+  "headline": "CrowdStrike agrees to buy Zscaler for $43.9 billion in stock, creating a security platform with over $10 billion of recurring revenue",
+  "numbers": [
+   "Deal value: ~$43.9B, all stock",
+   "Premium: 34% to Friday close",
+   "Ownership: CrowdStrike holders 84.1%, Zscaler holders 15.9%",
+   "Combined recurring revenue: >$10B; revenue synergies: ~$1B a year"
+  ],
+  "order": 2,
+  "sector": "tmt",
+  "soWhat": "The deal joins the leader in protecting laptops and servers with the leader in cloud network security, the two biggest pieces of a company's security budget. Buyers increasingly want one platform rather than dozens of point tools, so the merged firm can bundle products and squeeze smaller rivals such as Netskope and the network-security units of Cisco and Fortinet. Palo Alto Networks, the main platform rival, now faces a competitor of similar breadth. Paying in stock spreads the risk, but CrowdStrike holders take on dilution and a large integration.",
+  "sources": [
+   {
+    "title": "ABC News/AP: CrowdStrike to acquire Zscaler in $44B deal",
+    "url": "https://abcnews.com/Business/wireStory/crowdstrike-acquire-zscaler-44-billion-deal-create-cybersecurity-138373706"
+   },
+   {
+    "title": "CNBC: Stock market today live updates",
+    "url": "https://cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+   },
+   {
+    "title": "Fox News live: AI, tech and markets",
+    "url": "https://foxnews.com/live-news/ai-news-tech-markets-nvidia-11-23-26"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "CrowdStrike will buy Zscaler in an all-stock deal valued at about $43.9 billion, confirming talks reported on Sunday. Zscaler holders get 1.135 CrowdStrike shares per share, a 34% premium to Friday's close, and will own about 15.9% of the combined company. The two firms already share about 2,000 customers, and CrowdStrike plans to sell to roughly 8,000 Zscaler customers that do not yet use it, targeting about $1 billion of yearly revenue synergies. Zscaler's founder and his affiliates, who control about 34% of its shares, agreed to vote for the deal, which should close in the second half of CrowdStrike's fiscal 2028. CrowdStrike fell about 8% and Zscaler rose about 13% in early trading.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-23-03": {
+  "companies": [
+   "var-energi",
+   "conocophillips"
+  ],
+  "date": "2026-11-23",
+  "headline": "Vår Energi buys ConocoPhillips' Norway business for $4.4 billion, taking over the historic Ekofisk fields",
+  "numbers": [
+   "Enterprise value: $4.425B; cash at completion: ~$2.5B",
+   "Reserves acquired (2P): 414M boe in 13 fields",
+   "Synergies: $700M-$1B after tax",
+   "New output target: >500,000 boe/d into the mid-2030s"
+  ],
+  "order": 3,
+  "sector": "energy-materials",
+  "soWhat": "The deal shows how the North Sea is being consolidated by focused regional producers while US majors redeploy capital to cheaper shale and LNG. About 75% of the reserves are in fields where Vår already holds stakes, so it can cut overlapping costs and take control of operations rather than just paying its share. Norway's tax system, which lets companies deduct investment quickly, makes mature fields more valuable to a local taxpayer than to an outsider. Vår has hedged about 80% of the extra gas at around $110 per barrel equivalent, protecting the cash it needs to keep paying dividends.",
+  "sources": [
+   {
+    "title": "Offshore Energy: $4.4 billion play for ConocoPhillips' Norwegian assets",
+    "url": "https://www.offshore-energy.biz/2026/11/23/dollar44-billion-play-for-conocophillips-norwegian-oil-and-gas-assets-and-uk-infrastructure-expands-var-energis-north-sea-footprint"
+   },
+   {
+    "title": "Ground News: Vår Energi acquires ConocoPhillips Norwegian operations",
+    "url": "https://ground.news/article/var-energi-acquires-conocophillips-norwegian-operations"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Vår Energi, the Norwegian producer controlled by Eni, agreed to buy ConocoPhillips' Norwegian upstream business and related UK infrastructure for an enterprise value of $4.425 billion. Because cash generated since January 1 counts toward the price, it expects to pay about $2.5 billion at completion, around the end of the first quarter of 2027. The package covers stakes in 13 producing fields, operatorship of the Greater Ekofisk Area, the Norpipe pipeline and the Teesside oil terminal in the UK, with 414 million barrels of oil equivalent of proven and probable reserves. Vår expects $700 million to $1 billion of after-tax synergies and raised its long-term output target to above 500,000 barrels a day into the mid-2030s. It will fund the deal from $7.5 billion of available liquidity and lifted its fourth-quarter dividend guidance to $450 million.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-23-04": {
+  "companies": [
+   "unitedhealth-group",
+   "humana",
+   "cvs-health",
+   "elevance-health"
+  ],
+  "date": "2026-11-23",
+  "headline": "Health insurers fall again as Medicare proposes a Star Ratings overhaul that could cut about $107 billion of bonus payments over ten years",
+  "numbers": [
+   "Estimated bonus cut: ~$107B over 2028-2037",
+   "Cut in 2031 alone: ~$11.5B",
+   "Members in 4-star-plus plans: 51.5% now, 28% under the proposal",
+   "Premarket moves: UNH -6.5%, HUM -5.1%, CVS -4.5%"
+  ],
+  "order": 4,
+  "sector": "healthcare",
+  "soWhat": "Star bonuses are a large part of Medicare Advantage profit, so fewer high-rated plans means lower revenue per member for insurers. Coming a week after a plan to claw back past overpayments through audits, it signals a tougher regulator, which hurts the most Medicare-heavy insurers, UnitedHealth and Humana, more than diversified ones like Elevance. Insurers can respond by cutting extra benefits such as dental and vision cover or raising cost-sharing, which would push some seniors back to traditional Medicare. The changes would not bite until 2031, leaving years for lobbying and litigation.",
+  "sources": [
+   {
+    "title": "Investing.com: Health insurer stocks slide as Medicare Advantage proposal threatens payments",
+    "url": "https://www.investing.com/news/stock-market-news/health-insurer-stocks-slide-as-medicare-advantage-proposal-threatens-payments-5045476"
+   }
+  ],
+  "subindustry": "payers-providers",
+  "summary": "The Centers for Medicare & Medicaid Services proposed changes to the Star Ratings that decide which Medicare Advantage plans earn quality bonus payments, starting with the 2030 ratings that set 2031 bonuses. TD Cowen estimates the change would cut payments to plans by about $107 billion from 2028 to 2037, including about $11.5 billion in 2031. Mizuho estimates the share of members in plans rated four stars or more, the level that earns bonuses, would fall to 28% from 51.5% if the rule is adopted unchanged. UnitedHealth fell 6.5%, Humana 5.1% and CVS Health 4.5% before the market opened, while Elevance, which has less Medicare exposure, fell 1.1%. It is still a proposal, and analysts expect pushback and possible lawsuits.",
+  "tags": []
+ },
+ "2026-11-23-05": {
+  "companies": [],
+  "date": "2026-11-23",
+  "headline": "US stocks rebound about 4% after their worst week in six years, while Korea's Kospi drops 3.3%",
+  "numbers": [
+   "S&P 500 intraday: ~+4%; Nasdaq: ~+6%",
+   "Friday: S&P 500 -3.7%, Nasdaq -5.3%",
+   "Kospi close: 4,708.54 (-3.3%)",
+   "Odds of a Dec 9 Fed hike: ~92%"
+  ],
+  "order": 5,
+  "sector": "macro",
+  "soWhat": "The rebound came from Nvidia's leadership news rather than any change in the bigger worries: high rates, a likely Fed hike and doubts about returns on AI spending. Korea's fall shows how exposed memory-chip exporters are, even with chip exports up sharply this month. Volatility is still near its highest since the 2025 tariff shock, so companies planning share sales or IPOs face an uncertain window. The open question is whether this week's earnings from Dell, HPE and Workday support or undercut the AI spending story.",
+  "sources": [
+   {
+    "title": "CNBC: Stock market today live updates",
+    "url": "https://cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+   },
+   {
+    "title": "Al Jazeera: Asian stock markets tumble as AI bubble fears mount",
+    "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount"
+   },
+   {
+    "title": "Yahoo Finance live: markets on November 23",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "The S&P 500 rose about 4% and the Nasdaq about 6% in Monday morning trading, after a week in which all three main US indexes fell into a correction. On Friday the S&P 500 fell 3.7% and the Nasdaq 5.3%, leaving the S&P more than 10% below its October 6 peak, about $8 trillion of lost value. In Asia, South Korea's Kospi fell as much as 5.8% before closing 3.3% lower at 4,708.54, led by Samsung Electronics and SK Hynix, while Taiwan's market rose 2.2% and Japan was closed for a holiday. The 10-year US Treasury yield stood near 4.96%, and markets still price about a 92% chance that the Fed raises rates on December 9.",
+  "tags": []
+ },
+ "2026-11-23-06": {
+  "companies": [
+   "tata-steel",
+   "apl-apollo"
+  ],
+  "date": "2026-11-23",
+  "headline": "Tata Steel moves to take control of APL Apollo, India's biggest steel-tube maker, in a deal worth up to about $3.5 billion",
+  "numbers": [
+   "Founder stake: ~26.4% for ~₹155B ($1.67B)",
+   "Open offer: up to 26% at ₹2,301.40 a share",
+   "Assets sold to APL Apollo: up to ₹280B (~$3B)",
+   "Downstream share of sales: ~35% to ~53%"
+  ],
+  "order": 6,
+  "sector": "energy-materials",
+  "soWhat": "Steelmakers earn steadier and higher margins when they sell finished products such as tubes and coated sheet rather than plain coil, whose price swings with the cycle. Taking control of APL Apollo gives Tata Steel a large customer for its coil and a brand in construction tubes, a fast-growing market in India. The swap structure means Tata pays little net cash, but APL Apollo's minority holders fell sharply because the open-offer price is a modest premium and the company takes on Tata's assets at a full price. Rival steelmakers such as JSW Steel may face pressure to build their own downstream reach.",
+  "sources": [
+   {
+    "title": "Yahoo Finance/Investing.com: Tata Steel to acquire 26.4% in APL Apollo Tubes for $1.67 billion",
+    "url": "https://sg.finance.yahoo.com/news/tata-steel-acquire-26-4-034343350.html"
+   },
+   {
+    "title": "CNBC: Stock market today live updates",
+    "url": "https://cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+   }
+  ],
+  "subindustry": "metals-mining",
+  "summary": "Tata Steel agreed to buy about 26.4% of APL Apollo Tubes from its founding family at 2,100 rupees a share, about 155 billion rupees ($1.67 billion), in three tranches ending by March 2028. It must also offer to buy up to another 26% from public shareholders at 2,301.40 rupees a share, up to about 168 billion rupees, which would take it to about 52%. In return, APL Apollo will buy Tata Steel's tubes business and its Tata Steel Colors unit for up to 280 billion rupees (about $3 billion), which largely offsets the cost. Tata Steel expects the share of its steel sold as finished downstream products to rise to about 53% from 35%. Tata Steel fell about 5% and APL Apollo more than 16% in early trading.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-23-07": {
+  "companies": [],
+  "date": "2026-11-23",
+  "headline": "Brent holds near $92 as Gulf attacks offset a growing supply surplus ahead of the November 29 OPEC+ meeting",
+  "numbers": [
+   "Brent: ~$91.97 (-0.65%); WTI: ~$82.92",
+   "Last week: Brent -4%, WTI -5%",
+   "IEA 2027: supply 108.1 mb/d vs demand 104.3 mb/d",
+   "OPEC+ meeting: November 29"
+  ],
+  "order": 7,
+  "sector": "energy-materials",
+  "soWhat": "The market is weighing two opposite forces: physical risk to Gulf shipping, which adds a premium, and rising OPEC+ and US supply, which points to lower prices next year. That leaves OPEC+ with a hard choice on November 29: keep raising output to win market share or pause to defend prices. Producers with high costs and refiners with fixed crude contracts are most exposed if a surplus arrives. The open question is whether attacks on Gulf infrastructure spread from ships to refineries and export terminals.",
+  "sources": [
+   {
+    "title": "Discovery Alert: Brent slips to $91.97 as oil outlook ignores Gulf attacks",
+    "url": "https://discoveryalert.com/news/oil-price-outlook-brent-gulf-attacks-november-2026/"
+   },
+   {
+    "title": "Yahoo Finance live: markets on November 23",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Brent crude traded at about $91.97 a barrel on Monday morning, down 0.65%, and WTI near $82.92, after both fell for a third straight week (Brent 4%, WTI 5%). Over the weekend Yemen's Houthis claimed a direct hit on Saudi Arabia's Rabigh refinery on the Red Sea, which Saudi authorities have not confirmed, and the UK maritime agency reported several attacks on ships in the Gulf and near Hormuz. The IEA expects 2027 supply of 108.1 million barrels a day against demand of 104.3 million, a large surplus, while OPEC sees 2027 demand at 108.3 million. OPEC+ meets on November 29 to set its 2027 output policy.",
+  "tags": []
+ },
+ "2026-11-23-08": {
+  "companies": [],
+  "date": "2026-11-23",
+  "headline": "Euro-zone growth holds at 51.7 as Germany hits a four-year high and France slumps",
+  "numbers": [
+   "Euro-zone composite: 51.7 (poll: 51.9)",
+   "Germany composite: 55.0, highest since March 2022",
+   "Services: 51.2 (five-month low); manufacturing: 52.9",
+   "France: sharpest contraction in six months"
+  ],
+  "order": 8,
+  "sector": "macro",
+  "soWhat": "A PMI above 50 means more firms report growth than decline, so Europe is still expanding, but almost entirely because of German industry. France's weakness is a warning for banks, retailers and builders exposed to French demand. Slowing price growth is welcome for the European Central Bank, which faces euro-zone inflation of 4.0%. The open question is whether German factories can keep growing if US demand and AI-linked spending slow.",
+  "sources": [
+   {
+    "title": "RTÉ: Euro zone growth holds steady but France clouds outlook",
+    "url": "https://www.rte.ie/news/business/2026/1123/1600272-euro-zone-growth-pmi/"
+   },
+   {
+    "title": "CNBC: Stock market today live updates",
+    "url": "https://cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "The S&P Global flash composite PMI for the euro zone held at 51.7 in November, a fifth month of growth but just below the 51.9 economists expected. Germany's private sector reached 55.0, its fastest growth since March 2022, with manufacturing growing at the quickest pace in more than five years. France posted its sharpest contraction in six months, and its business outlook fell to near the worst since 2012 outside the pandemic, partly on uncertainty before the 2027 presidential election. Across the bloc, services fell to a five-month low of 51.2 while manufacturing rose to 52.9, and output price growth slowed to its weakest since August.",
+  "tags": []
+ },
+ "2026-11-23-09": {
+  "companies": [
+   "texas-pacific-land",
+   "eaglerock-land"
+  ],
+  "date": "2026-11-23",
+  "headline": "Texas Pacific Land buys EagleRock for about $3 billion in stock to grow its Permian land and water business",
+  "numbers": [
+   "Deal value: ~$3B, all stock (~$23.56/share)",
+   "Surface land: ~1M acres plus 105,000 acres of water dedications",
+   "Water capacity: ~1.5M b/d (+49%)",
+   "TPL ownership after deal: ~86%"
+  ],
+  "order": 9,
+  "sector": "energy-materials",
+  "soWhat": "Texas Pacific Land does not drill wells: it earns royalties on oil pumped from its land, fees for pipelines and roads that cross it, and charges for supplying and disposing of water. Permian wells bring up several barrels of salty water for every barrel of oil, so water handling is a growing, fee-based business that earns money as long as drilling continues. Scale matters because one network can serve many producers at lower cost per barrel. The deal adds exposure to Permian activity, which depends on oil prices staying high enough for producers to keep drilling.",
+  "sources": [
+   {
+    "title": "Investing.com: TPL to acquire EagleRock Land for $3 billion in all-stock deal",
+    "url": "https://uk.investing.com/news/stock-market-news/tpl-to-acquire-eaglerock-land-for-3-billion-in-allstock-deal-93CH-4998779"
+   },
+   {
+    "title": "BOE Report: Texas Pacific Land to buy EagleRock in $3 billion deal",
+    "url": "https://boereport.com/2026/11/23/texas-pacific-land-to-buy-eaglerock-in-3-billion-deal/"
+   }
+  ],
+  "subindustry": "midstream-lng",
+  "summary": "Texas Pacific Land agreed to buy EagleRock Land in an all-stock deal worth about $3 billion, or about $23.56 for each EagleRock share (0.0831 new shares each). The combined company would own about 1 million acres of Permian Basin surface land plus 105,000 acres of water-service dedications in the Delaware and Midland basins. Its water network would rise by 49% to about 1.5 million barrels a day of capacity. TPL holders will own about 86%, the company expects about $45 million of yearly benefits, and closing is planned for the first half of 2027.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-23-10": {
+  "companies": [
+   "julius-baer"
+  ],
+  "date": "2026-11-23",
+  "headline": "Julius Baer's profit rises 17% to a record on market gains, but new client money slows",
+  "numbers": [
+   "Adjusted pre-tax profit: ~CHF 1.3B (+17%)",
+   "Assets under management: CHF 553B (record)",
+   "Net new money: CHF 8.5B vs 11.7B",
+   "Gross margin: 82 bp (from 83)"
+  ],
+  "order": 10,
+  "sector": "financial-services",
+  "soWhat": "Private banks earn fees and interest as a share of client assets, so rising markets lift profit even when new money slows. Net new money is the better test of future growth, and Julius Baer's is weakening as it cleans up its client book after large credit losses in recent years, with less than 2.5% of assets left to exit. Rivals such as UBS and the big US wealth managers are competing hard for the same rich clients in Asia and the Middle East. Recent stock market falls show the risk: the same leverage to markets works in reverse.",
+  "sources": [
+   {
+    "title": "CNBC: Stock market today live updates",
+    "url": "https://cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+   },
+   {
+    "title": "RTTNews: Julius Baer assets rise 6% in first 10 months",
+    "url": "https://www.rttnews.com/3716987/julius-baer-assets-under-management-rise-6-in-first-10-months-adj-pre-tax-profit-up-17.aspx"
+   },
+   {
+    "title": "Finimize: Julius Baer's de-risking slowed new money inflows",
+    "url": "https://finimize.com/content/julius-baers-de-risking-slowed-new-money-inflows"
+   }
+  ],
+  "subindustry": "asset-wealth",
+  "summary": "Swiss private bank Julius Baer reported adjusted pre-tax profit of about CHF 1.3 billion ($1.55 billion) for the first ten months of 2026, up 17%. Assets under management reached a record CHF 553 billion at the end of October, up 6% this year, helped by rising stock markets and a stronger dollar. Net new money fell to CHF 8.5 billion from CHF 11.7 billion a year earlier, an annualized growth rate of 2% against 2.8%, as the bank keeps exiting riskier clients. The gross margin slipped to 82 basis points from 83, and a share buyback of up to CHF 600 million is under way.",
+  "tags": []
+ },
+ "2026-11-23-11": {
+  "companies": [
+   "intesa-sanpaolo",
+   "monte-dei-paschi"
+  ],
+  "date": "2026-11-23",
+  "headline": "Intesa Sanpaolo's €34.6 billion offer for Monte dei Paschi opens on Tuesday, the next step in Italy's bank consolidation",
+  "numbers": [
+   "MPS valuation: €34.6B",
+   "Offer period: Nov 24 to Jan 22",
+   "Commitments reported: 35-40% of capital",
+   "UniCredit-Commerzbank control targeted: Q1 2027"
+  ],
+  "order": 11,
+  "sector": "financial-services",
+  "soWhat": "Italy's largest bank buying a rival that only recently bought Mediobanca would reshape the country's banking map, leaving fewer, larger lenders. The logic is cost savings from merging branches and IT, plus more capital to fund dividends and buybacks. Smaller banks such as BPER and insurer Unipol gain by picking up assets that competition authorities or the buyer do not want. The open question is how Rome uses its golden power veto, which it has used before to shape bank deals.",
+  "sources": [
+   {
+    "title": "Il Sole 24 Ore: Focus on banks amid Intesa-MPS takeover bid and UniCredit-Commerz merger",
+    "url": "https://en.ilsole24ore.com/art/focus-on-banks-intesa-and-mps-takeover-bids-and-unicredits-tightening-of-commercial-lending-AJgAIwPC"
+   }
+  ],
+  "subindustry": "banking",
+  "summary": "Intesa Sanpaolo's public offer for Banca Monte dei Paschi di Siena opens on November 24 and runs until January 22, valuing MPS at €34.6 billion and aiming to delist it. MPS's board called the price fair from a financial point of view but said it does not fully reflect the group's value. According to Il Sole 24 Ore, announced commitments cover 35-40% of MPS's capital, and success would set off a further bid for Mediobanca, with some assets then sold to Unipol and folded into BPER Banca. Separately, UniCredit awaits Polish approval, expected by the end of November, before moving to take control of Commerzbank in the first quarter of 2027.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-23-12": {
+  "companies": [
+   "kenmare-resources",
+   "international-resources-holding"
+  ],
+  "date": "2026-11-23",
+  "headline": "Abu Dhabi's IRH agrees terms for a £353 million takeover of titanium miner Kenmare",
+  "numbers": [
+   "Offer: 380p a share, ~£352.8M",
+   "Premium: 52% to 250p",
+   "Shares after the news: ~+22-25% (to ~312p)",
+   "Firm-offer deadline: December 15"
+  ],
+  "order": 12,
+  "sector": "energy-materials",
+  "soWhat": "Kenmare runs the Moma mine in Mozambique, which produces titanium minerals and zircon used in paint pigments, plastics and ceramic tiles. Weak pigment demand has pushed down prices and Kenmare's valuation, letting a state-backed buyer pick up a long-life mine at a low price. Gulf state investors are building portfolios of mines in Africa to secure minerals, competing with Chinese buyers. The gap between the share price and the offer shows doubt that the Mozambican approvals will come through.",
+  "sources": [
+   {
+    "title": "RTÉ: Kenmare Resources receives possible cash offer from IRH",
+    "url": "https://www.rte.ie/news/business/2026/1123/1600256-kenmare-resources-offer/"
+   },
+   {
+    "title": "Miningmx: Kenmare board leans toward £353m takeover offer",
+    "url": "http://www.miningmx.com/2026-11-23-kenmare-s-board-minded-accept-ps353m-irh-takeover-offer/"
+   }
+  ],
+  "subindustry": "metals-mining",
+  "summary": "Kenmare Resources agreed in principle to a possible cash offer of 380 pence a share from Abu Dhabi's International Resources Holding (IRH), valuing it at about £352.8 million. The price is a 52% premium to the 250 pence close on November 20, and Kenmare's board said it is unanimously minded to recommend it. Shares jumped more than 22% but stayed well below the offer price because conditions remain, including Mozambican government consents and a tax ruling. IRH must make a firm offer or walk away by December 15, and may lend Kenmare up to $25 million until then. The price is far below a 530 pence proposal from a consortium last year.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-23-13": {
+  "companies": [
+   "tesla"
+  ],
+  "date": "2026-11-23",
+  "headline": "Tesla proposes a $3.1 billion polysilicon plant in Texas to make the raw material for solar panels at home",
+  "numbers": [
+   "Plant cost: $3.1B",
+   "Construction: from 2027; operations: 2030",
+   "Jobs: 515 by 2032",
+   "Linked wafer and cell plant: $10.1B"
+  ],
+  "order": 13,
+  "sector": "energy-materials",
+  "soWhat": "Polysilicon is the first step of the solar supply chain, and China makes the vast majority of it, which leaves US panel makers exposed to tariffs and import bans. Building it at home would give Tesla's solar and storage business a supply that qualifies for US manufacturing credits and avoids forced-labor import rules. The plant only makes sense with subsidies, because Chinese polysilicon is far cheaper. The open question is whether US policy support lasts long enough for a 2030 start to pay off.",
+  "sources": [
+   {
+    "title": "PV Tech: Tesla plans US$3.1 billion polysilicon facility in Texas by 2030",
+    "url": "https://www.pv-tech.org/tesla-3-1-billion-polysilicon-facility-texas-2030/"
+   },
+   {
+    "title": "GV Wire/Reuters: Tesla proposes $3.1 billion Texas polysilicon plant",
+    "url": "https://gvwire.com/2026/11/20/tesla-proposes-3-1-billion-texas-polysilicon-plant-for-solar-manufacturing/"
+   }
+  ],
+  "subindustry": "renewables-transition",
+  "summary": "Tesla has applied for a Texas tax incentive for a $3.1 billion plant near Robstown in Nueces County to make solar-grade polysilicon, a material mostly produced in China. The cost includes about $1.5 billion for engineering and construction and $1.4 billion for equipment, with building planned from 2027 and operations from 2030. Tesla told officials it would not invest in Texas without a property-tax deal under the state's JETI program, and it has not made a final investment decision. The plant would supply a separate $10.1 billion Tesla factory near Houston that would make solar ingots, wafers and cells.",
+  "tags": []
+ },
+ "2026-11-23-14": {
+  "companies": [
+   "kymera-therapeutics"
+  ],
+  "date": "2026-11-23",
+  "headline": "Kymera jumps about 29% as its eczema pill matches injectable results in a mid-stage trial",
+  "numbers": [
+   "Severity reduction (mid dose): 72% vs 27% placebo",
+   "Patients with 75% improvement: 62% vs 22%",
+   "Premarket share move: ~+29%",
+   "Phase 3 start: by mid-2027"
+  ],
+  "order": 14,
+  "sector": "healthcare",
+  "soWhat": "Eczema and asthma treatment is dominated by Sanofi and Regeneron's injectable Dupixent, which blocks the same allergy signaling pathway that KT-621 targets. A pill with similar results would be easier for patients and could take share, which is why big drugmakers watch oral rivals closely. Data at this stage still has to hold up in larger Phase 3 trials, and safety over longer use is the key unknown. Strong results also make Kymera a likely partnership or takeover target.",
+  "sources": [
+   {
+    "title": "Investing.com: Kymera shares jump 29% after positive midstage eczema trial",
+    "url": "https://www.investing.com/news/stock-market-news/kymera-shares-jump-29-after-positive-midstage-eczema-trial-5045346"
+   },
+   {
+    "title": "Dermatology Times: Oral STAT6 degrader KT-621 meets Phase 2b goals",
+    "url": "https://dermatologytimes.com/view/oral-stat6-degrader-kt-621-meets-phase-2b-goals-atopic-dermatitis"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "Kymera Therapeutics said its oral drug KT-621, which breaks down the STAT6 protein that drives allergic inflammation, met all goals in a Phase 2b trial in moderate-to-severe eczema. At the middle dose, eczema severity scores fell 72% after 16 weeks against 27% on placebo, and 62% of patients reached a 75% improvement against 22%. Shares rose about 29% before the market opened, adding close to $3 billion of market value. Kymera plans a first Phase 3 trial by mid-2027 and expects asthma data in late 2027.",
+  "tags": []
+ },
+ "2026-11-23-15": {
+  "companies": [
+   "okx",
+   "intercontinental-exchange"
+  ],
+  "date": "2026-11-23",
+  "headline": "OKX and NYSE owner ICE launch 24/7 tokenized stock trading, but 56 of the 62 companies first proposed refused",
+  "numbers": [
+   "Companies objecting: 56 of 62 first proposed",
+   "Assets at launch: >70, incl. 59 ETFs",
+   "Global tokenized stocks and ETFs: ~$3.88B",
+   "Trading hours: 24/7"
+  ],
+  "order": 15,
+  "sector": "financial-services",
+  "soWhat": "Tokenization promises trading at any hour and faster settlement, and having ICE involved gives the idea mainstream backing. But listed companies want control over where and how their shares trade, and the objections show they will not accept it without a say. For now the market is small and dominated by crypto companies, so traditional exchanges and brokers face little threat. The open question is whether the SEC makes the exemption permanent and whether issuers start tokenizing their own shares.",
+  "sources": [
+   {
+    "title": "CNBC: Stock market today live updates",
+    "url": "https://cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+   },
+   {
+    "title": "Cointelegraph: OKXICE to launch 24/7 tokenized stock trading despite issuer objections",
+    "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back"
+   }
+  ],
+  "subindustry": "payments-fintech",
+  "summary": "OKXICE, a venture between crypto exchange OKX and NYSE owner Intercontinental Exchange, began offering round-the-clock trading of tokenized stocks to eligible US customers on Monday. It operates under a temporary SEC 'Innovation Exemption' that lets companies block third-party tokens of their shares by objecting within 30 days, and 56 of the 62 companies it first proposed did so, including JPMorgan, McDonald's and Coca-Cola. The venue instead opens with more than 70 assets, including 59 ETFs and tokens of crypto-linked firms such as Coinbase, Circle, Robinhood and Strategy. Tokenized stocks and ETFs worldwide were worth about $3.88 billion in mid-November.",
+  "tags": []
  }
 }

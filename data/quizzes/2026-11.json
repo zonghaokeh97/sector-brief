@@ -5825,5 +5825,252 @@
     "subindustry": "software-cloud"
    }
   ]
+ },
+ "2026-11-23": {
+  "date": "2026-11-23",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "The proposal is pre-conditional: it needs Mozambican government consents and a tax ruling, and IRH can still walk away by December 15. The board is minded to recommend it, so rejection is wrong.",
+    "id": "2026-11-23:x01",
+    "kind": "today",
+    "options": [
+     "The offer is in a foreign currency",
+     "Doubt that conditions such as Mozambican approvals will be met",
+     "Kenmare's board rejected the offer",
+     "The offer will be paid over ten years"
+    ],
+    "prompt": "IRH offers 380p a share for Kenmare, a 52% premium, yet the shares rose only to about 312p. What best explains the gap?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-23-12",
+    "subindustry": "metals-mining"
+   },
+   {
+    "answer": 0,
+    "explanation": "Under the SEC's temporary exemption, companies can block third-party tokens of their stock, and most did, preferring control over a new venue. There was no SEC ban; the venue launched with ETFs and crypto-linked stocks.",
+    "id": "2026-11-23:x02",
+    "kind": "today",
+    "options": [
+     "Companies want control over where and how their shares trade",
+     "Tokenized shares pay no dividends by law",
+     "The SEC banned tokenized trading of large companies",
+     "OKXICE charged companies a listing fee"
+    ],
+    "prompt": "Why did 56 of the 62 companies first proposed for OKXICE's tokenized stock venue object?",
+    "sector": "financial-services",
+    "storyId": "2026-11-23-15",
+    "subindustry": "payments-fintech"
+   },
+   {
+    "answer": 2,
+    "explanation": "Dupixent is an injection; a pill with similar results would be more convenient and could take share. KT-621 is not yet approved and still needs Phase 3 trials starting by mid-2027.",
+    "id": "2026-11-23:x03",
+    "kind": "today",
+    "options": [
+     "It is a generic copy of the leader",
+     "The leader, Dupixent, has lost its patent",
+     "A pill is easier for patients than an injection like Dupixent",
+     "It is approved for sale already"
+    ],
+    "prompt": "Kymera's eczema pill cut severity scores 72% against 27% on placebo. Why could this threaten the leading eczema treatment?",
+    "sector": "healthcare",
+    "storyId": "2026-11-23-14",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 1,
+    "explanation": "Oil wells in the Permian produce large volumes of salty water that must be moved and disposed of, and producers pay fees for it. The business depends on drilling continuing, which ties it to oil prices.",
+    "id": "2026-11-23:x04",
+    "kind": "today",
+    "options": [
+     "Water is sold to cities at high prices",
+     "Permian wells bring up several barrels of water per barrel of oil, paid for by producers",
+     "Water pipelines are exempt from all regulation",
+     "Producers drink the water on site"
+    ],
+    "prompt": "Texas Pacific Land is growing its Permian water network by 49% to about 1.5 million barrels a day. Why is water handling a good business there?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-23-09",
+    "subindustry": "midstream-lng"
+   },
+   {
+    "answer": 1,
+    "explanation": "China makes most of the world's polysilicon at much lower cost, so a US plant relies on tax breaks and manufacturing credits to make economic sense. The plant has no final investment decision yet.",
+    "id": "2026-11-23:x05",
+    "kind": "today",
+    "options": [
+     "Polysilicon cannot legally be imported into the US",
+     "Chinese polysilicon is far cheaper, so US output needs subsidies to compete",
+     "Texas has no electricity for factories",
+     "Tesla has never built factories before"
+    ],
+    "prompt": "Tesla says it will not build its $3.1 billion Texas polysilicon plant without a tax incentive. Why does the plant depend on support?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-23-13",
+    "subindustry": "renewables-transition"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "Nothing about Nvidia's products or earnings changed; the moves tracked Huang's exit and return, which is key-person risk. The board kept its investigation and added an export-control committee, so export rules were not lifted.",
+    "id": "2026-11-23:q01",
+    "kind": "today",
+    "options": [
+     "Nvidia's chip prices changed sharply in those eleven days",
+     "Investors tie much of Nvidia's value to its founder's leadership",
+     "Nvidia reported new earnings on the day of his return",
+     "US export rules on Nvidia's chips were lifted that day"
+    ],
+    "prompt": "Nvidia rose about 30% when Jensen Huang returned, after falling more than 30% while he was gone. What does this swing mainly show?",
+    "sector": "tmt",
+    "storyId": "2026-11-23-01",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 0,
+    "explanation": "Zscaler holders will own about 15.9% and CrowdStrike holders 84.1%. The 34% figure is the premium to Friday's close, and also roughly the stake controlled by Zscaler's founder, which makes it a tempting wrong answer.",
+    "id": "2026-11-23:q02",
+    "kind": "today",
+    "options": [
+     "About 16%",
+     "About 34%",
+     "About 50%",
+     "About 84%"
+    ],
+    "prompt": "CrowdStrike is buying Zscaler for about $43.9 billion in stock at 1.135 shares each. Roughly what share of the combined company will Zscaler holders own?",
+    "sector": "tmt",
+    "storyId": "2026-11-23-02",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 2,
+    "explanation": "Vår Energi expects $700 million to $1 billion of after-tax synergies because most reserves overlap with fields it already knows, and operatorship lets it run them its own way. Taxes still apply in Norway, and the deal adds nothing in US shale.",
+    "id": "2026-11-23:q03",
+    "kind": "today",
+    "options": [
+     "A guaranteed rise in oil prices over the next decade",
+     "Avoiding Norwegian taxes on the acquired fields",
+     "Cutting overlapping costs and controlling operations, worth $700M-$1B",
+     "Getting access to the US shale market"
+    ],
+    "prompt": "A North Sea producer buys fields where it already holds stakes in about 75% of the reserves, and becomes operator of the biggest one. Which factor best supports paying $4.4 billion?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-23-03",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 3,
+    "explanation": "Star bonuses go to Medicare Advantage plans, so insurers with the most Medicare members, UnitedHealth and Humana, fell most (6.5% and 5.1% premarket). Elevance, with less Medicare exposure, fell only 1.1%.",
+    "id": "2026-11-23:q04",
+    "kind": "today",
+    "options": [
+     "Insurers that mostly sell employer health plans",
+     "Hospital chains that treat Medicare patients",
+     "Drug distributors that supply pharmacies",
+     "Medicare-heavy insurers such as UnitedHealth and Humana"
+    ],
+    "prompt": "Medicare's Star Ratings proposal could cut bonus payments by about $107 billion over ten years. Which insurers are hurt most?",
+    "sector": "healthcare",
+    "storyId": "2026-11-23-04",
+    "subindustry": "payers-providers"
+   },
+   {
+    "answer": 1,
+    "explanation": "Plain coil is a commodity whose price swings with the cycle, while branded tubes and coated sheet earn a premium and steadier margins. Raw-material costs still matter downstream, so the first option overstates it.",
+    "id": "2026-11-23:q05",
+    "kind": "today",
+    "options": [
+     "Finished products avoid all exposure to iron ore prices",
+     "Finished products like tubes earn steadier, higher margins than plain coil",
+     "Downstream units need no capital spending",
+     "Governments ban exports of plain steel coil"
+    ],
+    "prompt": "Tata Steel wants the share of its steel sold as finished products to rise from about 35% to 53%. Why do steelmakers push downstream?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-23-05",
+    "subindustry": "metals-mining"
+   },
+   {
+    "answer": 2,
+    "explanation": "A PMI is a survey: above 50 means more firms see activity rising than falling. So 51.7 means modest growth in the euro zone, driven by Germany's 55.0, while France's figure signaled contraction.",
+    "id": "2026-11-23:q06",
+    "kind": "today",
+    "options": [
+     "Inflation is above the central bank's target",
+     "Companies expect to cut jobs",
+     "More firms report rising activity than falling",
+     "GDP grew by more than 5% a year"
+    ],
+    "prompt": "Germany's November PMI hit 55.0, its highest since March 2022, while the euro-zone figure held at 51.7. What does a PMI reading above 50 mean?",
+    "sector": "macro",
+    "storyId": "2026-11-23-08",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "Retail media sells space on Walmart's website and app to brands, with little added cost, so it earns much higher margins than thin grocery sales. That helps Walmart grow profit faster than revenue.",
+    "id": "2026-11-19:q06",
+    "kind": "review",
+    "options": [
+     "Advertising earns far higher margins than selling groceries",
+     "Advertising lets Walmart avoid paying suppliers",
+     "Advertising revenue is not taxed",
+     "Advertising replaces the need for stores"
+    ],
+    "prompt": "Walmart's US advertising sales rose 37% while US comparable sales grew 2.9%. Why does the advertising growth matter so much for profit?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-19-06",
+    "subindustry": "retail-ecommerce"
+   },
+   {
+    "answer": 2,
+    "explanation": "The business logic of a bank merger is cutting overlapping branches, IT and head-office costs, and UniCredit has signaled thousands of job cuts while only promising talks on job protection. It committed to keep supporting small and midsize firms, so they are not the obvious losers.",
+    "id": "2026-11-20:q04",
+    "kind": "review",
+    "options": [
+     "German small businesses, which lose their main lender",
+     "UniCredit shareholders, who must pay a 60% premium",
+     "Commerzbank staff, since cost savings rely on cutting overlapping jobs",
+     "The German state, which must inject new capital"
+    ],
+    "prompt": "UniCredit already owns close to 50% of Commerzbank. Who is most likely to lose if the takeover completes?",
+    "sector": "financial-services",
+    "storyId": "2026-11-20-04",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 1,
+    "explanation": "A wider spread means US refiners buy cheaper crude while their fuel sells near global prices, lifting margins. US shale producers lose because they are paid WTI, which is the tempting wrong answer reversed.",
+    "id": "2026-11-19:q04",
+    "kind": "review",
+    "options": [
+     "US shale producers selling at WTI prices",
+     "US refiners buying WTI-linked crude and selling fuel at global prices",
+     "Saudi producers selling at Brent prices",
+     "Tanker owners carrying US crude"
+    ],
+    "prompt": "WTI fell more than Brent, widening the gap to about $8.93 a barrel as high tanker rates limit US exports. Who benefits most?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-19-05",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 3,
+    "explanation": "Most fees are a percentage of assets managed, so rising markets increase revenue without new clients. Julius Baer shows it: profit rose 17% as assets hit CHF 553 billion even though net new money fell to CHF 8.5 billion.",
+    "id": "2026-11-23:q10",
+    "kind": "profile",
+    "options": [
+     "Managers charge clients a fixed annual fee regardless of assets",
+     "Banks earn more when markets fall",
+     "Regulators set minimum profit levels for wealth managers",
+     "Fees are charged as a share of assets, so rising markets lift revenue"
+    ],
+    "prompt": "In asset and wealth management, why can profit rise even when new client money slows?",
+    "sector": "financial-services",
+    "storyId": null,
+    "subindustry": "asset-wealth"
+   }
+  ]
  }
 }
