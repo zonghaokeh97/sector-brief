@@ -6072,5 +6072,252 @@
     "subindustry": "asset-wealth"
    }
   ]
+ },
+ "2026-11-24": {
+  "date": "2026-11-24",
+  "extra": [
+   {
+    "answer": 2,
+    "explanation": "Anthropic raised $93.5 billion at $83 a share, ahead of SpaceX's $85.7 billion in June. Its shares briefly fell below the $83 price on Tuesday after opening at $111.50 on debut.",
+    "id": "2026-11-24:x01",
+    "kind": "today",
+    "options": [
+     "About $25 billion",
+     "About $50 billion",
+     "About $93.5 billion",
+     "About $150 billion"
+    ],
+    "prompt": "Anthropic's IPO raised about how much, making it the largest listing on record?",
+    "sector": "tmt",
+    "storyId": "2026-11-24-05",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 1,
+    "explanation": "Data centers and grids want fast power, so orders topped $6.2 billion in the year. But Fluence's quarterly gross margin was negative 5% as factory delays pushed deliveries out, showing how thin manufacturing margins turn delays into losses.",
+    "id": "2026-11-24:x02",
+    "kind": "today",
+    "options": [
+     "Customers cancelled most orders",
+     "Battery builders work on thin contract margins, so factory delays and component costs can wipe out profit despite surging orders",
+     "Fluence gives its systems away for free",
+     "Batteries are no longer used by utilities"
+    ],
+    "prompt": "Fluence has a record $8.9 billion backlog but lost $274 million in the year. What best explains strong demand alongside losses?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-24-09",
+    "subindustry": "renewables-transition"
+   },
+   {
+    "answer": 2,
+    "explanation": "Evergreen funds promise limited regular withdrawals from assets that take years to sell. After requests surged, Partners Group capped withdrawals; the split puts about €5.2 billion in a run-off portfolio that sells assets to return cash.",
+    "id": "2026-11-24:x03",
+    "kind": "today",
+    "options": [
+     "Regulators ordered all evergreen funds to close",
+     "The fund had run out of assets",
+     "Withdrawal requests exceeded what the fund could pay from illiquid private assets, forcing a choice between gates and discounted sales",
+     "The fund was merging with a bank"
+    ],
+    "prompt": "Why did Partners Group need to split its €6.6 billion evergreen fund?",
+    "sector": "financial-services",
+    "storyId": "2026-11-24-12",
+    "subindustry": "asset-wealth"
+   },
+   {
+    "answer": 0,
+    "explanation": "Captive shippers served by one railroad have little bargaining power, and a bigger network could reduce alternatives further. The coalition counts 97 parties seeking rejection and 142 asking for conditions on the $85 billion deal.",
+    "id": "2026-11-24:x04",
+    "kind": "today",
+    "options": [
+     "They fear higher rates and fewer options because many sites are served by only one railroad",
+     "They want the railroads to stop carrying coal",
+     "They prefer air freight for bulk goods",
+     "They expect the merger to lower rail rates too much"
+    ],
+    "prompt": "Why do many shippers oppose the Union Pacific–Norfolk Southern merger?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-11-24-11",
+    "subindustry": "transport-logistics"
+   },
+   {
+    "answer": 1,
+    "explanation": "Zoom produced $558 million of free cash flow in the quarter while growth stayed in single digits. Returning cash becomes the main way to reward shareholders once reinvestment can no longer drive fast growth.",
+    "id": "2026-11-24:x05",
+    "kind": "today",
+    "options": [
+     "Dividends are required by law once growth slows",
+     "They still generate strong cash but have fewer high-return ways to reinvest it, so they return it to shareholders",
+     "Dividends reduce their tax rate to zero",
+     "It lets them stop buying back shares"
+    ],
+    "prompt": "Zoom grew revenue 4.9% and started a $0.25 quarterly dividend. Why do slower-growing software companies often start dividends?",
+    "sector": "tmt",
+    "storyId": "2026-11-24-14",
+    "subindustry": "software-cloud"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "Big drugmakers buy proven growth to fill patent cliffs, and Dupixent faces loss of exclusivity early next decade. Brinsupri already sold $1.09 billion in nine months, so Sanofi is paying for scarce, de-risked growth, not cost savings or cash.",
+    "id": "2026-11-24:q01",
+    "kind": "today",
+    "options": [
+     "Insmed's factories would let Sanofi cut its manufacturing costs sharply",
+     "Sanofi needs launched, fast-growing drugs to replace sales its top seller Dupixent will lose to patent expiry",
+     "Insmed's cash pile covers most of the purchase price",
+     "Bronchiectasis drugs face no regulatory review, so revenue is guaranteed"
+    ],
+    "prompt": "Sanofi is paying about $41 billion, roughly 38 times Brinsupri's year-to-date sales, for Insmed. What best explains paying such a high multiple?",
+    "sector": "healthcare",
+    "storyId": "2026-11-24-01",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 3,
+    "explanation": "Section 301 duties follow a formal finding about unfair trade practices, which gives them a firmer legal footing than the struck-down emergency tariffs. Importers now getting refunds, like Abercrombie's ~$20 million, may face new, more durable duties in 2027.",
+    "id": "2026-11-24:q02",
+    "kind": "today",
+    "options": [
+     "Section 301 tariffs can only apply to farm goods",
+     "Section 301 tariffs are automatically refunded after one year",
+     "Section 301 tariffs must be approved by every trading partner first",
+     "Section 301 tariffs rest on a formal investigation, so they are harder to overturn and less likely to be refunded"
+    ],
+    "prompt": "The US plans new tariffs under Section 301 after a trade investigation, replacing emergency tariffs the Supreme Court struck down. Why does the legal route matter for companies?",
+    "sector": "macro",
+    "storyId": "2026-11-24-02",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "Brent fell 2.8% to $89.95 as Libya's Sharara restart and higher Gulf flows added barrels, and JPMorgan sees a surplus pushing prices into the high $70s. OPEC+ has not yet decided anything; it meets on November 29.",
+    "id": "2026-11-24:q03",
+    "kind": "today",
+    "options": [
+     "Rising supply, including Libya's Sharara pipeline restart and more Middle East flows, outweighed disruption fears",
+     "OPEC+ announced a large production cut for 2027",
+     "US refiners shut down for maintenance and stopped buying crude",
+     "A sharp rise in Chinese oil imports"
+    ],
+    "prompt": "Brent fell below $90 to its lowest since late August even though tankers were hit by mines near Hormuz. What drove the fall?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-24-03",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 2,
+    "explanation": "AI servers pass most of their value to the chip and memory suppliers, so when component costs rise faster than prices, margins fall even as sales soar. Analysts said HPE's outlook implies lower gross margins; revenue actually beat at $14.55 billion and the buyback grew by $5 billion.",
+    "id": "2026-11-24:q04",
+    "kind": "today",
+    "options": [
+     "The company cut its share buyback",
+     "Networking sales fell sharply",
+     "Rising GPU and memory costs mean server makers keep a thin, shrinking slice of each AI system's price",
+     "Its revenue missed forecasts by a wide margin"
+    ],
+    "prompt": "HPE's cloud and AI revenue rose 68.6% and its guidance beat forecasts, yet the shares fell about 11%. What is the most likely reason?",
+    "sector": "tmt",
+    "storyId": "2026-11-24-06",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 1,
+    "explanation": "Petrobras says securing the pipeline first put it in a stronger position to enter production on better terms, and owning both improves transport efficiency. Ethanol competes with the gasoline Petrobras refines, so the chain gives it a hedge as Neomille grows toward ~1.5 billion liters a year.",
+    "id": "2026-11-24:q05",
+    "kind": "today",
+    "options": [
+     "A legal monopoly on all ethanol sales in Brazil",
+     "Control of transport plus a share of production, so it can capture margin along the chain and move fuel more cheaply",
+     "An exemption from Brazil's ethanol blending rules",
+     "Guaranteed export contracts to the United States"
+    ],
+    "prompt": "Petrobras bought the Logum ethanol pipeline before taking 42% of producer Neomille. What does owning both steps give it?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-24-08",
+    "subindustry": "refining-chemicals"
+   },
+   {
+    "answer": 3,
+    "explanation": "At 18.6 times EBITDA the price only works if earnings rise, which is why ABB plans to raise Ziehl-Abegg's margin to the level of its Motion division within three years. Data center cooling demand supports sales growth, but margin improvement is the main lever.",
+    "id": "2026-11-24:q06",
+    "kind": "today",
+    "options": [
+     "The fan maker must stop selling to data centers",
+     "The buyer must sell the business again within a year",
+     "Interest rates must fall below zero",
+     "The buyer must lift the target's margin toward its own level through scale, purchasing and its drives business"
+    ],
+    "prompt": "A large motors group buys a fan maker with mid-single-digit margins for 18.6 times EBITDA, as ABB is doing with Ziehl-Abegg. What must happen for the price to pay off?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-24-07",
+    "subindustry": "industrial-machinery"
+   },
+   {
+    "answer": 3,
+    "explanation": "Extrapolation multiplies the error rate across all payments in a contract, back to 2018, which CMS estimates recovers about $9 billion a year. That is why Humana fell 13% and UnitedHealth 10% on Wednesday.",
+    "id": "2026-11-19:q03",
+    "kind": "review",
+    "options": [
+     "It lowers the monthly payment for every new member",
+     "It forces insurers to accept all hospitals into their networks",
+     "It removes Medicare Advantage plans from the market",
+     "A few coding errors in a sample become repayments across the entire contract"
+    ],
+    "prompt": "CMS wants to apply error rates found in sampled Medicare Advantage audits to whole contracts. Why does this hurt insurers so much more than sample-only audits?",
+    "sector": "healthcare",
+    "storyId": "2026-11-19-03",
+    "subindustry": "payers-providers"
+   },
+   {
+    "answer": 2,
+    "explanation": "The price is a 31% premium to BILL's 60-day average before talks leaked. BILL shares then fell about 3% to $62, a sign some holders had hoped for more.",
+    "id": "2026-11-20:q02",
+    "kind": "review",
+    "options": [
+     "About 10%",
+     "About 60%",
+     "About 31%",
+     "About 100%"
+    ],
+    "prompt": "TPG and Corpay are paying $63.25 a share, about $6 billion, for BILL. Roughly what premium is that to BILL's 60-day average price?",
+    "sector": "financial-services",
+    "storyId": "2026-11-20-02",
+    "subindustry": "payments-fintech"
+   },
+   {
+    "answer": 0,
+    "explanation": "Roundup claims had no clear upper limit; the settlement caps the cost and spreads it over up to 21 years, freeing cash for the crop business. It does not end everything: about 200 federal cases sit outside it, and it comes on top of the earlier $16 billion.",
+    "id": "2026-11-21:q05",
+    "kind": "review",
+    "options": [
+     "It turns an open-ended legal risk into a capped payment spread over years",
+     "It lets Bayer raise Roundup prices across the US",
+     "It ends all Roundup cases in every US court at once",
+     "It cancels the $16 billion Bayer had already set aside"
+    ],
+    "prompt": "A judge approved Bayer's settlement of Roundup claims: up to $7.25 billion paid over as long as 21 years. What is the main business benefit for Bayer?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-21-06",
+    "subindustry": "agriculture-food"
+   },
+   {
+    "answer": 0,
+    "explanation": "Regulated profit equals the allowed return times the rate base, so spending more on approved assets grows earnings. That is why data center demand, which requires new plants and wires, is pushing utility spending and why states like Alabama now set rules on who pays.",
+    "id": "2026-11-24:q10",
+    "kind": "profile",
+    "options": [
+     "By investing more capital in regulated plants and wires, which expands the rate base it earns a return on",
+     "By raising power prices whenever market prices rise",
+     "By cutting the number of customers it serves",
+     "By selling more fuel to independent generators"
+    ],
+    "prompt": "In much of the US, regulated utilities earn an allowed return on equity of about 9-10% on their rate base. How does such a utility mainly grow its profit?",
+    "sector": "energy-materials",
+    "storyId": null,
+    "subindustry": "power-utilities"
+   }
+  ]
  }
 }

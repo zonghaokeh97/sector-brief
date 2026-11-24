@@ -35,6 +35,23 @@
    "ticker": "SIX: ABBN",
    "updated": "2026-11-08"
   },
+  "abercrombie-fitch": {
+   "businessModel": "Designs and sells its own Abercrombie and Hollister clothing brands through its stores and websites, keeping the full margin between production cost and retail price.",
+   "competitors": [
+    "American Eagle Outfitters",
+    "Gap",
+    "H&M",
+    "Zara (Inditex)",
+    "Urban Outfitters"
+   ],
+   "hq": "New Albany, Ohio, US",
+   "name": "Abercrombie & Fitch",
+   "sector": "consumer-retail",
+   "size": "Quarterly sales $1.44B (Q3 2026)",
+   "subindustry": "retail-ecommerce",
+   "ticker": "NYSE: ANF",
+   "updated": "2026-11-24"
+  },
   "accor": {
    "businessModel": "Franchises and manages hotels owned by others under brands from Ibis to Sofitel and lifestyle brands through Ennismore, earning fees tied to room revenue.",
    "competitors": [
@@ -287,6 +304,23 @@
    "subindustry": "software-cloud",
    "ticker": "Nasdaq: DOX",
    "updated": "2026-11-04"
+  },
+  "amentum": {
+   "businessModel": "Provides engineering, technical, IT and facility support services to the US and allied governments under multi-year contracts, earning a fee on labor and services.",
+   "competitors": [
+    "Leidos",
+    "Booz Allen Hamilton",
+    "SAIC",
+    "CACI",
+    "KBR"
+   ],
+   "hq": "Chantilly, Virginia, US",
+   "name": "Amentum",
+   "sector": "infrastructure-logistics",
+   "size": "Revenue $13.8B (fiscal 2026)",
+   "subindustry": "public-sector",
+   "ticker": "NYSE: AMTM",
+   "updated": "2026-11-24"
   },
   "american-airlines": {
    "businessModel": "Sells passenger tickets across a large hub network and earns extra from its loyalty program and credit card partnerships.",
@@ -736,6 +770,23 @@
    "subindustry": "semiconductors",
    "ticker": "Euronext Amsterdam: BESI",
    "updated": "2026-10-27"
+  },
+  "best-buy": {
+   "businessModel": "Sells consumer electronics and appliances through stores and online, and earns higher margins from installation, repair, warranties and memberships.",
+   "competitors": [
+    "Amazon",
+    "Walmart",
+    "Costco",
+    "Target",
+    "Apple retail stores"
+   ],
+   "hq": "Richfield, Minnesota, US",
+   "name": "Best Buy",
+   "sector": "consumer-retail",
+   "size": "Revenue ~$41.5B (fiscal 2025, approx.)",
+   "subindustry": "retail-ecommerce",
+   "ticker": "NYSE: BBY",
+   "updated": "2026-11-24"
   },
   "bill-holdings": {
    "businessModel": "Sells cloud software for bill payment, invoicing and expense management to small and midsize businesses, earning subscription fees plus transaction fees on payments it processes.",
@@ -1563,6 +1614,23 @@
    "ticker": "Nasdaq: FANG",
    "updated": "2026-11-16"
   },
+  "dicks-sporting-goods": {
+   "businessModel": "Sells sporting goods, footwear and apparel through large US stores and online, earning a retail margin plus higher margins on its own brands.",
+   "competitors": [
+    "Academy Sports + Outdoors",
+    "Foot Locker",
+    "Walmart",
+    "Amazon",
+    "Nike Direct"
+   ],
+   "hq": "Coraopolis, Pennsylvania, US",
+   "name": "Dick's Sporting Goods",
+   "sector": "consumer-retail",
+   "size": "Quarterly revenue $5.13B (Q3 2026)",
+   "subindustry": "retail-ecommerce",
+   "ticker": "NYSE: DKS",
+   "updated": "2026-11-24"
+  },
   "doordash": {
    "businessModel": "Runs a local delivery marketplace for restaurants, grocery and retail, earning a commission from merchants plus delivery fees, a DashPass subscription and advertising.",
    "competitors": [
@@ -1916,6 +1984,23 @@
    "ticker": "NYSE: FLO",
    "updated": "2026-11-14"
   },
+  "fluence-energy": {
+   "businessModel": "Designs and delivers grid-scale battery storage systems for utilities, developers and data centers, plus software and long-term service contracts.",
+   "competitors": [
+    "Tesla Energy",
+    "Wärtsilä",
+    "Sungrow",
+    "BYD",
+    "Powin"
+   ],
+   "hq": "Arlington, Virginia, US",
+   "name": "Fluence Energy",
+   "sector": "energy-materials",
+   "size": "Revenue $2.3B (fiscal 2026)",
+   "subindustry": "renewables-transition",
+   "ticker": "Nasdaq: FLNC",
+   "updated": "2026-11-24"
+  },
   "ford": {
    "businessModel": "Builds and sells cars, trucks and commercial vehicles through Ford Blue and Ford Pro, runs an EV unit (Model e) and earns financing income through Ford Credit.",
    "competitors": [
@@ -2221,6 +2306,23 @@
    "subindustry": "transport-logistics",
    "ticker": "XETRA: HLAG",
    "updated": "2026-11-13"
+  },
+  "hewlett-packard-enterprise": {
+   "businessModel": "Sells servers (including AI systems), networking equipment and storage to companies, governments and cloud providers, plus related services and subscription software.",
+   "competitors": [
+    "Dell Technologies",
+    "Supermicro",
+    "Cisco",
+    "Lenovo",
+    "Arista Networks"
+   ],
+   "hq": "Houston, Texas, US",
+   "name": "Hewlett Packard Enterprise",
+   "sector": "tmt",
+   "size": "FY2027 revenue guidance $59.4B-$63.1B (Nov 2026)",
+   "subindustry": "software-cloud",
+   "ticker": "NYSE: HPE",
+   "updated": "2026-11-24"
   },
   "home-depot": {
    "businessModel": "Sells building materials, tools and home-improvement products to homeowners and professional contractors through about 2,300 stores, online, and trade-distribution units.",
@@ -2675,6 +2777,23 @@
    "subindustry": "payments-fintech",
    "ticker": "NYSE: KLAR",
    "updated": "2026-11-17"
+  },
+  "kohls": {
+   "businessModel": "Runs about 1,100 US department stores selling apparel, home goods and beauty, and earns extra income from its credit card program and in-store Sephora shops.",
+   "competitors": [
+    "Macy's",
+    "JCPenney",
+    "Target",
+    "TJX",
+    "Ross Stores"
+   ],
+   "hq": "Menomonee Falls, Wisconsin, US",
+   "name": "Kohl's",
+   "sector": "consumer-retail",
+   "size": "Quarterly revenue $3.5B (Q3 2026)",
+   "subindustry": "retail-ecommerce",
+   "ticker": "NYSE: KSS",
+   "updated": "2026-11-24"
   },
   "kymera-therapeutics": {
    "businessModel": "A clinical-stage biotech developing oral drugs that degrade disease-causing proteins; earns partnership payments today and aims to sell its own drugs.",
@@ -3232,6 +3351,22 @@
    "ticker": "XETRA: MUV2",
    "updated": "2026-11-12"
   },
+  "neomille": {
+   "businessModel": "Turns corn into ethanol at two plants in central Brazil and sells the fuel plus animal feed (DDG) and corn oil by-products.",
+   "competitors": [
+    "FS Bioenergia",
+    "Inpasa",
+    "Raízen",
+    "São Martinho"
+   ],
+   "hq": "Goiás, Brazil",
+   "name": "Neomille",
+   "sector": "consumer-retail",
+   "size": "Capacity ~800M liters of ethanol a year (2026)",
+   "subindustry": "agriculture-food",
+   "ticker": "Private (CerradinhoBio; 42% being sold to Petrobras)",
+   "updated": "2026-11-24"
+  },
   "netflix": {
    "businessModel": "Charges monthly subscriptions at several price tiers and sells advertising on cheaper ad-supported plans, using the revenue to fund original shows and licensed content.",
    "competitors": [
@@ -3299,6 +3434,23 @@
    "subindustry": "automotive-mobility",
    "ticker": "TSE: 7201",
    "updated": "2026-11-13"
+  },
+  "norfolk-southern": {
+   "businessModel": "Operates a freight railroad in the eastern US, charging shippers per carload or container to move coal, chemicals, autos, goods and intermodal freight.",
+   "competitors": [
+    "CSX",
+    "Union Pacific",
+    "BNSF",
+    "CPKC",
+    "Trucking firms"
+   ],
+   "hq": "Atlanta, Georgia, US",
+   "name": "Norfolk Southern",
+   "sector": "infrastructure-logistics",
+   "size": "Revenue ~$12.1B (2024, approx.)",
+   "subindustry": "transport-logistics",
+   "ticker": "NYSE: NSC",
+   "updated": "2026-11-24"
   },
   "northrop-grumman": {
    "businessModel": "Develops and builds aircraft, space systems, missiles and electronics under long government contracts, earning a margin on each program plus follow-on support work.",
@@ -3590,6 +3742,23 @@
    "ticker": "NASDAQ: PANW",
    "updated": "2026-11-19"
   },
+  "partners-group": {
+   "businessModel": "Manages private equity, infrastructure, real estate and private debt funds for institutions and wealthy individuals, earning management fees and a share of profits.",
+   "competitors": [
+    "Blackstone",
+    "KKR",
+    "Apollo",
+    "EQT",
+    "Carlyle"
+   ],
+   "hq": "Baar-Zug, Switzerland",
+   "name": "Partners Group",
+   "sector": "financial-services",
+   "size": "Assets under management ~$150B (2024, approx.)",
+   "subindustry": "asset-wealth",
+   "ticker": "SIX: PGHN",
+   "updated": "2026-11-24"
+  },
   "paysafe": {
    "businessModel": "Processes card and online payments for merchants, especially in gaming and e-commerce, and runs digital wallets such as Skrill and Neteller, earning fees on each transaction.",
    "competitors": [
@@ -3640,6 +3809,23 @@
    "subindustry": "internet-platforms",
    "ticker": "Nasdaq: PERI",
    "updated": "2026-11-03"
+  },
+  "petrobras": {
+   "businessModel": "Brazil's state-controlled oil company produces oil and gas, mainly from deepwater fields, refines most of Brazil's fuel, and sells it to distributors; now re-entering ethanol.",
+   "competitors": [
+    "Shell",
+    "TotalEnergies",
+    "Equinor",
+    "ExxonMobil",
+    "PRIO"
+   ],
+   "hq": "Rio de Janeiro, Brazil",
+   "name": "Petrobras",
+   "sector": "energy-materials",
+   "size": "Revenue ~$91B (2024, approx.)",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "NYSE: PBR; B3: PETR4",
+   "updated": "2026-11-24"
   },
   "pfizer": {
    "businessModel": "Develops and sells prescription medicines and vaccines, earning most of its profit from patent-protected products in oncology, cardiology and vaccines.",
@@ -4354,6 +4540,22 @@
    "subindustry": "medtech",
    "ticker": "SIX: SOON",
    "updated": "2026-11-13"
+  },
+  "southern-company": {
+   "businessModel": "Owns regulated electric utilities including Alabama Power and Georgia Power plus gas distribution, earning an allowed return on the plants and wires it builds.",
+   "competitors": [
+    "Duke Energy",
+    "NextEra Energy",
+    "Dominion Energy",
+    "Entergy"
+   ],
+   "hq": "Atlanta, Georgia, US",
+   "name": "Southern Company",
+   "sector": "energy-materials",
+   "size": "Revenue ~$26.7B (2024, approx.)",
+   "subindustry": "power-utilities",
+   "ticker": "NYSE: SO",
+   "updated": "2026-11-24"
   },
   "southwest-airlines": {
    "businessModel": "A US airline selling tickets and extras such as extra-legroom seats and bags, flying mainly point-to-point routes on a single aircraft type. Profit depends on fares, seat occupancy and fuel and labor costs.",
@@ -5419,6 +5621,23 @@
    "ticker": "Nasdaq: WYNN",
    "updated": "2026-11-06"
   },
+  "ziehl-abegg": {
+   "businessModel": "Makes fans, motors and drives for ventilation, air conditioning, data center cooling and industrial processes, sold to equipment makers and building projects.",
+   "competitors": [
+    "EBM-Papst",
+    "Nidec",
+    "Regal Rexnord",
+    "Siemens",
+    "Johnson Controls"
+   ],
+   "hq": "Künzelsau, Germany",
+   "name": "Ziehl-Abegg",
+   "sector": "advanced-industries",
+   "size": "Revenue ~$1.4B expected for 2026 (ABB)",
+   "subindustry": "industrial-machinery",
+   "ticker": "Private (agreed sale to ABB)",
+   "updated": "2026-11-24"
+  },
   "zipline": {
    "businessModel": "Builds and operates delivery drones, charging retailers and health partners per delivery as it expands to more sites.",
    "competitors": [
@@ -5435,6 +5654,23 @@
    "subindustry": "retail-ecommerce",
    "ticker": "Private (venture-backed)",
    "updated": "2026-11-10"
+  },
+  "zoom": {
+   "businessModel": "Sells subscriptions to video meetings, phone, contact-center and AI collaboration software to businesses and individuals.",
+   "competitors": [
+    "Microsoft Teams",
+    "Cisco Webex",
+    "Google Meet",
+    "RingCentral",
+    "Salesforce (Slack)"
+   ],
+   "hq": "San Jose, California, US",
+   "name": "Zoom Communications",
+   "sector": "tmt",
+   "size": "Revenue ~$5.1B (fiscal 2027 guidance)",
+   "subindustry": "software-cloud",
+   "ticker": "Nasdaq: ZM",
+   "updated": "2026-11-24"
   },
   "zscaler": {
    "businessModel": "Sells cloud security subscriptions that route and inspect company internet and app traffic under a zero-trust model, priced mainly per user.",

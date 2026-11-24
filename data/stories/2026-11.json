@@ -7994,5 +7994,438 @@
   "subindustry": "payments-fintech",
   "summary": "OKXICE, a venture between crypto exchange OKX and NYSE owner Intercontinental Exchange, began offering round-the-clock trading of tokenized stocks to eligible US customers on Monday. It operates under a temporary SEC 'Innovation Exemption' that lets companies block third-party tokens of their shares by objecting within 30 days, and 56 of the 62 companies it first proposed did so, including JPMorgan, McDonald's and Coca-Cola. The venue instead opens with more than 70 assets, including 59 ETFs and tokens of crypto-linked firms such as Coinbase, Circle, Robinhood and Strategy. Tokenized stocks and ETFs worldwide were worth about $3.88 billion in mid-November.",
   "tags": []
+ },
+ "2026-11-24-01": {
+  "companies": [
+   "sanofi",
+   "insmed"
+  ],
+  "date": "2026-11-24",
+  "headline": "Sanofi agrees to buy Insmed for $41 billion in cash, the biggest pharma deal in three years",
+  "numbers": [
+   "Equity value: ~$41.0B (€37.6B)",
+   "Price: $175 a share in cash",
+   "Premium: ~17% to Monday's close, ~46% to pre-leak price",
+   "Brinsupri sales: $1.09B through Sept 30, 2026",
+   "Expected close: first half of 2027"
+  ],
+  "order": 1,
+  "sector": "healthcare",
+  "soWhat": "Large drugmakers buy launched, fast-growing medicines to replace sales they will lose when patents expire, and Sanofi's biggest seller, Dupixent, faces that cliff early next decade. Paying roughly 38 times Brinsupri's year-to-date sales shows how scarce proven growth assets are, which rewards biotech investors and raises takeover values for other mid-sized respiratory companies. The open question is whether Brinsupri keeps growing fast enough to justify the price, since Sanofi only expects the deal to add to earnings per share by the end of 2028.",
+  "sources": [
+   {
+    "title": "Sanofi press release (SEC Form 6-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001121404/000119312526473314/d130092dex991.htm"
+   },
+   {
+    "title": "Startup Fortune: Sanofi agrees to buy Insmed for $175 a share",
+    "url": "https://startupfortune.com/sanofi-agrees-to-buy-insmed-for-175-a-share-in-a-41-billion-cash-deal/"
+   },
+   {
+    "title": "CNBC: Stocks making the biggest moves Tuesday",
+    "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "Sanofi will pay $175 a share in cash for Insmed, an equity value of about $41 billion (€37.6 billion). The price is about 17% above Monday's close of $149.09 and roughly 46% above where the stock traded before talks were reported on November 19. Insmed's main drug, Brinsupri, a pill for the lung disease bronchiectasis launched in the US in August 2025, brought in $1.09 billion of sales in the first nine months of 2026. Sanofi also gets Arikayce, an inhaled antibiotic with $434 million of 2025 sales, and a late-stage inhaled drug called TPIP. The deal is funded with cash and new debt and is expected to close in the first half of 2027.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-24-02": {
+  "companies": [],
+  "date": "2026-11-24",
+  "headline": "US prepares new tariffs on China, the EU and 14 other economies to replace levies struck down by the Supreme Court",
+  "numbers": [
+   "Economies under investigation: 16 (China, EU and 14 others)",
+   "Nasdaq 100 futures: about -2.4% on the report",
+   "China's paused retaliatory tariff: 24% (pause runs to January)"
+  ],
+  "order": 2,
+  "sector": "macro",
+  "soWhat": "Section 301 tariffs follow a formal investigation, which makes them harder to overturn in court than the emergency tariffs that were struck down and are now being refunded to importers. For companies that source from China, the relief from those refunds may be short-lived, and planning for 2027 prices and supply chains gets harder. The open question is how high the rates go and whether China responds by ending its pause on a 24% retaliatory tariff, which it extended only to January.",
+  "sources": [
+   {
+    "title": "TMGM: US prepares new tariffs on China and other trading partners (WSJ)",
+    "url": "https://www.tmgm.com/en/analysis/market-news/article/us-prepares-new-tariffs-on-china-and-other-trading-partners-wsj-202611241338"
+   },
+   {
+    "title": "Bloomberg: US readies tariff hike on China, EU goods",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-as-soon-as-tuesday"
+   },
+   {
+    "title": "Yahoo Finance: China extends pause on 24% US tariffs to January",
+    "url": "https://finance.yahoo.com/economy/policy/articles/china-extends-pause-24-us-043635075.html"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "The US is preparing to raise tariffs on China, the European Union and other trading partners, the Wall Street Journal reported on Tuesday. Trade Representative Jamieson Greer could publish the findings of a months-long trade investigation covering China, the EU and 14 other countries as soon as this week. The case argues that government subsidies have created excess factory capacity that lets producers sell cheaply abroad, and China is expected to face the highest rates. Bloomberg reported the new duties would use Section 301 trade law to replace tariffs the Supreme Court struck down. Nasdaq 100 futures fell about 2.4% on the report, giving back part of Monday's rally.",
+  "tags": []
+ },
+ "2026-11-24-03": {
+  "companies": [],
+  "date": "2026-11-24",
+  "headline": "Brent slips below $90 to a three-month low as Libyan and Gulf supply outweighs Hormuz attacks",
+  "numbers": [
+   "Brent: $89.95 (-2.8%) Monday; intraday low $88.60",
+   "WTI: $80.73 (-3.2%)",
+   "JPMorgan H1 2027 view: high $70s",
+   "OPEC+ meeting: November 29"
+  ],
+  "order": 3,
+  "sector": "energy-materials",
+  "soWhat": "The market is now pricing a coming glut more heavily than the risk of disruption, which is why even mine strikes on tankers no longer lift prices for long. That squeezes producers with higher costs and puts pressure on OPEC+ to choose between cutting output to defend prices and holding market share. Refiners and fuel buyers gain if crude stays cheap while product prices hold. The open question is whether OPEC+ trims its 2027 targets on Sunday or lets prices fall toward the high $70s.",
+  "sources": [
+   {
+    "title": "Korea Times (Reuters): Oil falls around 3% on increased Middle East flows, Libyan pipeline restart",
+    "url": "https://www.koreatimes.co.kr/world/20261124/oil-falls-around-3-on-increased-middle-east-flows-libyan-pipeline-restart"
+   },
+   {
+    "title": "CNBC: Stock market live updates, Nov 24",
+    "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Brent crude fell 2.8% to $89.95 a barrel on Monday and US crude (WTI) fell 3.2% to $80.73, after touching their lowest levels since late August. The restart of Libya's Sharara oil pipeline and rising flows from the Middle East outweighed attacks on shipping and refineries in the Gulf. Prices stayed near those lows on Tuesday, with Brent around $89, even after three tankers hit naval mines in the Strait of Hormuz. JPMorgan expects a supply surplus to push prices into the high $70s in the first half of 2027. OPEC+ ministers meet on November 29 to set output policy for 2027.",
+  "tags": []
+ },
+ "2026-11-24-04": {
+  "companies": [
+   "dicks-sporting-goods",
+   "abercrombie-fitch",
+   "kohls",
+   "best-buy"
+  ],
+  "date": "2026-11-24",
+  "headline": "Dick's, Abercrombie, Kohl's and Best Buy beat forecasts and raise outlooks heading into the holidays",
+  "numbers": [
+   "Dick's revenue: $5.13B (+23%)",
+   "Abercrombie sales: $1.44B (+11%); operating margin 15.5%",
+   "Abercrombie tariff refunds: ~$20M (~$0.40 a share)",
+   "Best Buy comparable sales: +6.1%, best in five years"
+  ],
+  "order": 4,
+  "sector": "consumer-retail",
+  "soWhat": "The results show US shoppers are still spending going into the holiday season, but the gains go to retailers with a clear edge in a category, not to stores across the board. Part of the margin boost is one-off: refunds of tariffs the Supreme Court struck down lifted Abercrombie's earnings by about $0.40 a share, and new tariffs being prepared could reverse that next year. The open question is whether demand holds if the Federal Reserve raises rates in December, as markets now expect.",
+  "sources": [
+   {
+    "title": "Abercrombie & Fitch Q3 fiscal 2026 results (GlobeNewswire via Manila Times)",
+    "url": "https://www.manilatimes.net/2026/11/24/tmt-newswire/globenewswire/abercrombie-fitch-co-reports-third-quarter-fiscal-2026-results/2477090"
+   },
+   {
+    "title": "CNBC: Stocks making the biggest moves Tuesday",
+    "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html"
+   },
+   {
+    "title": "CNBC: Stock market live updates, Nov 24",
+    "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "Several US retailers reported better-than-expected third quarters on Tuesday. Dick's Sporting Goods earned $1.94 a share on an adjusted basis against about $1.40 expected, with revenue up 23% to $5.13 billion, and its shares rose more than 16%. Abercrombie & Fitch posted record sales of $1.44 billion, up 11%, and an operating margin of 15.5%, helped by about $20 million of refunded tariffs; it raised its full-year profit forecast and the stock jumped about 22%. Kohl's revenue of $3.5 billion beat the $3.39 billion forecast, and Best Buy's comparable sales rose 6.1%, its best in five years.",
+  "tags": []
+ },
+ "2026-11-24-05": {
+  "companies": [
+   "anthropic"
+  ],
+  "date": "2026-11-24",
+  "headline": "Anthropic dips below its $83 IPO price three trading days after the largest listing on record",
+  "numbers": [
+   "IPO price: $83 a share",
+   "IPO size: $93.5B, largest on record",
+   "Debut: opened $111.50, closed $97.17",
+   "Tuesday premarket: about -6%, briefly below $83"
+  ],
+  "order": 5,
+  "sector": "tmt",
+  "soWhat": "Trading below the IPO price matters because it hurts investors who bought in the offering and makes the next large AI listings harder to price. The split with Monday's chip rally shows investors separating companies that sell AI hardware from model developers that must keep spending heavily on computing before profits arrive. The open question is whether the weaker share price limits how cheaply Anthropic can raise further capital for data centers.",
+  "sources": [
+   {
+    "title": "CP24 (Reuters): Anthropic breaks below US$83 IPO price as debut rally unravels",
+    "url": "https://www.cp24.com/news/money/2026/11/24/anthropic-breaks-below-us83-ipo-price-as-debut-rally-unravels/"
+   },
+   {
+    "title": "CNBC: Stocks making the biggest moves Tuesday",
+    "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Anthropic shares fell as much as about 6% before the market opened on Tuesday, dropping below their $83 IPO price before recovering to around $83. The company raised $93.5 billion in its listing, the largest IPO on record, ahead of SpaceX's $85.7 billion in June. The stock opened at $111.50 on its November 19 debut, 34% above the offer price, and closed that day at $97.17. It then missed Monday's broad AI rally. Reports tied the slide to a wider tech selloff, worries about stretched AI valuations and rising interest rates that make heavy computing spending more expensive.",
+  "tags": []
+ },
+ "2026-11-24-06": {
+  "companies": [
+   "hewlett-packard-enterprise",
+   "nvidia"
+  ],
+  "date": "2026-11-24",
+  "headline": "HPE's AI server sales jump 69% and guidance tops forecasts, but shares fall 11% on margin worries",
+  "numbers": [
+   "Q4 revenue: $14.55B",
+   "Cloud and AI revenue: $11.26B (+68.6%)",
+   "FY2027 revenue guide: $59.4B-$63.1B vs ~$55B expected",
+   "New buyback: +$5B"
+  ],
+  "order": 6,
+  "sector": "tmt",
+  "soWhat": "AI server makers grow fast but keep a thin slice of the value, because most of the price of a system goes to the GPUs and memory they buy in. When memory and chip costs rise faster than server prices, the assembler's margin shrinks even as sales soar, and the profit stays with suppliers such as Nvidia and the memory makers. The open question is whether HPE's networking business, which earns higher margins, can grow fast enough to offset the squeeze.",
+  "sources": [
+   {
+    "title": "Investing.com: HPE delivers quarterly results beat, raises guidance",
+    "url": "https://www.investing.com/news/earnings/hpe-stocks-falls-after-hours-despite-quarterly-results-guidance-beat-5046357"
+   },
+   {
+    "title": "CNBC: Stocks making the biggest moves Tuesday",
+    "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Hewlett Packard Enterprise reported fiscal fourth-quarter revenue of $14.55 billion and adjusted earnings of $1.43 a share, both above forecasts. Its cloud and AI segment, which includes servers, grew 68.6% to $11.26 billion, and networking grew 12.3% to $3.06 billion. HPE forecast fiscal 2027 revenue of $59.4 billion to $63.1 billion, well above the roughly $55 billion analysts expected, and added $5 billion to its share buyback. Shares still fell about 11% on Tuesday after rising about 17% on Monday, as analysts said the outlook implies lower gross margins because of price pressure and higher component costs.",
+  "tags": []
+ },
+ "2026-11-24-07": {
+  "companies": [
+   "abb",
+   "ziehl-abegg"
+  ],
+  "date": "2026-11-24",
+  "headline": "ABB buys German fan maker Ziehl-Abegg for $2.65 billion to grow in data center cooling",
+  "numbers": [
+   "Enterprise value: $2.65B (equity ~$2.2B)",
+   "Valuation: 1.9x sales, 18.6x EBITDA",
+   "Ziehl-Abegg 2026 revenue: ~$1.4B",
+   "Expected close: second half of 2027"
+  ],
+  "order": 7,
+  "sector": "advanced-industries",
+  "soWhat": "Every AI data center needs large amounts of cooling, so fans and motors that move air efficiently have become a growth market rather than a mature one. Buyers like ABB pay a high multiple for low-margin businesses because they expect to raise margins through scale, purchasing and their own drives and service networks. It is the second large fan-maker deal in weeks after EBM-Papst's sale to Madison Air, leaving fewer independent suppliers.",
+  "sources": [
+   {
+    "title": "Investing.com (Reuters): ABB to acquire Germany's Ziehl-Abegg for $2.65 billion",
+    "url": "https://www.investing.com/news/stock-market-news/abb-to-acquire-germanys-ziehlabegg-for-265-billion-5044422"
+   },
+   {
+    "title": "Handelsblatt: ABB übernimmt Ventilatorenhersteller für 2,65 Milliarden Dollar",
+    "url": "https://www.handelsblatt.com/unternehmen/industrie/ziehl-abegg-abb-uebernimmt-ventilatorenhersteller-fuer-265-milliarden-dollar/100271950.html"
+   }
+  ],
+  "subindustry": "industrial-machinery",
+  "summary": "ABB agreed to buy Ziehl-Abegg, a German maker of fans, motors and drives, at an enterprise value of $2.65 billion, or an equity value of about $2.2 billion. The price is 1.9 times Ziehl-Abegg's expected 2026 sales of about $1.4 billion and 18.6 times its earnings before interest, tax, depreciation and amortization. Ziehl-Abegg's products cool data centers, clean rooms and industrial processes, and its margin is in the mid-single digits. ABB plans to lift that margin to the level of its own Motion division within three years. The deal is expected to close in the second half of 2027.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-24-08": {
+  "companies": [
+   "petrobras",
+   "neomille"
+  ],
+  "date": "2026-11-24",
+  "headline": "Petrobras returns to ethanol with a R$2.8 billion deal for 42% of corn ethanol maker Neomille",
+  "numbers": [
+   "Stake: 42% for R$2.8B",
+   "New capital into Neomille: R$1.8B",
+   "Capacity: ~800M liters/yr, ~1.5B by 2028",
+   "Earn-out: up to R$397M"
+  ],
+  "order": 8,
+  "sector": "energy-materials",
+  "soWhat": "Brazil blends ethanol into all its gasoline and most of its cars can run on either fuel, so ethanol competes directly with the gasoline Petrobras refines. Owning both the pipeline and a share of production lets Petrobras capture margin along the whole chain instead of only selling fossil fuel. Corn ethanol is the fastest-growing part of the market because farmers in central Brazil grow corn as a cheap second crop after soy. The open question is how much of Petrobras's spending shifts from oil to low-carbon fuels over time.",
+  "sources": [
+   {
+    "title": "Petrobras filing (SEC Form 6-K): stake in Neomille",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001119639/000129281426005382/pbr20261123_6k2.htm"
+   }
+  ],
+  "subindustry": "refining-chemicals",
+  "summary": "Brazil's state oil company Petrobras agreed to buy 42% of Neomille, the country's third-largest corn ethanol producer, for R$2.8 billion. That includes R$1.8 billion of new capital for Neomille and up to R$397 million in payments tied to future performance. Neomille, part of the CerradinhoBio group, has two plants with capacity of about 800 million liters of ethanol a year, expected to reach about 1.5 billion liters by 2028. The deal follows Petrobras's November 12 purchase of Logum, which runs Brazil's main ethanol pipeline network. Petrobras also plans to use the ethanol and corn oil to make sustainable aviation fuel.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-24-09": {
+  "companies": [
+   "fluence-energy"
+  ],
+  "date": "2026-11-24",
+  "headline": "Fluence's battery backlog hits a record $8.9 billion as data centers seek faster power, despite a $274 million loss",
+  "numbers": [
+   "Backlog: ~$8.9B (vs $5.3B a year ago)",
+   "FY2026 orders: >$6.2B",
+   "Q4 revenue: $744M (-29%)",
+   "FY2026 net loss: $273.9M"
+  ],
+  "order": 9,
+  "sector": "energy-materials",
+  "soWhat": "Batteries are one of the quickest ways to add usable power for data centers and grids that cannot wait years for new plants and transmission lines, which is why orders are surging. But the business is a contract manufacturer with thin margins, so factory problems and component costs can turn strong demand into losses. The open question is whether Fluence can turn its backlog into deliveries at a profit as its new US factories ramp up.",
+  "sources": [
+   {
+    "title": "Startup Fortune: Fluence Energy shares jump after a record $8.9 billion backlog",
+    "url": "https://startupfortune.com/fluence-energy-shares-jump-after-a-record-89-billion-backlog-and-a-274-million-loss/"
+   }
+  ],
+  "subindustry": "renewables-transition",
+  "summary": "Fluence Energy, which builds large battery storage systems, reported a record order backlog of about $8.9 billion at September 30, up from $5.3 billion a year earlier. It booked $3.5 billion of orders in the fourth quarter and more than $6.2 billion in the fiscal year. Revenue fell 29% in the quarter to $744 million because factory delays pushed deliveries into next year, and the company lost $273.9 million for the year. Its gross margin in the quarter was negative 5%. Shares rose about 10% on Monday and gained further after hours.",
+  "tags": []
+ },
+ "2026-11-24-10": {
+  "companies": [
+   "freeport-mcmoran"
+  ],
+  "date": "2026-11-24",
+  "headline": "Copper drops 3% and mining shares slide as a firmer dollar and rate-hike bets hit metals",
+  "numbers": [
+   "LME copper: $12,117/t (-3%)",
+   "Monday's intraday gain: up to 5.3%",
+   "Freeport: -3.5%; Teck: -4.4%; BHP: -3.1%"
+  ],
+  "order": 10,
+  "sector": "energy-materials",
+  "soWhat": "Copper has become a bet on AI data centers and power grids, so its price now swings with tech sentiment as well as with Chinese demand. Miners' profits move much more than the metal price because their costs are largely fixed, which is why their shares fall faster than copper. The open question is whether the expected Fed hike and a stronger dollar keep pressure on metals into 2027.",
+  "sources": [
+   {
+    "title": "Rallies.ai: Copper miners fall as metal prices retreat",
+    "url": "https://rallies.ai/news/copper-miners-fall-as-metal-prices-retreat-e3958caa9678d697"
+   },
+   {
+    "title": "CNBC: Stock market live updates, Nov 24",
+    "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
+   }
+  ],
+  "subindustry": "metals-mining",
+  "summary": "Benchmark copper on the London Metal Exchange fell 3% to $12,117 a metric ton on Tuesday, giving back part of Monday's jump of as much as 5.3% after Nvidia's leadership news lifted AI-linked assets. A firmer dollar weighed on metals, and gold and silver also fell. Mining shares dropped in Europe and the US: BHP fell 3.1%, Rio Tinto 2.3%, Freeport-McMoRan 3.5% and Teck Resources 4.4% in early trading. Money markets now price a quarter-point Federal Reserve rate hike in December, which tends to lift the dollar and weigh on commodities.",
+  "tags": []
+ },
+ "2026-11-24-11": {
+  "companies": [
+   "union-pacific",
+   "norfolk-southern"
+  ],
+  "date": "2026-11-24",
+  "headline": "Opposition to the $85 billion Union Pacific–Norfolk Southern rail merger grows as 57 more parties object",
+  "numbers": [
+   "Deal value: $85B",
+   "New formal opponents: 57",
+   "Parties seeking rejection: 97; seeking conditions: 142",
+   "State attorneys general objecting: 28"
+  ],
+  "order": 11,
+  "sector": "infrastructure-logistics",
+  "soWhat": "The merger would create the first US railroad running from coast to coast, which the railroads say would speed freight that now changes hands in the middle of the country. Shippers fear higher rates and fewer options, because many plants and farms are served by only one railroad. Under its rules for large rail mergers, the board must find that a deal enhances competition, so the volume of objections makes heavy conditions, or a rejection, more likely. The open question is what conditions the railroads would accept.",
+  "sources": [
+   {
+    "title": "PR Newswire (Stop The Rail Merger Coalition): Manufacturers, farmers, railroads and unions unite against UP-NS merger",
+    "url": "https://prnewswire.com/news-releases/americas-biggest-manufacturers-farmers-railroads-and-labor-unions-unite-against-up-ns-merger-302948767.html"
+   }
+  ],
+  "subindustry": "transport-logistics",
+  "summary": "Fifty-seven more shippers, farm groups and others formally opposed Union Pacific's planned $85 billion merger with Norfolk Southern in the latest comment round at the Surface Transportation Board, according to a coalition fighting the deal. New opponents include Marathon Petroleum, Cleveland-Cliffs, J.B. Hunt and the American Farm Bureau Federation, and General Motors raised concerns. Rival railroads CSX, BNSF and CPKC also oppose it, and 28 state attorneys general have now filed objections. The coalition counts 97 parties calling for rejection and 142 asking for conditions if the deal is approved.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-24-12": {
+  "companies": [
+   "partners-group"
+  ],
+  "date": "2026-11-24",
+  "headline": "Partners Group investors approve splitting a €6.6 billion evergreen fund that had limited withdrawals",
+  "numbers": [
+   "Fund size: ~€6.6B",
+   "Vote in favor: 83% (two-thirds needed)",
+   "Run-off portfolio: ~€5.2B; growth portfolio: ~€1.5B",
+   "New withdrawal cap: 2.5% of NAV a quarter (from 5%)"
+  ],
+  "order": 12,
+  "sector": "financial-services",
+  "soWhat": "Evergreen funds let individual investors buy into private assets and promise limited regular withdrawals, but the assets themselves can take years to sell. When too many investors want out at once, managers must either gate the fund or sell assets at a discount, and this split is a test of how that tension gets resolved. The outcome matters for the whole push by private markets firms into wealth management. The open question is how fast the run-off portfolio can return cash without selling assets cheaply.",
+  "sources": [
+   {
+    "title": "Global Banking & Finance (Reuters): Partners Group shareholders approve split of troubled SICAV fund",
+    "url": "https://www.globalbankingandfinance.com/partners-group-seals-split-troubled-fund/"
+   },
+   {
+    "title": "Bloomberg: Partners Group investors back €6.6 billion evergreen split",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/partners-group-shareholders-vote-to-split-key-fund-into-two"
+   }
+  ],
+  "subindustry": "asset-wealth",
+  "summary": "Investors in Partners Group's Global Value SICAV, a 19-year-old private equity fund sold mainly to wealthy individuals, approved splitting it into two portfolios, with 83% of votes in favor against a required two-thirds. One portfolio, about €1.5 billion, will keep investing for long-term growth, while the other, about €5.2 billion, will sell assets and pay out cash. Withdrawal limits for new share classes were halved to 2.5% of net asset value a quarter. Partners Group capped withdrawals in June after requests surged, which hit its share price, and its shares rose about 3% after the vote.",
+  "tags": []
+ },
+ "2026-11-24-13": {
+  "companies": [
+   "amentum"
+  ],
+  "date": "2026-11-24",
+  "headline": "Government contractor Amentum ends the year with a $48 billion backlog and starts its first buyback",
+  "numbers": [
+   "FY2026 revenue: $13.8B (-4%)",
+   "Backlog: $48.3B",
+   "Adjusted EBITDA margin: 8.2%",
+   "FY2027 revenue guide: $13.8B-$14.05B"
+  ],
+  "order": 13,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Government services firms win multi-year contracts and earn a thin margin on the labor and services they supply, so a large backlog gives unusual visibility into future revenue. Profit growth comes mainly from winning higher-margin technology work and cutting debt rather than from fast sales growth. The open question is how US budget pressure and agency workforce changes affect new contract awards in 2027.",
+  "sources": [
+   {
+    "title": "Amentum fiscal 2026 results (SEC Form 8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002011286/000162828026075523/exhibit991-november232026.htm"
+   }
+  ],
+  "subindustry": "public-sector",
+  "summary": "Amentum, which provides engineering, technology and support services to the US and allied governments, reported fiscal 2026 revenue of $13.8 billion, down 4%, and fourth-quarter revenue of $3.62 billion, down 8% because the prior year had an extra week. Adjusted earnings per share rose 13% to $0.71 in the quarter, and adjusted EBITDA for the year was $1.13 billion, an 8.2% margin. Its backlog reached $48.3 billion, about 3.5 times annual revenue. The company forecast fiscal 2027 revenue of $13.8 billion to $14.05 billion, approved its first $500 million share buyback, and its shares jumped after hours.",
+  "tags": []
+ },
+ "2026-11-24-14": {
+  "companies": [
+   "zoom"
+  ],
+  "date": "2026-11-24",
+  "headline": "Zoom starts paying a dividend as enterprise sales grow at their fastest pace in 13 quarters",
+  "numbers": [
+   "Quarterly revenue: $1.29B (+4.9%)",
+   "Enterprise revenue: $805M (+8.6%)",
+   "Free cash flow: $558M",
+   "First dividend: $0.25 a share"
+  ],
+  "order": 14,
+  "sector": "tmt",
+  "soWhat": "Once a fast-growing software company slows to single-digit growth but still generates strong cash, returning cash through dividends and buybacks becomes the main way to reward shareholders. Zoom's mix is shifting toward large customers buying phone, contact-center and AI tools, while the consumer side that boomed in the pandemic shrinks. The open question is whether enterprise growth can speed up enough to lift total growth above about 5%.",
+  "sources": [
+   {
+    "title": "Zoom Q3 fiscal 2027 results (SEC Form 8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001585521/000158552126000170/zm-20261031ex991.htm"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Zoom reported quarterly revenue of $1.29 billion, up 4.9% from a year earlier. Sales to enterprise customers rose 8.6% to $805 million, their fastest growth in 13 quarters, while its online business for individuals and small firms slipped 0.6% to $485 million. Free cash flow was $558 million. Zoom started a quarterly dividend of $0.25 a share, payable December 17, and expects full-year revenue of about $5.1 billion.",
+  "tags": []
+ },
+ "2026-11-24-15": {
+  "companies": [
+   "southern-company"
+  ],
+  "date": "2026-11-24",
+  "headline": "Alabama sets new rules for data center power contracts to keep other customers from paying their costs",
+  "numbers": [
+   "Threshold: data centers reserving 150 MW+",
+   "Automatic approval: if no vote within 90 days",
+   "AEP Ohio comparison: exit fee of 36 months of minimum charges"
+  ],
+  "order": 15,
+  "sector": "energy-materials",
+  "soWhat": "Utilities must build plants and wires years before a data center reaches full demand, and if the customer leaves early, other ratepayers can be left paying for that investment. States are now writing rules on minimum terms, exit fees and collateral; AEP Ohio, for example, charges data centers that leave after five years an exit fee equal to 36 months of minimum bills. These rules shape where data centers are built and how fast utilities can grow their regulated asset base. The open question is whether case-by-case review protects households as well as fixed minimum terms would.",
+  "sources": [
+   {
+    "title": "Daily Caller: Alabama Power's data center deals face new electricity cost rules",
+    "url": "https://dailycaller.com/2026/11/23/alabama-powers-data-center-deals-face-new-electricity-cost-rules/"
+   }
+  ],
+  "subindustry": "power-utilities",
+  "summary": "Alabama Power's revised rate schedule for large data centers took effect on Monday after a Public Service Commission order. It covers data centers that reserve at least 150 megawatts at one site, and the commission will review each contract's length, minimum payments, upfront money and collateral. Alabama Power cannot price a contract below the extra cost of serving the site, and contracts are approved automatically if the commission does not vote within 90 days. The utility must publicly name the customer, its location and the maximum capacity reserved. Critics say the order sets no minimum financial terms and keeps contract details confidential.",
+  "tags": []
  }
 }
