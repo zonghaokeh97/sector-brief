@@ -203,6 +203,23 @@
    "ticker": "HKEX: 9926",
    "updated": "2026-11-15"
   },
+  "alimentation-couche-tard": {
+   "businessModel": "Runs about 17,000 convenience stores, many with fuel stations, under brands like Circle K, earning margins on fuel and in-store food, drinks and tobacco.",
+   "competitors": [
+    "Seven & i (7-Eleven)",
+    "Casey's",
+    "Murphy USA",
+    "Wawa",
+    "Żabka"
+   ],
+   "hq": "Laval, Quebec, Canada",
+   "name": "Alimentation Couche-Tard",
+   "sector": "consumer-retail",
+   "size": "Revenue ~$70B (approx., fiscal 2026)",
+   "subindustry": "retail-ecommerce",
+   "ticker": "TSX: ATD",
+   "updated": "2026-11-25"
+  },
   "allianz": {
    "businessModel": "Earns premiums from property-casualty and life/health insurance worldwide and invests them, plus fees from its asset managers PIMCO and Allianz Global Investors.",
    "competitors": [
@@ -356,6 +373,23 @@
    "ticker": "NYSE: AXP",
    "updated": "2026-10-25"
   },
+  "analog-devices": {
+   "businessModel": "Designs and makes analog, mixed-signal and power chips that convert real-world signals into data, sold mainly to industrial, automotive and communications customers. Many parts stay in production for years, which supports high margins.",
+   "competitors": [
+    "Texas Instruments",
+    "Infineon",
+    "NXP Semiconductors",
+    "STMicroelectronics",
+    "Microchip Technology"
+   ],
+   "hq": "Wilmington, Massachusetts, US",
+   "name": "Analog Devices",
+   "sector": "tmt",
+   "size": "Quarterly revenue $4.37B (Q4 FY2026); market cap ~$150B (approx., Nov 2026)",
+   "subindustry": "semiconductors",
+   "ticker": "NASDAQ: ADI",
+   "updated": "2026-11-25"
+  },
   "anthropic": {
    "businessModel": "Builds Claude AI models and sells access through subscriptions, API usage fees and enterprise contracts, paying heavily for chips and cloud compute.",
    "competitors": [
@@ -506,6 +540,23 @@
    "ticker": "Nasdaq: ARRY",
    "updated": "2026-11-05"
   },
+  "ashland": {
+   "businessModel": "Makes specialty additives and ingredients for personal care, pharmaceuticals, coatings and construction, earning higher margins than bulk chemical makers.",
+   "competitors": [
+    "Croda",
+    "Clariant",
+    "Lubrizol",
+    "Dow",
+    "IFF"
+   ],
+   "hq": "Wilmington, Delaware, US",
+   "name": "Ashland",
+   "sector": "energy-materials",
+   "size": "Revenue ~$1.9B (approx., fiscal 2025)",
+   "subindustry": "refining-chemicals",
+   "ticker": "NYSE: ASH",
+   "updated": "2026-11-25"
+  },
   "asics": {
    "businessModel": "Designs and sells running shoes, sportswear and lifestyle sneakers, including the Onitsuka Tiger brand, through retailers and its own stores.",
    "competitors": [
@@ -590,6 +641,23 @@
    "subindustry": "cpg",
    "ticker": "Nasdaq and TSX: ACB",
    "updated": "2026-11-04"
+  },
+  "autodesk": {
+   "businessModel": "Sells design and engineering software such as AutoCAD and Revit to architects, builders, manufacturers and media studios, mostly as subscriptions.",
+   "competitors": [
+    "Dassault Systèmes",
+    "PTC",
+    "Bentley Systems",
+    "Trimble",
+    "Siemens"
+   ],
+   "hq": "San Francisco, California, US",
+   "name": "Autodesk",
+   "sector": "tmt",
+   "size": "Quarterly revenue $2.16B (Q3 FY2027)",
+   "subindustry": "software-cloud",
+   "ticker": "NASDAQ: ADSK",
+   "updated": "2026-11-25"
   },
   "axon-enterprise": {
    "businessModel": "Sells Tasers, body cameras and drones to police, then earns recurring subscription revenue for cloud evidence storage and software.",
@@ -1175,6 +1243,39 @@
    "ticker": "Nasdaq: CSCO",
    "updated": "2026-11-13"
   },
+  "clariane": {
+   "businessModel": "Operates nursing homes, specialist clinics and home-care services in France, Germany, Italy, Belgium and Spain, earning resident fees and state-regulated care payments.",
+   "competitors": [
+    "Emeis",
+    "DomusVi",
+    "Colisée",
+    "Alloheim"
+   ],
+   "hq": "Paris, France",
+   "name": "Clariane",
+   "sector": "healthcare",
+   "size": "Revenue ~€5.2B (approx., 2024)",
+   "subindustry": "payers-providers",
+   "ticker": "Euronext Paris: CLARI",
+   "updated": "2026-11-25"
+  },
+  "clariant": {
+   "businessModel": "Makes specialty chemicals such as catalysts, personal-care ingredients and additives, sold by performance rather than volume.",
+   "competitors": [
+    "Croda",
+    "Evonik",
+    "BASF",
+    "Ashland",
+    "Dow"
+   ],
+   "hq": "Pratteln, Switzerland",
+   "name": "Clariant",
+   "sector": "energy-materials",
+   "size": "Revenue ~CHF 4B (approx., 2025)",
+   "subindustry": "refining-chemicals",
+   "ticker": "SIX: CLN",
+   "updated": "2026-11-25"
+  },
   "cleanaway": {
    "businessModel": "Collects, transports, treats and disposes of solid and liquid waste for councils and businesses under multi-year contracts, and earns extra from landfill fees and recycled materials.",
    "competitors": [
@@ -1530,6 +1631,40 @@
    "ticker": "Private (cooperative)",
    "updated": "2026-11-05"
   },
+  "deere": {
+   "businessModel": "Makes tractors, combines, sprayers, construction and forestry machines under the John Deere brand, sold through dealers, and earns interest by financing customers' purchases. Precision-farming software is a growing source of fees.",
+   "competitors": [
+    "CNH Industrial",
+    "AGCO",
+    "Kubota",
+    "Caterpillar",
+    "Komatsu"
+   ],
+   "hq": "Moline, Illinois, US",
+   "name": "Deere & Company",
+   "sector": "advanced-industries",
+   "size": "Revenue $47.7B (fiscal 2026)",
+   "subindustry": "industrial-machinery",
+   "ticker": "NYSE: DE",
+   "updated": "2026-11-25"
+  },
+  "dell-technologies": {
+   "businessModel": "Sells servers, storage and networking to companies and cloud providers, led by AI servers, plus PCs and monitors to consumers and businesses. Earns hardware margins plus recurring support and services fees.",
+   "competitors": [
+    "Hewlett Packard Enterprise",
+    "Super Micro Computer",
+    "Lenovo",
+    "HP Inc.",
+    "Cisco"
+   ],
+   "hq": "Round Rock, Texas, US",
+   "name": "Dell Technologies",
+   "sector": "tmt",
+   "size": "Revenue ~$202B expected for fiscal 2027 (company guidance)",
+   "subindustry": "software-cloud",
+   "ticker": "NYSE: DELL",
+   "updated": "2026-11-25"
+  },
   "delta-air-lines": {
    "businessModel": "Sells passenger tickets, with premium cabins and its loyalty program (including a large American Express partnership) providing a large share of profit.",
    "competitors": [
@@ -1849,6 +1984,23 @@
    "subindustry": "oil-gas-upstream",
    "ticker": "NYSE: EQT",
    "updated": "2026-10-26"
+  },
+  "equinor": {
+   "businessModel": "Produces oil and gas, mainly on the Norwegian continental shelf, and is Europe's largest gas supplier by pipeline; also builds offshore wind. About two-thirds owned by the Norwegian state.",
+   "competitors": [
+    "Shell",
+    "TotalEnergies",
+    "BP",
+    "Aker BP",
+    "Vår Energi"
+   ],
+   "hq": "Stavanger, Norway",
+   "name": "Equinor",
+   "sector": "energy-materials",
+   "size": "Revenue ~$100B (approx., 2025)",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "NYSE/Oslo: EQNR",
+   "updated": "2026-11-25"
   },
   "evgo": {
    "businessModel": "Builds and runs public DC fast-charging stations and earns per-kilowatt-hour charging fees, subscriptions and partner payments.",
@@ -2644,6 +2796,22 @@
    "ticker": "Borsa Italiana: IVG (being delisted)",
    "updated": "2026-11-07"
   },
+  "japex": {
+   "businessModel": "Explores for and produces oil and gas in Japan and abroad, including Norway, Iraq and North America, and sells gas and LNG within Japan through its pipelines and terminals.",
+   "competitors": [
+    "INPEX",
+    "Mitsui E&P",
+    "Mitsubishi Corporation",
+    "Vår Energi"
+   ],
+   "hq": "Tokyo, Japan",
+   "name": "Japan Petroleum Exploration (JAPEX)",
+   "sector": "energy-materials",
+   "size": "Revenue ~¥350B (approx., 2025)",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "TSE: 1662",
+   "updated": "2026-11-25"
+  },
   "jbs": {
    "businessModel": "Buys cattle, hogs and chickens and processes them into beef, pork, poultry and prepared foods sold to retailers and restaurants worldwide, earning the spread between animal and meat prices.",
    "competitors": [
@@ -2693,6 +2861,23 @@
    "subindustry": "telecom",
    "ticker": "Listed in India (NSE/BSE) since Oct 28, 2026; Reliance Industries subsidiary",
    "updated": "2026-11-02"
+  },
+  "jm-smucker": {
+   "businessModel": "Makes branded coffee (Folgers, Café Bustelo), snacks (Uncrustables, Hostess), spreads and pet food sold through grocery and mass retailers.",
+   "competitors": [
+    "Kraft Heinz",
+    "Keurig Dr Pepper",
+    "General Mills",
+    "Mondelez",
+    "Nestlé"
+   ],
+   "hq": "Orrville, Ohio, US",
+   "name": "J.M. Smucker",
+   "sector": "consumer-retail",
+   "size": "Revenue ~$9B (approx., fiscal 2026)",
+   "subindustry": "cpg",
+   "ticker": "NYSE: SJM",
+   "updated": "2026-11-25"
   },
   "johnson-johnson": {
    "businessModel": "Two segments: Innovative Medicine (patented drugs in immunology, oncology, neuroscience; roughly two-thirds of sales) and MedTech (surgery, orthopedics, cardiovascular devices).",
@@ -2744,6 +2929,22 @@
    "subindustry": "metals-mining",
    "ticker": "LSE: KMR",
    "updated": "2026-11-23"
+  },
+  "keppel": {
+   "businessModel": "Asset manager and operator focused on infrastructure, real estate and connectivity, earning management fees plus returns from the assets it owns and operates.",
+   "competitors": [
+    "CapitaLand Investment",
+    "Brookfield",
+    "Sembcorp",
+    "Macquarie Asset Management"
+   ],
+   "hq": "Singapore",
+   "name": "Keppel",
+   "sector": "infrastructure-logistics",
+   "size": "Market cap ~S$15B (approx., 2025)",
+   "subindustry": "real-estate-construction",
+   "ticker": "SGX: BN4",
+   "updated": "2026-11-25"
   },
   "kioxia": {
    "businessModel": "Makes NAND flash memory chips and solid-state drives, with fabs run jointly with Sandisk, and sells to phone, PC and data-center customers at cyclical market prices.",
@@ -2944,6 +3145,22 @@
    "subindustry": "semiconductors",
    "ticker": "NASDAQ: LITE",
    "updated": "2026-11-02"
+  },
+  "m1": {
+   "businessModel": "Singapore's third-largest mobile operator, earning monthly mobile and fiber broadband subscriptions and enterprise connectivity fees.",
+   "competitors": [
+    "Singtel",
+    "StarHub",
+    "SIMBA Telecom",
+    "Circles.Life"
+   ],
+   "hq": "Singapore",
+   "name": "M1",
+   "sector": "tmt",
+   "size": "Revenue ~S$1.1B (approx., 2024)",
+   "subindustry": "telecom",
+   "ticker": "Private (Keppel ~84%)",
+   "updated": "2026-11-25"
   },
   "maersk": {
    "businessModel": "Operates container ships, ports and logistics services, earning freight rates per container plus terminal and logistics fees.",
@@ -3519,6 +3736,23 @@
    "subindustry": "software-cloud",
    "ticker": "Private (Nvidia-backed; filed for US IPO Sept 2026)",
    "updated": "2026-10-20"
+  },
+  "nutanix": {
+   "businessModel": "Sells software subscriptions that let companies run and manage applications and storage across their own data centers and public clouds.",
+   "competitors": [
+    "Broadcom (VMware)",
+    "Microsoft",
+    "Red Hat",
+    "Dell Technologies",
+    "Hewlett Packard Enterprise"
+   ],
+   "hq": "San Jose, California, US",
+   "name": "Nutanix",
+   "sector": "tmt",
+   "size": "Revenue ~$2.5B (approx., fiscal 2025)",
+   "subindustry": "software-cloud",
+   "ticker": "NASDAQ: NTNX",
+   "updated": "2026-11-25"
   },
   "nvidia": {
    "businessModel": "Designs GPUs and networking for AI data centers and sells them, with software, to cloud providers and enterprises.",
@@ -4524,6 +4758,23 @@
    "ticker": "TSE: 9984",
    "updated": "2026-11-08"
   },
+  "solventum": {
+   "businessModel": "Spun off from 3M in 2024; sells wound care, infection prevention and dental products to hospitals and clinics, plus health information software for medical coding and billing.",
+   "competitors": [
+    "Cardinal Health",
+    "Becton Dickinson",
+    "Smith+Nephew",
+    "Dentsply Sirona",
+    "3M"
+   ],
+   "hq": "Maplewood, Minnesota, US",
+   "name": "Solventum",
+   "sector": "healthcare",
+   "size": "Revenue ~$8.2B (approx., 2025)",
+   "subindustry": "medtech",
+   "ticker": "NYSE: SOLV",
+   "updated": "2026-11-25"
+  },
   "sonova": {
    "businessModel": "Designs and sells hearing aids under the Phonak brand and cochlear implants, and runs audiology clinics, earning on device sales and fitting services.",
    "competitors": [
@@ -4556,6 +4807,23 @@
    "subindustry": "power-utilities",
    "ticker": "NYSE: SO",
    "updated": "2026-11-24"
+  },
+  "southern-copper": {
+   "businessModel": "Mines and smelts copper, plus by-products such as molybdenum, silver and zinc, from large low-cost mines in Peru and Mexico. Majority owned by Grupo México.",
+   "competitors": [
+    "Freeport-McMoRan",
+    "BHP",
+    "Codelco",
+    "Antofagasta",
+    "First Quantum Minerals"
+   ],
+   "hq": "Phoenix, Arizona, US (mines in Peru and Mexico)",
+   "name": "Southern Copper",
+   "sector": "energy-materials",
+   "size": "Market cap ~$110B (approx., Nov 2026)",
+   "subindustry": "metals-mining",
+   "ticker": "NYSE: SCCO",
+   "updated": "2026-11-25"
   },
   "southwest-airlines": {
    "businessModel": "A US airline selling tickets and extras such as extra-legroom seats and bags, flying mainly point-to-point routes on a single aircraft type. Profit depends on fares, seat occupancy and fuel and labor costs.",
@@ -4625,6 +4893,22 @@
    "subindustry": "travel-hospitality",
    "ticker": "Nasdaq: SBUX",
    "updated": "2026-10-30"
+  },
+  "starhub": {
+   "businessModel": "Sells mobile, broadband and pay-TV subscriptions to Singapore households and connectivity, cloud and cybersecurity services to businesses.",
+   "competitors": [
+    "Singtel",
+    "M1",
+    "SIMBA Telecom",
+    "Circles.Life"
+   ],
+   "hq": "Singapore",
+   "name": "StarHub",
+   "sector": "tmt",
+   "size": "Revenue ~S$2.3B (approx., 2025)",
+   "subindustry": "telecom",
+   "ticker": "SGX: CC3",
+   "updated": "2026-11-25"
   },
   "steel-dynamics": {
    "businessModel": "Melts scrap in electric arc furnaces to make steel, and profits from the spread between steel prices and scrap costs. It also recycles metals and is building an aluminum flat-rolled business.",
@@ -5398,6 +5682,23 @@
    "ticker": "NYSE: V",
    "updated": "2026-10-20"
   },
+  "vng": {
+   "businessModel": "Buys natural gas under long-term contracts and resells it to German municipal utilities and industry, and owns gas storage and pipeline assets.",
+   "competitors": [
+    "Uniper",
+    "SEFE",
+    "RWE Supply & Trading",
+    "EnBW Trading",
+    "Engie"
+   ],
+   "hq": "Leipzig, Germany",
+   "name": "VNG AG",
+   "sector": "energy-materials",
+   "size": "Revenue ~€20B+ (approx., 2024)",
+   "subindustry": "midstream-lng",
+   "ticker": "Private (majority owned by EnBW)",
+   "updated": "2026-11-25"
+  },
   "vodafone": {
    "businessModel": "Sells mobile, broadband and business connectivity in Europe and Africa (including M-Pesa mobile money), earning monthly subscription fees.",
    "competitors": [
@@ -5604,6 +5905,23 @@
    "ticker": "ASX: WDS",
    "updated": "2026-11-04"
   },
+  "workday": {
+   "businessModel": "Sells cloud software for human resources, payroll and finance to large employers on multi-year subscriptions, mostly priced by number of employees.",
+   "competitors": [
+    "SAP",
+    "Oracle",
+    "ADP",
+    "UKG",
+    "Dayforce"
+   ],
+   "hq": "Pleasanton, California, US",
+   "name": "Workday",
+   "sector": "tmt",
+   "size": "Quarterly revenue $2.71B (Q3 FY2027)",
+   "subindustry": "software-cloud",
+   "ticker": "NASDAQ: WDAY",
+   "updated": "2026-11-25"
+  },
   "wynn-resorts": {
    "businessModel": "Owns luxury casino resorts in Las Vegas, Macau and the Gulf and earns money from gaming, rooms, dining and retail.",
    "competitors": [
@@ -5620,6 +5938,22 @@
    "subindustry": "travel-hospitality",
    "ticker": "Nasdaq: WYNN",
    "updated": "2026-11-06"
+  },
+  "xiamen-airlines": {
+   "businessModel": "A Chinese airline flying domestic and regional routes from Xiamen and Fuzhou, earning ticket and cargo revenue; it has long flown an all-Boeing fleet.",
+   "competitors": [
+    "China Eastern Airlines",
+    "Air China",
+    "Hainan Airlines",
+    "Spring Airlines"
+   ],
+   "hq": "Xiamen, China",
+   "name": "Xiamen Airlines",
+   "sector": "consumer-retail",
+   "size": "Fleet of ~200+ Boeing jets (approx., 2025)",
+   "subindustry": "travel-hospitality",
+   "ticker": "Private (China Southern 55%)",
+   "updated": "2026-11-25"
   },
   "ziehl-abegg": {
    "businessModel": "Makes fans, motors and drives for ventilation, air conditioning, data center cooling and industrial processes, sold to equipment makers and building projects.",

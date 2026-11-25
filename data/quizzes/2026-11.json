@@ -6319,5 +6319,252 @@
     "subindustry": "power-utilities"
    }
   ]
+ },
+ "2026-11-25": {
+  "date": "2026-11-25",
+  "extra": [
+   {
+    "answer": 2,
+    "explanation": "Keppel owns about 84% of M1 today but receives StarHub shares in the all-share deal, leaving it with about 23% of the group. It must hold them for at least 12 months.",
+    "id": "2026-11-25:x01",
+    "kind": "today",
+    "options": [
+     "About 84%",
+     "About 50%",
+     "About 23%",
+     "About 5%"
+    ],
+    "prompt": "After StarHub merges with M1, roughly what share of the combined company will Keppel own?",
+    "sector": "tmt",
+    "storyId": "2026-11-25-06",
+    "subindustry": "telecom"
+   },
+   {
+    "answer": 0,
+    "explanation": "Coffee sales fell 5% because cheaper beans meant lower shelf prices, while margins widened. Tariff refunds added 22 cents a share.",
+    "id": "2026-11-25:x02",
+    "kind": "today",
+    "options": [
+     "Lower green coffee costs were passed on through lower prices, cutting sales but widening margins",
+     "It sold its coffee brands",
+     "It stopped paying tariffs entirely",
+     "It raised coffee prices sharply"
+    ],
+    "prompt": "Smucker's sales fell 2% but adjusted earnings rose 52%. What is the main reason profit can rise while sales fall?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-25-14",
+    "subindustry": "cpg"
+   },
+   {
+    "answer": 3,
+    "explanation": "Retailers earn the gap between wholesale cost and the pump price, and pump prices tend to lag falling wholesale costs. That buffer helped while in-store sales grew only 1.5%.",
+    "id": "2026-11-25:x03",
+    "kind": "today",
+    "options": [
+     "When pump prices fall faster than wholesale prices",
+     "When electric car sales jump",
+     "When stores close at night",
+     "When wholesale fuel prices fall faster than pump prices"
+    ],
+    "prompt": "Couche-Tard's road fuel gross profit rose 5.6% to $1.79 billion. When do convenience-store fuel margins usually widen?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-25-15",
+    "subindustry": "retail-ecommerce"
+   },
+   {
+    "answer": 1,
+    "explanation": "Most business software is priced per user, so automation that replaces users threatens revenue. Big names such as Salesforce and ServiceNow are down roughly 25-60% this year.",
+    "id": "2026-11-25:x04",
+    "kind": "today",
+    "options": [
+     "Rising chip prices",
+     "AI agents could reduce the number of paid human users, hurting per-seat subscriptions",
+     "New taxes on software exports",
+     "A shortage of software engineers"
+    ],
+    "prompt": "Workday and Autodesk beat forecasts but their shares fell. What fear is weighing most on business software stocks?",
+    "sector": "tmt",
+    "storyId": "2026-11-25-09",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 2,
+    "explanation": "Paying a partner's share of well costs to earn into acreage is called a carry. JAPEX takes 20% and 10% stakes in two Norwegian licenses this way.",
+    "id": "2026-11-25:x05",
+    "kind": "today",
+    "options": [
+     "A royalty",
+     "A tolling fee",
+     "A carry",
+     "A hedge"
+    ],
+    "prompt": "JAPEX will pay part of Equinor's costs for exploration wells in return for license stakes. What is this arrangement called?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-25-10",
+    "subindustry": "oil-gas-upstream"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 2,
+    "explanation": "Rising inflation alongside 4.3% growth signals an overheating economy, the classic case for a hike; markets put the odds at about 98%. Tariffs add to price pressure but do not legally force any Fed action.",
+    "id": "2026-11-25:q01",
+    "kind": "today",
+    "options": [
+     "Fast growth lowers prices, so the Fed raises rates to keep inflation from falling",
+     "New tariffs require the Fed to raise rates by law",
+     "A strong economy with rising inflation means demand is outrunning supply, so the Fed raises rates to cool it",
+     "Higher rates are needed to pay for the government's tariff refunds"
+    ],
+    "prompt": "US inflation rose to 3.8% while third-quarter growth was revised up to 4.3%. Why does that combination make a December Fed rate hike so likely?",
+    "sector": "macro",
+    "storyId": "2026-11-25-01",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 0,
+    "explanation": "AI servers carry margins reported in the mid-single digits because the GPUs from Nvidia take most of the value. So a $132.3 billion backlog lifts sales far more than profit.",
+    "id": "2026-11-25:q02",
+    "kind": "today",
+    "options": [
+     "Most of the value in an AI server goes to the chips inside, leaving Dell a thin assembly margin",
+     "Dell gives AI servers away to win PC customers",
+     "AI servers are taxed at a higher rate than PCs",
+     "Dell must refund customers when AI projects are delayed"
+    ],
+    "prompt": "Dell's AI server revenue rose 291% to $22 billion. Why does its profit grow much more slowly than its AI revenue?",
+    "sector": "tmt",
+    "storyId": "2026-11-25-02",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 3,
+    "explanation": "Guidance of $3.82 a share missed the roughly $3.88 expected, inventory rose to 141 days and capex will jump to $1.6-1.9 billion. At about 37 times earnings, even a small miss triggers a big fall; revenue actually beat.",
+    "id": "2026-11-25:q03",
+    "kind": "today",
+    "options": [
+     "The company cut its dividend to pay for AI chips",
+     "Revenue missed estimates by a wide margin",
+     "A rival announced a takeover bid for its biggest customer",
+     "Guidance came in below forecasts while inventory rose and spending is set to more than double, at a high valuation"
+    ],
+    "prompt": "Analog Devices beat forecasts with revenue up 42%, yet its shares fell about 17%. What best explains the drop?",
+    "sector": "tmt",
+    "storyId": "2026-11-25-03",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 1,
+    "explanation": "$11,826 is about 21% below $15,000, close to the 20% decline that defines a bear market. Copper also fell about 16% in November alone.",
+    "id": "2026-11-25:q04",
+    "kind": "today",
+    "options": [
+     "About 5%",
+     "Close to 20%, the usual line for a bear market",
+     "About 50%",
+     "It is above its record"
+    ],
+    "prompt": "After a 5.3% one-day drop to about $11,826 a tonne, roughly how far is copper below its September record near $15,000?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-25-04",
+    "subindustry": "metals-mining"
+   },
+   {
+    "answer": 0,
+    "explanation": "The deal covers up to 15.3 TWh a year from 2027 to 2044, priced at Trading Hub Europe market rates. It locks in supply, not price, which is why buyers still carry price swings.",
+    "id": "2026-11-25:q05",
+    "kind": "today",
+    "options": [
+     "Reliable volumes for nearly two decades, while price risk remains",
+     "A fixed low price until 2044",
+     "Ownership of Equinor's Norwegian gas fields",
+     "Freedom to resell the gas to Russia"
+    ],
+    "prompt": "Equinor's 18-year deal supplies VNG with gas at market-linked prices. What does a contract like this mainly secure for the German buyer?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-25-05",
+    "subindustry": "midstream-lng"
+   },
+   {
+    "answer": 3,
+    "explanation": "Big machines are bought when farmers earn well and can borrow cheaply. Deere expects US and Canadian large-ag demand to rise 5-15% in 2027, but higher interest rates could slow that recovery.",
+    "id": "2026-11-25:q06",
+    "kind": "today",
+    "options": [
+     "The price of steel used in the factories",
+     "Exchange rates in Asia",
+     "The number of dealers it owns",
+     "Farm incomes and the cost of financing new machines"
+    ],
+    "prompt": "A farm-equipment maker's large tractor and combine sales fell 15% in a quarter. Which factor matters most for whether those sales recover next year?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-25-06",
+    "subindustry": "industrial-machinery"
+   },
+   {
+    "answer": 3,
+    "explanation": "Houlihan Lokey put the size-weighted default rate at 1.5%, up from 0.8%. The 15.1% figure is the share of borrowers whose earnings do not cover interest, and 7% is the share of loans valued below 90 cents on the dollar.",
+    "id": "2026-11-21:q06",
+    "kind": "review",
+    "options": [
+     "About 0.1%",
+     "About 15%",
+     "About 7%",
+     "About 1.5%"
+    ],
+    "prompt": "Private credit defaults nearly doubled in the third quarter. Roughly what share of outstanding loan value was in default?",
+    "sector": "financial-services",
+    "storyId": "2026-11-21-08",
+    "subindustry": "asset-wealth"
+   },
+   {
+    "answer": 0,
+    "explanation": "Contracts for the next three months trade around €200 per MWh, about twice last winter's level. Some quarter-hour German prices passed €600, but those are short spikes, and prices are still below the 2022 crisis peaks.",
+    "id": "2026-11-22:q02",
+    "kind": "review",
+    "options": [
+     "About €200 per MWh, roughly double last winter",
+     "About €50 per MWh, near pre-war levels",
+     "About €600 per MWh, a new all-time record",
+     "About €100 per MWh, unchanged from last winter"
+    ],
+    "prompt": "Roughly where are European power contracts for each of the next three months trading?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-22-02",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 2,
+    "explanation": "Vår Energi expects $700 million to $1 billion of after-tax synergies because most reserves overlap with fields it already knows, and operatorship lets it run them its own way. Taxes still apply in Norway, and the deal adds nothing in US shale.",
+    "id": "2026-11-23:q03",
+    "kind": "review",
+    "options": [
+     "A guaranteed rise in oil prices over the next decade",
+     "Avoiding Norwegian taxes on the acquired fields",
+     "Cutting overlapping costs and controlling operations, worth $700M-$1B",
+     "Getting access to the US shale market"
+    ],
+    "prompt": "A North Sea producer buys fields where it already holds stakes in about 75% of the reserves, and becomes operator of the biggest one. Which factor best supports paying $4.4 billion?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-23-03",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 1,
+    "explanation": "Telecom networks are mostly fixed cost, so more users spread that cost further; Jio's 54.1% EBITDA margin shows the effect. This is also why mergers such as StarHub and M1 aim to cut duplicate networks.",
+    "id": "2026-11-25:q10",
+    "kind": "profile",
+    "options": [
+     "Governments refund spectrum fees for large operators",
+     "Once the network is built, each extra subscriber adds revenue at little extra cost",
+     "Larger operators pay no tax on subscriptions",
+     "Customers pay more per month on bigger networks by law"
+    ],
+    "prompt": "Why do network operators' margins improve as they add subscribers?",
+    "sector": "tmt",
+    "storyId": null,
+    "subindustry": "telecom"
+   }
+  ]
  }
 }

@@ -8427,5 +8427,495 @@
   "subindustry": "power-utilities",
   "summary": "Alabama Power's revised rate schedule for large data centers took effect on Monday after a Public Service Commission order. It covers data centers that reserve at least 150 megawatts at one site, and the commission will review each contract's length, minimum payments, upfront money and collateral. Alabama Power cannot price a contract below the extra cost of serving the site, and contracts are approved automatically if the commission does not vote within 90 days. The utility must publicly name the customer, its location and the maximum capacity reserved. Critics say the order sets no minimum financial terms and keeps contract details confidential.",
   "tags": []
+ },
+ "2026-11-25-01": {
+  "companies": [],
+  "date": "2026-11-25",
+  "headline": "US inflation climbs to 3.8% and growth hits 4.3%, cementing bets on a December Fed rate hike as stocks slide",
+  "numbers": [
+   "October PCE inflation: 3.8% y/y",
+   "Core PCE: 3.3% vs 3.2% expected",
+   "Q3 GDP: 4.3% annualized (first estimate 3.4%)",
+   "December hike odds: ~98% (CME)",
+   "Proposed tariffs: up to 20% on 14 economies"
+  ],
+  "order": 1,
+  "sector": "macro",
+  "soWhat": "Strong growth combined with rising inflation is the mix that pushes a central bank to raise rates rather than cut, which lifts borrowing costs for companies, home buyers and governments. Higher rates hit long-duration assets hardest: fast-growing tech stocks whose profits lie far in the future, real estate and highly indebted firms. New tariffs stacked on existing ones would add to goods prices just as inflation is already climbing. The open question is whether one hike is enough or whether markets start pricing a longer tightening cycle in 2027.",
+  "sources": [
+   {
+    "title": "Yahoo Finance: Stock market today, Nov 25",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+   },
+   {
+    "title": "TipRanks: Wall Street braces for inflation data",
+    "url": "https://www.tipranks.com/news/stock-market-today-nov-25-wall-street-braces-for-inflation-data-after-tech-led-selloff"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "The Fed's preferred inflation gauge, the PCE price index, rose 0.3% in October and 3.8% from a year earlier, the fastest annual pace since 2023. Core PCE, which strips out food and energy, rose 3.3%, above the 3.2% economists expected. Third-quarter GDP was revised up to a 4.3% annual growth rate from a first estimate of 3.4%, and futures markets put the odds of a quarter-point Fed rate hike in December at about 98%. The same morning the administration proposed new tariffs of up to 20% on China, the EU and 12 other trading partners, which could take effect in January at the earliest. US stocks fell sharply in morning trading, with the S&P 500 down about 2.3% and the Nasdaq down about 3.3%.",
+  "tags": []
+ },
+ "2026-11-25-02": {
+  "companies": [
+   "dell-technologies",
+   "nvidia"
+  ],
+  "date": "2026-11-25",
+  "headline": "Dell's revenue doubles to $54.9 billion as AI server orders lift its backlog to $132 billion",
+  "numbers": [
+   "Revenue: $54.9B, +103% y/y",
+   "AI server revenue: $22B, +291%",
+   "AI backlog: $132.3B",
+   "FY AI server forecast: $78B",
+   "New buyback authorization: $25B"
+  ],
+  "order": 2,
+  "sector": "tmt",
+  "soWhat": "Dell assembles servers around Nvidia chips and sells them to cloud companies, AI labs and large enterprises, so its backlog is a direct read on how much AI infrastructure is still being ordered. The catch is that AI servers carry thin margins, reported in the mid-single digits, because most of the value goes to the chipmaker, so revenue grows much faster than profit. A $132 billion backlog gives visibility into 2027 even as investors question AI spending. The open question is whether buyers keep converting orders into deliveries if funding for AI projects tightens.",
+  "sources": [
+   {
+    "title": "CNBC: Dell earnings beat on AI strength",
+    "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html"
+   },
+   {
+    "title": "The Next Web: Dell's revenue doubles to $54.9bn",
+    "url": "https://thenextweb.com/news/dell-q3-fy27-earnings-ai-server-backlog-202bn-forecast"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Dell's revenue for the quarter to late October rose 103% to a record $54.9 billion, well above the $49.3 billion analysts expected, and adjusted earnings per share of $9.45 beat forecasts of $6.59. Sales of AI-optimized servers rose 291% to $22 billion, and Dell booked $60.2 billion of new AI orders, leaving a record $132.3 billion backlog. It raised its AI server forecast for the year to $78 billion and its full-year revenue outlook to about $202 billion. The board added $25 billion to its share buyback, though PC sales of $12.9 billion missed estimates.",
+  "tags": []
+ },
+ "2026-11-25-03": {
+  "companies": [
+   "analog-devices",
+   "texas-instruments",
+   "nvidia"
+  ],
+  "date": "2026-11-25",
+  "headline": "Analog Devices sinks 17% on a cautious outlook, leading an 8% fall in chip stocks",
+  "numbers": [
+   "Q4 revenue: $4.37B, +42% y/y",
+   "Q1 EPS guide: $3.82 vs ~$3.88 expected",
+   "FY27 capex plan: $1.6-1.9B (from ~$0.7B)",
+   "ADI close: about -17%",
+   "Chip index (SOX): -7.9%"
+  ],
+  "order": 3,
+  "sector": "tmt",
+  "soWhat": "Analog chips that manage power and sensors go into cars, factory equipment and power grids, so they recover later and more slowly than AI chips after customers work down their stockpiles. Analog Devices' inventory rising to 141 days and a big capacity build that will not produce chips until 2028 raise worries about costs before demand fully returns. When a stock trades at about 37 times earnings, a small guidance miss can cause a large drop. The open question is whether industrial and auto demand is truly recovering or just being restocked.",
+  "sources": [
+   {
+    "title": "Startup Fortune: Analog Devices falls 17% after an earnings beat",
+    "url": "https://startupfortune.com/analog-devices-falls-17-after-an-earnings-beat-and-drags-texas-instruments-down/"
+   },
+   {
+    "title": "Motley Fool: Why Analog Devices stock fell nearly 20%",
+    "url": "https://www.fool.com/investing/2026/11/24/why-analog-devices-stock-fell-nearly-20-today/"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Analog Devices reported quarterly revenue of $4.37 billion, up 42% from a year earlier, and adjusted earnings of $4.06 a share, both above forecasts. But it guided to first-quarter earnings of $3.82 a share, below the roughly $3.88 analysts expected, and plans to more than double capital spending to $1.6 billion to $1.9 billion next fiscal year. Its shares closed down about 17%, Texas Instruments fell about 7.6% in sympathy, and the Philadelphia Semiconductor Index dropped 7.9%. Nvidia lost about 5.9% as part of its rally on Jensen Huang's return as CEO faded.",
+  "tags": []
+ },
+ "2026-11-25-04": {
+  "companies": [
+   "freeport-mcmoran",
+   "southern-copper"
+  ],
+  "date": "2026-11-25",
+  "headline": "Copper plunges 5.3% in a day and nears a bear market as AI spending doubts spread to metals",
+  "numbers": [
+   "LME copper: -5.3% to $11,826/t (Nov 24)",
+   "Record high: near $15,000/t (Sept)",
+   "November decline: ~16%",
+   "Southern Copper: -4.5%; Freeport: -4.0%"
+  ],
+  "order": 4,
+  "sector": "energy-materials",
+  "soWhat": "Copper's 2026 rally rested partly on expected demand from data centers and the power grid, so the AI sell-off in stocks is now hitting the metal too. Miners' profits move more than the copper price because their costs are largely fixed, which is why miner shares often fall harder than the metal. Physical buyers are still paying extra for metal available right away, which suggests the drop is driven more by investor sentiment than by a glut of copper. The open question is whether the fall lasts long enough to delay new mine projects, which would tighten supply later.",
+  "sources": [
+   {
+    "title": "Stock Analysis: Copper nears bear market after a 5% drop",
+    "url": "https://stockanalysis.com/news/copper-nears-bear-market-ai-selloff/"
+   },
+   {
+    "title": "MINING.COM: Copper price erases Nvidia rebound",
+    "url": "https://www.mining.com/copper-price-erases-nvidia-rebound-as-investors-steer-clear-of-metals/"
+   }
+  ],
+  "subindustry": "metals-mining",
+  "summary": "Three-month copper on the London Metal Exchange fell 5.3% on Tuesday to $11,826 a tonne, its steepest drop in months, and slipped further to about $11,738 on Wednesday. That leaves the metal close to 20% below the record near $15,000 it reached in September, the usual definition of a bear market, and down about 16% in November. Southern Copper fell 4.5% and Freeport-McMoRan 4.0%. Traders cited doubts about AI-related spending, softer Chinese demand, an expected December Fed rate hike and the threat of new US tariffs.",
+  "tags": []
+ },
+ "2026-11-25-05": {
+  "companies": [
+   "equinor",
+   "vng"
+  ],
+  "date": "2026-11-25",
+  "headline": "Equinor signs an 18-year gas supply deal with Germany's VNG, its longest contract since 1986",
+  "numbers": [
+   "Volume: up to 15.3 TWh a year (~1.4 bcm)",
+   "Term: 18 years, 2027-2044",
+   "Pricing: market-linked at Trading Hub Europe",
+   "Uniper deal (Aug): 30+ TWh a year to 2041"
+  ],
+  "order": 5,
+  "sector": "energy-materials",
+  "soWhat": "After losing Russian pipeline gas, German buyers relied heavily on short-term and spot purchases, which left them exposed to price spikes like this year's after Gulf supply was disrupted. Long contracts with a nearby pipeline supplier give buyers security of supply and give Equinor a guaranteed outlet for its Norwegian fields for nearly two decades. Because prices follow the market, the deal secures volume, not a fixed price, so buyers still carry price risk. It also signals that German buyers expect to need gas well into the 2040s despite climate targets.",
+  "sources": [
+   {
+    "title": "Offshore Technology: Equinor agrees 18-year gas supply contract with VNG",
+    "url": "https://www.offshore-technology.com/news/equinor-18-year-gas-supply-contract-vng/"
+   },
+   {
+    "title": "Enerdata: Equinor secures gas supply agreement with VNG",
+    "url": "https://www.enerdata.net/publications/daily-energy-news/equinor-secures-gas-supply-agreement-germanys-vng-14-bcmyear.html"
+   }
+  ],
+  "subindustry": "midstream-lng",
+  "summary": "Norway's Equinor agreed to supply Germany's VNG with up to 15.3 terawatt-hours of natural gas a year, about 1.4 billion cubic meters, from January 1, 2027 through 2044. The gas will be delivered at Germany's trading hub, Trading Hub Europe, and priced in line with market prices. Equinor called it its longest gas sales agreement since the Troll contracts of 1986. It follows a 15-year deal with Uniper in August covering more than 30 terawatt-hours a year.",
+  "tags": []
+ },
+ "2026-11-25-06": {
+  "companies": [
+   "starhub",
+   "m1",
+   "keppel"
+  ],
+  "date": "2026-11-25",
+  "headline": "StarHub agrees to merge with M1 in an all-share deal, cutting Singapore to three big mobile operators",
+  "numbers": [
+   "New StarHub shares: ~651.7M (27.4%)",
+   "Combined enterprise value: ~S$5B ($3.87B)",
+   "M1 net debt assumed: ~S$380M",
+   "Keppel stake after deal: ~23%",
+   "Expected close: H1 2027"
+  ],
+  "order": 6,
+  "sector": "tmt",
+  "soWhat": "Singapore's telecom market has four network operators serving fewer than 7 million people, and price wars led by cheap digital brands have squeezed profits. Merging two of them removes duplicate networks, shops and staff, which is where most savings in telecom deals come from, and should ease price competition. The losers could be customers if prices rise, which is why the regulator's view matters. Paying in shares lets Keppel exit M1's day-to-day running while keeping a stake in the upside.",
+  "sources": [
+   {
+    "title": "Investing.com: StarHub to acquire M1 in S$5 billion all-stock deal",
+    "url": "https://www.investing.com/news/stock-market-news/starhub-to-acquire-m1-in-s5-billion-allstock-deal-93CH-5047040"
+   },
+   {
+    "title": "Growbeansprout: StarHub and M1 to merge",
+    "url": "https://growbeansprout.com/starhub-m1-merger-keppel-2026"
+   }
+  ],
+  "subindustry": "telecom",
+  "summary": "Singapore's StarHub will combine with M1, the mobile operator controlled by Keppel, by issuing about 651.7 million new shares to M1's owners, or about 27.4% of the enlarged company. The combined group will have an enterprise value of about S$5 billion ($3.87 billion), and StarHub will take on about S$380 million of M1's net debt. Keppel will own about 23% of the merged company and must keep its shares for at least 12 months. The deal needs approval from Singapore's media regulator IMDA and shareholders and is expected to close in the first half of 2027.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-25-07": {
+  "companies": [
+   "deere"
+  ],
+  "date": "2026-11-25",
+  "headline": "Deere's large-farm equipment sales drop 15%, but it forecasts a North American recovery in 2027",
+  "numbers": [
+   "Q4 revenue: $12.1B, -2%",
+   "Large ag sales: -15%; op profit -33%",
+   "FY2026 net income: $4.86B, -3%",
+   "FY2027 guide: $4.50-5.25B net income",
+   "US/Canada large ag outlook: +5% to 15%"
+  ],
+  "order": 7,
+  "sector": "advanced-industries",
+  "soWhat": "Big tractors and combines are bought when farm incomes are strong, so two years of low crop prices and high interest rates have cut orders. Deere's forecast of a recovery in large equipment suggests dealers have worked down excess stock and farmers are ready to replace aging fleets. Construction equipment, helped by infrastructure and data center building, has partly offset the farm slump. The open question is whether a December rate hike, which raises the cost of financing machines, slows that recovery.",
+  "sources": [
+   {
+    "title": "Deere press release (PR Newswire)",
+    "url": "https://www.prnewswire.com/news-releases/deere-reports-net-income-of-1-051-billion-for-fourth-quarter-4-860-billion-for-fiscal-year-302950434.html"
+   },
+   {
+    "title": "MarketBeat: Deere Q4 2026 earnings",
+    "url": "https://www.marketbeat.com/earnings/reports/2026-11-25-deere-company-stock/"
+   }
+  ],
+  "subindustry": "industrial-machinery",
+  "summary": "Deere earned $1.05 billion, or $3.89 a share, in its fiscal fourth quarter, down slightly from a year earlier, as revenue fell 2% to $12.1 billion. Sales of large farm machinery fell 15% and that unit's operating profit dropped 33%, while small tractors rose 10% and construction equipment rose 12%. Full-year profit fell 3% to $4.86 billion. For fiscal 2027 Deere forecast net income of $4.5 billion to $5.25 billion and expects US and Canadian large-farm equipment demand to rise 5% to 15%.",
+  "tags": []
+ },
+ "2026-11-25-08": {
+  "companies": [
+   "boeing",
+   "xiamen-airlines"
+  ],
+  "date": "2026-11-25",
+  "headline": "China's Xiamen Airlines orders 50 Boeing 737 jets worth $7.4 billion at list prices",
+  "numbers": [
+   "Order: 50 Boeing 737-8 jets",
+   "List value: ~$7.4B",
+   "Deliveries: 2031-2034",
+   "China Southern Airbus order: 137 A320neo family"
+  ],
+  "order": 8,
+  "sector": "advanced-industries",
+  "soWhat": "Chinese airlines stopped taking Boeing jets during the 2025 trade war, so new orders show how closely aircraft sales track US-China politics. China is expected to be one of the largest sources of new plane demand over the next two decades, and splitting orders between Boeing and Airbus lets Beijing reward or pressure either side. Deliveries starting in 2031 show how full both makers' order books are. For Boeing, the order adds backlog but not near-term cash, which depends on raising 737 output.",
+  "sources": [
+   {
+    "title": "CNBC: China's Xiamen Airlines to buy 50 Boeing jets",
+    "url": "https://cnbc.com/2026/11/25/china-xiamen-boeing-deal.html"
+   },
+   {
+    "title": "MyNorthwest: Boeing lands 50-jet order in China",
+    "url": "https://mynorthwest.com/local/boeing-china-jet-purchase/4304172"
+   }
+  ],
+  "subindustry": "aerospace-defense",
+  "summary": "Xiamen Airlines, a unit of China Southern Airlines, agreed to buy 50 Boeing 737-8 jets with a combined list price of about $7.4 billion, to be delivered from 2031 to 2034. The actual price will be lower after customary discounts, and the order still needs shareholder and Chinese government approval. It follows China's approval in May of an initial purchase of 200 Boeing planes, its first such commitment since 2017. China Southern also agreed to buy 137 Airbus A320neo-family jets.",
+  "tags": []
+ },
+ "2026-11-25-09": {
+  "companies": [
+   "workday",
+   "autodesk",
+   "nutanix"
+  ],
+  "date": "2026-11-25",
+  "headline": "Workday, Autodesk and Nutanix all beat forecasts, yet their shares fall as software stays out of favor",
+  "numbers": [
+   "Workday revenue: $2.71B; FCF $691M vs $712M est.",
+   "Workday shares: ~-7% after hours",
+   "Autodesk revenue: $2.16B vs $2.13B est.",
+   "Nutanix shares: -8%+ on CEO exit"
+  ],
+  "order": 9,
+  "sector": "tmt",
+  "soWhat": "Investors worry that AI agents will reduce the number of human users that software companies charge for, which threatens the per-seat subscription model behind most business software. That is why results that beat forecasts no longer lift these shares unless future sales and cash flow accelerate. Money has moved from software makers to the hardware that runs AI. Lower valuations are also attracting private equity buyers, who can buy steady subscription businesses cheaply.",
+  "sources": [
+   {
+    "title": "CNBC: Stocks making the biggest moves Tuesday",
+    "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html"
+   },
+   {
+    "title": "Startup Fortune: Autodesk stock slips after earnings",
+    "url": "https://startupfortune.com/autodesk-stock-slips-after-earnings-even-with-a-beat-and-a-raised-outlook/"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Workday's quarterly revenue rose to $2.71 billion and adjusted earnings of $2.82 a share beat estimates, but free cash flow of $691 million missed the $712 million expected and its subscription guidance was light, sending shares down about 7% after hours. Autodesk beat forecasts with revenue of $2.16 billion and raised its full-year outlook, but its shares still fell more than 3%. Nutanix dropped more than 8% after saying its CEO will step down once a successor is found. Large software stocks such as Salesforce, Adobe and ServiceNow are down roughly 25% to 60% this year, while chip stocks are up.",
+  "tags": []
+ },
+ "2026-11-25-10": {
+  "companies": [
+   "japex",
+   "equinor",
+   "var-energi"
+  ],
+  "date": "2026-11-25",
+  "headline": "Japan's JAPEX swaps into Norway's Goliat field as Equinor trims a non-operated stake",
+  "numbers": [
+   "Goliat stake to JAPEX: 8% (Equinor 35% to 27%)",
+   "Verdande stake to Equinor: 3.5% (to ~62.8%)",
+   "Cash to Equinor: $65M",
+   "Exploration stakes: 20% and 10%"
+  ],
+  "order": 10,
+  "sector": "energy-materials",
+  "soWhat": "Big producers like Equinor prefer to own more of the fields they operate, where they control costs and timing, and sell down stakes in fields run by others. Asian buyers such as JAPEX want secure oil and gas supply outside the Middle East, which has become more valuable after this year's Gulf disruptions. Paying part of exploration well costs, known as a carry, is a common way for a newcomer to earn its way into promising acreage. Deals like this move North Sea assets to owners who value them most rather than adding new supply.",
+  "sources": [
+   {
+    "title": "OE Digital: Equinor, JAPEX agree Goliat-Verdande stake exchange",
+    "url": "https://www.oedigital.com/news/544571-equinor-japex-agree-goliat-verdande-stake-exchange"
+   },
+   {
+    "title": "Equinor press release (Norwegian)",
+    "url": "https://www.equinor.com/no/nyheter/20261125-bytter-eierandeler-ncs"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Equinor will transfer an 8% stake in the Goliat oil field in the Barents Sea to Japan Petroleum Exploration (JAPEX), cutting its holding from 35% to 27%. In return Equinor gets JAPEX's 3.5% stake in the Equinor-operated Verdande field, lifting its share to about 62.8%, plus $65 million in cash. JAPEX also takes 20% and 10% stakes in two exploration licenses and will pay part of Equinor's costs for wells planned there. Goliat is operated by Vår Energi, and the deal needs Norwegian government approval.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-25-11": {
+  "companies": [
+   "clariant",
+   "ashland"
+  ],
+  "date": "2026-11-25",
+  "headline": "Clariant confirms talks with private equity firm CD&R to buy US specialty chemicals maker Ashland",
+  "numbers": [
+   "Reported value: ~$3.4B, all cash",
+   "Ashland sale process: since August 2026",
+   "Clariant shares: -2.9% to CHF 9.95",
+   "Earlier CD&R deal: Ashland Water, ~$1.8B (2014)"
+  ],
+  "order": 11,
+  "sector": "energy-materials",
+  "soWhat": "Specialty chemicals sell small volumes of ingredients that improve a product, such as thickeners in shampoo or coatings on pills, and earn higher, steadier margins than bulk chemicals. Many of these makers have suffered from weak demand and cheap Chinese competition, which has pushed their share prices down and made them takeover targets. Teaming a strategic buyer with private equity lets each take the parts it wants and share the cost. Clariant's falling shares show investors worry about it taking on debt for a deal at a weak point in the cycle.",
+  "sources": [
+   {
+    "title": "Investing.com (Reuters): Clariant, CD&R in talks to buy Ashland",
+    "url": "https://www.investing.com/news/stock-market-news/switzerlands-clariant-cdr-in-talks-to-buy-chemicals-firm-ashland-5046550"
+   },
+   {
+    "title": "Personal Care Magazine: Clariant confirms interest in Ashland takeover",
+    "url": "https://www.personalcaremagazine.com/story/53239/clariant-confirms-interest-in-3-4-billion-ashland-takeover"
+   }
+  ],
+  "subindustry": "refining-chemicals",
+  "summary": "Swiss chemicals group Clariant said it is in talks to acquire Ashland together with buyout firm Clayton, Dubilier & Rice, but warned that no deal is certain. Bloomberg reported an all-cash deal valuing Ashland at about $3.4 billion. Ashland, which makes ingredients for personal care, medicines and coatings, has been exploring a sale since August under pressure from activist investors, with interest from several private equity firms. Clariant's shares fell 2.9% to 9.95 Swiss francs after the confirmation.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-25-12": {
+  "companies": [
+   "volkswagen"
+  ],
+  "date": "2026-11-25",
+  "headline": "Volkswagen's first wage talks end without a deal as workers threaten strikes from January",
+  "numbers": [
+   "VW ask: pay freeze for 2027 and 2028",
+   "Union ask: +5% over 12 months",
+   "Protesters: ~4,500",
+   "VW operating margin: ≤1% (2026) vs 5.9% (2024)",
+   "Next round: December 15"
+  ],
+  "order": 12,
+  "sector": "advanced-industries",
+  "soWhat": "Labor is one of the biggest costs for carmakers in Germany, where wages are among the highest in the world, while Chinese rivals, US tariffs and the shift to electric cars are squeezing prices. A pay freeze would protect Volkswagen's thin margins, but strikes would cost output during a weak market. Other German suppliers such as Bosch and Schaeffler face similar disputes, so the outcome sets a pattern for the country's car industry. The open question is whether the union trades pay restraint for job guarantees, as it did in 2024.",
+  "sources": [
+   {
+    "title": "GV Wire (Reuters): Volkswagen workers threaten strikes after first wage talks",
+    "url": "https://gvwire.com/2026/11/24/coffin-carrying-volkswagen-workers-threaten-strikes-after-first-wage-talks/"
+   },
+   {
+    "title": "just-auto: Volkswagen seeks pay freeze as IG Metall talks begin",
+    "url": "https://www.just-auto.com/news/volkswagen-pay-freeze-ig-metall-talks-begin/"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "Volkswagen and the IG Metall union ended their first round of German wage talks in Emden without agreement. Volkswagen wants to freeze pay for 2027 and 2028, lengthen working hours at the same pay when needed and cut some bonuses, while the union is asking for a 5% raise over 12 months. About 4,500 workers protested outside, and the union warned of strikes from January if no deal is reached at the next meeting on December 15. Volkswagen expects an operating margin of no more than 1% this year, down from 5.9% in 2024.",
+  "tags": []
+ },
+ "2026-11-25-13": {
+  "companies": [
+   "clariane",
+   "credit-agricole"
+  ],
+  "date": "2026-11-25",
+  "headline": "HLD plans a €4.60-a-share offer for French care-home operator Clariane, sending its shares up 36%",
+  "numbers": [
+   "Offer price: €4.60 a share, cash",
+   "Premium: ~38% to €3.33 close",
+   "Valuation: ~€1.6B",
+   "Controlling group: ~53% (HLD 27% + CAA 26%)"
+  ],
+  "order": 13,
+  "sector": "healthcare",
+  "soWhat": "Clariane, formerly Korian, runs nursing homes and clinics and was hit by heavy debt and a scandal at a rival that hurt trust in the French care-home sector. Care homes have high fixed costs for staff and buildings and depend on regulated fees, so investors with long horizons can wait for occupancy and pricing to recover. A controlling group gives the company a stable owner to back a turnaround. Minority shareholders get a premium exit, but those who stay depend on the new owners' plans.",
+  "sources": [
+   {
+    "title": "Yahoo Finance: Plans to establish a controlling stake in Clariane",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/plans-establish-controlling-stake-clariane-064500212.html"
+   },
+   {
+    "title": "MLQ: HLD plans a €4.60-a-share tender offer for Clariane",
+    "url": "https://mlq.ai/news/hld-plans-a-460-a-share-tender-offer-for-clariane-as-it-teams-up-with-credit-agricole-assurances-to-take-control/"
+   }
+  ],
+  "subindustry": "payers-providers",
+  "summary": "Investment firm HLD Europe and Crédit Agricole Assurances, which own about 27% and 26% of Clariane, plan to act together as a controlling 53% shareholder group. HLD will then make a mandatory cash offer of €4.60 a share, a 38% premium to the last close of €3.33, valuing the company at about €1.6 billion. The offer is not meant to take Clariane off the stock market, and filing is expected in the first half of 2027. Clariane's shares jumped about 36% to around €4.52.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-25-14": {
+  "companies": [
+   "jm-smucker"
+  ],
+  "date": "2026-11-25",
+  "headline": "Smucker raises its profit outlook as Uncrustables pass $1 billion, even as cheaper coffee cuts sales",
+  "numbers": [
+   "Net sales: $2.3B, -2%",
+   "Adjusted EPS: $3.20, +52%",
+   "Coffee net sales: -5%",
+   "Uncrustables: >$1B annual sales",
+   "FY27 adj. EPS guide: $10.80-11.20"
+  ],
+  "order": 14,
+  "sector": "consumer-retail",
+  "soWhat": "Packaged food companies pass commodity costs through to shoppers, so when coffee beans get cheaper, revenue falls but profit margins can widen. That is why Smucker's earnings jumped while sales slipped. Growth now comes from a few strong brands such as Uncrustables and Café Bustelo, while much of the rest of the portfolio is flat. Investors want proof that sales, not just margins, can grow.",
+  "sources": [
+   {
+    "title": "SEC: Smucker Q2 FY27 results (8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000091419/000009141926000110/sjm20261124exhibit991.htm"
+   },
+   {
+    "title": "FoodNavigator: Uncrustables, Café Bustelo hit milestones",
+    "url": "https://www.foodnavigator.com/Article/2026/11/25/smucker-earnings-uncrustables-demand-outpaces-supply/"
+   }
+  ],
+  "subindustry": "cpg",
+  "summary": "J.M. Smucker's quarterly net sales fell 2% to $2.3 billion, while adjusted earnings rose 52% to $3.20 a share, including a 22-cent benefit from tariff refunds. Coffee sales fell 5% because the company passed lower green coffee costs on to shoppers through lower prices. Its Uncrustables frozen sandwiches passed $1 billion in annual sales, and it raised its full-year adjusted earnings forecast to $10.80 to $11.20 a share. The shares fell about 3% before the market opened because the sales outlook was unchanged.",
+  "tags": []
+ },
+ "2026-11-25-15": {
+  "companies": [
+   "alimentation-couche-tard"
+  ],
+  "date": "2026-11-25",
+  "headline": "Couche-Tard's fuel margins lift earnings as its Żabka takeover in Poland nears completion",
+  "numbers": [
+   "Adjusted EPS: $0.84, +7.7%",
+   "Road fuel gross profit: $1.79B, +5.6%",
+   "Same-store merchandise sales: +1.5%",
+   "Żabka shares committed: ~57%"
+  ],
+  "order": 15,
+  "sector": "consumer-retail",
+  "soWhat": "Convenience store chains make much of their profit from the margin on each liter of fuel, which tends to widen when wholesale prices fall faster than pump prices. That buffer is helping while shoppers spend cautiously inside the stores. Żabka adds a fast-growing, mostly non-fuel chain in Poland, which reduces Couche-Tard's reliance on gasoline as electric cars spread. The open question is how fast Żabka's growth offsets slow in-store sales in North America.",
+  "sources": [
+   {
+    "title": "Couche-Tard Q2 FY27 results (Newswire)",
+    "url": "https://www.newswire.ca/news-releases/alimentation-couche-tard-announces-its-results-for-its-second-quarter-of-fiscal-year-2027-878013514.html"
+   },
+   {
+    "title": "Investing.com: Couche-Tard earnings call transcript",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-alimentation-couchetard-posts-solid-q2-2027-results-93CH-5050920"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "Alimentation Couche-Tard, which owns Circle K, said adjusted earnings per share rose 7.7% to $0.84 in the quarter to October 11, beating forecasts of about $0.80. In-store sales rose 1.7% to $4.8 billion and same-store merchandise sales rose 1.5%, while gross profit from road fuel rose 5.6% to $1.79 billion as margins improved in all regions. Its offer for Polish convenience chain Żabka became unconditional after final regulatory approvals, and holders of about 57% of shares have agreed to sell. Reported earnings fell because of currency losses tied to the Żabka deal.",
+  "tags": []
+ },
+ "2026-11-25-16": {
+  "companies": [
+   "solventum"
+  ],
+  "date": "2026-11-25",
+  "headline": "Activist Trian presses Solventum to spin off its health data unit unless a sale tops $7 billion",
+  "numbers": [
+   "Trian stake: just under 5%",
+   "Rumored HIS valuation: $5.5B-7B",
+   "Tax leakage on a sale: >$8 a share (Trian)"
+  ],
+  "order": 16,
+  "sector": "healthcare",
+  "soWhat": "Medtech conglomerates often trade at a discount because investors struggle to value very different businesses together, so splitting them can unlock value. A health data and coding software unit has different growth, margins and buyers from wound care and dental products. Activists push for spin-offs over sales when taxes would eat into the proceeds. The open question is whether a buyer pays enough to beat a tax-free spin.",
+  "sources": [
+   {
+    "title": "Investing.com (Reuters): Trian presses Solventum to spin off health information unit",
+    "url": "https://www.investing.com/news/stock-market-news/exclusivepeltzs-trian-presses-solventum-to-spin-off-health-information-unit-unless-sale-tops-range-5046269"
+   },
+   {
+    "title": "The Star: Peltz pushes Solventum to spin off HIS unit",
+    "url": "https://www.thestar.com.my/business/business-news/2026/11/25/peltz-pushes-solventum-to-spin-off-his-unit"
+   }
+  ],
+  "subindustry": "medtech",
+  "summary": "Nelson Peltz's Trian Fund Management, which owns just under 5% of Solventum, urged the 3M spin-off to separate its Health Information Systems unit through a tax-free spin-off. Trian said a sale makes sense only if the price is well above the rumored $5.5 billion to $7 billion range, because a sale could cost more than $8 a share in taxes. Solventum said in August that it plans to separate the unit to focus on medical products. The company said the process is ongoing.",
+  "tags": []
  }
 }
