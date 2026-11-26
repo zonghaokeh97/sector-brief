@@ -6566,5 +6566,252 @@
     "subindustry": "telecom"
    }
   ]
+ },
+ "2026-11-26": {
+  "date": "2026-11-26",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "Memory and storage rose to nearly 40% of HP's PC component costs, and HP raised prices while customers shifted to premium machines. The $0.15 tariff refund lifted earnings, not revenue.",
+    "id": "2026-11-26:x01",
+    "kind": "today",
+    "options": [
+     "HP gained share from every rival",
+     "Customers bought pricier premium PCs as HP passed on memory costs",
+     "HP started charging subscription fees for Windows",
+     "Tariff refunds were booked as PC revenue"
+    ],
+    "prompt": "HP's commercial PC revenue rose 23% while units fell 28%. What explains revenue growing as fewer machines ship?",
+    "sector": "tmt",
+    "storyId": "2026-11-26-09",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 0,
+    "explanation": "Gross margin is revenue minus the direct cost of making the cars. At minus 18.1%, each sale loses money before research and overhead, so higher volume alone cannot fix the $403 million loss.",
+    "id": "2026-11-26:x02",
+    "kind": "today",
+    "options": [
+     "The company loses money on each car before overhead costs",
+     "The company made a profit but paid high taxes",
+     "Sales fell, but each car was profitable",
+     "Only its research spending was too high"
+    ],
+    "prompt": "Polestar's gross margin was minus 18.1% last quarter. What does a negative gross margin tell you?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-26-16",
+    "subindustry": "automotive-mobility"
+   },
+   {
+    "answer": 1,
+    "explanation": "Blockbuster games earn much of their revenue in the first weeks, and a large player base feeds years of online play and in-game purchases, as with GTA V. Platform holders such as Sony still take a cut of digital sales.",
+    "id": "2026-11-26:x03",
+    "kind": "today",
+    "options": [
+     "Console makers pay publishers a fixed fee per launch",
+     "Most revenue arrives early, and a big player base supports later in-game spending",
+     "Launch sales are exempt from platform commissions",
+     "Retail stores pay for copies before players buy them"
+    ],
+    "prompt": "Citi estimates GTA VI sold about 45.5 million copies in three days. Why do big launches like this matter so much to a game publisher?",
+    "sector": "tmt",
+    "storyId": "2026-11-26-10",
+    "subindustry": "media-entertainment"
+   },
+   {
+    "answer": 0,
+    "explanation": "Hospitals buy the device once and then keep buying disposables for each patient, so recurring consumables lift margins. Hospital revenue grew 22% to NZ$841.5 million and the company raised its profit outlook.",
+    "id": "2026-11-26:x04",
+    "kind": "today",
+    "options": [
+     "Recurring sales of high-margin single-use masks and tubes on an installed base",
+     "A one-off government contract during the half",
+     "Cutting its research budget to zero",
+     "Selling its hospital business to a rival"
+    ],
+    "prompt": "Fisher & Paykel Healthcare's profit rose 37% on 15% revenue growth. Which feature of its business best explains profit growing faster than sales?",
+    "sector": "healthcare",
+    "storyId": "2026-11-26-18",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 2,
+    "explanation": "Once a field is built, each barrel produced earns the oil price minus a relatively low lifting cost, which makes production the largest profit pool. Exploration is high risk and development is capital heavy.",
+    "id": "2026-11-26:x05",
+    "kind": "profile",
+    "options": [
+     "Exploration and appraisal",
+     "Development of new fields",
+     "Production from existing fields",
+     "Selling and transport to market"
+    ],
+    "prompt": "In the upstream oil business, which step of the value chain is the largest profit pool?",
+    "sector": "energy-materials",
+    "storyId": null,
+    "subindustry": "oil-gas-upstream"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 1,
+    "explanation": "US sanctions block cash payments to Lukoil, so the consortium pays in restricted Russian shares held in a custodial account for five years or until sanctions lift. The deal still needs OFAC approval, so it does not skip the Treasury.",
+    "id": "2026-11-26:q01",
+    "kind": "today",
+    "options": [
+     "It lets the buyers avoid paying any tax on the deal",
+     "It lets a sanctioned seller be paid without cash reaching Russia",
+     "It guarantees Lukoil can buy the assets back later",
+     "It lets the buyers skip approval from the US Treasury"
+    ],
+    "prompt": "Lukoil's foreign business is being bought with restricted Russian shares, and the proceeds sit in a locked account for five years. Why use this structure?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-26-01",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 3,
+    "explanation": "A one-notch cut to AA- leaves Nvidia firmly investment grade, so funding costs barely move. The signal matters more: S&P lowered its governance assessment to neutral over board oversight and the lack of a succession plan.",
+    "id": "2026-11-26:q02",
+    "kind": "today",
+    "options": [
+     "It forces Nvidia to repay its bonds immediately",
+     "It pushes Nvidia's debt below investment grade",
+     "It blocks Nvidia from selling chips to US customers",
+     "It formally flags governance as a risk, with little change to borrowing costs"
+    ],
+    "prompt": "S&P put Nvidia's AA rating on watch for a cut of at most one notch, citing governance gaps. What is the main effect of such a move?",
+    "sector": "tmt",
+    "storyId": "2026-11-26-04",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 0,
+    "explanation": "Current and savings accounts pay little or nothing, so a bank funded by them can lend at a wider margin. That low-cost deposit base is a key reason DIB is buying Emirates Islamic in its $159 billion all-share deal.",
+    "id": "2026-11-26:q03",
+    "kind": "today",
+    "options": [
+     "Cheap deposits lower the combined bank's cost of funding",
+     "Savings accounts let the bank avoid capital rules",
+     "Current accounts earn the bank the highest fees",
+     "Deposits replace the need for regulatory approval"
+    ],
+    "prompt": "About 63% of Emirates Islamic's deposits are current and savings accounts, against about a third at Dubai Islamic Bank. Why does that matter to the buyer?",
+    "sector": "financial-services",
+    "storyId": "2026-11-26-05",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 2,
+    "explanation": "Ofgem set the cap at £2,166 a year, up £443 or 26% from £1,723. It limits unit prices and standing charges, not the total bill, so heavier users pay more.",
+    "id": "2026-11-26:q04",
+    "kind": "today",
+    "options": [
+     "About 6%, to about £1,830 a year",
+     "About 15%, to about £1,980 a year",
+     "About 26%, to about £2,170 a year",
+     "About 40%, to about £2,410 a year"
+    ],
+    "prompt": "Roughly how much will Britain's energy price cap rise for a typical household from January 2027?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-26-06",
+    "subindustry": "power-utilities"
+   },
+   {
+    "answer": 2,
+    "explanation": "Flights earn thin margins but attract customers who add hotels and car rentals, where agencies earn more. Kiwi also feeds Expedia's B2B business, which grew 23% to $1.71 billion last quarter; the deal still faces EU review.",
+    "id": "2026-11-26:q05",
+    "kind": "today",
+    "options": [
+     "Flights earn the highest commission of any travel product",
+     "Airlines pay agencies to take over their customer service",
+     "Flights bring in travelers who then book higher-margin hotels and cars",
+     "Selling flights lets agencies avoid European competition review"
+    ],
+    "prompt": "Expedia is buying Kiwi.com, whose main asset is technology that combines flights from airlines with no agreement with each other. Why would an online travel agency want more flight sales?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-26-07",
+    "subindustry": "travel-hospitality"
+   },
+   {
+    "answer": 1,
+    "explanation": "Ambarella guided fourth-quarter revenue to $70-75 million against $112 million expected because customers delayed orders when they could not get memory at workable prices. As a fabless designer it has no factory, and its chips' quality does not help if devices cannot be built.",
+    "id": "2026-11-26:q06",
+    "kind": "today",
+    "options": [
+     "Whether its chips beat rivals on benchmark tests",
+     "Whether customers can get enough memory to keep building devices",
+     "Whether its own factory can run more shifts",
+     "Whether the US dollar weakens against the euro"
+    ],
+    "prompt": "A company designs vision chips for security cameras and consumer devices. AI data centers are absorbing most of the world's memory supply. Which factor matters most for its next-quarter revenue?",
+    "sector": "tmt",
+    "storyId": "2026-11-26-08",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 0,
+    "explanation": "Mailchimp's revenue fell 1% to $313 million in the quarter and is guided flat to down, and buyers now pay far less for slow-growing software than in 2021. Bending Spoons specializes in buying such brands cheaply and running them for cash.",
+    "id": "2026-11-20:q03",
+    "kind": "review",
+    "options": [
+     "Mailchimp's revenue is shrinking slightly and slow-growth software valuations have fallen",
+     "Bending Spoons is a forced buyer under a court order",
+     "Mailchimp lost money on every customer",
+     "Email marketing was banned in the EU"
+    ],
+    "prompt": "Intuit is selling Mailchimp for $3.68 billion after paying $12 billion in 2021. What does the price mainly reflect?",
+    "sector": "tmt",
+    "storyId": "2026-11-20-03",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 0,
+    "explanation": "Roundup claims had no clear upper limit; the settlement caps the cost and spreads it over up to 21 years, freeing cash for the crop business. It does not end everything: about 200 federal cases sit outside it, and it comes on top of the earlier $16 billion.",
+    "id": "2026-11-21:q05",
+    "kind": "review",
+    "options": [
+     "It turns an open-ended legal risk into a capped payment spread over years",
+     "It lets Bayer raise Roundup prices across the US",
+     "It ends all Roundup cases in every US court at once",
+     "It cancels the $16 billion Bayer had already set aside"
+    ],
+    "prompt": "A judge approved Bayer's settlement of Roundup claims: up to $7.25 billion paid over as long as 21 years. What is the main business benefit for Bayer?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-21-06",
+    "subindustry": "agriculture-food"
+   },
+   {
+    "answer": 3,
+    "explanation": "Star bonuses go to Medicare Advantage plans, so insurers with the most Medicare members, UnitedHealth and Humana, fell most (6.5% and 5.1% premarket). Elevance, with less Medicare exposure, fell only 1.1%.",
+    "id": "2026-11-23:q04",
+    "kind": "review",
+    "options": [
+     "Insurers that mostly sell employer health plans",
+     "Hospital chains that treat Medicare patients",
+     "Drug distributors that supply pharmacies",
+     "Medicare-heavy insurers such as UnitedHealth and Humana"
+    ],
+    "prompt": "Medicare's Star Ratings proposal could cut bonus payments by about $107 billion over ten years. Which insurers are hurt most?",
+    "sector": "healthcare",
+    "storyId": "2026-11-23-04",
+    "subindustry": "payers-providers"
+   },
+   {
+    "answer": 2,
+    "explanation": "The combined ratio is claims plus expenses divided by premiums; below 100% means an underwriting profit. At 85%, about 15 cents per euro of premium is profit before investment income on the float.",
+    "id": "2026-11-26:q10",
+    "kind": "profile",
+    "options": [
+     "The insurer pays out 85% of its profit as dividends",
+     "85% of its policies are renewed each year",
+     "Claims and expenses take about 85 cents of each premium dollar, leaving underwriting profit",
+     "It invests 85% of its premiums in bonds"
+    ],
+    "prompt": "Hannover Re targets a property and casualty combined ratio below 85%. What does a combined ratio of 85% mean?",
+    "sector": "financial-services",
+    "storyId": null,
+    "subindustry": "insurance"
+   }
+  ]
  }
 }

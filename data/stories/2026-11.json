@@ -8917,5 +8917,623 @@
   "subindustry": "medtech",
   "summary": "Nelson Peltz's Trian Fund Management, which owns just under 5% of Solventum, urged the 3M spin-off to separate its Health Information Systems unit through a tax-free spin-off. Trian said a sale makes sense only if the price is well above the rumored $5.5 billion to $7 billion range, because a sale could cost more than $8 a share in taxes. Solventum said in August that it plans to separate the unit to focus on medical products. The company said the process is ongoing.",
   "tags": []
+ },
+ "2026-11-26-01": {
+  "companies": [
+   "lukoil",
+   "eldridge"
+  ],
+  "date": "2026-11-26",
+  "headline": "A US-led group agrees to buy Lukoil's foreign oil business, ending a year-long hunt for a buyer after sanctions",
+  "numbers": [
+   "Production: ~350,000 boe/d in 11 countries",
+   "Refining: 3 plants, ~350,000 b/d",
+   "Retail: 2,000+ stations in 16 countries",
+   "Payment: restricted Russian shares, held 5 years"
+  ],
+  "order": 1,
+  "sector": "energy-materials",
+  "soWhat": "Sanctions forced a sale of a large, integrated oil business, and the share-swap structure solves the core problem: how to pay a sanctioned seller without cash reaching Russia. Financial buyers rather than oil majors end up with the assets, so the first job is operational, restoring full refinery runs and keeping fuel flowing to markets such as Bulgaria, where Burgas is the largest refinery in the Balkans. Governments that host the assets gain certainty after a year in limbo. The open question is whether OFAC approves the terms, since an earlier agreement lapsed in July without Treasury sign-off.",
+  "sources": [
+   {
+    "title": "World Oil: U.S.-led consortium agrees to acquire Lukoil's international portfolio",
+    "url": "https://www.worldoil.com/news/2026/11/26/u-s-led-consortium-agrees-to-acquire-lukoil-s-international-portfolio-in-share-swap-deal/"
+   },
+   {
+    "title": "The National: US-led group reaches deal to acquire Lukoil's global assets",
+    "url": "https://thenationalnews.com/business/energy/2026/11/25/todd-boehly-lukoil"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "A consortium led by investment firm Eldridge, with the US International Development Finance Corporation (DFC), UAE-based Catena Investment Holding and Xtellus Partners, agreed to buy Lukoil International, the unit that holds the Russian company's assets outside Russia. The business produces about 350,000 barrels of oil equivalent a day in 11 countries, owns three European refineries with about 350,000 barrels a day of capacity (Burgas in Bulgaria, Zeeland in the Netherlands and Petrotel in Romania), the trading arm Litasco and more than 2,000 filling stations in 16 countries. The buyers pay with restricted shares in Lukoil and other Russian companies rather than cash, and the proceeds sit in a locked custodial account for five years or until sanctions are lifted. The DFC takes a stake for the US government at no upfront cost, and the deal still needs approval from the US Treasury's sanctions office (OFAC). ExxonMobil, Chevron, ADNOC and Carlyle had all looked at the assets after the US sanctioned Lukoil in late 2025.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-26-02": {
+  "companies": [
+   "kioxia",
+   "softbank-group"
+  ],
+  "date": "2026-11-26",
+  "headline": "The Dow claws back a 1,100-point drop to close higher as AI stocks recover, and Asian chip shares rebound on Thanksgiving",
+  "numbers": [
+   "Dow: +0.33% to 50,183 after -1,100 pts intraday",
+   "Nasdaq: -0.6% after -4.6% intraday",
+   "10-year Treasury: 4.91%",
+   "Kioxia (Thu): +12.6%"
+  ],
+  "order": 2,
+  "sector": "macro",
+  "soWhat": "Markets are trying to separate the AI companies that will earn a return on their spending from those that will not, and the result is very large daily swings in a small group of stocks. A rotation into energy, telecom and other defensive shares shows investors still want to own equities, but with less exposure to AI capital spending. The backdrop is tough: inflation at 3.8% and a likely December Fed rate hike raise the bar for highly valued growth stocks. The open question is whether the late-day recovery holds once full trading resumes after the holiday.",
+  "sources": [
+   {
+    "title": "ABC News/AP: How major US stock indexes fared Wednesday 11/25/2026",
+    "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-11252026-138453529"
+   },
+   {
+    "title": "Motley Fool: Dow erases 1,100-point loss",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/"
+   },
+   {
+    "title": "TradingKey: Japan, South Korea stocks; Kioxia surges",
+    "url": "https://www.tradingkey.com/analysis/stocks/more/262323392-japan-south-korea-stocks-kospi-nikkei-softbank-sk-hynix-samsung-kioxia-tradingkey"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "US stocks swung sharply on Wednesday before the Thanksgiving holiday. The Dow fell more than 1,100 points during the day but closed up 0.33% at 50,183, while the S&P 500 recovered from a 3.2% intraday fall to end down 0.3% at 7,182.78 and the Nasdaq, down as much as 4.6%, closed 0.6% lower at 23,585.80. Energy led the sectors and investors moved into defensive names such as Charter Communications, which rose 8.4%, while the 10-year Treasury yield eased to 4.91%. On Thursday, with US markets shut, Japan's Nikkei rose 0.9% to 57,499 as memory maker Kioxia jumped 12.6% and SoftBank Group gained 7.3% after heavy losses the day before.",
+  "tags": []
+ },
+ "2026-11-26-03": {
+  "companies": [
+   "saudi-aramco"
+  ],
+  "date": "2026-11-26",
+  "headline": "Brent jumps 3.5% to $94.61 after the Houthis claim a strike on Saudi Arabia's Ras Tanura refinery and export terminal",
+  "numbers": [
+   "Brent: +3.5% to $94.61",
+   "WTI: +2% to $83.68",
+   "Ras Tanura refinery: ~550,000 b/d",
+   "US crude stocks: 418.9M bbl (+1.1M)"
+  ],
+  "order": 3,
+  "sector": "energy-materials",
+  "soWhat": "Oil is being pulled between two forces: a supply surplus that had pushed Brent to a three-month low, and attacks that threaten the Gulf's export points. An export terminal matters more than a single refinery because it controls how much Saudi crude reaches buyers, so even a short loading halt adds a risk premium. Producers outside the Gulf and tanker owners gain from higher prices and longer voyages, while refiners and airlines in Asia face higher crude costs. The open question is what OPEC+ decides for 2027 output at its November 29 meeting.",
+  "sources": [
+   {
+    "title": "CNBC: Oil prices and Hormuz, Nov 25 2026",
+    "url": "https://www.cnbc.com/amp/2026/11/25/oil-wti-brent-hormuz-middle-east.html"
+   },
+   {
+    "title": "CNN: Smoke seen from space after Houthis claim strike on Saudi refinery",
+    "url": "https://www.cnn.com/2026/11/26/middleeast/houthi-saudi-oil-refinery-strike-satellite-imagery-intl"
+   },
+   {
+    "title": "Newsquawk: European market wrap, 25 November 2026",
+    "url": "https://www.newsquawk.com/headlines/newsquawk-european-market-wrap---25th-november-2026"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Brent crude rose 3.5% to settle at $94.61 a barrel on Wednesday and US WTI gained 2% to $83.68, a day after Brent touched its lowest level since August. Yemen's Houthis said they attacked Ras Tanura, Saudi Arabia's largest refinery at about 550,000 barrels a day and next to one of the world's biggest crude export terminals. The Saudi-led coalition said it destroyed four drones, but satellite images showed thick smoke and a shipping source said loadings at the terminal were suspended. Iran also said tankers hit naval mines in the Strait of Hormuz, while US crude stocks rose 1.1 million barrels to 418.9 million.",
+  "tags": []
+ },
+ "2026-11-26-04": {
+  "companies": [
+   "nvidia"
+  ],
+  "date": "2026-11-26",
+  "headline": "S&P puts Nvidia's AA credit rating on watch for a cut, citing governance gaps after its CEO left and returned",
+  "numbers": [
+   "Rating: AA, on CreditWatch negative",
+   "Likely outcome: at most one notch, to AA-",
+   "Review window: ~90 days",
+   "Moody's: Aa1, stable"
+  ],
+  "order": 4,
+  "sector": "tmt",
+  "soWhat": "For a company with Nvidia's cash flow, a one-notch cut barely changes borrowing costs, but it is a formal signal that governance has become a measurable risk. Large investors who track ratings and governance scores may hold less of the stock, and the episode shows how much the market value of a key supplier depends on one person. Rivals do not gain directly, but customers building AI data centers care about supplier stability. The open question is whether the board adds independent directors and a succession plan before S&P's review ends.",
+  "sources": [
+   {
+    "title": "Benzinga: S&P puts Nvidia on credit watch, Moody's leaves it unchanged",
+    "url": "https://www.benzinga.com/markets/tech/26/11/63659241/sp-global-ratings-nvidia-negative-credit-watch-moodys-jensen-huang-return"
+   },
+   {
+    "title": "Yahoo Finance UK: S&P warns Nvidia's credit rating could be downgraded",
+    "url": "https://uk.finance.yahoo.com/news/p-global-warns-nvidia-credit-205320758.html"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "S&P Global Ratings placed Nvidia's AA rating on CreditWatch with negative implications, saying the departure and reinstatement of CEO Jensen Huang did not answer its questions about how the board oversees senior executives. S&P flagged board independence, oversight of management, handling of geopolitical risk and the lack of a succession plan, and lowered its management and governance assessment from positive to neutral. It said any downgrade would likely be one notch, to AA-, within about 90 days, and it left its view of Nvidia's finances unchanged. Moody's kept its Aa1 rating with a stable outlook, and Nvidia shares fell about 6% on Wednesday.",
+  "tags": []
+ },
+ "2026-11-26-05": {
+  "companies": [
+   "dubai-islamic-bank",
+   "emirates-islamic"
+  ],
+  "date": "2026-11-26",
+  "headline": "Dubai Islamic Bank agrees to buy Emirates Islamic in an all-share deal, creating a $159 billion Islamic lender",
+  "numbers": [
+   "Combined assets: ~AED 585B (~$159B)",
+   "Swap ratio: 0.642 DIB shares per EI share",
+   "EI low-cost deposits: ~63% of total",
+   "Rank: #2 listed Islamic bank group"
+  ],
+  "order": 5,
+  "sector": "financial-services",
+  "soWhat": "Islamic banks follow Sharia rules, earning returns through profit-sharing and lease structures rather than interest, and scale matters because funding and compliance costs are largely fixed. Emirates Islamic brings cheap funding: current and savings accounts make up about 63% of its deposits, against about a third at DIB, which lowers the cost of money the combined bank lends out. Emirates NBD swaps full control of a subsidiary for a stake in a larger rival. The open question is whether Emirates NBD's own shareholders see the share ratio as fair value for a profitable unit.",
+  "sources": [
+   {
+    "title": "The National: Dubai Islamic Bank to acquire Emirates Islamic",
+    "url": "https://www.thenationalnews.com/business/banking/2026/11/25/dubai-islamic-bank-to-acquire-emirates-islamic-to-form-dh585bn-major/"
+   },
+   {
+    "title": "Arab News: DIB acquires Emirates Islamic to make second-largest Islamic banking group",
+    "url": "https://www.arabnews.pk/business/dubai-islamic-bank-acquires-emirates-islamic-to-make-second-largest-islamic-banking-group-3008128"
+   }
+  ],
+  "subindustry": "banking",
+  "summary": "Dubai Islamic Bank (DIB) agreed to acquire all of Emirates Islamic from its parent Emirates NBD, which will receive 0.642 new DIB shares for each Emirates Islamic share and become a significant DIB shareholder. The combined group would have about AED 585 billion ($159 billion) of assets, making it the second-largest listed Islamic banking group after Saudi Arabia's Al Rajhi Bank. No cash changes hands and the deal needs regulatory approval. DIB shares had risen about 11% on November 23 when the banks said their boards would consider the deal.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-26-06": {
+  "companies": [],
+  "date": "2026-11-26",
+  "headline": "Britain's energy price cap rises 26% to £2,166 a year from January as wholesale gas costs climb",
+  "numbers": [
+   "Cap: £2,166/yr from 1 Jan 2027",
+   "Rise: +26% (£443)",
+   "Cornwall Insight forecast: £1,999",
+   "TTF gas: ~€87-92/MWh"
+  ],
+  "order": 6,
+  "sector": "energy-materials",
+  "soWhat": "The UK cap passes wholesale costs through to households with a lag, so higher gas prices this autumn now reach bills just as winter demand peaks. Suppliers are protected from selling below cost, but more households fall behind on bills, raising bad-debt risk for retailers that already earn thin margins. A higher cap also adds to inflation that the Bank of England is trying to bring down. The open question is whether gas prices ease enough by the April cap to reverse part of the rise.",
+  "sources": [
+   {
+    "title": "Uswitch: January 2027 price cap to increase by 26%",
+    "url": "https://www.uswitch.com/gas-electricity/news/energy-price-cap-increase-by-twenty-six-percent/"
+   },
+   {
+    "title": "EDF: Energy Price Cap to rise by 26% from January to March 2027",
+    "url": "https://www.edfenergy.com/energywise/energy-price-cap-january-2027"
+   },
+   {
+    "title": "Newsquawk: European market wrap, 25 November 2026",
+    "url": "https://www.newsquawk.com/headlines/newsquawk-european-market-wrap---25th-november-2026"
+   }
+  ],
+  "subindustry": "power-utilities",
+  "summary": "Ofgem, the UK energy regulator, raised its price cap for January to March 2027 to £2,166 a year for a typical household that buys gas and electricity by direct debit, up £443 or 26% from £1,723. The figure came in above Cornwall Insight's forecast of £1,999 but below suppliers' average forecast of £2,219. The cap limits the price per unit of energy and the standing charge, not the total bill, so households that use more pay more. Dutch TTF gas, the European benchmark, traded between about €87 and €92 per megawatt hour on Wednesday.",
+  "tags": []
+ },
+ "2026-11-26-07": {
+  "companies": [
+   "expedia",
+   "kiwi-com"
+  ],
+  "date": "2026-11-26",
+  "headline": "Expedia agrees to buy Czech flight-booking site Kiwi.com, its fourth travel-technology deal in a row",
+  "numbers": [
+   "Kiwi.com 2025 revenue: €227M",
+   "Price: not disclosed",
+   "Expected close: H1 2027",
+   "Expedia B2B revenue: $1.71B (+23%, Q3)"
+  ],
+  "order": 7,
+  "sector": "consumer-retail",
+  "soWhat": "Flights are a low-margin product for online travel agencies, but they bring customers who then book higher-margin hotels and car rentals. Kiwi's technology lets Expedia sell cheaper multi-airline routes in Europe and supply them to the travel firms that use its B2B platform. Low-cost airlines and rival agencies face a stronger competitor, while General Atlantic gets an exit. The open question is whether European regulators accept the deal after they blocked Booking Holdings' purchase of flight specialist Etraveli in 2023.",
+  "sources": [
+   {
+    "title": "Skift: Expedia to buy Kiwi.com",
+    "url": "https://skift.com/2026/11/25/expedia-to-buy-kiwi-com-extending-its-acquisition-spree-into-flights/"
+   },
+   {
+    "title": "Expedia Group: Agreement to acquire Kiwi.com",
+    "url": "https://ir.expediagroup.com/news-and-events/news/news-details/2026/Expedia-Group-Announces-Agreement-to-Acquire-Kiwi-com-to-Augment-Flights-Capabilities/default.aspx"
+   }
+  ],
+  "subindustry": "travel-hospitality",
+  "summary": "Expedia Group agreed to buy Kiwi.com, a Brno-based online travel agency known for virtual interlining, which stitches together flights from airlines that have no agreement with each other into one itinerary. The price was not disclosed and the deal is expected to close in the first half of 2027. Kiwi.com's 2025 revenue was €227 million, about 20% below its 2023 peak of €284 million, and investor General Atlantic held 66.7% of its shares. Kiwi follows Expedia's purchases of Tiqets, CarTrawler and Layla, whose disclosed prices total $676 million, and Expedia's business-to-business revenue grew 23% to $1.71 billion last quarter.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-26-08": {
+  "companies": [
+   "ambarella"
+  ],
+  "date": "2026-11-26",
+  "headline": "Ambarella plunges about 30% as the memory shortage leads customers to delay orders for its camera chips",
+  "numbers": [
+   "Q4 revenue guide: $70-75M vs $112M expected",
+   "Q3 revenue: $115.2M (+6.2%)",
+   "Share move: about -29% to $31.54",
+   "Consumer share of revenue: ~50%"
+  ],
+  "order": 8,
+  "sector": "tmt",
+  "soWhat": "AI data centers are absorbing so much memory that makers of cameras, cars and other devices cannot get enough at a workable price, so they hold back their builds. That hurts companies like Ambarella that sell the other chips in those devices, even when demand from end users holds up. Memory makers gain pricing power, while device makers and their chip suppliers lose volume. The open question is how long the shortage lasts, since new memory factories take years to build.",
+  "sources": [
+   {
+    "title": "24/7 Wall St: The memory shortage has a new victim",
+    "url": "https://247wallst.com/investing/2026/11/25/the-memory-shortage-has-a-new-victim-ambarella-stock-crashes-37/"
+   },
+   {
+    "title": "CNBC: Stocks making the biggest moves Wednesday",
+    "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Chip designer Ambarella forecast fourth-quarter revenue of $70 million to $75 million, far below the $112 million analysts expected and about 37% below its third-quarter revenue of $115.2 million. Its CEO said scarce and expensive memory is leading customers in every end market to postpone or delay orders, with consumer products, about half of revenue, hit hardest, and that most of the cut is delays rather than cancellations. The shares fell about 29% to $31.54 on Wednesday after dropping more than 40% in late trading. Memory makers Micron and Sandisk also fell about 9% and 10% in the day's AI sell-off.",
+  "tags": []
+ },
+ "2026-11-26-09": {
+  "companies": [
+   "hp-inc"
+  ],
+  "date": "2026-11-26",
+  "headline": "HP's revenue rises 9% to $16 billion as higher PC prices offset fewer units, though memory now makes up 40% of PC parts costs",
+  "numbers": [
+   "Q4 revenue: $16.0B (+9.3%)",
+   "Adj. EPS: $0.83 vs $0.75 expected",
+   "Memory & storage: ~40% of PC parts cost",
+   "Commercial PCs: revenue +23%, units -28%"
+  ],
+  "order": 9,
+  "sector": "tmt",
+  "soWhat": "PC makers are passing the memory shortage on to buyers through higher prices, so revenue can grow even as fewer machines ship. That works for business customers buying premium AI-capable PCs, but consumer demand softened late in the quarter and retailers carried more stock. Memory suppliers capture much of the value, while PC makers' margins depend on how fast they can reprice. The open question is whether buyers keep paying more if memory costs keep rising into 2027.",
+  "sources": [
+   {
+    "title": "Futurum: HP Q4 FY 2026",
+    "url": "https://futurumgroup.com/insights/hp-q4-fy-2026-premium-pc-demand-offsets-falling-shipments/"
+   },
+   {
+    "title": "HP Inc Form 8-K, Q4 FY2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000047217/000004721726000054/hp103126exhibit991q426.htm"
+   },
+   {
+    "title": "CNBC: Stocks making the biggest moves Wednesday",
+    "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "HP Inc's fourth-quarter revenue rose 9.3% to $16.0 billion and adjusted earnings of $0.83 a share beat the $0.75 analysts expected, helped by a $0.15 gain from tariff refunds. Personal Systems revenue grew 14% to $11.75 billion, and commercial PC revenue rose 23% even though units fell 28%, as customers bought pricier premium machines. Memory and storage reached nearly 40% of HP's PC component costs, up from 15% to 18% at the start of the year, and gross margin slipped to 17.5%. HP raised its dividend to $0.31 a share and its stock rose 11.5%.",
+  "tags": []
+ },
+ "2026-11-26-10": {
+  "companies": [
+   "take-two"
+  ],
+  "date": "2026-11-26",
+  "headline": "GTA VI is estimated to have sold about 45 million copies in its first three days, a record pace for a video game",
+  "numbers": [
+   "3-day sales: ~45.5M (Citi estimate)",
+   "PS5 copies: ~34.1M",
+   "Alinea estimate: 44.9M",
+   "Pre-orders: ~15.9M"
+  ],
+  "order": 10,
+  "sector": "tmt",
+  "soWhat": "Big games now earn most of their money in the first weeks, and digital sales through console stores keep more revenue with the publisher than boxed copies did. A launch of this size can fund years of development and supports later income from online play and in-game purchases, which made GTA V one of the most profitable entertainment products ever. Sony also gains, since three-quarters of copies sold on PlayStation. The open question is how much of the launch carries into long-term online spending, which drives Take-Two's earnings after the first year.",
+  "sources": [
+   {
+    "title": "Investing.com: GTA VI hits 45.5M units sold in first 3 days",
+    "url": "https://www.investing.com/news/company-news/gta-vi-hits-455m-units-sold-in-first-3-days-93CH-5050276"
+   },
+   {
+    "title": "TipRanks/The Fly: GTA VI sold 44.9M units by end of weekend, says Alinea",
+    "url": "https://www.tipranks.com/news/the-fly/gta-vi-sold-44-9m-units-by-the-end-of-the-weekend-says-alinea-analytics-thefly-news"
+   }
+  ],
+  "subindustry": "media-entertainment",
+  "summary": "Citi estimates that Grand Theft Auto VI sold about 45.5 million copies in its first three days, based on PlayStation data showing about 34.1 million on PS5 and an assumed 75/25 split with Xbox. Tracking firm Alinea Analytics put sales at 44.9 million by the end of the launch weekend. Citi said the game reached 1.4 times its first-day sales over three days, compared with about 1.25 times for GTA V. Publisher Take-Two has not confirmed the figures; the game launched with a reported 15.9 million pre-orders.",
+  "tags": []
+ },
+ "2026-11-26-11": {
+  "companies": [
+   "rosneft"
+  ],
+  "date": "2026-11-26",
+  "headline": "Ukrainian drones hit two Rosneft refineries in Samara, the latest of about 16 Russian refineries struck this month",
+  "numbers": [
+   "Plants hit: Kuibyshev and Syzran (Rosneft)",
+   "Combined capacity: ~16 Mt/yr (~320,000 b/d)",
+   "Russian refineries hit in Nov: ~16",
+   "Kazakhstan output: 1.74M b/d"
+  ],
+  "order": 11,
+  "sector": "energy-materials",
+  "soWhat": "Damaged distillation units cut Russia's output of diesel and gasoline, so more crude gets exported unrefined while domestic fuel supply tightens. That supports refining margins elsewhere, especially for diesel in Europe and Asia, benefiting refiners that are running well. Russian oil companies lose higher-value product sales and face costly repairs under sanctions that limit access to Western parts. The open question is whether talks on energy infrastructure lead to a pause in strikes on both sides.",
+  "sources": [
+   {
+    "title": "Kyiv Independent: Ukraine strikes 2 Russian oil refineries in Samara",
+    "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-russian-oil-refineries-in-massive-attack/"
+   },
+   {
+    "title": "UNITED24 Media: Drones strike two refineries with capacity of nearly 16 million tons",
+    "url": "https://united24media.com/war-in-ukraine/ukrainian-drones-strike-two-russian-oil-refineries-with-combined-annual-capacity-of-nearly-16-million-tons-24692"
+   },
+   {
+    "title": "Newsquawk: European market wrap, 25 November 2026",
+    "url": "https://www.newsquawk.com/headlines/newsquawk-european-market-wrap---25th-november-2026"
+   }
+  ],
+  "subindustry": "refining-chemicals",
+  "summary": "Ukraine's military said drones struck Rosneft's Kuibyshev and Syzran refineries in Russia's Samara region overnight on November 25, damaging crude distillation units, a catalytic reformer and storage tanks. The two plants have a combined capacity of nearly 16 million tonnes a year, roughly 320,000 barrels a day. Ukraine has hit about 16 Russian refineries since the start of November, forcing some to halt and others to cut output. President Putin said Russia would respond and wants talks on protecting energy infrastructure, while Kazakhstan's oil output fell to 1.74 million barrels a day amid loading problems at the CPC export terminal.",
+  "tags": []
+ },
+ "2026-11-26-12": {
+  "companies": [
+   "constellation-energy",
+   "ls-power"
+  ],
+  "date": "2026-11-26",
+  "headline": "Constellation completes the roughly $5 billion sale of 4.4 GW of gas plants to LS Power, a condition of its Calpine deal",
+  "numbers": [
+   "Capacity sold: ~4.4 GW",
+   "Price: ~$5B before adjustments (Rigzone)",
+   "LS Power gas fleet: ~11.5 GW with NRG deal",
+   "Calpine deal closed: Jan 2026"
+  ],
+  "order": 12,
+  "sector": "energy-materials",
+  "soWhat": "Regulators made Constellation sell plants so the merged company would not control too much generation in PJM, the largest US power market, where prices are set by competing plants. Private owners like LS Power are buying gas plants because data center demand has made dispatchable power more valuable. Constellation keeps the cash and its nuclear-heavy fleet, while the buyer takes on exposure to PJM's power and capacity prices. The open question is whether PJM prices stay high enough to justify the prices now being paid for gas plants.",
+  "sources": [
+   {
+    "title": "Rigzone: Constellation completes $5B sale of 4.4GW PJM assets",
+    "url": "https://www.rigzone.com/news/constellation_completes_5b_sale_of_44gw_pjm_assets_to_ls_power-26-nov-2026-185175-article"
+   },
+   {
+    "title": "Business Wire: Constellation completes divestiture of legacy Calpine PJM assets",
+    "url": "https://www.businesswire.com/news/home/20261124719250/en/Constellation-Completes-Divestiture-of-Legacy-Calpine-PJM-Generation-Assets-to-LS-Power"
+   }
+  ],
+  "subindustry": "power-utilities",
+  "summary": "Constellation Energy completed the sale of about 4.4 gigawatts of mostly gas-fired power plants in the PJM grid region to LS Power, including the Bethlehem, York 1 and 2, Hay Road and Edge Moor plants in Pennsylvania and Delaware. Rigzone reported the price at about $5 billion before adjustments. The sale meets divestiture conditions set by the US Justice Department and federal power regulator FERC for Constellation's purchase of Calpine, which closed in January 2026. LS Power also bought the 606-megawatt Brazos Valley plant in Texas in October, and with a proposed NRG deal its gas fleet would reach about 11.5 gigawatts.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-26-13": {
+  "companies": [
+   "bnp-paribas",
+   "bank-of-america"
+  ],
+  "date": "2026-11-26",
+  "headline": "Global regulators move BNP Paribas into a higher capital bracket for systemically important banks",
+  "numbers": [
+   "G-SIBs: 29 (unchanged)",
+   "BNP buffer: 1.5% to 2% of RWA",
+   "Effective: 1 Jan 2028",
+   "MUFG: down to bucket 1 (1%)"
+  ],
+  "order": 13,
+  "sector": "financial-services",
+  "soWhat": "G-SIB buckets are set by a bank's size, global reach and links to other banks, so growing bigger raises the capital a bank must hold, which lowers its return on equity. Half a percentage point of extra capital on a bank of BNP's size ties up billions of euros that could otherwise be lent or returned to shareholders. Banks near a bucket line have a reason to manage their size, and MUFG gains room to lend or pay out. The open question is how BNP offsets the cost, through pricing, smaller trading books or slower growth.",
+  "sources": [
+   {
+    "title": "FSB: FSB publishes 2026 G-SIB list",
+    "url": "https://www.fsb.org/2026/11/fsb-publishes-2026-g-sib-list/"
+   },
+   {
+    "title": "Global Banking & Finance: BNP Paribas moves up global systemic bank list",
+    "url": "https://www.globalbankingandfinance.com/bnp-paribas-moves-up-global-systemic-bank-list-capital/"
+   }
+  ],
+  "subindustry": "banking",
+  "summary": "The Financial Stability Board's 2026 list of global systemically important banks (G-SIBs) keeps the same 29 banks as last year but moves BNP Paribas up from bucket 2 to bucket 3. That raises the extra capital buffer BNP must hold from 1.5% to 2% of risk-weighted assets, starting on January 1, 2028. Japan's MUFG moves down to bucket 1, cutting its surcharge to 1%. Bucket 3 also includes Bank of America, Citigroup, HSBC and ICBC.",
+  "tags": []
+ },
+ "2026-11-26-14": {
+  "companies": [
+   "hannover-re"
+  ],
+  "date": "2026-11-26",
+  "headline": "Hannover Re targets at least €2.9 billion of profit in 2027 as reinsurance renewals run late with price in focus",
+  "numbers": [
+   "2027 profit target: ≥€2.9B (+7%)",
+   "ROE target 2027-29: ≥18%",
+   "P&C combined ratio: <85%",
+   "Large-loss budget: €2.5B"
+  ],
+  "order": 14,
+  "sector": "financial-services",
+  "soWhat": "Reinsurers insure insurance companies, and the January 1 renewals set prices for a large share of the year's business. Late renewals and a focus on price mean buyers are pushing for cuts after several profitable years, so reinsurers are trading some margin for volume. A combined ratio below 85% means Hannover expects to keep about 15 cents of underwriting profit per euro of premium, before investment income. The open question is how far rates fall at January 1 and whether catastrophe losses stay within the bigger budget.",
+  "sources": [
+   {
+    "title": "Reinsurance News: Hannover Re raises net income target by 7% to €2.9bn",
+    "url": "https://www.reinsurancene.ws/hannover-re-raises-net-income-target-by-7-to-e2-9bn-for-2027/"
+   },
+   {
+    "title": "Global Reinsurance: Hannover Re targets €2.9bn net income for 2027",
+    "url": "https://www.globalreinsurance.com/home/hannover-re-targets-29bn-net-income-for-2027-and-18-annual-roe/1460382.article"
+   }
+  ],
+  "subindustry": "insurance",
+  "summary": "Hannover Re, one of the world's largest reinsurers, set a 2027 net income target of at least €2.9 billion, about 7% above its 2026 goal of at least €2.7 billion. For 2027 to 2029 it aims for a return on equity of at least 18% and average EBIT growth of at least 5% a year, with a property and casualty combined ratio below 85%. It raised its budget for large losses to €2.5 billion from €2.3 billion and kept paying out about 55% of profit as dividends. Its board said January renewals are running later than usual and talks focus mostly on price.",
+  "tags": []
+ },
+ "2026-11-26-15": {
+  "companies": [
+   "maersk"
+  ],
+  "date": "2026-11-26",
+  "headline": "Maersk orders 12 dual-fuel ships of 24,000 containers each, the largest in its fleet, for delivery in 2030-31",
+  "numbers": [
+   "Order: 12 ships × 24,000 TEU",
+   "Deliveries: 2030-2031",
+   "Estimated cost: ~$2.9B (Splash247)",
+   "Fuel: dual-fuel LNG"
+  ],
+  "order": 15,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Maersk had held back from ordering the largest ships while rivals such as MSC grew their fleets, so this order signals it wants to defend its share on the main Asia-Europe routes. Bigger ships lower the cost per container, but they only pay off when they sail full, and a wave of deliveries can push freight rates down for the whole industry. Shipyards in China gain more work, while smaller carriers face tougher cost competition. The open question is whether trade volumes in 2030 are strong enough to fill the new capacity.",
+  "sources": [
+   {
+    "title": "Splash247: Maersk storms into megamax league",
+    "url": "https://splash247.com/maersk-storms-into-megamax-league/"
+   },
+   {
+    "title": "Baird Maritime: Maersk orders 12 dual-fuel 24,000TEU containerships",
+    "url": "https://www.bairdmaritime.com/shipping/boxships/maersk-orders-dual-fuel-containerships"
+   },
+   {
+    "title": "Riviera: Maersk confirms first batch of 24,000-TEU order",
+    "url": "https://www.rivieramm.com/news-content-hub/maersk-reportedly-firms-up-order-for-at-least-20-24000-teu-boxships-at-hengli-90646"
+   }
+  ],
+  "subindustry": "transport-logistics",
+  "summary": "A.P. Moller-Maersk confirmed it has ordered 12 container ships that can each carry 24,000 twenty-foot containers (TEU) and run on either LNG or conventional fuel, with deliveries in 2030 and 2031. Maersk did not disclose the shipyard or price; trade outlet Splash247 estimated the cost at about $2.9 billion, and Riviera reported that China's Hengli Heavy Industries is the likely builder, with options for 12 more ships. The ships will be the biggest Maersk has ordered. Freight forecasters expect transpacific container rates to keep easing and air cargo rates to fall next year.",
+  "tags": []
+ },
+ "2026-11-26-16": {
+  "companies": [
+   "polestar"
+  ],
+  "date": "2026-11-26",
+  "headline": "Polestar's revenue falls 14% and its loss widens to $403 million as it winds down US sales",
+  "numbers": [
+   "Q3 revenue: $642M (-14.3%)",
+   "Retail sales: 14,371 cars (+1%)",
+   "Gross margin: -18.1%",
+   "Net loss: $403M"
+  ],
+  "order": 16,
+  "sector": "advanced-industries",
+  "soWhat": "A negative gross margin means Polestar loses money on each car before paying for research, marketing and overhead, so selling more does not close the gap. Losing the US market removes high-priced sales just as competition from Chinese and established brands pushes prices down in Europe. Owner Geely and its lenders carry the funding burden, while rivals pick up customers. The open question is how long Polestar can keep funding losses with about $653 million of cash.",
+  "sources": [
+   {
+    "title": "Quartz: Polestar posted a wider loss as pricing and U.S. exit weighed",
+    "url": "https://qz.com/polestar-q3-loss-widens-pricing-us-exit-revenue-112526"
+   },
+   {
+    "title": "Grafa: Polestar Q3 revenue falls 14.3% to US$642 million",
+    "url": "https://grafa.com/en/news/united-states/polestar-q3-2026-revenue-loss-us-restructuring"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "Electric carmaker Polestar reported third-quarter revenue of $642 million, down 14.3% from $749 million a year earlier, even though retail sales rose 1% to 14,371 cars. Its gross margin fell to minus 18.1% from minus 6.1%, and the net loss widened to $403 million from $365 million, as price cuts, a weaker model mix and charges tied to North American resale values weighed. Polestar is winding down most of its US business after being barred from selling new cars there from model year 2027. It ended the quarter with about $653 million of cash and kept its 2026 volume guidance.",
+  "tags": []
+ },
+ "2026-11-26-17": {
+  "companies": [
+   "urban-outfitters"
+  ],
+  "date": "2026-11-26",
+  "headline": "Urban Outfitters posts record sales of $1.67 billion but falls 13% as Anthropologie slows",
+  "numbers": [
+   "Q3 revenue: $1.67B (+8.9%)",
+   "Comparable sales: +4.4% vs ~5.3% expected",
+   "Anthropologie comps: +1.7%",
+   "Shares: -13%"
+  ],
+  "order": 17,
+  "sector": "consumer-retail",
+  "soWhat": "Clothing retailers are priced on comparable sales, which strip out new stores and show whether existing customers are buying more. Unsold stock that must be marked down is the main risk to margins, so slow-selling styles at Anthropologie matter more than the record total. Brands that read trends well, here Free People, keep pricing power. The open question is whether the holiday season clears Anthropologie's inventory without heavy discounts.",
+  "sources": [
+   {
+    "title": "Urban Outfitters Form 8-K, Q3 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000912615/000119312526477264/urbn-ex99_1.htm"
+   },
+   {
+    "title": "Yahoo Finance: Urban Outfitters stock falls as comparable sales growth slows",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/urban-outfitters-stock-falls-comparable-140400260.html"
+   },
+   {
+    "title": "CNBC: Stocks making the biggest moves Wednesday",
+    "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "Urban Outfitters' third-quarter revenue rose 8.9% to a record $1.67 billion and earnings rose to $1.54 a share from $1.28, but comparable retail sales grew 4.4%, short of the roughly 5.3% analysts expected. Growth came from Free People's FP Group, up 8.5%, and the Urban Outfitters brand, up 5.8%, while Anthropologie grew just 1.7% as new styles were slow to sell and older stock needed deeper discounts. The company guided to mid-single-digit revenue growth for the holiday quarter with flat Anthropologie sales. The shares fell 13% on Wednesday.",
+  "tags": []
+ },
+ "2026-11-26-18": {
+  "companies": [
+   "cogent-biosciences"
+  ],
+  "date": "2026-11-26",
+  "headline": "Cogent wins early FDA approval for Ekitna, the first new treatment in years for a rare stomach cancer after first-line therapy",
+  "numbers": [
+   "Trial: 413 patients (PEAK)",
+   "Median PFS: 16.5 months",
+   "Response rate: 46%",
+   "Next decision: Dec 30 (mastocytosis)"
+  ],
+  "order": 18,
+  "sector": "healthcare",
+  "soWhat": "A small biotech's first approval turns it from a research company into a seller, and launching on time is what investors watch next. Rare cancers with few options can support high prices and quick uptake through specialist doctors, and orphan drug status gives seven years of US market exclusivity. If the mastocytosis approvals follow, one molecule covers several markets, which spreads the cost of building a sales team. The open question is how fast oncologists switch patients who would otherwise get sunitinib alone.",
+  "sources": [
+   {
+    "title": "Cogent Biosciences: FDA approval and launch of EKITNA",
+    "url": "https://investors.cogentbio.com/news-releases/news-release-details/cogent-biosciences-announces-fda-approval-and-launch-ekitnatm"
+   },
+   {
+    "title": "AJMC: FDA approves bezuclastinib plus sunitinib for GIST",
+    "url": "https://www.ajmc.com/view/fda-approves-bezuclastinib-plus-sunitinib-for-gist-after-imatinib"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "The FDA approved Cogent Biosciences' Ekitna (bezuclastinib), taken with the older drug sunitinib, for adults with advanced gastrointestinal stromal tumors (GIST) that have already been treated with imatinib. The decision came on November 24, ahead of the November 30 target date, under the FDA's real-time oncology review. In the 413-patient PEAK trial, the combination produced median progression-free survival of 16.5 months and a 46% response rate. Cogent has two more decisions ahead for the drug in systemic mastocytosis, including one due on December 30.",
+  "tags": []
+ },
+ "2026-11-26-19": {
+  "companies": [
+   "fisher-paykel-healthcare"
+  ],
+  "date": "2026-11-26",
+  "headline": "Fisher & Paykel Healthcare's profit jumps 37% on hospital demand and it raises its full-year outlook",
+  "numbers": [
+   "H1 net profit: NZ$291.4M (+37%)",
+   "Revenue: NZ$1.25B (+15%)",
+   "Hospital revenue: NZ$841.5M (+22%)",
+   "FY profit guide: NZ$565-605M"
+  ],
+  "order": 19,
+  "sector": "healthcare",
+  "soWhat": "Fisher & Paykel follows a razor-and-blades model: hospitals buy a device once and then keep buying the disposable tubes and masks used with each patient. As more hospitals adopt high-flow therapy outside intensive care, the consumable sales recur and earn high margins, which is why profit grew more than twice as fast as revenue. Competing device makers face a large installed base that is costly for hospitals to switch away from. The open question is whether hospitals keep adopting high-flow therapy at this pace through the second half.",
+  "sources": [
+   {
+    "title": "RNZ: Hospital growth powers Fisher & Paykel Healthcare profit higher",
+    "url": "https://www.rnz.co.nz/news/business/2788095/hospital-growth-powers-fisher-and-paykel-healthcare-profit-higher"
+   },
+   {
+    "title": "Capital Brief: Fisher & Paykel Healthcare lifts full-year guidance",
+    "url": "https://www.capitalbrief.com/briefing/fisher-paykel-healthcare-lifts-full-year-guidance-on-strong-hy-profit-7dd6fc50-12d6-45ea-aff8-7149ce0514d1/"
+   }
+  ],
+  "subindustry": "medtech",
+  "summary": "New Zealand's Fisher & Paykel Healthcare, which makes breathing-support devices, reported first-half net profit of NZ$291.4 million, up 37%, on revenue up 15% to NZ$1.25 billion. Hospital products, mostly high-flow nasal oxygen systems and the single-use parts that go with them, grew 22% to NZ$841.5 million. The company raised its full-year profit forecast to NZ$565 million to NZ$605 million from NZ$525 million to NZ$565 million. It lifted its interim dividend to 26 cents a share from 19 cents.",
+  "tags": []
+ },
+ "2026-11-26-20": {
+  "companies": [],
+  "date": "2026-11-26",
+  "headline": "Wholesale turkey prices hit a record $1.76 a pound, up 30%, even as production recovers from bird flu",
+  "numbers": [
+   "Wholesale hen turkey: $1.76/lb (+30%)",
+   "2024 price: $0.94/lb",
+   "US production: 5.1B lb (2020: 5.7B)",
+   "Retail turkey prices: ~+10%"
+  ],
+  "order": 20,
+  "sector": "consumer-retail",
+  "soWhat": "Rebuilding flocks after disease takes time, and processing plants need workers, so supply recovers more slowly than demand. Grocers absorb part of the wholesale rise because a cheap holiday turkey brings shoppers who buy higher-margin items. Farmers see little of the higher price, since feed, fuel and labor costs rose too, so processors and grocers hold most of the pricing power. The open question is whether proposed changes to temporary worker visas ease the labor shortage before next year's season.",
+  "sources": [
+   {
+    "title": "KFGO: Turkey production bounces back but prices still rise",
+    "url": "https://kfgo.com/2026/11/26/turkey-production-bounces-back-but-prices-still-rise/"
+   },
+   {
+    "title": "PBS NewsHour: Americans will pay more for Thanksgiving dinners this year",
+    "url": "https://www.pbs.org/newshour/economy/americans-will-pay-more-for-thanksgiving-dinners-this-year-says-farm-bureau-survey"
+   }
+  ],
+  "subindustry": "agriculture-food",
+  "summary": "The USDA projects the wholesale price of whole hen turkeys at a record $1.76 a pound this year, up from $1.36 last year and 94 cents in 2024. US turkey production rose for the first time in several years to 5.1 billion pounds, up from 4.8 billion, but remains below the 5.7 billion of 2020 after years of avian disease. Retail prices rose about 10%, less than wholesale, as grocers used turkeys as discounted traffic builders, some as low as 69 cents a pound. Producers blame labor shortages for processing bottlenecks, while diesel near $5.81 a gallon and high fertilizer costs squeeze farm budgets.",
+  "tags": []
  }
 }

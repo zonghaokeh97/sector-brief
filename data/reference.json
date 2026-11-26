@@ -288,6 +288,23 @@
    "ticker": "NASDAQ: AMZN",
    "updated": "2026-10-20"
   },
+  "ambarella": {
+   "businessModel": "Fabless chip designer selling video-processing and edge-AI chips for security cameras, cars and consumer devices.",
+   "competitors": [
+    "Qualcomm",
+    "NXP",
+    "Mobileye",
+    "HiSilicon",
+    "Texas Instruments"
+   ],
+   "hq": "Santa Clara, California, USA",
+   "name": "Ambarella",
+   "sector": "tmt",
+   "size": "Revenue ~$0.4B (approx., FY2026)",
+   "subindustry": "semiconductors",
+   "ticker": "NASDAQ: AMBA",
+   "updated": "2026-11-26"
+  },
   "amd": {
    "businessModel": "Designs processors and AI accelerator chips that TSMC manufactures, selling them for PCs, servers, data centers and embedded devices.",
    "competitors": [
@@ -959,6 +976,23 @@
    "ticker": "ASX: BSL",
    "updated": "2026-10-26"
   },
+  "bnp-paribas": {
+   "businessModel": "Universal bank earning net interest income from lending, plus fees from investment banking, asset management, insurance and payments.",
+   "competitors": [
+    "Société Générale",
+    "Crédit Agricole",
+    "Deutsche Bank",
+    "Santander",
+    "HSBC"
+   ],
+   "hq": "Paris, France",
+   "name": "BNP Paribas",
+   "sector": "financial-services",
+   "size": "Total assets ~€2.7T (approx., 2024)",
+   "subindustry": "banking",
+   "ticker": "Euronext Paris: BNP",
+   "updated": "2026-11-26"
+  },
   "boeing": {
    "businessModel": "Builds commercial jets, defense aircraft and space systems, and earns recurring revenue from services and spare parts.",
    "competitors": [
@@ -1359,6 +1393,22 @@
    "subindustry": "metals-mining",
    "ticker": "Private (Chilean state)",
    "updated": "2026-11-20"
+  },
+  "cogent-biosciences": {
+   "businessModel": "Develops targeted cancer and rare-disease drugs, now selling its first approved drug Ekitna for GIST.",
+   "competitors": [
+    "Blueprint Medicines",
+    "Deciphera",
+    "Novartis",
+    "Pfizer"
+   ],
+   "hq": "Waltham, Massachusetts, USA",
+   "name": "Cogent Biosciences",
+   "sector": "healthcare",
+   "size": "Market value ~several $B (approx., 2026)",
+   "subindustry": "pharma-biotech",
+   "ticker": "NASDAQ: COGT",
+   "updated": "2026-11-26"
   },
   "coinbase": {
    "businessModel": "Earns trading fees on crypto buys and sells, plus interest on stablecoin reserves (USDC), staking fees and custody services for institutions such as ETF issuers.",
@@ -1800,6 +1850,23 @@
    "ticker": "Nasdaq: DKNG",
    "updated": "2026-11-06"
   },
+  "dubai-islamic-bank": {
+   "businessModel": "Provides Sharia-compliant banking, earning profit-sharing and lease income on financing funded by customer deposits, plus fees.",
+   "competitors": [
+    "Emirates NBD",
+    "Abu Dhabi Islamic Bank",
+    "First Abu Dhabi Bank",
+    "Al Rajhi Bank",
+    "Mashreq"
+   ],
+   "hq": "Dubai, UAE",
+   "name": "Dubai Islamic Bank",
+   "sector": "financial-services",
+   "size": "Total assets ~AED 340B+ (approx., 2025)",
+   "subindustry": "banking",
+   "ticker": "DFM: DIB",
+   "updated": "2026-11-26"
+  },
   "eaglerock-land": {
    "businessModel": "Owns Permian surface acreage and water infrastructure and earns fees from oil producers for land use, water supply and disposal.",
    "competitors": [
@@ -1832,6 +1899,22 @@
    "subindustry": "agriculture-food",
    "ticker": "ASX: ELD",
    "updated": "2026-11-16"
+  },
+  "eldridge": {
+   "businessModel": "Invests its own and clients' capital across insurance, credit, real estate and media, earning fees and investment returns.",
+   "competitors": [
+    "Apollo",
+    "Carlyle",
+    "KKR",
+    "Blackstone"
+   ],
+   "hq": "Greenwich, Connecticut, USA",
+   "name": "Eldridge",
+   "sector": "financial-services",
+   "size": "Assets under management ~$50B+ (approx., 2025)",
+   "subindustry": "asset-wealth",
+   "ticker": "Private (Todd Boehly)",
+   "updated": "2026-11-26"
   },
   "elevance-health": {
    "businessModel": "Sells Blue Cross Blue Shield-branded health insurance to employers and individuals and runs Medicaid and Medicare plans, earning premiums minus claims, plus fees from its Carelon services unit.",
@@ -1883,6 +1966,22 @@
    "subindustry": "aerospace-defense",
    "ticker": "NYSE: ERJ",
    "updated": "2026-11-10"
+  },
+  "emirates-islamic": {
+   "businessModel": "Sharia-compliant retail and corporate bank owned by Emirates NBD, funded largely by low-cost current and savings accounts.",
+   "competitors": [
+    "Dubai Islamic Bank",
+    "Abu Dhabi Islamic Bank",
+    "Sharjah Islamic Bank",
+    "Al Hilal Bank"
+   ],
+   "hq": "Dubai, UAE",
+   "name": "Emirates Islamic",
+   "sector": "financial-services",
+   "size": "Total assets ~AED 100B+ (approx., 2025)",
+   "subindustry": "banking",
+   "ticker": "DFM: EIB (subsidiary of Emirates NBD)",
+   "updated": "2026-11-26"
   },
   "enbridge": {
    "businessModel": "Owns crude oil and gas pipelines, gas utilities and renewable power, earning mostly regulated or contracted fees for moving and delivering energy. It co-owns the Woodfibre LNG export plant.",
@@ -2019,6 +2118,22 @@
    "ticker": "Nasdaq: EVGO",
    "updated": "2026-11-03"
   },
+  "expedia": {
+   "businessModel": "Online travel agency that earns commissions and margins on hotel, flight, car and holiday bookings through Expedia, Hotels.com and Vrbo, and sells its booking technology to other travel firms (B2B).",
+   "competitors": [
+    "Booking Holdings",
+    "Airbnb",
+    "Trip.com",
+    "Google Travel"
+   ],
+   "hq": "Seattle, Washington, USA",
+   "name": "Expedia Group",
+   "sector": "consumer-retail",
+   "size": "Revenue ~$13.7B (approx., 2024)",
+   "subindustry": "travel-hospitality",
+   "ticker": "NASDAQ: EXPE",
+   "updated": "2026-11-26"
+  },
   "exxonmobil": {
    "businessModel": "An integrated oil company that produces oil and gas, refines it into fuels and chemicals, and earns across the chain, with upstream profits tied to crude prices and refining profits to margins.",
    "competitors": [
@@ -2103,6 +2218,22 @@
    "subindustry": "payments-fintech",
    "ticker": "Nasdaq: FISV",
    "updated": "2026-11-04"
+  },
+  "fisher-paykel-healthcare": {
+   "businessModel": "Makes respiratory devices for hospitals and home sleep apnea care, earning most profit from recurring sales of single-use masks and tubes.",
+   "competitors": [
+    "ResMed",
+    "Philips",
+    "Medtronic",
+    "Vapotherm"
+   ],
+   "hq": "Auckland, New Zealand",
+   "name": "Fisher & Paykel Healthcare",
+   "sector": "healthcare",
+   "size": "Revenue ~NZ$2.0B (approx., FY2025)",
+   "subindustry": "medtech",
+   "ticker": "NZX/ASX: FPH",
+   "updated": "2026-11-26"
   },
   "flatiron-energy": {
    "businessModel": "Develops, builds and operates grid batteries, earning from long-term capacity contracts and from storing power cheaply and selling it at peak prices.",
@@ -2442,6 +2573,22 @@
    "ticker": "Nasdaq: HWC",
    "updated": "2026-11-13"
   },
+  "hannover-re": {
+   "businessModel": "Reinsures property, casualty, life and health risks for primary insurers, earning underwriting profit and investment income on held premiums.",
+   "competitors": [
+    "Munich Re",
+    "Swiss Re",
+    "SCOR",
+    "Berkshire Hathaway Re"
+   ],
+   "hq": "Hannover, Germany",
+   "name": "Hannover Re",
+   "sector": "financial-services",
+   "size": "Insurance revenue ~€26B (approx., 2025)",
+   "subindustry": "insurance",
+   "ticker": "XETRA: HNR1",
+   "updated": "2026-11-26"
+  },
   "hapag-lloyd": {
    "businessModel": "Operates one of the world's largest container shipping fleets, charging freight rates per container moved, and owns stakes in port terminals.",
    "competitors": [
@@ -2509,6 +2656,23 @@
    "subindustry": "automotive-mobility",
    "ticker": "NYSE: HMC; TSE: 7267",
    "updated": "2026-11-11"
+  },
+  "hp-inc": {
+   "businessModel": "Sells PCs and printers to businesses and consumers, earning recurring high-margin revenue from printer ink and toner supplies.",
+   "competitors": [
+    "Dell Technologies",
+    "Lenovo",
+    "Apple",
+    "Canon",
+    "Epson"
+   ],
+   "hq": "Palo Alto, California, USA",
+   "name": "HP Inc",
+   "sector": "tmt",
+   "size": "Revenue $60.5B (FY2026)",
+   "subindustry": "software-cloud",
+   "ticker": "NYSE: HPQ",
+   "updated": "2026-11-26"
   },
   "hsbc": {
    "businessModel": "Global bank earning net interest income on loans and deposits, plus fees from wealth management, payments, trade finance and markets, with a large Asia and Hong Kong franchise.",
@@ -2963,6 +3127,22 @@
    "ticker": "TSE: 285A",
    "updated": "2026-11-02"
   },
+  "kiwi-com": {
+   "businessModel": "Online travel agency that combines flights from unrelated airlines into single itineraries (virtual interlining) and earns margins and protection fees on each booking.",
+   "competitors": [
+    "Skyscanner",
+    "eDreams Odigeo",
+    "Etraveli",
+    "Trip.com"
+   ],
+   "hq": "Brno, Czech Republic",
+   "name": "Kiwi.com",
+   "sector": "consumer-retail",
+   "size": "Revenue €227M (2025)",
+   "subindustry": "travel-hospitality",
+   "ticker": "Private (General Atlantic majority)",
+   "updated": "2026-11-26"
+  },
   "klarna": {
    "businessModel": "Lets shoppers split purchases into installments and earns mainly merchant fees, plus interest on longer loans, card and advertising revenue.",
    "competitors": [
@@ -3077,6 +3257,22 @@
    "subindustry": "oil-gas-upstream",
    "ticker": "TSX Venture-listed (being acquired by Ovintiv)",
    "updated": "2026-10-28"
+  },
+  "ls-power": {
+   "businessModel": "Develops, buys and operates power plants, transmission and energy infrastructure, earning power and capacity market revenue and regulated transmission returns.",
+   "competitors": [
+    "Vistra",
+    "NRG Energy",
+    "Constellation Energy",
+    "Talen Energy"
+   ],
+   "hq": "New York, USA",
+   "name": "LS Power",
+   "sector": "energy-materials",
+   "size": "Owns/operates ~20+ GW of generation (approx., 2025)",
+   "subindustry": "power-utilities",
+   "ticker": "Private",
+   "updated": "2026-11-26"
   },
   "lseg": {
    "businessModel": "Earns subscription fees for financial data, analytics and workflow tools (including Refinitiv), plus fees from trading, clearing (LCH) and index licensing. Data and analytics make up the largest share of revenue.",
@@ -4079,6 +4275,23 @@
    "ticker": "NYSE: PFE",
    "updated": "2026-11-03"
   },
+  "polestar": {
+   "businessModel": "Premium electric-car brand controlled by Geely, selling vehicles mainly in Europe and Asia through online and retail channels.",
+   "competitors": [
+    "Tesla",
+    "BMW",
+    "Mercedes-Benz",
+    "BYD",
+    "Volvo Cars"
+   ],
+   "hq": "Gothenburg, Sweden",
+   "name": "Polestar",
+   "sector": "advanced-industries",
+   "size": "Revenue ~$2.0B for nine months to Sep 2026",
+   "subindustry": "automotive-mobility",
+   "ticker": "NASDAQ: PSNY",
+   "updated": "2026-11-26"
+  },
   "poundland": {
    "businessModel": "Sells low-priced household goods, food and seasonal items through a UK discount-store chain, earning thin margins on high volume.",
    "competitors": [
@@ -4382,6 +4595,22 @@
    "subindustry": "aerospace-defense",
    "ticker": "LSE: RR.",
    "updated": "2026-11-13"
+  },
+  "rosneft": {
+   "businessModel": "State-controlled oil producer and Russia's largest refiner, selling crude and fuels at home and abroad.",
+   "competitors": [
+    "Lukoil",
+    "Gazprom Neft",
+    "Surgutneftegas",
+    "Tatneft"
+   ],
+   "hq": "Moscow, Russia",
+   "name": "Rosneft",
+   "sector": "energy-materials",
+   "size": "Revenue ~RUB 10T (approx., 2024)",
+   "subindustry": "oil-gas-upstream",
+   "ticker": "MOEX: ROSN",
+   "updated": "2026-11-26"
   },
   "ross-stores": {
    "businessModel": "Runs off-price stores (Ross Dress for Less, dd's DISCOUNTS) that buy surplus branded clothing and home goods cheaply and sell them 20% to 60% below department-store prices.",
@@ -5597,6 +5826,23 @@
    "subindustry": "transport-logistics",
    "ticker": "NYSE: UPS",
    "updated": "2026-10-27"
+  },
+  "urban-outfitters": {
+   "businessModel": "Sells apparel and home goods through Urban Outfitters, Anthropologie and Free People stores and websites, plus the Nuuly clothing rental service.",
+   "competitors": [
+    "Abercrombie & Fitch",
+    "American Eagle",
+    "Gap",
+    "Lululemon",
+    "Zara"
+   ],
+   "hq": "Philadelphia, Pennsylvania, USA",
+   "name": "Urban Outfitters",
+   "sector": "consumer-retail",
+   "size": "Revenue ~$5.6B (approx., FY2025)",
+   "subindustry": "retail-ecommerce",
+   "ticker": "NASDAQ: URBN",
+   "updated": "2026-11-26"
   },
   "var-energi": {
    "businessModel": "Explores for and produces oil and gas on the Norwegian Continental Shelf and sells it at market prices; majority-owned by Eni.",
