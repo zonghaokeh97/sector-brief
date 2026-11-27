@@ -9535,5 +9535,439 @@
   "subindustry": "agriculture-food",
   "summary": "The USDA projects the wholesale price of whole hen turkeys at a record $1.76 a pound this year, up from $1.36 last year and 94 cents in 2024. US turkey production rose for the first time in several years to 5.1 billion pounds, up from 4.8 billion, but remains below the 5.7 billion of 2020 after years of avian disease. Retail prices rose about 10%, less than wholesale, as grocers used turkeys as discounted traffic builders, some as low as 69 cents a pound. Producers blame labor shortages for processing bottlenecks, while diesel near $5.81 a gallon and high fertilizer costs squeeze farm budgets.",
   "tags": []
+ },
+ "2026-11-27-01": {
+  "companies": [
+   "saudi-aramco"
+  ],
+  "date": "2026-11-27",
+  "headline": "A projectile hits Aramco's Jazan refinery, killing a worker and halting some units, and Brent climbs to its highest since November 6",
+  "numbers": [
+   "Jazan design capacity: up to 400,000 b/d",
+   "Brent: $96.61, highest close since Nov 6",
+   "Monday low: below $90 a barrel",
+   "Casualties: 1 killed, several injured"
+  ],
+  "order": 1,
+  "sector": "energy-materials",
+  "soWhat": "Attacks on refineries hit the middle of the oil chain, where crude becomes diesel, jet fuel and petrol, so they can tighten fuel markets even when crude output is untouched. Saudi Arabia is both a top crude exporter and a large fuel exporter, which means repeated strikes add a risk premium to crude and to refining margins at the same time. Refiners elsewhere with spare capacity gain from wider margins, while fuel importers in Asia and Africa pay more. The open question is whether the damage is brief, as the ministry says, or the start of a pattern that keeps units offline.",
+  "sources": [
+   {
+    "title": "Jerusalem Post: Houthi attack on Saudi Aramco's Jazan refinery kills worker, halts some operations",
+    "url": "https://www.jpost.com/middle-east/article-916252"
+   },
+   {
+    "title": "Investing.com: Europe gas slides toward weekly loss, diverging from crude as attacks lift oil",
+    "url": "https://uk.investing.com/news/commodities-news/europe-gas-slides-toward-weekly-loss-diverging-from-crude-as-attacks-lift-oil-5006427"
+   },
+   {
+    "title": "Saxo: Market Quick Take, 27 November 2026",
+    "url": "https://www.home.saxo/en-ch/content/articles/macro/market-quick-take---brent-tops-usd-97-and-asian-stocks-extend-rebound---27-november-2026-27112026"
+   }
+  ],
+  "subindustry": "refining-chemicals",
+  "summary": "Saudi Arabia's Energy Ministry said a projectile struck Aramco's Jazan refinery on Thursday, killing one worker, injuring several others and temporarily halting some operations. The plant on the Red Sea coast is designed to process up to 400,000 barrels of crude a day. The Saudi-led coalition blamed Yemen's Houthis, a day after drones were shot down over Ras Tanura, the kingdom's largest refinery and export hub. Brent settled at $96.61 a barrel, its highest close since November 6, and was heading for its first weekly gain in five weeks after dipping below $90 on Monday.",
+  "tags": []
+ },
+ "2026-11-27-02": {
+  "companies": [],
+  "date": "2026-11-27",
+  "headline": "Chinese stocks post their biggest gain in over two years after the cabinet calls on state funds to steady the market",
+  "numbers": [
+   "CSI 300: +4.2%, biggest gain since Oct 2024",
+   "Shanghai Composite: +3.7%",
+   "STAR 50: +15%; chip sub-index +19%",
+   "STAR 50 and ChiNext: down ~50% since July before the rebound"
+  ],
+  "order": 2,
+  "sector": "macro",
+  "soWhat": "When a government commits a state fund to buy shares, it puts a floor under prices, which pulls in investors who had been waiting on the sidelines. The rally lifted metals and Asian chip stocks too, showing how much global commodity demand still hangs on Chinese sentiment. Brokers and heavily sold tech names gain first, while the fundamentals, weak consumer spending and a long property slump, are unchanged. The open question is whether policy support turns into a recovery in earnings, which is what a lasting bottom needs.",
+  "sources": [
+   {
+    "title": "Yahoo Finance (Reuters): China stocks surge most in two years as Beijing vows stronger market support",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/china-stocks-surge-most-two-081045333.html"
+   },
+   {
+    "title": "Saxo: Market Quick Take, 27 November 2026",
+    "url": "https://www.home.saxo/en-ch/content/articles/macro/market-quick-take---brent-tops-usd-97-and-asian-stocks-extend-rebound---27-november-2026-27112026"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "China's State Council said Central Huijin, the main state-backed 'national team' investor, will expand its role as a quasi-stabilization fund that provides liquidity in times of turmoil. Regulators also relaxed margin-lending rules and plan tighter limits on share sales by controlling shareholders. The Shanghai Composite rose 3.7% and the CSI 300 4.2% on Friday, their biggest daily gains since October 2024, and the tech-heavy STAR 50 jumped 15%. The rebound came from 17-month lows after a slide since July driven by weak consumer demand, the property downturn and trade tensions.",
+  "tags": []
+ },
+ "2026-11-27-03": {
+  "companies": [
+   "altria",
+   "imperial-brands",
+   "japan-tobacco"
+  ],
+  "date": "2026-11-27",
+  "headline": "Marlboro maker Altria says it is weighing an all-cash takeover of Imperial Brands, and Japan Tobacco may also bid",
+  "numbers": [
+   "Imperial value: ~£26.8B ($35B) after the jump",
+   "Share move: up as much as 17.6%",
+   "Firm-offer deadline: Dec 24, 2026",
+   "Imperial job cuts announced: up to 4,600"
+  ],
+  "order": 3,
+  "sector": "consumer-retail",
+  "soWhat": "Cigarette volumes fall every year in rich countries, so tobacco companies grow profit by raising prices and by buying rivals to cut overlapping costs. Imperial, owner of Winston, Davidoff and Kool, announced up to 4,600 job cuts just a week earlier, which shows how much cost pressure the business is under. A split between two buyers would help avoid antitrust objections in markets where they overlap. The open question is whether a deal can be priced high enough for Imperial's board while still paying off for a buyer in a shrinking market.",
+  "sources": [
+   {
+    "title": "CNBC: Marlboro maker Altria explores takeover of UK's Imperial Brands",
+    "url": "https://www.cnbc.com/2026/11/26/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands.html"
+   },
+   {
+    "title": "Global Banking & Finance Review: UK's Imperial Brands says Altria weighs possible offer",
+    "url": "https://www.globalbankingandfinance.com/uks-imperial-brands-altria-weighs-possible-offer/"
+   }
+  ],
+  "subindustry": "cpg",
+  "summary": "Altria, owner of Philip Morris USA, confirmed it is considering a possible all-cash offer for UK-listed Imperial Brands and is in talks with a third party about buying part of Imperial's business. Bloomberg reported that Japan Tobacco is also evaluating a bid, possibly with a partner to split Imperial's assets by region. Imperial said it has not received an approach, but its shares jumped as much as 17.6%, valuing it at about £26.8 billion ($35 billion). Under UK takeover rules Altria has until December 24 to make a firm offer or walk away.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-27-04": {
+  "companies": [],
+  "date": "2026-11-27",
+  "headline": "The Bank of England plans to cut capital requirements for UK banks, freeing about £175 billion of lending capacity",
+  "numbers": [
+   "Cut for largest UK-focused banks: 60bp",
+   "Cut for major UK banks overall: 30bp",
+   "Lending capacity released: ~£175B ($229B)",
+   "Total requirement: ~13% of risk-weighted assets"
+  ],
+  "order": 4,
+  "sector": "financial-services",
+  "soWhat": "Capital is the equity a bank must hold against its loans, so a lower requirement lets the same equity support more lending or pay larger dividends and buybacks. UK-focused lenders gain most, because the review found rules counted the same domestic risks more than once. The committee also warned that cutting much further would risk instability and kept its countercyclical buffer at 2%. The open question is whether banks use the room to lend more to businesses, as the government wants, or mainly to return cash to shareholders.",
+  "sources": [
+   {
+    "title": "Yahoo Finance (Reuters): Bank of England to cut capital requirements for UK-focused lenders",
+    "url": "https://finance.yahoo.com/economy/policy/articles/bank-england-cut-capital-requirements-165608107.html"
+   },
+   {
+    "title": "Bank of England: Financial Policy Committee Record, November 2026",
+    "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026"
+   }
+  ],
+  "subindustry": "banking",
+  "summary": "The Bank of England's Financial Policy Committee proposed cutting capital requirements by 60 basis points for the largest UK-focused banks and by 30 basis points for major UK banks overall. Combined with an earlier change to the leverage ratio, requirements would fall by about half a percentage point to around 13% of risk-weighted assets, releasing lending capacity of about £175 billion ($229 billion). A review had found domestically focused lenders were hit harder by overlapping rules. Shares of NatWest, Lloyds and Barclays rose about 3%, and the regulator will consult on details in the first half of 2027.",
+  "tags": []
+ },
+ "2026-11-27-05": {
+  "companies": [],
+  "date": "2026-11-27",
+  "headline": "OPEC+ is set to hold output targets for early 2027 on Sunday as a fight over members' capacity figures delays new quotas",
+  "numbers": [
+   "Iraq preliminary capacity: 4.9M b/d (quota 4.431M)",
+   "Kazakhstan October output: 1.76M b/d vs quota 1.628M",
+   "2027 surplus forecast: ~5M b/d (Rystad)",
+   "Brent: ~$96.6 ahead of the meeting"
+  ],
+  "order": 5,
+  "sector": "energy-materials",
+  "soWhat": "Quotas based on capacity reward members that invested in new wells, so every member argues for a high capacity figure, and that is what is stalling the deal. The UAE has already left OPEC over this issue, so the group's cohesion is at stake as much as its output. Holding targets steady while prices are pushed up by Gulf attacks lets producers sell at higher prices without adding barrels to a market expected to be oversupplied. The open question is what happens to prices when Gulf supply recovers and a 2027 surplus arrives.",
+  "sources": [
+   {
+    "title": "JBizNews (Reuters): OPEC+ set to keep Q1 2027 output targets unchanged at Sunday meeting, sources say",
+    "url": "https://jbiznews.com/opec-set-to-keep-q1-2027-output-targets-unchanged-at-sunday-meeting-sources-say/"
+   },
+   {
+    "title": "WiseVoter: Brent climbs to $96.61 as OPEC+ meets Sunday",
+    "url": "https://wisevoter.com/world/2026/11/27/brent-rises-ahead-of-opec-meeting"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "OPEC+ producers have agreed in principle to keep first-quarter 2027 output targets unchanged at their meeting on Sunday, according to three sources cited by Reuters. The group had planned to set 2027 quotas from its first review of each member's production capacity, but disputes have slowed it. Iraq rejects a preliminary capacity figure of 4.9 million barrels a day and has warned it could leave OPEC, while Kazakhstan, already pumping about 1.76 million b/d against a quota near 1.63 million, also wants a higher number. Rystad Energy expects a global surplus of about 5 million b/d in 2027 even if Gulf supply only partly recovers.",
+  "tags": []
+ },
+ "2026-11-27-06": {
+  "companies": [
+   "sap"
+  ],
+  "date": "2026-11-27",
+  "headline": "SAP is weighing at least 10,000 job cuts, about 9% of its staff, as it rebuilds its software business around AI",
+  "numbers": [
+   "Possible cuts: at least 10,000 roles",
+   "Share of workforce: ~9%",
+   "Employees: 110,000+",
+   "2024 restructuring: ~10,000 roles"
+  ],
+  "order": 6,
+  "sector": "tmt",
+  "soWhat": "Software firms' main cost is people, so if AI tools let fewer engineers and sales staff do the same work, margins can rise even without faster revenue growth. SAP is cutting while revenue and profit are still rising, which signals that the industry now treats AI mainly as a cost lever. Shareholders gain if margins expand, while the staff and the service partners who sell implementation work lose. The open question is whether cutting product and engineering staff slows the new AI features SAP needs to keep customers.",
+  "sources": [
+   {
+    "title": "CNBC: SAP reportedly weighing cutting at least 10,000 jobs in AI push",
+    "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
+   },
+   {
+    "title": "CXM: SAP job cuts, 10,000 roles weighed in AI restructuring",
+    "url": "https://cxm.world/customer-experience/sap-job-cuts-ai-restructuring/"
+   }
+  ],
+  "subindustry": "software-cloud",
+  "summary": "Bloomberg reported that SAP has asked every department to identify possible cuts, with product, engineering and sales in particular focus, and that at least 10,000 roles could go. SAP, which employs more than 110,000 people, said no decisions had been made on further measures. The total could change after talks with labor representatives, and an employment guarantee in Germany running to 2028 may push cuts abroad. SAP removed about 10,000 roles in a 2024 restructuring, and WiseTech, Atlassian and Cloudflare have also announced AI-linked cuts this year.",
+  "tags": []
+ },
+ "2026-11-27-07": {
+  "companies": [],
+  "date": "2026-11-27",
+  "headline": "US shoppers spend a record $7.1 billion online on Thanksgiving, up 10.4% and above forecasts",
+  "numbers": [
+   "Thanksgiving online: $7.1B, +10.4%",
+   "Nov 1-22 online: $82.5B, +9.1%",
+   "Black Friday forecast: $12.9B, +9.2%",
+   "NRF holiday forecast: +4.1% to ~$1.01T"
+  ],
+  "order": 7,
+  "sector": "consumer-retail",
+  "soWhat": "Online sales rising about 10% while total holiday spending grows about 4% shows the shift from stores to e-commerce is still going on, and part of the online growth is simply inflation. Retailers are discounting harder to win volume, with TV discounts expected near 23% on Black Friday, which supports sales but squeezes margins. Large chains with strong websites and delivery gain, while weaker store-based retailers such as TJX and Gap have already cut guidance. The open question is how much of the growth is real volume rather than higher prices.",
+  "sources": [
+   {
+    "title": "Ecommerce Paradise: Thanksgiving online sales hit $7.1B, beating Adobe forecast",
+    "url": "https://ecommerceparadise.com/thanksgiving-online-sales-adobe-forecast/"
+   },
+   {
+    "title": "CNBC: Black Friday 2026, shoppers seek value amid inflation",
+    "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "Adobe Analytics data showed US online spending on Thanksgiving Day reached $7.1 billion, up 10.4% from last year and above Adobe's $6.9 billion forecast. Online spending from November 1 to 22 totaled $82.5 billion, up 9.1%. Adobe expects Black Friday to bring $12.9 billion (up 9.2%) and Cyber Monday $15.1 billion, which would be the first US day above $15 billion. The National Retail Federation expects total holiday sales to grow 4.1% to about $1.01 trillion, with higher prices accounting for about half of that growth.",
+  "tags": []
+ },
+ "2026-11-27-08": {
+  "companies": [
+   "freeport-mcmoran",
+   "southern-copper"
+  ],
+  "date": "2026-11-27",
+  "headline": "Copper jumps about 5%, its biggest rise in ten months, as China's market pledge revives demand hopes",
+  "numbers": [
+   "Copper: ~+5%, biggest gain in 10 months",
+   "Gold: ~$3,660/oz, +2.6%",
+   "Silver: $44.30, +6.6%",
+   "Bloomberg Commodity Index: +1.4% on the week"
+  ],
+  "order": 8,
+  "sector": "energy-materials",
+  "soWhat": "China is the world's largest copper buyer, so any sign Beijing will support its economy moves the price quickly, even before physical demand changes. Copper had fallen close to a bear market this month on doubts about AI data-center spending and a firmer dollar, so the rebound starts from a low base. Miners such as Freeport-McMoRan and Southern Copper gain from a higher price, while wire and cable makers pay more for their main input. The open question is whether real Chinese buying follows, since stock-market support does not directly add construction or grid demand.",
+  "sources": [
+   {
+    "title": "Saxo: Market Quick Take, 27 November 2026",
+    "url": "https://www.home.saxo/en-ch/content/articles/macro/market-quick-take---brent-tops-usd-97-and-asian-stocks-extend-rebound---27-november-2026-27112026"
+   },
+   {
+    "title": "Yahoo Finance (Reuters): China stocks surge most in two years",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/china-stocks-surge-most-two-081045333.html"
+   }
+  ],
+  "subindustry": "metals-mining",
+  "summary": "Copper rose about 5% in New York and London on Friday, its biggest gain in ten months, rebounding from an 11-month low hit earlier in the week. The move followed China's State Council pledge to stabilize its stock market. Precious metals also bounced: gold climbed about 2.6% to around $3,660 an ounce and silver gained 6.6% to $44.30. The Bloomberg Commodity Index was heading for its first weekly gain in six weeks.",
+  "tags": []
+ },
+ "2026-11-27-09": {
+  "companies": [],
+  "date": "2026-11-27",
+  "headline": "Tokyo's core inflation rises to 2.9%, a 16-month high, keeping a December Bank of Japan rate hike in play as the yen nears 160",
+  "numbers": [
+   "Tokyo core CPI: 2.9% (Oct 2.6%)",
+   "Headline CPI: 2.8%",
+   "Yen: ~159.4 per dollar",
+   "BoJ meeting: Dec 17-18"
+  ],
+  "order": 9,
+  "sector": "macro",
+  "soWhat": "Tokyo's figures come out weeks before national data, so they are the best early signal of where Japanese inflation is heading. Inflation well above the 2% target and a weak yen both push the central bank toward higher rates, which helps Japanese banks' lending margins but raises costs for borrowers and the heavily indebted government. A weak yen helps exporters such as carmakers while making imported energy and food more expensive for households. The open question is whether the government steps in to buy yen if it breaks 160.",
+  "sources": [
+   {
+    "title": "TMGM: Japanese yen flat lines as BoJ uncertainty offsets hot Tokyo CPI",
+    "url": "https://www.tmgm.com/en/analysis/market-news/article/japanese-yen-flat-lines-as-boj-uncertainty-offsets-hot-tokyo-cpi-and-usd-downtick-202611270546"
+   },
+   {
+    "title": "Saxo: Market Quick Take, 27 November 2026",
+    "url": "https://www.home.saxo/en-ch/content/articles/macro/market-quick-take---brent-tops-usd-97-and-asian-stocks-extend-rebound---27-november-2026-27112026"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "Consumer prices in Tokyo excluding fresh food rose 2.9% from a year earlier in November, up from 2.6% in October and the highest in 16 months, though just below the 3.0% forecast. Headline inflation was 2.8%, and electricity prices jumped after utility subsidies ended. Bank of Japan board member Naoki Tamura said the board will discuss another rate hike in December or later, and markets are betting on a move at the December 17-18 meeting. The yen stayed weak at about 159.4 per dollar, close to the 160 level where Japan has intervened before.",
+  "tags": []
+ },
+ "2026-11-27-10": {
+  "companies": [
+   "poundland"
+  ],
+  "date": "2026-11-27",
+  "headline": "UK discount chain Poundland enters administration weeks before Christmas, putting about 11,000 jobs and 600 stores at risk",
+  "numbers": [
+   "Jobs at risk: ~11,000",
+   "Stores: ~600 in the UK and Ireland",
+   "Price paid by Gordon Brothers: £1 (June 2025)",
+   "Cost savings over the past year: ~£100M"
+  ],
+  "order": 10,
+  "sector": "consumer-retail",
+  "soWhat": "Discounters sell low-priced goods on thin margins, so rising wages, business taxes and rents can wipe out profit quickly. Poundland is also squeezed from both sides, by supermarkets and discount grocers such as Aldi and Lidl and by online sellers. Rival discounters such as B&M and landlords with empty units in town centers are most affected, as buyers may pick the best stores and leave the rest to close. The open question is how many of the 600 stores a buyer will keep.",
+  "sources": [
+   {
+    "title": "Euronews: UK discounter Poundland enters administration with 11,000 jobs at risk",
+    "url": "https://www.euronews.com/2026/11/26/uk-discounter-poundland-enters-administration-with-11000-jobs-at-risk"
+   },
+   {
+    "title": "Yahoo Finance (Reuters): UK discounter Poundland sinks into administration",
+    "url": "https://uk.finance.yahoo.com/news/uk-retailer-poundland-preparing-administration-141946593.html"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "Poundland's US owner Gordon Brothers appointed AlixPartners as administrators after a sale process found no solvent solution for the whole business. The chain will keep trading while administrators seek buyers for all or parts of it. Gordon Brothers bought Poundland from Pepco Group for £1 in June 2025 with £85 million of financing and cut about £100 million of costs, but said the business stayed exposed to inflation and any fall in sales or margins. Pepco had blamed a UK business-tax rise for the chain's problems.",
+  "tags": []
+ },
+ "2026-11-27-11": {
+  "companies": [
+   "strategy"
+  ],
+  "date": "2026-11-27",
+  "headline": "US bitcoin ETFs post a record $5.39 billion of outflows in November as Strategy faces removal from MSCI indexes",
+  "numbers": [
+   "November ETF outflows: $5.39B, a record",
+   "Previous record: $4.51B (June)",
+   "Bitcoin: back above $60,000",
+   "Strategy MSCI removal: Nov 30"
+  ],
+  "order": 11,
+  "sector": "financial-services",
+  "soWhat": "ETF flows show how much mainstream money is entering or leaving bitcoin, and a record exit points to investors cutting risk ahead of an expected US rate hike. Asset managers earn fees on assets, so outflows and lower prices both cut their revenue from these products. Index removal forces tracker funds to sell Strategy shares regardless of price, which weakens the company's main way of raising money to buy bitcoin. The open question is whether outflows stop once the Fed decision is out of the way.",
+  "sources": [
+   {
+    "title": "FinScans: US bitcoin ETFs record $5.39B November outflows",
+    "url": "https://finscans.com/news/2026/11/27/us-bitcoin-etfs-record-539b-november-outflows-as-morgan"
+   },
+   {
+    "title": "Saxo: Market Quick Take, 27 November 2026",
+    "url": "https://www.home.saxo/en-ch/content/articles/macro/market-quick-take---brent-tops-usd-97-and-asian-stocks-extend-rebound---27-november-2026-27112026"
+   }
+  ],
+  "subindustry": "asset-wealth",
+  "summary": "US spot bitcoin exchange-traded funds lost a net $5.39 billion in November through Wednesday, the worst month since they launched in January 2024 and above June's previous record of $4.51 billion. Another $453 million left on Wednesday alone, though bitcoin recovered to above $60,000. MSCI will remove Strategy, the company that holds bitcoin as its main asset, from its indexes at the close on November 30. Strategy, now trading below the value of its bitcoin, has switched from buying coins to buying back its preferred shares.",
+  "tags": []
+ },
+ "2026-11-27-12": {
+  "companies": [
+   "byd",
+   "ineos-automotive"
+  ],
+  "date": "2026-11-27",
+  "headline": "BYD enters exclusive talks to buy Ineos's French car plant, which would be the first European factory bought by a Chinese carmaker",
+  "numbers": [
+   "Plant capacity: ~30,000 vehicles a year",
+   "Workers: ~1,000",
+   "Ineos US sales share: ~70%",
+   "US tariff on French-built Grenadier: 15%"
+  ],
+  "order": 12,
+  "sector": "advanced-industries",
+  "soWhat": "Buying an existing plant is faster than building one, and local production helps Chinese carmakers avoid EU tariffs on China-built EVs and qualify under proposed 'Made in Europe' rules. The site is small for BYD, so the value is speed, a trained workforce and political goodwill in France rather than capacity. European carmakers face a stronger rival producing inside their home market, while French workers may keep jobs at a site Ineos is leaving. The open question is which models BYD would build there and how many workers it keeps.",
+  "sources": [
+   {
+    "title": "Electrek: BYD in talks to buy Ineos' French factory as Grenadier moves to US",
+    "url": "https://electrek.co/2026/11/24/byd-ineos-hambach-factory-france-grenadier-us/"
+   },
+   {
+    "title": "electrive: BYD to acquire former Smart factory in Hambach",
+    "url": "https://www.electrive.com/2026/11/25/byd-to-acquire-former-smart-factory-in-hambach/"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "BYD is in exclusive talks to buy Ineos Automotive's plant in Hambach, France, which Mercedes opened in 1997 for the Smart car. The plant can build about 30,000 vehicles a year and employs roughly 1,000 people; no price has been disclosed and the sale needs employee consultation. Ineos is moving Grenadier production to the US, where about 70% of its sales are, to avoid a 15% US tariff, but would keep building at Hambach for the medium term. It would be BYD's second EU car plant after Szeged in Hungary, which is due to reach mass production in early 2027.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-27-13": {
+  "companies": [
+   "rockwool"
+  ],
+  "date": "2026-11-27",
+  "headline": "Insulation maker Rockwool cuts its 2026 margin outlook to about 12% as energy and freight costs rise",
+  "numbers": [
+   "2026 EBIT margin outlook: ~12%",
+   "Q3 EBITDA: €180M, -5%; margin 19.6%",
+   "Nine-month revenue: €2.82B, +5%",
+   "Planned 2027 price rise: ~3%"
+  ],
+  "order": 13,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Stone wool is made by melting rock in furnaces, so energy is one of the largest costs, and the jump in gas and oil prices this autumn goes straight into margins. Building-materials makers can pass costs on only with a lag through price increases, and weak construction in parts of Europe limits how much they can raise. Producers with cheaper energy or long-term power contracts gain, while energy-intensive European plants lose ground. The open question is whether the 3% price rise sticks while volumes are falling.",
+  "sources": [
+   {
+    "title": "Investing.com: Rockwool Q3 2026 slides, outlook cut as energy costs bite margins",
+    "url": "https://www.investing.com/news/company-news/rockwool-q3-2026-slides-outlook-cut-as-energy-costs-bite-margins-93CH-5052415"
+   },
+   {
+    "title": "WiseVoter: Rockwool trims 2026 margin outlook to 12%",
+    "url": "https://wisevoter.com/world/2026/11/25/rockwool-cuts-2026-margin-outlook-energy-costs"
+   }
+  ],
+  "subindustry": "real-estate-construction",
+  "summary": "Rockwool lowered its full-year 2026 EBIT margin outlook to about 12%, saying energy and logistics costs were well above expectations. Third-quarter EBITDA fell 5% to €180 million and the EBITDA margin dropped 1.7 points to 19.6%, with volumes weaker in France, Italy, Poland and the UK. Nine-month revenue rose 5% in local currencies to €2.82 billion. The company plans price increases of about 3% from the start of 2027 and will cut capital spending by €50-100 million next year.",
+  "tags": []
+ },
+ "2026-11-27-14": {
+  "companies": [],
+  "date": "2026-11-27",
+  "headline": "Medicare's hospital deductible rises to $1,776 for 2027 as the hospital trust fund is now projected to run short in 2033",
+  "numbers": [
+   "2027 Part A deductible: $1,776 (+$40)",
+   "Trust fund depletion: Q2 2033",
+   "Revenue would cover: ~89% of costs after that",
+   "Beneficiaries: ~70.7M; cost ~$1.3T"
+  ],
+  "order": 14,
+  "sector": "healthcare",
+  "soWhat": "Medicare is the largest single payer for US hospitals, so its finances set the ceiling on what hospitals can expect to be paid for older patients. A shortfall in 2033 makes payment cuts or tax increases more likely within the decade, adding pressure alongside proposed cuts to Medicare Advantage bonuses. Hospitals and Medicare-heavy insurers are exposed, while patients pay a larger deductible each year. The open question is whether Congress acts well before 2033 or waits until the fund is nearly empty.",
+  "sources": [
+   {
+    "title": "Fortune: Medicare's hospital fund can pay full benefits only until mid-2033",
+    "url": "https://fortune.com/2026/11/27/medicare-hospital-deductible-1776-part-a-trust-fund-2033/"
+   }
+  ],
+  "subindustry": "payers-providers",
+  "summary": "Medicare's Part A deductible, which covers a patient's share of the first 60 days in hospital, will rise $40 to $1,776 in 2027. The trustees project the Hospital Insurance trust fund can pay full benefits only until the second quarter of 2033, one quarter earlier than last year's estimate. After that, incoming payroll-tax revenue would cover about 89% of scheduled hospital costs. Part A covers about 70.7 million people at a cost of roughly $1.3 trillion, and spending is projected to exceed the fund's income from 2027.",
+  "tags": []
+ },
+ "2026-11-27-15": {
+  "companies": [
+   "alibaba",
+   "zto-express"
+  ],
+  "date": "2026-11-27",
+  "headline": "Alibaba sells about $482 million of ZTO Express shares, its second big sale of the courier's stock in two months",
+  "numbers": [
+   "Shares sold: 25M",
+   "Proceeds: ~$482M",
+   "Implied price: ~$19.28 a share",
+   "Remaining stake: ~2.9% (reported)"
+  ],
+  "order": 15,
+  "sector": "infrastructure-logistics",
+  "soWhat": "Alibaba took stakes in Chinese couriers to secure delivery capacity for its online marketplaces, and selling them shows that it now sees parcel delivery as a service it can buy rather than own. China's express delivery market is crowded and fights on price, so couriers earn thin margins per parcel. Alibaba frees cash for AI and cloud investment, while ZTO loses a strategic shareholder and faces extra shares coming onto the market. The open question is whether Alibaba also sells its stakes in other logistics firms.",
+  "sources": [
+   {
+    "title": "Longbridge: Alibaba sells US$482 million in ZTO Express shares",
+    "url": "https://longbridge.com/en/news/306866145"
+   },
+   {
+    "title": "TradingView (Seeking Alpha): Alibaba sells 25M ZTO shares, cutting the stake to 2.9%",
+    "url": "https://www.tradingview.com/news/seekingalpha:7b36a2837094b:0-alibaba-sells-25m-zto-shares-cutting-the-stake-to-2-9/"
+   }
+  ],
+  "subindustry": "transport-logistics",
+  "summary": "Alibaba and three affiliates, including its Cainiao logistics unit, sold 25 million Class A shares of Chinese parcel company ZTO Express, according to a US securities filing. The sale raised about $482 million, roughly $19.28 a share. It is Alibaba's second major sale of ZTO stock in two months, and reports put its remaining stake at about 2.9%. Alibaba has been raising cash from non-core holdings as it spends heavily on AI.",
+  "tags": [
+   "deal"
+  ]
  }
 }

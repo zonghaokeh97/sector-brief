@@ -203,6 +203,23 @@
    "ticker": "HKEX: 9926",
    "updated": "2026-11-15"
   },
+  "alibaba": {
+   "businessModel": "Earns advertising and commission fees from its Taobao and Tmall marketplaces, plus cloud computing revenue from Alibaba Cloud and fees from logistics arm Cainiao.",
+   "competitors": [
+    "JD.com",
+    "PDD Holdings",
+    "Tencent",
+    "Amazon",
+    "ByteDance"
+   ],
+   "hq": "Hangzhou, China",
+   "name": "Alibaba Group",
+   "sector": "tmt",
+   "size": "Revenue ~CNY 996B (FY to Mar 2025, approx.)",
+   "subindustry": "internet-platforms",
+   "ticker": "NYSE: BABA; HKEX: 9988",
+   "updated": "2026-11-27"
+  },
   "alimentation-couche-tard": {
    "businessModel": "Runs about 17,000 convenience stores, many with fuel stations, under brands like Circle K, earning margins on fuel and in-store food, drinks and tobacco.",
    "competitors": [
@@ -270,6 +287,22 @@
    "subindustry": "industrial-machinery",
    "ticker": "EPA: ALO",
    "updated": "2026-11-19"
+  },
+  "altria": {
+   "businessModel": "Sells cigarettes (Marlboro through Philip Morris USA), cigars, oral nicotine and smokeless tobacco in the US, earning high margins by raising prices faster than volumes fall.",
+   "competitors": [
+    "Philip Morris International",
+    "British American Tobacco",
+    "Imperial Brands",
+    "Japan Tobacco"
+   ],
+   "hq": "Richmond, Virginia, US",
+   "name": "Altria Group",
+   "sector": "consumer-retail",
+   "size": "Revenue ~$20B net of excise taxes (2024, approx.)",
+   "subindustry": "cpg",
+   "ticker": "NYSE: MO",
+   "updated": "2026-11-27"
   },
   "amazon": {
    "businessModel": "Earns revenue from online retail, third-party seller fees, advertising and subscriptions (Prime), while most operating profit comes from AWS cloud computing.",
@@ -1109,6 +1142,23 @@
    "subindustry": "internet-platforms",
    "ticker": "NASDAQ: BMBL (going private)",
    "updated": "2026-10-19"
+  },
+  "byd": {
+   "businessModel": "Builds battery-electric and plug-in hybrid cars and makes its own batteries and chips, which keeps costs low; also sells batteries and electronics manufacturing services.",
+   "competitors": [
+    "Tesla",
+    "Geely",
+    "Chery",
+    "Volkswagen",
+    "SAIC"
+   ],
+   "hq": "Shenzhen, China",
+   "name": "BYD",
+   "sector": "advanced-industries",
+   "size": "Revenue ~CNY 777B (2024, approx.)",
+   "subindustry": "automotive-mobility",
+   "ticker": "HKEX: 1211",
+   "updated": "2026-11-27"
   },
   "cadence-design-systems": {
    "businessModel": "Sells electronic design automation software, chip design IP and emulation hardware under multi-year licences that chip and system designers need to design and verify chips.",
@@ -2775,6 +2825,38 @@
    "ticker": "Nasdaq: IDXX",
    "updated": "2026-11-03"
   },
+  "imperial-brands": {
+   "businessModel": "Makes and sells cigarettes, fine-cut tobacco and papers (Winston, Davidoff, Gauloises, West, Kool, Rizla) plus some vaping and heated products, earning cash from pricing power in a declining market.",
+   "competitors": [
+    "Philip Morris International",
+    "British American Tobacco",
+    "Japan Tobacco",
+    "Altria"
+   ],
+   "hq": "Bristol, UK",
+   "name": "Imperial Brands",
+   "sector": "consumer-retail",
+   "size": "Market value ~£26.8B (Nov 2026)",
+   "subindustry": "cpg",
+   "ticker": "LSE: IMB",
+   "updated": "2026-11-27"
+  },
+  "ineos-automotive": {
+   "businessModel": "Builds and sells the Grenadier off-road SUV and Quartermaster pickup through dealers, with about 70% of sales in the US.",
+   "competitors": [
+    "Land Rover",
+    "Toyota",
+    "Jeep (Stellantis)",
+    "Mercedes-Benz G-Class"
+   ],
+   "hq": "London, UK",
+   "name": "Ineos Automotive",
+   "sector": "advanced-industries",
+   "size": "Private; Hambach plant capacity ~30,000 vehicles a year",
+   "subindustry": "automotive-mobility",
+   "ticker": "Private (Ineos)",
+   "updated": "2026-11-27"
+  },
   "innio": {
    "businessModel": "Builds natural gas and hydrogen-ready engines and power systems, selling equipment and then earning long-term service and parts revenue on the installed fleet.",
    "competitors": [
@@ -2959,6 +3041,22 @@
    "subindustry": "automotive-mobility",
    "ticker": "Borsa Italiana: IVG (being delisted)",
    "updated": "2026-11-07"
+  },
+  "japan-tobacco": {
+   "businessModel": "Sells cigarettes worldwide through its international arm (Camel, Winston outside the US, Benson & Hedges) and heated tobacco, with smaller food and pharmaceutical units.",
+   "competitors": [
+    "Philip Morris International",
+    "British American Tobacco",
+    "Imperial Brands",
+    "Altria"
+   ],
+   "hq": "Tokyo, Japan",
+   "name": "Japan Tobacco",
+   "sector": "consumer-retail",
+   "size": "Revenue ~¥3.1T (2024, approx.)",
+   "subindustry": "cpg",
+   "ticker": "TSE: 2914",
+   "updated": "2026-11-27"
   },
   "japex": {
    "businessModel": "Explores for and produces oil and gas in Japan and abroad, including Norway, Iraq and North America, and sells gas and LNG within Japan through its pipelines and terminals.",
@@ -4562,6 +4660,22 @@
    "ticker": "Nasdaq: RIVN",
    "updated": "2026-10-30"
   },
+  "rockwool": {
+   "businessModel": "Makes stone wool insulation and building panels by melting rock in energy-intensive furnaces, selling to builders and renovators mainly in Europe and North America.",
+   "competitors": [
+    "Saint-Gobain (Isover)",
+    "Kingspan",
+    "Owens Corning",
+    "Knauf Insulation"
+   ],
+   "hq": "Hedehusene, Denmark",
+   "name": "Rockwool",
+   "sector": "infrastructure-logistics",
+   "size": "Revenue ~€3.8B (2025, approx.)",
+   "subindustry": "real-estate-construction",
+   "ticker": "CPH: ROCK B",
+   "updated": "2026-11-27"
+  },
   "roku": {
    "businessModel": "Sells streaming devices and a TV operating system, and earns most revenue from advertising and a cut of subscriptions sold on its platform.",
    "competitors": [
@@ -4733,6 +4847,23 @@
    "subindustry": "pharma-biotech",
    "ticker": "Euronext Paris: SAN; Nasdaq: SNY",
    "updated": "2026-11-21"
+  },
+  "sap": {
+   "businessModel": "Sells enterprise resource planning (ERP) software that runs companies' finance, supply chain and HR, increasingly as cloud subscriptions, plus maintenance fees from older on-premise licenses.",
+   "competitors": [
+    "Oracle",
+    "Microsoft",
+    "Workday",
+    "Salesforce",
+    "Infor"
+   ],
+   "hq": "Walldorf, Germany",
+   "name": "SAP",
+   "sector": "tmt",
+   "size": "Revenue ~€34B (2024, approx.); 110,000+ employees",
+   "subindustry": "software-cloud",
+   "ticker": "XETRA: SAP",
+   "updated": "2026-11-27"
   },
   "saudi-aramco": {
    "businessModel": "State-controlled oil and gas producer that earns money by pumping and selling crude, gas and refined products at very low production cost, and pays large dividends to the Saudi state.",
@@ -6268,6 +6399,23 @@
    "subindustry": "software-cloud",
    "ticker": "Nasdaq: ZS",
    "updated": "2026-11-22"
+  },
+  "zto-express": {
+   "businessModel": "Runs a parcel-delivery network in China, owning the line-haul trucks and sorting hubs and charging per parcel to franchised outlets that do pickup and last-mile delivery.",
+   "competitors": [
+    "YTO Express",
+    "J&T Express",
+    "STO Express",
+    "SF Express",
+    "JD Logistics"
+   ],
+   "hq": "Shanghai, China",
+   "name": "ZTO Express",
+   "sector": "infrastructure-logistics",
+   "size": "Revenue ~CNY 44B (2024, approx.)",
+   "subindustry": "transport-logistics",
+   "ticker": "NYSE: ZTO; HKEX: 2057",
+   "updated": "2026-11-27"
   },
   "zurich-insurance": {
    "businessModel": "Writes property, casualty, specialty and life insurance worldwide, earning underwriting profit on premiums and investment income on the reserves it holds.",

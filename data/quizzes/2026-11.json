@@ -6813,5 +6813,252 @@
     "subindustry": "insurance"
    }
   ]
+ },
+ "2026-11-27": {
+  "date": "2026-11-27",
+  "extra": [
+   {
+    "answer": 1,
+    "explanation": "A capacity-based quota rewards members that invested, so each argues for a higher number: Iraq rejects its preliminary 4.9 million b/d figure and Kazakhstan also wants more. The UAE already left OPEC over a similar dispute.",
+    "id": "2026-11-27:x01",
+    "kind": "today",
+    "options": [
+     "Members cannot agree which currency to price oil in",
+     "Every member wants a high capacity figure, since it brings a bigger quota",
+     "The review found most members have no spare capacity at all",
+     "The group needs approval from the IEA before setting quotas"
+    ],
+    "prompt": "OPEC+ planned to base 2027 quotas on a review of each member's production capacity. Why has that stalled a deal?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-27-05",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 2,
+    "explanation": "In software, salaries are the main cost, so cutting product, engineering and sales roles while AI tools take on work can lift margins without faster revenue growth. SAP is cutting from strength, which is why this signals AI being treated as a cost lever.",
+    "id": "2026-11-27:x02",
+    "kind": "today",
+    "options": [
+     "Its revenue is collapsing and it must shrink to survive",
+     "Regulators require software firms to cut staff each year",
+     "People are its biggest cost, so if AI does more of the work, margins can rise",
+     "It plans to stop selling software and become a consultancy"
+    ],
+    "prompt": "SAP is weighing at least 10,000 job cuts, about 9% of staff, while its revenue and profit are still rising. What is the main business logic?",
+    "sector": "tmt",
+    "storyId": "2026-11-27-06",
+    "subindustry": "software-cloud"
+   },
+   {
+    "answer": 0,
+    "explanation": "A weak yen raises the yen value of overseas sales, helping exporters, while making imported energy and food dearer for households. Together with inflation above the 2% target, it pushes the Bank of Japan toward a December rate hike.",
+    "id": "2026-11-27:x03",
+    "kind": "today",
+    "options": [
+     "Japanese exporters such as carmakers, whose foreign sales are worth more in yen",
+     "Japanese households buying imported food and energy",
+     "Japanese firms that import most of their raw materials",
+     "Japanese airlines that buy jet fuel priced in dollars"
+    ],
+    "prompt": "Tokyo's core inflation rose to 2.9% and the yen is near 160 per dollar. Who benefits most from a weak yen?",
+    "sector": "macro",
+    "storyId": "2026-11-27-09",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 1,
+    "explanation": "Discounters make little profit on each item, so higher wages, business taxes and rents can quickly erase it. Poundland cut about £100 million of costs in a year but still could not find a solvent solution for the whole business.",
+    "id": "2026-11-27:x04",
+    "kind": "today",
+    "options": [
+     "They own all their stores, so rents never change",
+     "They sell low-priced goods on thin margins, so small cost rises wipe out profit",
+     "They earn most of their money from online advertising",
+     "They are not allowed to change prices during the year"
+    ],
+    "prompt": "Poundland entered administration with about 11,000 jobs and 600 stores at risk, after being sold for £1 in 2025. Why are discount chains so exposed to rising wages and taxes?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-27-10",
+    "subindustry": "retail-ecommerce"
+   },
+   {
+    "answer": 2,
+    "explanation": "After the reserves are used up, incoming revenue would pay about 89% of scheduled hospital costs, so payments would be cut by about 11% unless Congress acts. That is why hospitals, as Medicare's biggest providers, watch the date closely.",
+    "id": "2026-11-27:x05",
+    "kind": "today",
+    "options": [
+     "Hospitals stop treating Medicare patients entirely",
+     "The deductible falls back to zero",
+     "Payroll-tax revenue covers only about 89% of scheduled costs, forcing an ~11% cut",
+     "Private insurers must pay the remaining costs"
+    ],
+    "prompt": "Medicare's hospital trust fund is projected to run short in the second quarter of 2033. What happens then if Congress does nothing?",
+    "sector": "healthcare",
+    "storyId": "2026-11-27-14",
+    "subindustry": "payers-providers"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 2,
+    "explanation": "Refining sits in the middle of the chain, turning crude into the fuels people actually buy, so lost runs cut fuel supply and lift refining margins. OPEC+ sets output targets, not crude prices, and quotas do not rise automatically after attacks.",
+    "id": "2026-11-27:q01",
+    "kind": "today",
+    "options": [
+     "Refineries set the official price of crude for OPEC+",
+     "Crude cannot be stored, so it must be refined the same day",
+     "Refineries turn crude into diesel, jet fuel and petrol, so lost runs cut fuel supply",
+     "Refinery attacks automatically trigger higher OPEC+ quotas"
+    ],
+    "prompt": "A projectile halted some units at Aramco's Jazan refinery, which can process up to 400,000 barrels a day. Why can refinery attacks tighten fuel markets even if crude output is untouched?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-27-01",
+    "subindustry": "refining-chemicals"
+   },
+   {
+    "answer": 0,
+    "explanation": "A state fund ready to buy during turmoil limits how far prices can fall, so investors who were waiting come back in. It does not change earnings, which is why analysts say a lasting recovery still needs better fundamentals such as consumer demand.",
+    "id": "2026-11-27:q02",
+    "kind": "today",
+    "options": [
+     "It signals a big buyer will step in during sell-offs, which puts a floor under prices",
+     "It immediately raises company earnings for the year",
+     "It cuts the number of shares companies have issued",
+     "It forces foreign investors to buy Chinese shares"
+    ],
+    "prompt": "Chinese stocks had their biggest gain in over two years after the cabinet said state fund Central Huijin will act as a stabilization fund. Why does such a pledge lift prices quickly?",
+    "sector": "macro",
+    "storyId": "2026-11-27-02",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 3,
+    "explanation": "Cigarette demand barely responds to price, so companies raise prices faster than volumes fall, and mergers add savings from overlapping costs. Imperial's own plan to cut nearly a fifth of its workforce shows how central cost-cutting is in a shrinking market.",
+    "id": "2026-11-27:q03",
+    "kind": "today",
+    "options": [
+     "By cutting prices to win back smokers from rivals",
+     "By moving production to the countries with the most smokers",
+     "By selling more cigarettes to younger customers in rich markets",
+     "By raising prices and buying rivals to cut overlapping costs"
+    ],
+    "prompt": "Altria is weighing a bid for Imperial Brands, which had just announced up to 4,600 job cuts. How do tobacco companies usually grow profit when cigarette volumes fall each year?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-27-03",
+    "subindustry": "cpg"
+   },
+   {
+    "answer": 1,
+    "explanation": "The Bank estimates about £175 billion ($229 billion) of lending capacity, because each pound of capital supports many pounds of loans. Requirements would fall to around 13% of risk-weighted assets, with 60bp cuts for the largest UK-focused banks.",
+    "id": "2026-11-27:q04",
+    "kind": "today",
+    "options": [
+     "About £17.5 billion",
+     "About £175 billion",
+     "About £1.75 trillion",
+     "About £750 billion"
+    ],
+    "prompt": "The Bank of England plans to cut UK bank capital requirements by about half a percentage point. Roughly how much lending capacity would that release?",
+    "sector": "financial-services",
+    "storyId": "2026-11-27-04",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 3,
+    "explanation": "The NRF expects higher prices to account for about half of the 4.1% growth to about $1.01 trillion, so real volume growth is much smaller. Online sales grow faster than the total because spending keeps moving from stores to websites.",
+    "id": "2026-11-27:q05",
+    "kind": "today",
+    "options": [
+     "Almost none of it",
+     "About a tenth",
+     "All of it",
+     "About half"
+    ],
+    "prompt": "US online sales on Thanksgiving rose 10.4% to $7.1 billion, while the NRF expects total holiday sales to grow about 4.1%. Roughly how much of that 4.1% growth comes from higher prices?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-27-07",
+    "subindustry": "retail-ecommerce"
+   },
+   {
+    "answer": 0,
+    "explanation": "Rockwool cut its 2026 EBIT margin outlook to about 12% because energy and freight costs ran well above expectations, and its Q3 EBITDA margin fell 1.7 points to 19.6%. It plans about 3% price rises in 2027 to pass the costs on with a lag.",
+    "id": "2026-11-27:q06",
+    "kind": "today",
+    "options": [
+     "Energy prices, since furnaces burn large amounts of gas and power",
+     "The color options available in its product range",
+     "How many offices its head-office staff work in",
+     "Whether its shares are listed in Copenhagen or London"
+    ],
+    "prompt": "A European insulation maker melts rock in furnaces to make its products, and its profit margin is falling this autumn. Which factor matters most?",
+    "sector": "infrastructure-logistics",
+    "storyId": "2026-11-27-13",
+    "subindustry": "real-estate-construction"
+   },
+   {
+    "answer": 2,
+    "explanation": "The business logic of a bank merger is cutting overlapping branches, IT and head-office costs, and UniCredit has signaled thousands of job cuts while only promising talks on job protection. It committed to keep supporting small and midsize firms, so they are not the obvious losers.",
+    "id": "2026-11-20:q04",
+    "kind": "review",
+    "options": [
+     "German small businesses, which lose their main lender",
+     "UniCredit shareholders, who must pay a 60% premium",
+     "Commerzbank staff, since cost savings rely on cutting overlapping jobs",
+     "The German state, which must inject new capital"
+    ],
+    "prompt": "UniCredit already owns close to 50% of Commerzbank. Who is most likely to lose if the takeover completes?",
+    "sector": "financial-services",
+    "storyId": "2026-11-20-04",
+    "subindustry": "banking"
+   },
+   {
+    "answer": 2,
+    "explanation": "Volkswagen wants a two-year freeze while IG Metall asks for 5% and says strikes could start in January. A strike halts production and loses revenue quickly, which can outweigh the wage savings in the short run.",
+    "id": "2026-11-22:q06",
+    "kind": "review",
+    "options": [
+     "Whether the company changes its logo during the talks",
+     "Whether new car colors are popular this winter",
+     "Whether the union strikes, since stopped plants cost more than the savings",
+     "Whether its shares move from one stock exchange to another"
+    ],
+    "prompt": "A European carmaker with high home-country labor costs is pushing its union for a two-year pay freeze. Which factor matters most for whether this saves money overall?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-22-10",
+    "subindustry": "automotive-mobility"
+   },
+   {
+    "answer": 3,
+    "explanation": "Star bonuses go to Medicare Advantage plans, so insurers with the most Medicare members, UnitedHealth and Humana, fell most (6.5% and 5.1% premarket). Elevance, with less Medicare exposure, fell only 1.1%.",
+    "id": "2026-11-23:q04",
+    "kind": "review",
+    "options": [
+     "Insurers that mostly sell employer health plans",
+     "Hospital chains that treat Medicare patients",
+     "Drug distributors that supply pharmacies",
+     "Medicare-heavy insurers such as UnitedHealth and Humana"
+    ],
+    "prompt": "Medicare's Star Ratings proposal could cut bonus payments by about $107 billion over ten years. Which insurers are hurt most?",
+    "sector": "healthcare",
+    "storyId": "2026-11-23-04",
+    "subindustry": "payers-providers"
+   },
+   {
+    "answer": 1,
+    "explanation": "In CPG the brand is the asset: shoppers pay more for a trusted name, so prices sit well above production costs. Firms then spend heavily on advertising and retailer promotions to protect that brand, and they sell through retailers rather than owning them.",
+    "id": "2026-11-27:q10",
+    "kind": "profile",
+    "options": [
+     "Owning the supermarkets that sell their products",
+     "Brands that let them charge well above production costs",
+     "Government price controls on food and drinks",
+     "Not spending money on advertising"
+    ],
+    "prompt": "Consumer packaged goods firms such as Coca-Cola and Procter & Gamble earn gross margins of roughly 35-50%. What mainly makes that possible?",
+    "sector": "consumer-retail",
+    "storyId": null,
+    "subindustry": "cpg"
+   }
+  ]
  }
 }
