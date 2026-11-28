@@ -9969,5 +9969,467 @@
   "tags": [
    "deal"
   ]
+ },
+ "2026-11-28-01": {
+  "companies": [],
+  "date": "2026-11-28",
+  "headline": "The US pushed Venezuela and Iraq to consider leaving OPEC, a report says, as Brent posts its first weekly gain of November before Sunday's OPEC+ meeting",
+  "numbers": [
+   "Brent: $95.44, up >3% on the week",
+   "Hormuz oil flows: ~9.25M b/d, ~54% of prewar",
+   "OPEC members: 11, after 4 exits since 2019",
+   "Venezuela output: ~1.2M b/d (Sept)"
+  ],
+  "order": 1,
+  "sector": "energy-materials",
+  "soWhat": "OPEC's power rests on members agreeing to hold back barrels, so every exit weakens its ability to support prices. Four members have left since 2019, including the UAE this year, and the US is now the world's largest producer. If big reserve holders like Iraq or a recovering Venezuela pumped without quotas, consumers and US service companies would gain while Saudi Arabia would carry more of the burden of balancing the market. For now the Hormuz disruption matters more for prices than quotas do, since Gulf members cannot ship all they could produce.",
+  "sources": [
+   {
+    "title": "BNN Bloomberg (Reuters): US pushed Venezuela, Iraq to consider leaving OPEC",
+    "url": "https://www.bnnbloomberg.ca/business/international/2026/11/27/us-pushed-venezuela-iraq-to-consider-leaving-opec-sources-say-reuters-exclusive/"
+   },
+   {
+    "title": "The National: Oil set to post weekly gain as Middle East attacks stoke supply concerns",
+    "url": "https://www.thenationalnews.com/business/energy/2026/11/27/oil-set-to-post-weekly-gain-as-middle-east-attacks-stoke-supply-concerns/"
+   }
+  ],
+  "subindustry": "oil-gas-upstream",
+  "summary": "Reuters reported, citing ten people familiar with the matter, that the Trump administration encouraged Venezuela and Iraq earlier this year to consider quitting OPEC so they could pump more and attract US investment, and blocked Venezuela's annual dues. Both countries stayed in the group, and the State Department said officials had not raised OPEC membership. Brent settled at $95.44 on Friday, down 1.2% on the day but up more than 3% for the week, its first weekly rise this month, after attacks on Saudi refineries. Oil flows through the Strait of Hormuz averaged about 9.25 million barrels a day in the week to November 24, roughly 54% of the prewar level. OPEC+ meets on Sunday and is expected to keep first-quarter 2027 targets unchanged.",
+  "tags": []
+ },
+ "2026-11-28-02": {
+  "companies": [
+   "nvidia",
+   "sandisk"
+  ],
+  "date": "2026-11-28",
+  "headline": "Wall Street ends its best week since April 2025 as AI and chip stocks bounce back from a heavy sell-off",
+  "numbers": [
+   "S&P 500 weekly gain: 5.6%",
+   "Prior week: -8.6%",
+   "Dow: +592 points to 50,775",
+   "VIX: ~25, from ~36"
+  ],
+  "order": 2,
+  "sector": "macro",
+  "soWhat": "A sharp rebound after a sharp fall shows how much of the market's value now rides on a handful of AI-linked companies, so news about one firm, like Nvidia's leadership turmoil, moves the whole index. The recovery helps companies planning to raise money or list shares, since stable prices reopen those windows. Higher interest rates remain the headwind: a December hike would raise borrowing costs and lower the value investors place on future profits, which hits fast-growing tech companies most. The open question is whether the bounce holds once the Fed decides on December 8-9.",
+  "sources": [
+   {
+    "title": "MLQ: Dow jumps 592 points as the S&P 500 logs its best week since April 2025",
+    "url": "https://mlq.ai/news/dow-jumps-592-points-as-the-sp-500-logs-its-best-week-since-april-2025/"
+   },
+   {
+    "title": "Motley Fool: Stock market today, Nov. 27",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-sandisk-surges-16-as-memory-stocks-rebound-from-ai-driven-selloff/"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "In a holiday-shortened session on Friday, the S&P 500 rose 1.6% to 7,297, the Nasdaq gained 2.3% and the Dow added 592 points to 50,775. For the week the S&P 500 rose 5.6%, its best week since April 2025, after falling 8.6% the week before. The Nasdaq gained about 6.7% and the Dow about 5.5%, its biggest weekly rise since October 2022. The VIX volatility index fell to about 25 from nearly 36 a week earlier. Even after the rebound, the S&P 500 and Nasdaq were on course for their worst November since 2008, and traders were almost fully pricing in a December Fed rate hike.",
+  "tags": []
+ },
+ "2026-11-28-03": {
+  "companies": [],
+  "date": "2026-11-28",
+  "headline": "China's industrial profits jump 20.1% in October as AI demand doubles electronics profits, while carmakers and cement makers slump",
+  "numbers": [
+   "October profit growth: +20.1%",
+   "Jan-Oct profits: ~6.74T yuan, +16.0%",
+   "Electronics profits: +101%",
+   "Auto profits: -26%"
+  ],
+  "order": 3,
+  "sector": "macro",
+  "soWhat": "The numbers show China's profit recovery is narrow: AI hardware and commodity producers are doing very well, while industries tied to housing and cars are still shrinking. That split matters for the world, because strong electronics output means more Chinese chips and servers competing abroad, while weak building activity keeps demand for steel and cement low. Power and heat suppliers lost out because they paid more for coal and gas but could not raise regulated prices as fast. The open question is whether profits spread to consumer-facing industries, which is what Beijing's new market support aims to encourage.",
+  "sources": [
+   {
+    "title": "MLQ: China's industrial profits jump 20.1% in October as AI lifts electronics",
+    "url": "https://mlq.ai/news/chinas-industrial-profits-jump-201-in-october-as-ai-lifts-electronics/"
+   },
+   {
+    "title": "Newsquawk: Daily US opening news, 27 November 2026",
+    "url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---27th-november-2026"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "Profits at China's larger industrial companies rose 20.1% from a year earlier in October, up from 14.4% in September, the statistics bureau said. For January to October, profits rose 16.0% to about 6.74 trillion yuan on revenue up 6.7%, lifting the profit margin to 5.69%. Electronics makers' profits roughly doubled to 1.13 trillion yuan and alone added 9.7 points of the 16% growth, which the bureau tied to demand for AI computing. Metals smelting and mining also gained on copper and aluminium demand. Auto profits fell 26%, cement and glass makers' profits fell about 47%, and power suppliers' profits fell 18% as higher fuel costs squeezed them.",
+  "tags": []
+ },
+ "2026-11-28-04": {
+  "companies": [],
+  "date": "2026-11-28",
+  "headline": "US shoppers spend a record $13.1 billion online on Black Friday, up 11.1% and above forecasts",
+  "numbers": [
+   "Black Friday online: $13.1B, +11.1%",
+   "Forecast: $12.9B",
+   "Thanksgiving Day: $7.1B",
+   "Cyber Week forecast: $47.5B, +7.4%"
+  ],
+  "order": 4,
+  "sector": "consumer-retail",
+  "soWhat": "Spending growth of about 11% is faster than inflation, so shoppers are buying more, not just paying more, even with interest rates rising. The catch is that much of the growth comes from deep discounts, which help sales but squeeze retailers' margins. Large online sellers with low costs and good logistics gain the most, while smaller stores that cannot match prices lose share. AI price comparison tools make it easier for shoppers to find the lowest price, which pushes retailers to compete harder on price.",
+  "sources": [
+   {
+    "title": "PiQ (Reuters): Adobe says US Black Friday online sales reached $13.1 billion",
+    "url": "https://piqmarkets.com/story/adobe-says-us-black-friday-online-sales-reached-13-1-billion"
+   }
+  ],
+  "subindustry": "retail-ecommerce",
+  "summary": "US consumers spent $13.1 billion online on Black Friday, up 11.1% from a year earlier, according to Adobe Analytics, ahead of its forecast of $12.9 billion. That followed a record $7.1 billion on Thanksgiving Day. Adobe expects $47.5 billion of online spending over the five days from Thanksgiving to Cyber Monday, up 7.4%, with Cyber Monday the biggest day at about $15.1 billion. Electronics, gaming, toys, clothing and appliances sold well. Adobe said shoppers stretched budgets by chasing discounts and using AI tools to compare prices.",
+  "tags": []
+ },
+ "2026-11-28-05": {
+  "companies": [
+   "rheinmetall",
+   "deutsche-telekom"
+  ],
+  "date": "2026-11-28",
+  "headline": "Rheinmetall cuts its 2030 sales target to €33-37 billion from about €45 billion after losing a frigate program",
+  "numbers": [
+   "2030 sales target: €33-37B (was ~€45B)",
+   "Margin goal: ~20%",
+   "Naval 2030 target: €3.5-4B (was €5B)",
+   "Romania order: 66 Lynx, ~€738M"
+  ],
+  "order": 5,
+  "sector": "advanced-industries",
+  "soWhat": "Rising defense budgets do not turn into revenue on a straight line: governments must sign contracts, agree prices and approve products, and each step can slip by a year or more. Defense companies valued on bold long-term targets are exposed when that happens, which is why investors cheered a lower but more believable number. Shipbuilding is especially lumpy, since one cancelled program can remove billions. The partnership with Telekom shows defense firms moving into software and data, where civilian buyers such as utilities and grid operators add a second market.",
+  "sources": [
+   {
+    "title": "Euronext (Reuters): Germany's Rheinmetall trims 2030 ambitions after project setbacks",
+    "url": "https://live.euronext.com/en/financial-news/germanys-rheinmetall-trims-2030-ambitions-after-project-setbacks"
+   },
+   {
+    "title": "Nexa: Deutsche Telekom and Rheinmetall build critical infrastructure platform",
+    "url": "https://nexa.news/deutsche-telekom-and-rheinmetall-build-critical-infrastructure-platform"
+   }
+  ],
+  "subindustry": "aerospace-defense",
+  "summary": "Germany's largest defense company lowered its 2030 sales goal to €33-37 billion from about €45 billion at its capital markets day, citing a new level of caution after setbacks this year. The German government cancelled the F126 frigate program, payments for the Arminius Boxer armored vehicle contract were delayed, and ammunition approvals ran into bottlenecks. The naval unit's 2030 target fell to €3.5-4 billion from €5 billion. The margin goal is now 20% instead of over 20%. The shares still rose about 3%, and Rheinmetall won a €738 million order for 66 more Lynx vehicles from Romania. Separately, Deutsche Telekom confirmed it is building an AI platform with Rheinmetall to protect critical infrastructure from drones and sabotage.",
+  "tags": []
+ },
+ "2026-11-28-06": {
+  "companies": [],
+  "date": "2026-11-28",
+  "headline": "S&P cuts France's credit outlook to negative as the economy shrinks 0.2% and the 2027 budget stalls",
+  "numbers": [
+   "Rating: A+, outlook now negative",
+   "2027 deficit forecast: 5.3% of GDP",
+   "Q3 GDP: -0.2%",
+   "November inflation: 2.9%"
+  ],
+  "order": 6,
+  "sector": "macro",
+  "soWhat": "A negative outlook means a downgrade is possible within about two years, and a lower rating can raise the interest rate France pays on its debt. Higher state borrowing costs tend to lift rates for French banks and companies too, since lenders price them off government bonds. That leaves less room for public spending or tax cuts while the economy shrinks. The open question is whether a budget passes before the 2027 presidential election, or whether a stalemate pushes S&P to act.",
+  "sources": [
+   {
+    "title": "Euronews: France's credit outlook cut to negative by S&P",
+    "url": "https://www.euronews.com/2026/11/28/frances-credit-outlook-cut-to-negative-by-sp-economy-minister-calls-it-warning"
+   },
+   {
+    "title": "Xinhua: S&P affirms France's sovereign credit rating, revises outlook to negative",
+    "url": "https://english.news.cn/europe/20261128/f48f54e0f14f48dc906173cd2e0c06bb/c.html"
+   },
+   {
+    "title": "Newsquawk: Daily US opening news, 27 November 2026",
+    "url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---27th-november-2026"
+   }
+  ],
+  "subindustry": "macro",
+  "summary": "S&P Global kept France's credit rating at A+ but cut its outlook to negative from stable, warning that weak growth, higher interest costs and political division make it harder to shrink the deficit. Without further measures S&P expects a deficit of 5.3% of GDP in 2027. The National Assembly rejected the first part of the government's 2027 budget, which has moved to the Senate. Final data showed French GDP fell 0.2% in the third quarter, and inflation slowed to 2.9% in November from 3.4%. Economy minister Roland Lescure called the decision a warning that France needs a budget.",
+  "tags": []
+ },
+ "2026-11-28-07": {
+  "companies": [
+   "sandisk",
+   "micron",
+   "western-digital",
+   "seagate"
+  ],
+  "date": "2026-11-28",
+  "headline": "SanDisk jumps 16% and memory stocks rebound after losing more than half their value in November",
+  "numbers": [
+   "SanDisk: +16% to $85.36",
+   "Drop since June peak: ~75%",
+   "Micron: +7.6%; Seagate: +7.9%",
+   "Micron results: Dec 17"
+  ],
+  "order": 7,
+  "sector": "tmt",
+  "soWhat": "Memory is the most cyclical part of the chip industry: makers expand capacity when prices are high, which later creates a glut and a price crash. The AI boom pushed memory prices and profits to records, so investors are trying to judge how close the next downturn is. A very low price-to-earnings ratio usually means the market expects profits to fall, not that the stock is cheap. Micron's results will be the next test of whether AI demand is still outrunning new supply.",
+  "sources": [
+   {
+    "title": "Motley Fool: Sandisk surges 16% as memory stocks rebound from AI-driven selloff",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-sandisk-surges-16-as-memory-stocks-rebound-from-ai-driven-selloff/"
+   },
+   {
+    "title": "Crypto Briefing: Sandisk surges 16% as memory stocks rebound",
+    "url": "https://cryptobriefing.com/sandisk-surges-memory-stocks-rebound/"
+   }
+  ],
+  "subindustry": "semiconductors",
+  "summary": "Shares of flash memory maker SanDisk rose 16% to $85.36 on Friday, leading a rally in memory and storage stocks. Micron gained 7.6%, Seagate 7.9% and Western Digital 7.2%. SanDisk had fallen more than 50% in November and about 75% from its June peak as investors worried that AI spending would slow after the turmoil at Nvidia. Its revenue rose 378% in the latest quarter, and it traded at only about 5.5 times earnings before the bounce. Micron reports results on December 17.",
+  "tags": []
+ },
+ "2026-11-28-08": {
+  "companies": [
+   "thales",
+   "lumibird"
+  ],
+  "date": "2026-11-28",
+  "headline": "Thales enters exclusive talks to buy control of French laser maker Lumibird at €30.10 a share",
+  "numbers": [
+   "Price: €30.10 a share",
+   "Stake: 51.6%",
+   "Photonics enterprise value: ~€440M",
+   "Multiple: ~23x 2027 EBIT"
+  ],
+  "order": 8,
+  "sector": "advanced-industries",
+  "soWhat": "Defense primes are buying their component suppliers to secure parts that are scarce and hard to source at home, a priority as European governments push for sovereign supply chains. Lasers are also central to new counter-drone and directed-energy weapons, a fast-growing market. Paying 23 times profit is expensive for a small supplier, which shows how much large contractors value control over critical technology. Rival buyers of Lumibird's components could lose access or face a competitor as their supplier.",
+  "sources": [
+   {
+    "title": "Euronext (Reuters): Thales in exclusive talks to buy controlling stake in Lumibird",
+    "url": "https://live.euronext.com/en/financial-news/thales-exclusive-talks-buy-controlling-stake-laser-tech-firm-lumibird"
+   },
+   {
+    "title": "Defensehere: Thales moves to acquire controlling stake in Lumibird",
+    "url": "https://defensehere.com/en/thales-moves-to-acquire-controlling-stake-lumibird/"
+   }
+  ],
+  "subindustry": "aerospace-defense",
+  "summary": "French defense group Thales is in exclusive talks to buy the 51.6% of Lumibird held by its chief executive and founder, at €30.10 a share. The price includes an €11.34 special payout from the planned sale of Lumibird's medical unit to IPG Photonics, and implies an enterprise value of about €440 million for the remaining photonics business, about 23 times expected 2027 operating profit. Thales would then offer the same price for the rest of the shares. Lumibird makes laser rangefinders and target designators used on the Rafale fighter and in counter-drone systems. Its shares jumped about 17%, and the deal should close by mid-2027.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-28-09": {
+  "companies": [
+   "stellantis"
+  ],
+  "date": "2026-11-28",
+  "headline": "Stellantis halts output at three French plants for weeks and cuts about 500 temporary jobs as Chinese rivals gain",
+  "numbers": [
+   "Plants affected: Sochaux, Rennes, Mulhouse",
+   "Temporary jobs cut: ~500",
+   "October EU registrations: -8%",
+   "Market share: 12.8%"
+  ],
+  "order": 9,
+  "sector": "advanced-industries",
+  "soWhat": "Car plants make money only when they run near full capacity, because the costs of the building, machines and staff are mostly fixed. When sales fall, carmakers pause lines to avoid piling up unsold cars, but each idle day pushes up the cost of every car built. Chinese brands are entering Europe with cheaper electric models, while European makers face high energy costs, which squeezes the region's established producers. Stellantis is working with China's Leapmotor and Dongfeng to fill spare capacity, a sign it would rather share plants than close them.",
+  "sources": [
+   {
+    "title": "electrive: More Stellantis plants face production halt in France",
+    "url": "https://electrive.com/2026/11/27/more-stellantis-plants-face-production-halt-in-france"
+   },
+   {
+    "title": "Bloomberg: Stellantis plans further factory pauses in Europe",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/stellantis-to-pause-more-europe-plants-as-chinese-rivals-advance"
+   }
+  ],
+  "subindustry": "automotive-mobility",
+  "summary": "Stellantis will pause production at its Sochaux, Rennes and Mulhouse plants for several days in December and then through the year-end break into January, citing a tough European market, aggressive new competitors and the geopolitical situation. Sochaux, which builds the Peugeot 3008 and 5008, will drop its night shift from January, cutting about 500 temporary jobs. The same three plants already paused for five to 15 days each this autumn. Stellantis' European registrations fell 8% in October to about 145,000 cars, and its market share fell to 12.8%.",
+  "tags": []
+ },
+ "2026-11-28-10": {
+  "companies": [],
+  "date": "2026-11-28",
+  "headline": "Russia extends its jet fuel export ban to March 2027 as Ukrainian drone strikes keep refineries under repair",
+  "numbers": [
+   "Ban runs: Dec 1, 2026 to Mar 31, 2027",
+   "First imposed: June 2026",
+   "Gasoline export curbs expire: January"
+  ],
+  "order": 10,
+  "sector": "energy-materials",
+  "soWhat": "Russia is a big exporter of crude and diesel but not of jet fuel, so the ban matters less for world supply than for what it says about Russian refining. Repeated drone strikes mean Russia is short of its own fuel and must import gasoline, a reversal for a major oil producer. When refineries are damaged, more Russian crude is sold abroad unrefined, while fuel exports fall. That supports refining margins for plants in Asia, Europe and the Middle East that can supply the gap.",
+  "sources": [
+   {
+    "title": "The Moscow Times: Russia extends jet fuel export ban until March 2027",
+    "url": "https://www.themoscowtimes.com/2026/11/27/russia-extends-jet-fuel-export-ban-until-march-2027-a812395"
+   },
+   {
+    "title": "Newsquawk: Daily US opening news, 27 November 2026",
+    "url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---27th-november-2026"
+   }
+  ],
+  "subindustry": "refining-chemicals",
+  "summary": "Russia's government extended its ban on jet fuel exports from December 1 until March 31, 2027. The ban, first imposed in June after Ukrainian drone attacks cut domestic refining output and caused local shortages, had been due to expire on November 30. It exempts intergovernmental deals, humanitarian aid, the military, the Baikonur spaceport and Russian operations on Svalbard. Deputy Prime Minister Alexander Novak said the domestic fuel market remains tense because several large refineries are still being repaired, and that the shortfall is being covered by imports. Officials will decide next month whether to extend gasoline export curbs that expire in January.",
+  "tags": []
+ },
+ "2026-11-28-11": {
+  "companies": [
+   "vertex-pharmaceuticals"
+  ],
+  "date": "2026-11-28",
+  "headline": "Vertex loses about $7.5 billion of market value after the FDA delays its kidney drug decision by up to three months",
+  "numbers": [
+   "New FDA deadline: Feb 28, 2027",
+   "Share drop: -5.25% to $534.52",
+   "Market value lost: ~$7.5B",
+   "Vera Therapeutics: +~17% after hours"
+  ],
+  "order": 11,
+  "sector": "healthcare",
+  "soWhat": "A review extension is not a rejection, but every month of delay pushes back revenue and gives rivals time to sign up doctors and patients. In a new drug class the first products to launch often keep a lasting share, which is why Vera gained as much as Vertex lost. The drug would be Vertex's first in kidney disease, a key step in its plan to grow beyond cystic fibrosis. The open question is what the FDA asked about, and whether it affects the drug's label, for example by requiring blood monitoring.",
+  "sources": [
+   {
+    "title": "Quantisnow: Vertex loses $7.5 billion of market value after FDA extends review",
+    "url": "https://www.quantisnow.com/articles/vertex-falls-5-2-after-fda-delays-povetacicept-decision-by-up-to-three-months"
+   },
+   {
+    "title": "Yahoo Finance (Zacks): VRTX down as FDA extends review timeline for povetacicept BLA",
+    "url": "https://finance.yahoo.com/healthcare/articles/vrtx-down-fda-extends-review-141500196.html"
+   }
+  ],
+  "subindustry": "pharma-biotech",
+  "summary": "The FDA pushed back its decision on Vertex's povetacicept, a drug for the kidney disease IgA nephropathy, from November 30 to no later than February 28, 2027. The agency asked for more information late in the review and classed Vertex's answer as a major amendment that needs more time. Vertex shares fell 5.25% to $534.52 on Friday after dropping as much as 10.9% intraday, erasing about $7.5 billion of value. Shares of rival Vera Therapeutics, whose IgA nephropathy drug is already on the market, rose about 17% after hours. Analysts at JPMorgan and Citi kept positive ratings and said extensions often end in approval.",
+  "tags": []
+ },
+ "2026-11-28-12": {
+  "companies": [
+   "deutsche-boerse",
+   "allfunds"
+  ],
+  "date": "2026-11-28",
+  "headline": "The EU clears Deutsche Börse's €5.35 billion takeover of fund platform Allfunds without conditions",
+  "numbers": [
+   "Deal value: €5.35B",
+   "Review: Phase I, no conditions",
+   "Expected close: Q1 2027"
+  ],
+  "order": 12,
+  "sector": "financial-services",
+  "soWhat": "Exchanges are buying businesses that earn steady fees rather than depending on trading volumes, which swing with markets. Fund distribution platforms earn a small cut each time a fund is sold or held through their network, and that income grows as more savings move into funds. Combining Allfunds with Deutsche Börse's Clearstream fund services builds a large hub between fund managers and distributors, which helps scale but raises fears about fees. The Commission's quick clearance suggests regulators see enough competition in fund distribution in Europe.",
+  "sources": [
+   {
+    "title": "MLQ: EU clears Deutsche Börse's €5.35 billion Allfunds takeover",
+    "url": "https://mlq.ai/news/eu-clears-deutsche-borses-535-billion-allfunds-takeover/"
+   },
+   {
+    "title": "Euronext (Reuters): EU antitrust regulators to decide on Deutsche Boerse Allfunds deal by November 27",
+    "url": "https://live.euronext.com/en/financial-news/eu-antitrust-regulators-decide-deutsche-boerse-allfunds-deal-november-27"
+   }
+  ],
+  "subindustry": "asset-wealth",
+  "summary": "The European Commission approved Deutsche Börse's €5.35 billion purchase of Allfunds, an Amsterdam-listed platform that connects fund managers with banks and wealth managers that sell their funds. After a first-phase review, the Commission found that rivals would stop the combined group from raising fees or shutting out competitors. The deal, announced in January, is Deutsche Börse's largest ever. It still needs other regulatory approvals and an English court sanction, and is expected to close in the first quarter of 2027.",
+  "tags": [
+   "deal"
+  ]
+ },
+ "2026-11-28-13": {
+  "companies": [],
+  "date": "2026-11-28",
+  "headline": "European gas heads for a weekly loss even as oil rises, with EU storage only about 68% full",
+  "numbers": [
+   "TTF: €86.58/MWh, -2.3% on the week",
+   "UK NBP: 213p/therm",
+   "EU storage: ~68% full"
+  ],
+  "order": 13,
+  "sector": "energy-materials",
+  "soWhat": "Gas and oil usually move together during Middle East crises, but this week they split because the attacks hit oil sites rather than LNG plants. Europe now relies on LNG cargoes for much of its gas, so the real risk is any disruption to Qatar's exports through Hormuz. Low storage means Europe has less cushion if a cold snap arrives, which keeps prices high compared with past winters. Energy-intensive industries such as chemicals and fertilizers pay the cost, while LNG exporters such as the US benefit from steady demand.",
+  "sources": [
+   {
+    "title": "Investing.com: Europe gas slides toward weekly loss, diverging from crude as attacks lift oil",
+    "url": "https://ph.investing.com/news/commodities-news/europe-gas-slides-toward-weekly-loss-diverging-from-crude-as-attacks-lift-oil-2723624"
+   },
+   {
+    "title": "Newsquawk: Daily US opening news, 27 November 2026",
+    "url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---27th-november-2026"
+   }
+  ],
+  "subindustry": "midstream-lng",
+  "summary": "Dutch TTF gas futures fell 1.4% to €86.58 per megawatt-hour on Friday, on course for a 2.3% weekly decline, and UK gas fell 2% to 213 pence a therm. Traders pared back risk premiums in thin post-Thanksgiving trading, even though attacks on Saudi refineries pushed Brent crude higher over the week. EU gas storage is only about 68% full heading into winter.",
+  "tags": []
+ },
+ "2026-11-28-14": {
+  "companies": [],
+  "date": "2026-11-28",
+  "headline": "Gold and silver rebound sharply and miners rally, but both metals are still heading for big November losses",
+  "numbers": [
+   "Gold: ~$3,650/oz, +~2.4%",
+   "Silver: ~$43.75/oz, +~5%",
+   "Gold in November: -~7%",
+   "LME copper: ~$12,270/t, +3.5%"
+  ],
+  "order": 14,
+  "sector": "energy-materials",
+  "soWhat": "Gold pays no interest, so when interest rates are expected to rise, holding it becomes less attractive compared with bonds, which is why the Fed outlook weighs on prices. Miners' shares move more than the metal itself, because their costs are largely fixed and a small price change makes a big difference to profit. That leverage works both ways, and costs at gold mines have been rising fast, which squeezes margins when prices fall. Silver swings more than gold because it is also an industrial metal used in solar panels and electronics.",
+  "sources": [
+   {
+    "title": "The National: Oil set to post weekly gain as Middle East attacks stoke supply concerns",
+    "url": "https://www.thenationalnews.com/business/energy/2026/11/27/oil-set-to-post-weekly-gain-as-middle-east-attacks-stoke-supply-concerns/"
+   },
+   {
+    "title": "Investing.com: FTSE 100 today, stocks climb as miners lead on metals rebound",
+    "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-miners-lead-on-metals-rebound-5053108"
+   },
+   {
+    "title": "MLQ: Dow jumps 592 points as the S&P 500 logs its best week since April 2025",
+    "url": "https://mlq.ai/news/dow-jumps-592-points-as-the-sp-500-logs-its-best-week-since-april-2025/"
+   }
+  ],
+  "subindustry": "metals-mining",
+  "summary": "Gold rose about 2.4% to around $3,650 an ounce on Friday, and silver jumped about 5% to near $43.75, as stocks rebounded. Copper on the London Metal Exchange gained 3.5% to about $12,270 a tonne. Mining shares rallied, with Fresnillo, Glencore, Antofagasta, Anglo American and Rio Tinto up between 3% and 4% in London and Newmont up 5.4% in New York. Even so, gold futures were down almost 7% for November and silver more than 12%, as traders bet on a December US rate hike.",
+  "tags": []
+ },
+ "2026-11-28-15": {
+  "companies": [
+   "hdfc-bank"
+  ],
+  "date": "2026-11-28",
+  "headline": "HDFC Bank shares rise about 25% in November, their best month since 2009, as foreign money returns to India",
+  "numbers": [
+   "November share gain: ~24.9%",
+   "Deposit growth: 18.8%",
+   "Loan growth: 16.3%",
+   "Valuation: ~2x book value"
+  ],
+  "order": 15,
+  "sector": "financial-services",
+  "soWhat": "Indian banks had fallen out of favor because loan growth outran deposits, forcing them to pay more for funding and squeezing their margins. With deposits now growing faster than loans, the funding pressure is easing, and margins should recover. Banks are also among the easiest ways for foreign investors to bet on India's growth, so they gain most when foreign money returns. About 70% of HDFC's loans have floating rates, so its interest income moves quickly with policy rates.",
+  "sources": [
+   {
+    "title": "Kotak Neo: HDFC Bank share price rallies nearly 25% in November",
+    "url": "https://www.kotakneo.com/news/stocks/hdfc-bank-regains-indias-second-largest-market-cap-position-in-november-on-strong-fundamentals/"
+   },
+   {
+    "title": "Business Today: HDFC Bank, ICICI Bank, Axis Bank shares surge",
+    "url": "https://www.businesstoday.in/markets/stocks/story/hdfc-bank-icici-bank-axis-bank-shares-surge-banking-index-zooms-18-in-a-month-what-should-investors-do-569340-2026-11-25"
+   }
+  ],
+  "subindustry": "banking",
+  "summary": "Shares of HDFC Bank, India's largest private lender, gained about 24.9% in November, their biggest monthly rise since May 2009, putting it back as India's second-largest listed company ahead of Bharti Airtel. The stock had traded near 2 times book value, close to its lowest valuation in a decade. In the September quarter deposits grew 18.8% and loans 16.3%, and the central bank approved Anup Bagchi as chief executive, ending a leadership gap. Foreign investors put about ₹1.45 lakh crore into Indian shares in November, and management said its interest margin may have hit its low point.",
+  "tags": []
+ },
+ "2026-11-28-16": {
+  "companies": [
+   "entain"
+  ],
+  "date": "2026-11-28",
+  "headline": "Ladbrokes owner Entain agrees a preliminary A$185 million penalty with Australia's money laundering regulator",
+  "numbers": [
+   "Preliminary penalty: A$185M",
+   "Shares: +~5%",
+   "Crown penalty (2023): A$450M",
+   "SkyCity penalty (2024): A$67M"
+  ],
+  "order": 16,
+  "sector": "tmt",
+  "soWhat": "Betting companies handle large flows of cash from many customers, so regulators require them to check where money comes from and report suspicious activity. Failing to do so leads to big fines and, in Australia, a steady stream of court cases against gambling firms. A known penalty is often better for a company's shares than an open-ended case, because investors can price it in. Compliance costs are rising across online gambling, which favors large operators that can spread those costs over more customers.",
+  "sources": [
+   {
+    "title": "Investing.com: FTSE 100 today, stocks climb as miners lead on metals rebound; Entain gains",
+    "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-miners-lead-on-metals-rebound-5053108"
+   },
+   {
+    "title": "AUSTRAC: Enforcement actions taken",
+    "url": "https://www.austrac.gov.au/about-us/record-our-actions/enforcement-actions-taken"
+   }
+  ],
+  "subindustry": "media-entertainment",
+  "summary": "Entain, which owns Ladbrokes and Neds in Australia, agreed a preliminary A$185 million penalty with financial crimes regulator AUSTRAC, subject to its board and court approval. AUSTRAC sued the company in December 2024, alleging serious and systemic failures to follow anti-money laundering rules. Entain's shares rose about 5% in London, as the settlement removes much of the uncertainty over the case. For comparison, casino group Crown was ordered to pay A$450 million in 2023 and SkyCity A$67 million in 2024.",
+  "tags": []
  }
 }

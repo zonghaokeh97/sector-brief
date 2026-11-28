@@ -237,6 +237,23 @@
    "ticker": "TSX: ATD",
    "updated": "2026-11-25"
   },
+  "allfunds": {
+   "businessModel": "Runs a platform that connects fund managers with banks and wealth managers, earning a small fee on the assets distributed through it.",
+   "competitors": [
+    "Clearstream Fund Centre",
+    "MFEX (Euroclear)",
+    "Fundsettle",
+    "Inversis",
+    "Pershing"
+   ],
+   "hq": "Madrid, Spain",
+   "name": "Allfunds",
+   "sector": "financial-services",
+   "size": "Net revenue ~€600M (approx., 2024)",
+   "subindustry": "asset-wealth",
+   "ticker": "Euronext Amsterdam: ALLFG",
+   "updated": "2026-11-28"
+  },
   "allianz": {
    "businessModel": "Earns premiums from property-casualty and life/health insurance worldwide and invests them, plus fees from its asset managers PIMCO and Allianz Global Investors.",
    "competitors": [
@@ -1815,6 +1832,23 @@
    "ticker": "XETRA: DBK; NYSE: DB",
    "updated": "2026-11-17"
   },
+  "deutsche-boerse": {
+   "businessModel": "Runs exchanges, clearing houses and the Clearstream settlement and custody business, earning fees on trading, clearing, custody, data and fund services.",
+   "competitors": [
+    "LSEG",
+    "Euronext",
+    "Intercontinental Exchange",
+    "CME Group",
+    "SIX Group"
+   ],
+   "hq": "Eschborn, Germany",
+   "name": "Deutsche Börse",
+   "sector": "financial-services",
+   "size": "Net revenue ~€5.8B (approx., 2024)",
+   "subindustry": "asset-wealth",
+   "ticker": "XETRA: DB1",
+   "updated": "2026-11-28"
+  },
   "deutsche-telekom": {
    "businessModel": "Sells mobile and fixed-line phone, broadband and TV subscriptions in Germany, Europe and (through T-Mobile US) the United States, earning recurring monthly fees on networks it builds.",
    "competitors": [
@@ -2099,6 +2133,23 @@
    "subindustry": "insurance",
    "ticker": "Private (Sixth Street, since 2025; approx.)",
    "updated": "2026-10-29"
+  },
+  "entain": {
+   "businessModel": "Runs online and retail sports betting and gaming brands such as Ladbrokes, Coral and Neds, and co-owns BetMGM in the US, earning the margin between bets taken and winnings paid.",
+   "competitors": [
+    "Flutter Entertainment",
+    "DraftKings",
+    "Evoke",
+    "Tabcorp",
+    "Bet365"
+   ],
+   "hq": "London, UK",
+   "name": "Entain",
+   "sector": "tmt",
+   "size": "Revenue ~£5.2B (approx., 2024)",
+   "subindustry": "media-entertainment",
+   "ticker": "LSE: ENT",
+   "updated": "2026-11-28"
   },
   "eqt": {
    "businessModel": "Raises funds from pension plans and other investors, buys companies and infrastructure assets, and earns management fees plus a share of profits when assets are sold.",
@@ -2655,6 +2706,23 @@
    "subindustry": "transport-logistics",
    "ticker": "XETRA: HLAG",
    "updated": "2026-11-13"
+  },
+  "hdfc-bank": {
+   "businessModel": "India's largest private bank, earning net interest income on retail, business and mortgage loans funded by deposits, plus fees from cards and wealth products.",
+   "competitors": [
+    "ICICI Bank",
+    "State Bank of India",
+    "Axis Bank",
+    "Kotak Mahindra Bank",
+    "Bajaj Finance"
+   ],
+   "hq": "Mumbai, India",
+   "name": "HDFC Bank",
+   "sector": "financial-services",
+   "size": "Total assets ~$440B (approx., 2025)",
+   "subindustry": "banking",
+   "ticker": "NSE: HDFCBANK; NYSE: HDB",
+   "updated": "2026-11-28"
   },
   "hewlett-packard-enterprise": {
    "businessModel": "Sells servers (including AI systems), networking equipment and storage to companies, governments and cloud providers, plus related services and subscription software.",
@@ -3439,6 +3507,23 @@
    "subindustry": "semiconductors",
    "ticker": "NASDAQ: LITE",
    "updated": "2026-11-02"
+  },
+  "lumibird": {
+   "businessModel": "Designs and makes lasers and photonics components, including rangefinders and target designators for defense customers; its medical unit is being sold to IPG Photonics.",
+   "competitors": [
+    "IPG Photonics",
+    "Coherent",
+    "Trumpf",
+    "Leonardo DRS",
+    "Hensoldt"
+   ],
+   "hq": "Lannion, France",
+   "name": "Lumibird",
+   "sector": "advanced-industries",
+   "size": "Revenue ~€200M (approx., 2024)",
+   "subindustry": "aerospace-defense",
+   "ticker": "Euronext Paris: LBIRD",
+   "updated": "2026-11-28"
   },
   "m1": {
    "businessModel": "Singapore's third-largest mobile operator, earning monthly mobile and fiber broadband subscriptions and enterprise connectivity fees.",
@@ -4626,6 +4711,23 @@
    "ticker": "NYSE: QSR",
    "updated": "2026-11-01"
   },
+  "rheinmetall": {
+   "businessModel": "Makes ammunition, armored vehicles, air defense systems and, since 2025, warships, selling mainly to European and NATO governments under multi-year contracts.",
+   "competitors": [
+    "BAE Systems",
+    "KNDS",
+    "Leonardo",
+    "General Dynamics",
+    "Thales"
+   ],
+   "hq": "Düsseldorf, Germany",
+   "name": "Rheinmetall",
+   "sector": "advanced-industries",
+   "size": "Revenue ~€9.8B (approx., 2024)",
+   "subindustry": "aerospace-defense",
+   "ticker": "XETRA: RHM",
+   "updated": "2026-11-28"
+  },
   "richemont": {
    "businessModel": "Designs and sells luxury jewellery, watches and fashion through brands such as Cartier, Van Cleef & Arpels and IWC, mostly through its own boutiques. Jewellery brings in about three quarters of sales.",
    "competitors": [
@@ -4898,6 +5000,23 @@
    "subindustry": "internet-platforms",
    "ticker": "NYSE: SE",
    "updated": "2026-11-11"
+  },
+  "seagate": {
+   "businessModel": "Designs and makes hard disk drives and storage systems, selling mostly high-capacity drives to cloud and data center operators.",
+   "competitors": [
+    "Western Digital",
+    "Toshiba",
+    "SanDisk",
+    "Samsung Electronics",
+    "Micron"
+   ],
+   "hq": "Dublin, Ireland",
+   "name": "Seagate Technology",
+   "sector": "tmt",
+   "size": "Revenue ~$6.6B (approx., fiscal 2024)",
+   "subindustry": "semiconductors",
+   "ticker": "NASDAQ: STX",
+   "updated": "2026-11-28"
   },
   "servicenow": {
    "businessModel": "Sells subscription workflow software that automates IT, HR and customer service tasks for large companies, with multi-year contracts.",
@@ -5588,6 +5707,23 @@
    "ticker": "NYSE: TPL",
    "updated": "2026-11-23"
   },
+  "thales": {
+   "businessModel": "Sells defense electronics, avionics, space systems and cybersecurity to governments and aircraft makers, mostly under long-term contracts.",
+   "competitors": [
+    "Leonardo",
+    "BAE Systems",
+    "L3Harris",
+    "RTX",
+    "Safran"
+   ],
+   "hq": "Meudon, France",
+   "name": "Thales",
+   "sector": "advanced-industries",
+   "size": "Revenue ~€20.6B (approx., 2024)",
+   "subindustry": "aerospace-defense",
+   "ticker": "Euronext Paris: HO",
+   "updated": "2026-11-28"
+  },
   "thermo-fisher": {
    "businessModel": "Sells lab instruments, reagents and consumables, diagnostics, and contract development and manufacturing services to drugmakers, biotech firms, hospitals and universities. Repeat consumables and services give it steady revenue.",
    "competitors": [
@@ -6024,6 +6160,23 @@
    "subindustry": "telecom",
    "ticker": "NYSE: VZ",
    "updated": "2026-10-26"
+  },
+  "vertex-pharmaceuticals": {
+   "businessModel": "Develops and sells medicines, earning most of its revenue from patented cystic fibrosis drugs, and is expanding into pain, kidney disease and gene-edited therapies.",
+   "competitors": [
+    "Vera Therapeutics",
+    "Novartis",
+    "AbbVie",
+    "Gilead",
+    "Travere Therapeutics"
+   ],
+   "hq": "Boston, US",
+   "name": "Vertex Pharmaceuticals",
+   "sector": "healthcare",
+   "size": "Revenue ~$13.2B (2026 guidance)",
+   "subindustry": "pharma-biotech",
+   "ticker": "NASDAQ: VRTX",
+   "updated": "2026-11-28"
   },
   "vertiv": {
    "businessModel": "Sells power, cooling and monitoring equipment and services for data centers, earning from product sales and recurring service contracts.",

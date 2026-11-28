@@ -7060,5 +7060,252 @@
     "subindustry": "cpg"
    }
   ]
+ },
+ "2026-11-28": {
+  "date": "2026-11-28",
+  "extra": [
+   {
+    "answer": 0,
+    "explanation": "Lumibird makes rangefinders and target designators used on the Rafale and in counter-drone systems. Owning it secures sovereign supply of critical parts. The medical unit is being sold to IPG Photonics, not kept.",
+    "id": "2026-11-28:x01",
+    "kind": "today",
+    "options": [
+     "To secure scarce, critical components such as lasers for counter-drone weapons",
+     "Because laser makers have no competitors anywhere in the world",
+     "To gain access to Lumibird's medical customers",
+     "Because the deal is paid for by the French government"
+    ],
+    "prompt": "Thales is paying about 23 times expected operating profit for Lumibird's laser business. Why would a defense prime pay that much for a small supplier?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-28-08",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 1,
+    "explanation": "Buildings, machines and staff cost roughly the same whether a line runs or not, so profits depend on running near capacity. Stellantis' October registrations fell 8% and it is cutting about 500 temporary jobs at Sochaux.",
+    "id": "2026-11-28:x02",
+    "kind": "today",
+    "options": [
+     "Workers must be paid double during pauses by law",
+     "Most plant costs are fixed, so fewer cars means a higher cost per car",
+     "Idle plants must return government subsidies",
+     "Paused plants lose their safety certificates"
+    ],
+    "prompt": "Stellantis is pausing three French plants for weeks. Why does idling a car plant hurt profit so much?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-28-09",
+    "subindustry": "automotive-mobility"
+   },
+   {
+    "answer": 2,
+    "explanation": "The delay is not a rejection, but in a new drug class early launches often keep lasting share. Vertex lost about $7.5 billion of value while Vera, whose drug is already marketed, gained.",
+    "id": "2026-11-28:x03",
+    "kind": "today",
+    "options": [
+     "Vera will now be allowed to sell Vertex's drug",
+     "The FDA rejected Vertex's drug outright",
+     "Vera's drug is already on the market and gets more time to win patients first",
+     "Vera receives a share of Vertex's lost revenue"
+    ],
+    "prompt": "After the FDA delayed Vertex's kidney drug by up to three months, rival Vera Therapeutics rose about 17%. Why?",
+    "sector": "healthcare",
+    "storyId": "2026-11-28-11",
+    "subindustry": "pharma-biotech"
+   },
+   {
+    "answer": 3,
+    "explanation": "This week's strikes hit Saudi refineries, which affects oil, not gas supply. EU storage is only about 68% full, so any hit to Qatar's LNG exports through Hormuz could quickly reverse the move.",
+    "id": "2026-11-28:x04",
+    "kind": "today",
+    "options": [
+     "Gas contracts are priced in euros and oil in dollars",
+     "Europe stopped importing LNG this week",
+     "Gas storage in Europe was completely full",
+     "The attacks hit oil refineries rather than LNG plants or shipping routes"
+    ],
+    "prompt": "European gas fell about 2.3% on the week while Brent rose more than 3%. Why did the two split?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-28-13",
+    "subindustry": "midstream-lng"
+   },
+   {
+    "answer": 0,
+    "explanation": "Holding gold costs the interest an investor could earn elsewhere, so higher expected rates reduce its appeal. Miners' shares swing even more than the metal because their costs are largely fixed.",
+    "id": "2026-11-28:x05",
+    "kind": "today",
+    "options": [
+     "Gold pays no interest, so it looks less attractive next to higher-yielding bonds",
+     "Central banks are required to sell gold when rates rise",
+     "Higher rates make gold mines close immediately",
+     "Rate hikes cut the amount of gold in jewelry"
+    ],
+    "prompt": "Gold fell about 7% in November as traders bet on a US rate hike. Why do rising rates weigh on gold?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-28-14",
+    "subindustry": "metals-mining"
+   }
+  ],
+  "questions": [
+   {
+    "answer": 2,
+    "explanation": "OPEC supports prices by getting members to restrict output, so every member that leaves can produce without a quota. Four members have quit since 2019, including the UAE this year, leaving 11. OPEC does not set prices by vote or own shared reserves.",
+    "id": "2026-11-28:q01",
+    "kind": "today",
+    "options": [
+     "OPEC sets prices by vote, and fewer voters slow decisions",
+     "Exiting members must sell their oil to the remaining members",
+     "Its power depends on members holding back barrels, and leavers can pump freely",
+     "Leavers take OPEC's shared oil reserves with them"
+    ],
+    "prompt": "Reports say the US urged Venezuela and Iraq to consider leaving OPEC. Why would more exits weaken the group?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-28-01",
+    "subindustry": "oil-gas-upstream"
+   },
+   {
+    "answer": 0,
+    "explanation": "Electronics profits roughly doubled on AI demand, and metals miners and smelters also gained. Meanwhile auto profits fell 26%, cement and glass about 47%, and power suppliers 18% as fuel costs rose.",
+    "id": "2026-11-28:q02",
+    "kind": "today",
+    "options": [
+     "It is narrow, driven by AI hardware and commodities while cars and cement shrink",
+     "It is broad, with every major industry growing profits",
+     "It is led by consumers spending more on cars and homes",
+     "It reflects lower energy costs helping power suppliers"
+    ],
+    "prompt": "China's industrial profits rose 16% in January-October, and electronics alone added 9.7 points of that. What does this say about the recovery?",
+    "sector": "macro",
+    "storyId": "2026-11-28-03",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 3,
+    "explanation": "Discount-led growth lifts sales but cuts margins, and AI price tools make it easier to find the lowest price. Large low-cost sellers can absorb that, while smaller stores lose share. Payment and delivery firms earn more on higher volumes.",
+    "id": "2026-11-28:q03",
+    "kind": "today",
+    "options": [
+     "Large online sellers with low costs",
+     "Payment networks that earn a fee on each purchase",
+     "Delivery companies handling more parcels",
+     "Smaller retailers that cannot match the discounts"
+    ],
+    "prompt": "US Black Friday online sales rose 11.1% to $13.1 billion, helped by deep discounts. Who is most likely to be squeezed by this kind of growth?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-28-04",
+    "subindustry": "retail-ecommerce"
+   },
+   {
+    "answer": 1,
+    "explanation": "After the F126 frigate cancellation and delayed Boxer payments, a lower but credible target reassured investors. The margin goal actually eased to 20% from over 20%, and defense budgets are rising, not falling.",
+    "id": "2026-11-28:q04",
+    "kind": "today",
+    "options": [
+     "The company announced a large share buyback at the same time",
+     "Investors found the lower target more believable after contract delays",
+     "European defense budgets were cut, which removed uncertainty",
+     "The company raised its margin goal well above 20%"
+    ],
+    "prompt": "Rheinmetall cut its 2030 sales target to €33-37 billion from about €45 billion, yet its shares rose about 3%. What best explains the reaction?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-28-05",
+    "subindustry": "aerospace-defense"
+   },
+   {
+    "answer": 0,
+    "explanation": "Memory is highly cyclical: high prices bring new capacity, then a glut and falling prices. A very low price-to-earnings ratio means investors expect today's record profits to shrink, not that the shares are a bargain.",
+    "id": "2026-11-28:q05",
+    "kind": "today",
+    "options": [
+     "The market expects its profits to fall as the memory cycle turns",
+     "The company has guaranteed long-term contracts at fixed prices",
+     "Memory makers are exempt from cyclical swings",
+     "The stock is certain to rise because it is cheap"
+    ],
+    "prompt": "SanDisk traded at only about 5.5 times earnings after falling about 75% from its June peak. What does such a low ratio usually signal for a memory maker?",
+    "sector": "tmt",
+    "storyId": "2026-11-28-07",
+    "subindustry": "semiconductors"
+   },
+   {
+    "answer": 2,
+    "explanation": "A lower rating usually raises the rate a government pays, and lenders price French banks and companies off government bonds. S&P sees a 5.3% deficit in 2027 without new measures, and GDP fell 0.2% in the third quarter.",
+    "id": "2026-11-28:q06",
+    "kind": "today",
+    "options": [
+     "French companies would pay lower taxes",
+     "The euro would be replaced as France's currency",
+     "Borrowing costs rise for the state, and often for French banks and companies too",
+     "The European Central Bank would have to buy all French debt"
+    ],
+    "prompt": "S&P cut France's outlook to negative while keeping an A+ rating. What is the main business effect if a downgrade follows?",
+    "sector": "macro",
+    "storyId": "2026-11-28-06",
+    "subindustry": "macro"
+   },
+   {
+    "answer": 1,
+    "explanation": "Petrobras says securing the pipeline first put it in a stronger position to enter production on better terms, and owning both improves transport efficiency. Ethanol competes with the gasoline Petrobras refines, so the chain gives it a hedge as Neomille grows toward ~1.5 billion liters a year.",
+    "id": "2026-11-24:q05",
+    "kind": "review",
+    "options": [
+     "A legal monopoly on all ethanol sales in Brazil",
+     "Control of transport plus a share of production, so it can capture margin along the chain and move fuel more cheaply",
+     "An exemption from Brazil's ethanol blending rules",
+     "Guaranteed export contracts to the United States"
+    ],
+    "prompt": "Petrobras bought the Logum ethanol pipeline before taking 42% of producer Neomille. What does owning both steps give it?",
+    "sector": "energy-materials",
+    "storyId": "2026-11-24-08",
+    "subindustry": "refining-chemicals"
+   },
+   {
+    "answer": 3,
+    "explanation": "Big machines are bought when farmers earn well and can borrow cheaply. Deere expects US and Canadian large-ag demand to rise 5-15% in 2027, but higher interest rates could slow that recovery.",
+    "id": "2026-11-25:q06",
+    "kind": "review",
+    "options": [
+     "The price of steel used in the factories",
+     "Exchange rates in Asia",
+     "The number of dealers it owns",
+     "Farm incomes and the cost of financing new machines"
+    ],
+    "prompt": "A farm-equipment maker's large tractor and combine sales fell 15% in a quarter. Which factor matters most for whether those sales recover next year?",
+    "sector": "advanced-industries",
+    "storyId": "2026-11-25-06",
+    "subindustry": "industrial-machinery"
+   },
+   {
+    "answer": 2,
+    "explanation": "Flights earn thin margins but attract customers who add hotels and car rentals, where agencies earn more. Kiwi also feeds Expedia's B2B business, which grew 23% to $1.71 billion last quarter; the deal still faces EU review.",
+    "id": "2026-11-26:q05",
+    "kind": "review",
+    "options": [
+     "Flights earn the highest commission of any travel product",
+     "Airlines pay agencies to take over their customer service",
+     "Flights bring in travelers who then book higher-margin hotels and cars",
+     "Selling flights lets agencies avoid European competition review"
+    ],
+    "prompt": "Expedia is buying Kiwi.com, whose main asset is technology that combines flights from airlines with no agreement with each other. Why would an online travel agency want more flight sales?",
+    "sector": "consumer-retail",
+    "storyId": "2026-11-26-07",
+    "subindustry": "travel-hospitality"
+   },
+   {
+    "answer": 3,
+    "explanation": "The aerospace and defense profile notes that the best profits come from spare parts and repair over decades of use, not from the new product. Defense primes, by contrast, earn steady but capped margins of about 10% on government contracts.",
+    "id": "2026-11-28:q10",
+    "kind": "profile",
+    "options": [
+     "Government subsidies paid for each unit delivered",
+     "Financing interest charged to airlines",
+     "Selling the certification rights to rivals",
+     "Decades of spare parts and repair services on the installed fleet"
+    ],
+    "prompt": "In aerospace, engine and systems makers often sell new equipment near cost. Where do they earn most of their profit?",
+    "sector": "advanced-industries",
+    "storyId": null,
+    "subindustry": "aerospace-defense"
+   }
+  ]
  }
 }
